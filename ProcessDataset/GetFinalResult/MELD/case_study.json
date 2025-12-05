@@ -1,0 +1,3767 @@
+[
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou…are…not going to believe it! joshua came into work today, and guess what happened?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, my god, i'm so sorry. are you ok?\nassistant\n",
+    "predict": "ap",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\non the other hand in um, in about seven months you're gonna have something that you're gonna love more than any guy you've ever gone out with.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, umm that's whitney , kyle's ex-wife out there, now do you think that you can y'know divert her so that we can slip out?\nassistant\n",
+    "predict": "q",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand then you said,  why do they call it a check?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "b",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, unfortunately, i don't get many callbacks so\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, look i'm sorry, i went in there to take a nap and i know i shouldn't have, but you got porn!\nassistant\n",
+    "predict": "ap",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngood morning.  drake, it's your brother stryker. can you hear me?\nassistant\n",
+    "predict": "q",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni should just go on to happier things, okay? umm, why don't you tell about your lovely wedding?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah! no that's what i was thinking.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n-leg?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know i mean it was really exciting at first but now it's like, okay, so where are we gonna eat ever?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni wonder how long that milk  has been setting out.\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni eat by myself in the alley because everybody hates me.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "ans",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwater rules!\nassistant\n",
+    "predict": "o",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, she walked in when i was looking at the ring brochures. you can understand that, right?  guys? guys?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's just y'know, been a couple of hours, and she hasn't called. not that i even care, y'know.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know how people just click?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbye-bye!  that's why i moved out.\nassistant\n",
+    "predict": "g",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsay good-bye to sore muscles!\nassistant\n",
+    "predict": "g",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, ross is great.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm chandler's new roommate.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfour, please.  i'm really nervous.  thank you.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh i, i have plans tonight.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut-but, liam's on my team.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm an actor right?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know?\nassistant\n",
+    "predict": "oth",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhere you go.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwho cares, we'll eat at the sink! come on, let's play!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know how much i love listening to your music, you know,    but...\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh no!you guys aren't supposed to get divorced for 7 years!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook at that guy for example, i mean normally that's not someone i would-would be attracted to, but right now, with the way i'm feeling, all i want to do is rip off his sweatpants and fanny pack.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohh, ohh.\nassistant\n",
+    "predict": "b",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\naaron! you gotta let me go. the guy's hammered!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't need you guys to care about me!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnobody!\nassistant\n",
+    "predict": "ans",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno-no-no. i don't have a son named jordie. we all agreed, my son's name is jamie.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhi, um, i'm account number 7143457.\nassistant\n",
+    "predict": "g",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey!\nassistant\n",
+    "predict": "g",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'll always remember that summer, because it's when i got all of these freckles.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nross! excuse me, pardon me, excuse me....\nassistant\n",
+    "predict": "ap",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet me see that!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nheads up ross!  score!  you suck!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno we weren't!\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsee i-i wrote a book up there and instead of reading it people are-are-are well, rolling around in front of it.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i took larry there to eat but it was all violated. so we shut it down!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's unbelievable! i-i can't believe that sign didn't work!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure, you coulda. you never know.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut, we are.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso… we go eat.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohh, so cute.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso, see ya on saturday.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwould you tell her i let you win please?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncomin' through. move, move.\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat's going on?!  that's what's going on!!\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh that's not important. the point is, i really—i think everything's gonna be okay.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook, look at your man, ewing. nice shot. you know what, he couldn't hit water if he was standing on a boat.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, i wasn't the only one who looked like an idiot.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nback on in 30 seconds people!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni think you've made such a nice home for her over the last nine months that she just doesn't want to leave.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know? forget it!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh hey, great, you're up. rachel, this is my sister krista. krista, this is rachel.\nassistant\n",
+    "predict": "g",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndo you ah, want to get her something speacial, get her flowers, get her candy, get her gum, girls love gum.\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's my job!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat the hell!\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, that really calms me down.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey've arrested monica.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n: no! you're clogging up the chute that i spent a half-hour unclogging!\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou don't even know me...\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, i admit it!\nassistant\n",
+    "predict": "s",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, it's your thanksgiving too, y'know, instead of watching football, you could help.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's a good one.\nassistant\n",
+    "predict": "o",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, isn't that a cool name?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand it came out,  squatternut buash?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, buddy, what's up!\nassistant\n",
+    "predict": "q",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh that's right. it's your first day! so are you psyched to fight fake crime with your robot sidekick?\nassistant\n",
+    "predict": "q",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhuh, well, the girls in the satin nighties on the commercial don't seem to think it's that bad.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nkitten?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot in my head.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsorry, i just don't like the idea of when i say  i do,  he's thinking,  yeah, i'd do her too!\nassistant\n",
+    "predict": "ap",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, no, i'm fairly intuitive and psychic. it's a substantial gift.\nassistant\n",
+    "predict": "ans",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey buddy, this is a family place, put the mouse back in the house.\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnobody wants to do it? all right, i'll do it myself.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh. look at you making up crap for me. oh god!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you. thank you so much!\nassistant\n",
+    "predict": "a",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't believe this! when someone asks you in for lemonade, and to you that means they wanna have sex?\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is the only dessert and if i screw it up everybody's gonna be like  oh, remember that thanksgiving when rachel screwed up the trifle?\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlisten, we're a little bit in a hurry, so, if you can get us a table a little quicker, i'd appreciate it.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, they're just gonna have to wait aren't they? i've only got two hands!!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmorning's here! sunshine is here! the sky is clear, the morning's here! the morning's here!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, you're early.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npbs telethon.\nassistant\n",
+    "predict": "ans",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know, hey! you're the one who ended it, remember?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nrelax. you're only at nine centimeters. and the baby's at zero station.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfine, you want to get the birds, get the birds!\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfine!\nassistant\n",
+    "predict": "ag",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook both ways before you cross the street.\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni did.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, y'know i'm wearing layers and it's warm.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntell him that you're sorry and that you love him.\nassistant\n",
+    "predict": "ap",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay now, before i make my final decision i uh, i just want to make sure our personalities match.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni tired attacking two women, did not work.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, great. although i did sit down where there wasn't a chair.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nof course i do! and i'm gonna give it back to you as soon as they're done with it at the key shining place.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'd love it too. shoot, i gotta go. so, i'll talk to you later.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni might have some kind of life, like i haven't been sitting around here honing for the past few hours.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nplease? please?! we just don't want to deal with telling everyone, okay? just promise you won't tell.\nassistant\n",
+    "predict": "q",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno! i would never do that! you-you're like my brother!\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni bet you're a gemini.\nassistant\n",
+    "predict": "o",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah that's actually a pretty good idea.\nassistant\n",
+    "predict": "o",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndavid is going to propose to phoebe.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni thought i would, but the translation's no good.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni need to talk to you, it's pretty urgent. it's about monica and chandler.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni think that a person should know where they come from.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno. umm, okay. but while you dial, let me show you the features of my new ringing handbag.  oh, it does work!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhow ya doin'? welcome. good to see ya!\nassistant\n",
+    "predict": "q",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's right, i don't... but i was, i was drunk on you!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nor not.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no, that-that, that's all right. umm, i'm just glad you called.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut that's okay, no problem.\nassistant\n",
+    "predict": "o",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbob!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlisten ross, you don't have to apologize. i understand why you were there.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, well i tell issac everything.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe picture of my wife! in your pack!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n'cos i was gonna say there's no way you could've done the end the way you guys did it back then!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, look, why don't you just, why don't you do your phase two strip club thing with us.\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok. oh boy. you are doin' so good. you wanna squeeze my hand?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncome on, they were not that huge.\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow, i'm gonna say a word and then you say the first thing that comes to mind.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwow!\nassistant\n",
+    "predict": "b",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou can't marry him!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncheck this out. five hundred and seventeen boxes!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right fine! if it means that much to you! but just—there's gonna be a ton left over.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou can't do that!\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i know! i get it! it's funny!\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsparkly.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey! how you doing?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso uh, hey, that uh, that wedding ring, huh? man, that's nice!\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm the ruptured spleen.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfine. you'll-you'll watch it on video when we get back.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbreathe, breathe, breathe.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou mean the—okay by siadic, you mean the towel covered portion.\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy don't we do a trial run.\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno!\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh great!  wow! yeah, it's comfortable.\nassistant\n",
+    "predict": "ag",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni…i am brave!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\numm pheebs, remember when we were in the coffee house we decided that i was going to keep the uh, the cute guy's cell phone?\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso i'm asking you please, take a moment before you judge me.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit-it's probably just temporary. we're hoping to get some more money soon, so if could just uh, hang out.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, oh,  your mom probably won't kill herself,  y'know?\nassistant\n",
+    "predict": "o",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay. just give us a second. ross!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhoney, relax. ross is great with him.  don't look so surprised. i'm a lovely person.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni can't believe phoebe's gonna have her babies!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni just, i wanted to thank you for our uh, our little talk before.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut i couldn't.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you so much.\nassistant\n",
+    "predict": "a",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nright?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, it's worse than that.\nassistant\n",
+    "predict": "dag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe can hold a banana, if that's whatcha mean...\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand they knew about it?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "ans",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally?! well, it's just like everyone else's apartment. it's got rooms, walls, and ceilings.\nassistant\n",
+    "predict": "ans",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know, i, i really don't think we need a canoe.\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes! way to go, man!  still got the egg, huh?\nassistant\n",
+    "predict": "q",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know i'm-i'm really glad we decided not to sleep together before the wedding.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's too late!\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, is everybody clear? we're gonna pick it up…and move it. now all we need is teamwork, okay? we're gonna\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni was uh, i was thinking i might want to pick one of those babies up for myself, i might want to get one of those\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, that's great.\nassistant\n",
+    "predict": "ap",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshe'd-she'd love this.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwow, oh, it looks like ross is breaking up with her.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know.\nassistant\n",
+    "predict": "ag",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes it has! i made cookies!\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, rachel, you wanna put the marshmellows in concentric circles.\nassistant\n",
+    "predict": "o",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it's his, uh, innate alan-ness that-that-that we adore.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you.\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh my god!\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni cannot believe that i just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time!\nassistant\n",
+    "predict": "s",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand a small piece of chocolate.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're gonna love me so much. i got sting tickets!!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, because i was\nassistant\n",
+    "predict": "ans",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, so it turns out that it wasn't the hair straightener that started the fire.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nknowing i'll never hold you in my arms again,    or touch your skin, or feel your lips, knowing i'll never make love to you?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncome on! speech!\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot like that, i won't!  kip would have liked the birds!\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right fine! this looks like so much fun.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok, gentlemen!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsperm.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know where i work!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, guys, you know what larry would say? he would say,  see you ladle.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno! i do not care what my hormones are doing, i am not going to just do it with some random guy!\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit doesn't matter who knows what.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh god\nassistant\n",
+    "predict": "oth",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.  every time.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndefinitely!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is kind of a classy place.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, let's go to a bad one and make out.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngood, good, i'm a lawyer now.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh no. could i get anyone a coffee or…poison? no? just for me? okay.\nassistant\n",
+    "predict": "ans",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\none pregnant woman at a time, please! i just want you to be okay.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i think it's very brave what you said.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni haven't... i haven't even thought about the results yet...    i just assumed that everything was gonna be ok.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand i'm happy for ya, but i'm tired of having a relationship with your answering machine!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm smarter than\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni was really nervous and the accent just uh, just came out.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, belt's to tight, gotta change the belt.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey! i did not dump rachel!  nor are we still together.  can i just…  why don't we just let the machine get that?\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey're gonna call her chandler.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\numm, okay, okay, look.\nassistant\n",
+    "predict": "c",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhich puts\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nabsolutely.  you can relax\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know what i mean, about how i'm always going out with all these women.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah!\nassistant\n",
+    "predict": "ans",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nrachel, things can get incredibly complicated.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntell me about it!\nassistant\n",
+    "predict": "q",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat thing was a hazard!  i'm very safety conscious.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, okay, fine, use my happy place.\nassistant\n",
+    "predict": "ag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it's in the guys' apartment under the sink. why?\nassistant\n",
+    "predict": "ans",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand, i don't know, if it starts to rain\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nof course, sir.\nassistant\n",
+    "predict": "ans",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, we're scientists, right?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni am strong! i'll show you!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso i though about what you said and i though about what he said and, well, his way i get to have sex tonight so.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhmm, noodle soup.\nassistant\n",
+    "predict": "oth",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, fine, i will bring you a tape, huh?\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know it's a little sudden, and it's a little rushed, and it's totally not like me to do something like this, but that doesn't mean i can't.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyep, we shook on it. yeah but believe me that is not how he wanted to seal the deal.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i know...\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni feel...\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, good-good for you.\nassistant\n",
+    "predict": "ag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou guys need anything, 'cause i'm heading up there.\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally? okay, so\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "ans",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell ah, ........y'know.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know, i'm beginning to see what jake was talking about.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, y'know what? we really are late! let's go! let's go! let's go!!\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh my god, honey we are so meant to be together. we both have copies of the\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhow would that go?  well, it didn't rhyme, but i liked it.\nassistant\n",
+    "predict": "ans",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnah, it's okay. right, gunther?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\numm, why don't you give\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhello! were we at the same table? it's like... cocktails in appalachia.\nassistant\n",
+    "predict": "q",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, right!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm never gonna get to sleep with anyone else!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay. let's move on.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou can have your own office, and a raise! effective tomorrow.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou must be ben's mum.\nassistant\n",
+    "predict": "o",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know that switch does something, okay?\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nehh, y'know after high school, you just kinda lose touch. oh yeah! i ran into richard dorfman.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nawesome!\nassistant\n",
+    "predict": "ag",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nross, ten o'clock.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif he goes first he can!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni was just trying to bring a little culture to the group.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhi! i'm dr. drake remoray and i have a few routine questions i need to ask you.\nassistant\n",
+    "predict": "g",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it kinda grows on you.  actually, i wanted to finish talking to you about uh, spring vacation.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's funny, yeah!\nassistant\n",
+    "predict": "o",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i have just to have two more points to beat him!\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwow! nice! manly and also kind of a slut.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, listen.\nassistant\n",
+    "predict": "c",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand if not, we got to do it on a bucket.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, it's just not the right time.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnice! wow phoebe you are good!\nassistant\n",
+    "predict": "ap",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, no, no. i just meant hypothetically.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, oh, mark, i'm doing this for the wrong reasons, y'know?\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, absolutely. uh, how 'bout tomorrow afternoon? do you know uh, central perk in the village, say, five-ish?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni just, i feel, i-i just...\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nooh!\nassistant\n",
+    "predict": "b",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno problem.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh you're awesome! and, in that last speech? you soaked me.\nassistant\n",
+    "predict": "o",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe's right, even if it's to say something complementary.\nassistant\n",
+    "predict": "o",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh sweetie, maybe you'd be more comfortable here?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, see now i feel bad for the kid!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, okay, at ease solider!\nassistant\n",
+    "predict": "oth",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmonica!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no, it's just my tooth.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right.\nassistant\n",
+    "predict": "s",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell that's a little crazy. although i am y'know glad to hear that you're branching out on what you look at on the internet.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean doesn't she have any y'know other stripper moms friends of her own?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok, no, no, you hang up. you, you, y—\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, either that or uh\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell it's not flexed right now!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, well, don't  aww pheebs, that sucks!  me yet.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh.  thank you.\nassistant\n",
+    "predict": "g",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsee? and you don't care if people are staring, it's just for a second cause then you're gone!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, thank you.\nassistant\n",
+    "predict": "g",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's kinda sad.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncome on, do it.\nassistant\n",
+    "predict": "c",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso… okay, look-look umm, let's just go downstairs, we'll have some fun, and you will forget all about it.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok! so let's move on to the renaissance?\nassistant\n",
+    "predict": "q",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, retract the device, retract the device.\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfreemont. west-westmont, ah westburg?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah! okay, this one is a mushroom cap.  umm, this one is made of bologna.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand don't you follow me!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot after this!\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni want to become the ultimate fighting champion! it's the most intense physical competition in the world, it's banned in 49 states!\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's better to be over the hill  then buried under it.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't see any reason why i would do that to myself again.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, under these circumstances it has to be an injection, and it has to be now.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh don't listen to him, he's just some guy who really wants the apartment, but i don't think he's gonna get it.\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, well that's how mad i am!!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou don't observe a dance class. you\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you nuts?! we've got george stephanopoulos' pizza!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, half a brownie.\nassistant\n",
+    "predict": "ans",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh-huh. yeah, i-i have a knack for impressions.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand i thought i would bring them to you, y'know, in bed.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npaper cut!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnovember 16\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah!\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat? of course i did! you uh, you sat next to sleepy sleeperson.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhere, here!\nassistant\n",
+    "predict": "oth",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh uh-uh yeah, i think that…\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat was\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, really.\nassistant\n",
+    "predict": "oth",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell i don't know umm,  what if we were too tie each other up?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, umm, my mom's friend, phoebe, is actually my birth mom.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nin a couple of hours i'm gonna get really drunk and wanna call kathy and you guys are gonna have to stop me!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah well, once again not knocking pays off. i only wish you hadn't been on the toilet.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njeffrey\nassistant\n",
+    "predict": "oth",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i know, but i—he just went on.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell…i only have one thing to do today.  i guess i could push it back.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i believe the piece of furniture was fine until your little breakfast adventure with angela delvecchio\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno that could kill her.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. uh, …a slice……six dollars?\nassistant\n",
+    "predict": "ans",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand that they're going to be drinking alot!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe can't. we're not pharmacists!\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno-no-no! we gotta go! come on!  here we go.\nassistant\n",
+    "predict": "c",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou are not supposed to give people advice!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah-yeah, it's this\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe wedding is off, sloppy and immature!\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand we're gonna go out, we're gonna have a good time, and take your mind off of childbirth and c-sections and-and giant baby heads stretching out\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, sorry, i just, i thought you liked me.\nassistant\n",
+    "predict": "ap",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, she graduated from high school!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh. well then shut me up.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i forget which ones.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. either that, or you just turned him on and sent him off to a stripper.\nassistant\n",
+    "predict": "o",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, okay, thanks!\nassistant\n",
+    "predict": "g",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nway to go!\nassistant\n",
+    "predict": "ap",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwho cares about them.\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's crazy!\nassistant\n",
+    "predict": "o",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni guess.\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's so good.  oh, thanks.\nassistant\n",
+    "predict": "s",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally?\nassistant\n",
+    "predict": "q",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right! but uh, listen, what do you say we crank it up a notch?\nassistant\n",
+    "predict": "q",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, that's got to come in handy\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i don't think i ever heard that story.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhoney, both yours.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhuman spleeeen.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, yeah! the groom cannot see the bride!\nassistant\n",
+    "predict": "dag",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, we both auditioned for the part, and uh, as it turned out, they ah, they liked the stupid gay thing and cast him.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean i'm probably 98% happy, maybe 2% jealous. and i mean what's 2%? that's nothing.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh-oi-ho, yeah!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nunless you wanna practice the foxtrot again? or-or the tango?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay!\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm torn, between my integrity and my desire to avoid a beating. but i must be honest, your soap is abysmal.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell sensitive is important, pick him.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok, i'll go. ok, senior year of college... on a pool table.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou can.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni usually prefer elizabeth's boyfriends to address me as mr. stevens.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know! i know! i am a terrible person! i mean, chandler is never going to trust me with anything ever again!\nassistant\n",
+    "predict": "ag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni did it! i took care of the babies all by myself!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno!\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit was. the duck in particular was superb.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmy bed's so boring.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni think she means  'you\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\numm, she kissed me.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhave i got a surprise for you? pack your bags!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh this, well i'm glad you asked.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. hate him.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, come on, we can be guys!\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnothing.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nstop saying,  blood  to strangers.\nassistant\n",
+    "predict": "c",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's time for me to conquer the physical world.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyep! there's always room for\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nanything at all.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\neverything was delicious!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\numm, you-you and your sister seem to have umm, a very special bond, and\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook, look, there's got to be a way we can work past this.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe may have just started a family.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, first thing we gotta do, damage control.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n...because i have a list of five goofy coffee house guys and yesterday i bumped you for that guy over there.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou just go to the house and you ask for mary-angela, okay, when which ever one she is comes to the door, you take her for a walk, you let her down easy.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "ans",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou get the pretty one, i get the mess.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry, that's all the time we have.\nassistant\n",
+    "predict": "ap",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou got problems because of you!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe can, we can go to aruba!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right miss green, everything looks fine... yep, i think we're starting to see some real progress here.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, sure. good luck!\nassistant\n",
+    "predict": "oth",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npetrie, right, right. okay, some people gonna be working\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, and she's very supportive.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok, pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno-no, this is my collection of fossil samples.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou missed the exit!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, sure in a perfect world. but, no, i promised i wouldn't tell, and i swore to like all my gods.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, yeah.  triple a can pick us up.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know tag! how can your genitals make phone calls? okay? it's not a perfect world! just go please.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnice car!\nassistant\n",
+    "predict": "o",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthanks for comin' back, umm, okay there have been a lot of people interested in the room, but i have narrowed it down and\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh that's amazing.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's great.\nassistant\n",
+    "predict": "ap",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh,  that was the blind date that i told you about, she called and switched it to today.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni left a bra drying on the shower rod, you don't think your son will think it's yours and be horribly traumatised?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso rach!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit made me nuts.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nross!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nrachel has something that she wants to tell you and umm, i believe that this is your red sweater.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno! no! i-i can do it one more time! see? look!  hmm, noodle soup. damnit!\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you kidding? i love that guy!  morning's here! morning is here—\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsee i wanna have three kids\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay?\nassistant\n",
+    "predict": "ag",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't want to lose you!\nassistant\n",
+    "predict": "s",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell yeah, but then i remembered i started it and there was this pep rally and i was, i was on top of the pyramid but anyway—umm, what is this book about?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, see the thing is i want to get out of here before joey gets all worked up and starts calling everybody bitch.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno-no, he's, he's very docile.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsee you later.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh! and the year before that, when you set up that nighttime    tour of that button factory?\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngreat.\nassistant\n",
+    "predict": "ag",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno phoebe i am mad!\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, y'know what?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry, i can't tell the baby to wait for them.\nassistant\n",
+    "predict": "ap",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, it's not! we were just goofing around and i dared him to try them on.\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, so i\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou don't think it's a little crazy that you get all my points just 'cause you\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njanice!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i would've except i had a big spaghetti stain on the other side.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, the matador.  ole, ha ha ha.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, but if i got to turn on the charm tomorrow i'm not wasting anymore of it over here with you guys.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's gotta be, it's gotta be going somewhere right?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, that's not something a girl wants to hear.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know, i'm sorry! but y'know, this ring is better! monica never even saw the other ring.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey! you guys! check it out, check it out!  guess which job i got.\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay y'know what, because you said that, i'm not putting out tonight.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfabulous.\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. but i thought that was because i put the whole thing on my hand and made it walk across the table.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndon't go anywhere, i'll be right back.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes it is.\nassistant\n",
+    "predict": "ag",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit wasn't on your list, but hopefully you'll think it's really fun.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook we're gonna have to set a spending limit on the date.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nugh, she\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, pheebs: right hand blue. good.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i know, it's my birthday. we all should be here.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you.\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n'cause i ran into him at the bank, he is still soo cute.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh!  hello?  yeah this is phoebe.  really?!\nassistant\n",
+    "predict": "g",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh come on!!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno-no, they're not very nice people.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally? i don't\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, uh well, let's try one. whenever you guys are ready.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, sure...just a sec, though, 'cause paolo's on his way over.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet's.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm just calling to say that um, everything's fine and i'm really happy for you and your\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif it's not you, this is a horrible story.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhold it!  n.y.p.d! freeze punk!\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nme! on my computer.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, gimme your foot.\nassistant\n",
+    "predict": "c",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndone.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally?!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni gotta tell you, i-i wasn't expecting to like her at all, i mean i actually wasn't expecting to like anyone right now, but she's really terrific.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbecause i'm not going to spend one more day with someone whose out to sabotage my every move.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmonica, you're so lucky! he's like the most popular guy in school!!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat mail guy had no idea there was something going on between us.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbob's a mom!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm just saying, this woman, i mean she's fictitious. no?\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, that-that chandler cracks me up.\nassistant\n",
+    "predict": "o",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nclifford burnett.\nassistant\n",
+    "predict": "oth",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it couldn't hurt to look.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's it?!\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat means nothing to me.  come on!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh-oh-oh-oh, how i do it is, i look a woman up and down and say,  hey, how you doin'?\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n'sup? 'sup dude?\nassistant\n",
+    "predict": "q",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat i did. that i did.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i've just always wanted to do that. can you help me clean this up?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou tell, of course you do. issac. issac. hey, issac. issac, hi! y'know we haven't actually met...\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohhh, oh my god! oh my god! she knows about us!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy didn't i see that!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, they uh, they-they do more than that.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh great! that\nassistant\n",
+    "predict": "oth",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm not jealous.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhow about, you're moving!!\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh-ho! but not in here! can't eat 'em in bed, remember? no crumbies!\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, great!\nassistant\n",
+    "predict": "ap",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, for you!\nassistant\n",
+    "predict": "oth",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncongratulations...oh..wow\nassistant\n",
+    "predict": "g",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlot of things.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnothing, nothing. lee-lo, the laundry's done.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, hey, hey, that's not the rule and you know it.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnooo, it wasn't.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, well don't take it to the same place you took the stereo, 'cause they've had that thing for over a week.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndaddy!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm going to the bathroom.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh yeah, he looked like a real lumberjack in those pink lacys.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'll even let you ring the bell.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npostpone it?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nliam, do me a favour. tell the lads to go easy on ross, it's his first time.\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh-ho-ho, yeah!\nassistant\n",
+    "predict": "oth",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhere in chelsea.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand ross gave me this great book (holds up the\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwent down to the docks. bet ya didn't know you could get it wholesale.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlike-like, hand modeling!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah, well… yeah, no use wasting this baby, just lyin' around the house.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwow, rhonda.\nassistant\n",
+    "predict": "oth",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou blew them away!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, okay, pheebs?\nassistant\n",
+    "predict": "ag",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh okay. umm, all right.  hi, this is phoebe from empire office supplies, can i speak to your supply manager please?\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't even have a 'pl'.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno. i'm saying it's now.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay! you get the vacuum cleaner and i'll get the furniture polish!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe's awfully short and i think he's talking to himself. and to be completely honest, he's not that good in bed.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know. use it.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes. yes, there is, they play on sundays and monday nights.\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh-oh!\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit-it-it's no big deal, all right, i'm-i'm cool.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, i'm just gonna, i have to ask that you don't move anything.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "ans",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. i really do.\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i'm just mad!\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no pheebs you-you must be mistaken, because i know you wouldn't schedule a date on the same night you have plans with a friend!\nassistant\n",
+    "predict": "dag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, that's uh, that's pretty nice but i'm gonna go with the one i picked first.\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohh, they're having a\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou are!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nis not as important as the fact that phoebe took care of the babies all by herself.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, she'll understand right? it's not like i did it on purpose.\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, ah the kid has it.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni ah, i better not do any, i don't know, lunges.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, now. phoebs.\nassistant\n",
+    "predict": "s",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes! now, she feels terrible! she really wants to make up! you gotta find her.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow don't worry! everything's gonna be okay.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, uh, you can ignore that.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right this is about, umm, people feeling certain things y'know about strippers.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow i'm looking at my dad, thinking...\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nring dammit, ring!\nassistant\n",
+    "predict": "oth",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n-she, of course, she uh familiar with our.. special situation?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, she couldn't live without the chan love.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nrach?\nassistant\n",
+    "predict": "q",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit was cheesecake.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\neh, worth a shot.  look joey, let me know where you're staying, okay?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, and we'd appreciate it if no one told him yet.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohhh! that is soo sweet!\nassistant\n",
+    "predict": "o",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndamn! i can't believe i took her off my list.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh-oh, uh-oh, the laundry's done.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, you are so smart!\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh! someone's a little cranky today cuz they have to do it in    a cup!  oh! they gave you the kiddy size .\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshhh!\nassistant\n",
+    "predict": "s",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntramp?!\nassistant\n",
+    "predict": "oth",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's not like we run in the same circles.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's so sweet.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "ans",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthere are?\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, there were two.\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i just got uh, got plans.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey're wildly unpopular.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nplus, y'know i love you guys and-and it would really mean a lot to me.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh-huh.\nassistant\n",
+    "predict": "b",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nben, ben, hey ben. nothing. i don't think that's his name.\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell we?re gonna miss you around here.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsophie, get in here!\nassistant\n",
+    "predict": "c",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're never gonna find anybody.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni highly doubt that.\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nseriously, our sex life… i was thinking, maybe i don't know, we could try some-some new things.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh good.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nah yeah—wait a second now!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is monica.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh my god, oh my god! poor monica!\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nross, you remember susan.\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i beg to differ. the\nassistant\n",
+    "predict": "dag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh my god, i remember now! we were playing chess!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, well it came to about $112, but what the hell, just call it an even 110?\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njurassic park\nassistant\n",
+    "predict": "ans",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh yeah, that sounds great.  oh, and listen, it's, it's gonna be....\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngood deal.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nugh, monica, i know about you and chandler.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're nose is bleeding!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, we're gonna go.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhm-mmm\nassistant\n",
+    "predict": "b",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right.\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh no, stay here we'll keep doing this. i'll pay you.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, that's okay, i can't wait to see everything again! all of the memories\nassistant\n",
+    "predict": "o",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno!\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nof course! oh joey, this ring i…it's beautiful i love it!\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay?\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally? 'cause i could kinda use the money.\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndone!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nenough!\nassistant\n",
+    "predict": "oth",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe need a porn break.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou can't put your cigarette out on a tree!\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i got him.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nrelax. it's just issac's d.j.-ing at the philly. you should come.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand, uh, i don't know if you got any of that, but i would really like a copy of the tape.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif you have the big apartment you have to deal with people coming over all the time.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni made a promise that--oh hey!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat all the pieces of my life are falling right into place!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. yeah, i remember trying to steal a cardboard cutout of evander holyfield from a\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat i do do…is manage to uh, create an atmosphere of support for the people working with me.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno they didn't!\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh!  oh by the way?\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, this is what i'm talking about, this. i-i need to live in a land where people can spill.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you.\nassistant\n",
+    "predict": "g",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's-that's great!\nassistant\n",
+    "predict": "ap",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, you've been here for two months now and your boss is required to hand in a performance evaluation.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohh. no that's okay, he's a friend.\nassistant\n",
+    "predict": "o",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfor what? for letting you throw me out of your office?\nassistant\n",
+    "predict": "q",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou knew this about me when you married me!\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut if—no look, okay. these jerks might not care about you, but the universe does! and that says a lot!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndehydrated japanese noodles under fluorescent lights... does it\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok, say no more.\nassistant\n",
+    "predict": "c",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmaybe!  well! well…so-so uh, what kind of music does numb nuts—oh forget it! i can't!\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, it's easy. yeah, i-i can do it with anything. watch uh,  grandma's chicken salad\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, fran.\nassistant\n",
+    "predict": "ans",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni like that.\nassistant\n",
+    "predict": "o",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nheads it is.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni love her books!\nassistant\n",
+    "predict": "o",
+    "lable": "a"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhormones.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthread the needle.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually you were a big help tonight.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you. just make yourself comfortable.\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngood. oh oh! roger's having a dinner thing and he wanted me to invite you guys.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah! it's fine, it's fine. robbie's gonna be here for hours.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni did it anyway.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngone! i mean its amazing pheebs. i feel so free and so graceful.  hey! look out for the horse! sorry!\nassistant\n",
+    "predict": "s",
+    "lable": "ap"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnothing!   this is not over!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, it's okay.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, a little bit. she-she-she walked in and i thought she was you and i kissed her and\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou suck!!\nassistant\n",
+    "predict": "o",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow get out of here you!!\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno! no-no. look, there's a bug stuck in tar right here.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is the hardest letter i?ve ever had to write.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay! you don't think i thought of that?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\none, two, three.\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i kinda wanted to sell the cookies. the girl who sells the most wins a trip to spacecamp, and gets to sit in a\nassistant\n",
+    "predict": "ans",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni said i'll do it!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know, the next time we see them we're just gonna tell them.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell of course that is what i'm here for!\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nooh, now you lost me.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure, yeah, no i can do that, yeah, because umm, y'know, the muscles in the siadic area can get y'know, real  nice and tight.\nassistant\n",
+    "predict": "ag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nrach, you're in a great place in your life. come on, you've got a great job! good friends\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey, that paper's like a year old!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncall it even?!\nassistant\n",
+    "predict": "q",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust ignore them.\nassistant\n",
+    "predict": "c",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou are steel!\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhere.\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know...  you're gonna be really, really hard to get over.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand remember, there is no 'i' in team.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "b",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is about us.\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nho-ho-ho,  fried stuff with cheese!\nassistant\n",
+    "predict": "oth",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nchandler muriel bing. boy, your parents never gave you a chance did they?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nross! i think she is trying to make something happen with you to get back at me!\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou want me, you want me to quit my job so you can feel like you have a girlfriend?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "ans",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i did, but y'know what? i am really, really trying to cut back, y'know?  good luck, rach.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhello?\nassistant\n",
+    "predict": "g",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nummmmmmmm, no.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah!\nassistant\n",
+    "predict": "b",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nanyway, i should go. okay, bye.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i'm not doing it alone. i have ross.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni used to\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, you hard worker! i'll remember to put that in your evaluation.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthanks.\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno. sorry man.\nassistant\n",
+    "predict": "dag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist.\nassistant\n",
+    "predict": "o",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's me! come on!\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat-that's a no.\nassistant\n",
+    "predict": "ans",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh yeah! yeah, no, we're gonna connect, y'know bond, and everything.\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhoney, he's about to go hit on isabella rosselini. i'm just sorry we don't got popcorn.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno we\nassistant\n",
+    "predict": "ans",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nkeep talking.\nassistant\n",
+    "predict": "c",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nstevens!\nassistant\n",
+    "predict": "g",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnah, you're not tall enough to be a mark, but you might make a good barney.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsomebody went to college. wow.  what is it? i'm sorry.\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat was a good one. for a second there, i was like,  whoa.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, yes, we'll be right, we'll be right down.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut we should take it.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nooh, this is it!  oh, that's him! that's him!\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i never could do it.\nassistant\n",
+    "predict": "s",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nalan.\nassistant\n",
+    "predict": "g",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe fake kind!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou did!\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it must've fallen out a few blocks back. i just figured we hit a dog.\nassistant\n",
+    "predict": "ans",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat would be great!\nassistant\n",
+    "predict": "ag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i-i'm taking pledges here, eh?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwho knows?\nassistant\n",
+    "predict": "q",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmom, c'mon, stop worrying.\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "ag",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntotally!\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, great!\nassistant\n",
+    "predict": "oth",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noohh!! ohh! oh-oh-oh! oh-oh!!\nassistant\n",
+    "predict": "oth",
+    "lable": "b"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah—no!!\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm familiar with his work, yes...\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfor all i know, she's trying to find me but couldn't because i kept moving around.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni missed you.  i'm gonna get changed.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm telling you, if you want to take care of that thing, you should go to my herbal guy.\nassistant\n",
+    "predict": "o",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, i'll try not to.\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnoo, i y'know i don't see why she has to play with you, that's all.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, that's very—really very-very okay.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhello? yes, she is, hold on a second, please. monana, it's for you, the credit card people.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsorry, mix up. hey, how was the movie?\nassistant\n",
+    "predict": "ap",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou kissed a guy?!! oh my god.\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh actually, i think i'm gonna skip it.\nassistant\n",
+    "predict": "o",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. i can just go home and get back at him by myself.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh god phoebe!!  oh that's it! that's it! right there! oh!  ooooh-oooh-ooooh\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow, don't you hate it when you have to cut a tin can with an ordinary steak knife?\nassistant\n",
+    "predict": "q",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ny'know she's, well she's-she's just as pretty, i guess she's smart, she's\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyour son.\nassistant\n",
+    "predict": "s",
+    "lable": "q"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay! we'll need a six-pack of\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nah, must've been fairly obvious since it was the only thing left in your store.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, those first two windows,  that's the lobby.\nassistant\n",
+    "predict": "dag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nkiss me.\nassistant\n",
+    "predict": "c",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, some idiot customer put a suggestion in the suggestion box.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, please!  so, what's going on?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's okay, joe.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, call it in the air.\nassistant\n",
+    "predict": "c",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat oughta do it.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwow that was a big one.\nassistant\n",
+    "predict": "o",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso thanks for the warm welcome.\nassistant\n",
+    "predict": "s",
+    "lable": "g"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, look at the little cat!\nassistant\n",
+    "predict": "s",
+    "lable": "c"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, that was dana caplin.\nassistant\n",
+    "predict": "ans",
+    "lable": "dag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhow could i forget?\nassistant\n",
+    "predict": "q",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nok, caravaggio uses chiaroscuro here to highlight the anguish    of the central figure. touch it, it's really bumpy! .\nassistant\n",
+    "predict": "s",
+    "lable": "ag"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah! you gotta tell a girl before you tape her. such a rookie mistake.\nassistant\n",
+    "predict": "ag",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey, i can't stand the thought of having this baby with you mad at me.\nassistant\n",
+    "predict": "s",
+    "lable": "o"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n2:17.\nassistant\n",
+    "predict": "s",
+    "lable": "ans"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right?\nassistant\n",
+    "predict": "ag",
+    "lable": "s"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\n(noticing a kid who has picked up a copy of\nassistant\n",
+    "predict": "s",
+    "lable": "oth"
+  }
+]

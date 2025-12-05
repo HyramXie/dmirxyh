@@ -1,0 +1,3 @@
+{"prompt": "system\nYou are a helpful assistant.\nuser\nWhat is the audio describing?\nassistant\n", "predict": "The audio describes someone saying 'Hello, take a look at what I'm drawing.'", "label": "A girl who is drawing a picture of a guitar and feel nervous.\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nWhat does this girl say?\nassistant\n", "predict": "The girl says 'Hello, take a look at what I'm drawing.'", "label": "She says: 'Hello! Take a look at what am I drawing!'\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nWhat is this girl drawing with?\nassistant\n", "predict": "The girl is drawing with colored pencils.", "label": "She is drawing with an iPad.\n"}

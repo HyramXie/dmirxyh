@@ -1,0 +1,3747 @@
+[
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot everyone can pull off a vest.\nassistant\n",
+    "predict": "taunt",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's happening!\nassistant\n",
+    "predict": "inform",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, my boyfriend that she stole from me.\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou don't want to hear the rest?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, sure, sure.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, well, first of all, you need to calm down.\nassistant\n",
+    "predict": "comfort",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngot it, okay, so...unh. let's unpack this.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's exactly what i just said.\nassistant\n",
+    "predict": "agree",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, this isn't gonna work.\nassistant\n",
+    "predict": "inform",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwait, no, no, no, no! i can do better.\nassistant\n",
+    "predict": "oppose",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. just, tomorrow, 'cause that way, you'll get paid.\nassistant\n",
+    "predict": "agree",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe got robbed, home depot got robbed, that weird store that only makes copies got robbed.\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat is why everyone gets a rape whistle.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'll be paired with anyone but sarah.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe robbers will probably kill her before they kill me.\nassistant\n",
+    "predict": "warn",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, you guys do a trivia night?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngarrett mocked you so hard for that.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnice to get off early, huh?\nassistant\n",
+    "predict": "confirm",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat to do?\nassistant\n",
+    "predict": "ask for help",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, like i would say no to trivia night.\nassistant\n",
+    "predict": "taunt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut now i'm separated and emma has her own thing, and i spend most of my nights by myself and i would really just like to have a social life again.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, we'll see you at 10.\nassistant\n",
+    "predict": "leave",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, parking lot buddy. ready to go wait at the bus stop with me?\nassistant\n",
+    "predict": "invite",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwho are you? beyoncé?\nassistant\n",
+    "predict": "taunt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nselena.\nassistant\n",
+    "predict": "greet",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you crying?\nassistant\n",
+    "predict": "care",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe drilled a hole into the women's washroom so...\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy--why me?\nassistant\n",
+    "predict": "complain",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh...   i'm not working next to a dead body.\nassistant\n",
+    "predict": "refuse",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntechnically we've all been working next sal's dead body for the past year.\nassistant\n",
+    "predict": "taunt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually he still had both of his feet.\nassistant\n",
+    "predict": "inform",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit actually gets to be kind of fun, you know.\nassistant\n",
+    "predict": "praise",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou just swipe right for yes, left for no, see?\nassistant\n",
+    "predict": "confirm",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\na bowling action shot?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, uh...\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwait, this one's just a picture of margot robbie.\nassistant\n",
+    "predict": "oppose",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, girl. go get it.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nugh, calm down.\nassistant\n",
+    "predict": "comfort",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat?  match?  i didn't--how--how did that happen?\nassistant\n",
+    "predict": "doubt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni swiped left, like this.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's like eating a birthday candle, only in a good way.\nassistant\n",
+    "predict": "praise",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntell her you stole jonah's phone, and you were stalking her on it.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni was thinking more like, i could sneak up like a ninja, take her phone, cancel the notification, and then slip it in without her noticing.\nassistant\n",
+    "predict": "advise",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni could call him up, have him hack into kelly's phone, and melt her motherboard.\nassistant\n",
+    "predict": "advise",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, call the guy.\nassistant\n",
+    "predict": "arrange",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, mine is soaked.\nassistant\n",
+    "predict": "agree",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot in the toilet, in a...\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, you know honestly, you really committed.\nassistant\n",
+    "predict": "taunt",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni watch a lot of lifetime movies.\nassistant\n",
+    "predict": "flaunt",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know, right?\nassistant\n",
+    "predict": "confirm",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, good.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand you didn't touch the body?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncouldn't even ask about the car.\nassistant\n",
+    "predict": "complain",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso i just need adam to verify that.\nassistant\n",
+    "predict": "inform",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe have to wait for the scooter to charge.\nassistant\n",
+    "predict": "inform",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust a woman going insane.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndon't even think about it.\nassistant\n",
+    "predict": "prevent",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know i never explicitly said not to post videos of rat infestations in the kitchen, but i thought i didn't need to.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni should have watched the video before i posted it.\nassistant\n",
+    "predict": "complain",
+    "lable": "apologise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nagain, didn't know the rats were there.\nassistant\n",
+    "predict": "complain",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's something that we shouldn't post online.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndoes this have something to do with jonah dating kelly?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe were gonna keep that a secret.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, then maybe you shouldn't have posted about it on the internet.\nassistant\n",
+    "predict": "taunt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare we calling it a relationship?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, sometimes when you aren't happy, it's better to be divorced than to stay in the marriage.\nassistant\n",
+    "predict": "advise",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, we can't leave. they're denying us food.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nemma's not coming! she never was.\nassistant\n",
+    "predict": "inform",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, nice and tight.\nassistant\n",
+    "predict": "agree",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut when i see meat that looks that delicious, i have to make an exception.\nassistant\n",
+    "predict": "explain",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm gonna-wow, but is it worth it for that taste!\nassistant\n",
+    "predict": "complain",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndoes that mean that allah is the one true god?\nassistant\n",
+    "predict": "confirm",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nscary. were you in it at the time?\nassistant\n",
+    "predict": "confirm",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, right. blonde moment.\nassistant\n",
+    "predict": "taunt",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nha. admits it.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njonah doesn't want to live with a roommate. he's an adult.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, no. i--i mean, i--i would, i would love that, but i would never-i would never impose.\nassistant\n",
+    "predict": "refuse",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut i mean, it wouldn't be a problem. i could do it.\nassistant\n",
+    "predict": "agree",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndo we have to?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nclassic marcus.\nassistant\n",
+    "predict": "taunt",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut that's not how i sound on the inside!\nassistant\n",
+    "predict": "oppose",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot what you hear. what i hear.\nassistant\n",
+    "predict": "explain",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnobody knows where brett is!\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat usually happens is all the air is sucked from your lungs and then they fill up with blood, so, technically, he probably drowned on his own blood.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\napparently someone was clocking in for him.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm starting to think we should get everyone into the new storm shelter.\nassistant\n",
+    "predict": "advise",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntell that to brett. oh, wait, you can't.\nassistant\n",
+    "predict": "arrange",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, sandra, how's it going?\nassistant\n",
+    "predict": "greet",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso let me ask you a question, but don't tell garrett.\nassistant\n",
+    "predict": "inform",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey! what's going on?\nassistant\n",
+    "predict": "care",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnothing?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njonah's going to a barbecue, and he asked if it'd be interesting to put burrata on a burger instead of provolone.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmm.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know if this is a workman's comp type of thing, but she needs to talk to someone.\nassistant\n",
+    "predict": "explain",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nohh! okay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay then, well, jeff, the floor is yours.\nassistant\n",
+    "predict": "inform",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's about something big.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno. hi, mateo.\nassistant\n",
+    "predict": "oppose",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlike we're famous or something?\nassistant\n",
+    "predict": "taunt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngive me the marker 'cause someone just made a thousand dollar sale.\nassistant\n",
+    "predict": "arrange",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat a tragedy.\nassistant\n",
+    "predict": "complain",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually, it was his friend's condo.\nassistant\n",
+    "predict": "inform",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncheck it out, maybe. just to be safe.\nassistant\n",
+    "predict": "leave",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, it's not the worst idea.\nassistant\n",
+    "predict": "agree",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, keep your eye on the prize, okay?\nassistant\n",
+    "predict": "comfort",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe cannot become a quad-a.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\neveryone there is exhausted all the time.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, guys, we've come too far. we are this close to quad-a.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, you heard amy, guys, let's cross that finish line and become quad-a.\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbecause i don't want my baby carried by a huge stinker, like you.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, wait, you're being nice.\nassistant\n",
+    "predict": "oppose",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand--now i don't want a big stinky baby from a big stinker like you.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno quad-a.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni was so close to having a baby.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut-you wanna be my surrogate?\nassistant\n",
+    "predict": "confirm",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust for someone to squirt out your kid?\nassistant\n",
+    "predict": "taunt",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhoa, oreo really upped its game while i was in prison.\nassistant\n",
+    "predict": "taunt",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're the famous amy.\nassistant\n",
+    "predict": "introduce",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm so sorry about the divorce and how your life is going.\nassistant\n",
+    "predict": "apologise",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmy mom thought we should go back to green day.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm putting it in real.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmmm, discount sushi from a big box store.\nassistant\n",
+    "predict": "taunt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know what, that sounded harsher than what i meant it to.\nassistant\n",
+    "predict": "apologise",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif you like the sushi, just get the sushi.\nassistant\n",
+    "predict": "advise",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, or hoda.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm getting paid to sit around and play video games all day.\nassistant\n",
+    "predict": "complain",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni teach water aerobics to seniors after work, and they yell at me if i'm late.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit can get racist.\nassistant\n",
+    "predict": "warn",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey don't know what i am, so it's kind of all over the place.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay i wanna make sure you're ready.\nassistant\n",
+    "predict": "inform",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou just have some major dings.\nassistant\n",
+    "predict": "taunt",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're over 30, you're divorced, you have a kid.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, because i have a baby the way that chrissy teigen has a baby.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, sarah's a seven, brett's an eight, tate's a ten because he has a good job and abs.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're just a little bit higher than justine.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh yeah, yeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, anyway, um, if you really wanna get up, i guess it's okay, you have to promise to take it easy.\nassistant\n",
+    "predict": "comfort",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\na hummingbird flew by and i wanna see if he comes back.\nassistant\n",
+    "predict": "explain",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntake all the time you need.\nassistant\n",
+    "predict": "inform",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'll see what we have that wasn't part of the listeria outbreak.\nassistant\n",
+    "predict": "leave",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwould you go out on a date with someone like me?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, no, no, no, i'm not asking you out.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, why don't you, uh, you know, get changed and we'll get to work, huh?\nassistant\n",
+    "predict": "advise",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, okay.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no, no, no, you stay on that couch!\nassistant\n",
+    "predict": "arrange",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nprotip--if you cup the mic, you get a nice voice-of-god effect.\nassistant\n",
+    "predict": "taunt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, why don't you go out to los angeles and give laura dern some acting tips?\nassistant\n",
+    "predict": "advise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, i gotta go feed dina's birds, so today's the same as yesterday.\nassistant\n",
+    "predict": "leave",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni gotta go google how to give insulin to a parrot.\nassistant\n",
+    "predict": "leave",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni told them and they told me that my butt's a fire hazard.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay?\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nattention, all soft boys. get off your butts, and move to the side, now!\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuse...less.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsay hi, say hi.\nassistant\n",
+    "predict": "arrange",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no, no, no, i know that. what about the baby?\nassistant\n",
+    "predict": "oppose",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i am sure i texted you.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're not better than me!\nassistant\n",
+    "predict": "oppose",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso enjoy losing another dice award to troy baker.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntaurus-driving loser.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, what about the time you said jonah looks great in shirts?\nassistant\n",
+    "predict": "taunt",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit just--it feels like a box crusher could hurt someone really badly.\nassistant\n",
+    "predict": "complain",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i do. so we are.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, that's the wrong file.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's from glenn's mullet phase.\nassistant\n",
+    "predict": "introduce",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\namy frenched her man, and now they're gonna throw down.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i just want you to know i have your back.\nassistant\n",
+    "predict": "inform",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshould we do something to amy's car?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me.\nassistant\n",
+    "predict": "greet",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif jeff is going to pooch our people, well i say let's see how he likes it when we pooch his.\nassistant\n",
+    "predict": "advise",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nman, never mind, sorry. forcing it.\nassistant\n",
+    "predict": "apologise",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno. i mean...\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm googling her, and apparently she's from denver.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndenver, terrific. let's go with the denver thing.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, but we've got the denver thing in case that doesn't work out.\nassistant\n",
+    "predict": "inform",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, she's here. places, everyone!\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm gonna be here all day walking around, getting to know the store, trying to figure out ways we can make things a little more efficient.\nassistant\n",
+    "predict": "plan",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso, um, busy day. let's, uh, get back out there.\nassistant\n",
+    "predict": "comfort",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet's get back out there.\nassistant\n",
+    "predict": "comfort",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngreat, let's take it. that would put us over $8,000.\nassistant\n",
+    "predict": "leave",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif we don't find enough budget cuts to cover her salary, laurie is gonna fire myrtle.\nassistant\n",
+    "predict": "inform",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's because she's a bitch.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes!\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i just mean if we had true equality, you could call out women for doing something terrible when they're doing something terrible.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, if hitler was a woman, would you be defending hitler?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is cloud 9's way of supporting the local small business owners we're constantly putting out of business.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust look at these beautiful needlepoints.\nassistant\n",
+    "predict": "flaunt",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, so you guys have an open marriage.\nassistant\n",
+    "predict": "confirm",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthen why are you trying to get at the vendor lady?\nassistant\n",
+    "predict": "criticize",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit came to me in a dream.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\na really boring dream.\nassistant\n",
+    "predict": "complain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand it is taking forever.\nassistant\n",
+    "predict": "complain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, you know, if you get hungry, i highly recommend the mini burritos.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm gonna have to take away your latina card.\nassistant\n",
+    "predict": "warn",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni found this on the sidewalk and i felt really weird about throwing it away.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nguys, i'm the latina one.\nassistant\n",
+    "predict": "introduce",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm--the element is in me.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, quick tip.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nright, that sounds like caring.\nassistant\n",
+    "predict": "agree",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmm!\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlay na sol ya ra.  says it's hindi.\nassistant\n",
+    "predict": "complain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlike when you go to sharky's, you earn points.\nassistant\n",
+    "predict": "explain",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou and, um, the beverage guy and kelly and me.\nassistant\n",
+    "predict": "introduce",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, i just wanted to double check.\nassistant\n",
+    "predict": "explain",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, you would look really fetching in a bird scarf.\nassistant\n",
+    "predict": "praise",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\neverybody here better get out there and start buying stuff from my wife!\nassistant\n",
+    "predict": "inform",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni feel like you're pressuring us.\nassistant\n",
+    "predict": "oppose",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're goddamn right, i'm pressuring you.\nassistant\n",
+    "predict": "taunt",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso, i lager for three months at 35 degrees.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif i won, you would not see me here tomorrow.\nassistant\n",
+    "predict": "warn",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat is for sure. i would be taking thursdays off from now on.\nassistant\n",
+    "predict": "agree",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'd go to really expensive stores, hoping that white women would be rude to me, so i could come back with a bunch of bags and be like, a ha, big mistake.\nassistant\n",
+    "predict": "complain",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nooh, someone's all dressed up.\nassistant\n",
+    "predict": "taunt",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i'm asking glenn for a raise.\nassistant\n",
+    "predict": "plan",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfair enough.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't have time for the preamble.\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is helpful.\nassistant\n",
+    "predict": "agree",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsometimes, i pee in the shower.\nassistant\n",
+    "predict": "inform",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nvending machines, couch cushions, the ground near parking meters, fountains.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no way, no, what are you doing?\nassistant\n",
+    "predict": "oppose",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso i would love-no, actually, i think i deserve an extra buck 50 an hour.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat is what i'm doing.\nassistant\n",
+    "predict": "explain",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nunder no circumstances let me see what's inside that envelope.\nassistant\n",
+    "predict": "warn",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncan i see what's in that envelope?\nassistant\n",
+    "predict": "confirm",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni wake up empty and happy and everybody wins.\nassistant\n",
+    "predict": "leave",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, don't just say no, all right?\nassistant\n",
+    "predict": "confirm",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy would you tell jeff what i said?\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlike, not psychic, but he's operating on a very high level.\nassistant\n",
+    "predict": "explain",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, hey, hey. let's get out of here.\nassistant\n",
+    "predict": "invite",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure, sure.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet's not talk about that either.\nassistant\n",
+    "predict": "advise",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook, we can ride in silence. that is fine by me.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwho cares, doesn't matter anymore.\nassistant\n",
+    "predict": "comfort",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif he needs a place to stay, he can have my master bedroom.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe'll get you 100 photos.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou waited to talk to me all day, and when i'm ready, it's just like,  nah.  it's what you want when you want it.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndid the farmers market run out of your yogurt?\nassistant\n",
+    "predict": "doubt",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nor--oh, your  new yorker  came late this month.\nassistant\n",
+    "predict": "inform",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is what i'm talking about!\nassistant\n",
+    "predict": "introduce",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou love playing the martyr.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou get to just judge everybody else, but nobody gets to criticize you on your crap.\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i'm pissed off that i waited around for you for two years, and you waited until i was in a relationship and you were pregnant to kiss me.\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncan't you just search some keywords?\nassistant\n",
+    "predict": "doubt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry, are you asking me to carry human cheese in our stores?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh! i hadn't really--\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbaby and toddler!\nassistant\n",
+    "predict": "introduce",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnope, just us.\nassistant\n",
+    "predict": "leave",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand now, to light the cloud 9 olympic cauldron is store 1217's oldest living employee.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmyrtle. now.\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's not the cauldron!\nassistant\n",
+    "predict": "oppose",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, okay, i've got this!\nassistant\n",
+    "predict": "inform",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno offense, i'm just not impressed by celebrities, but i do have an olympics related question.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, i don't think i know how to answer that.\nassistant\n",
+    "predict": "explain",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nanyway, there's, uh, no reason for anyone to feel excluded.\nassistant\n",
+    "predict": "comfort",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, whether you're of mexican descent like amy.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthese burritos all have meat in them, so i can't eat any of these.\nassistant\n",
+    "predict": "inform",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you guys doing that missy-dream-card thing where you write down your realistic dreams?\nassistant\n",
+    "predict": "confirm",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, that's the point.\nassistant\n",
+    "predict": "agree",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlike your wife?\nassistant\n",
+    "predict": "confirm",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, well, then, maybe don't try the lobster, but what i'm saying is you can't just do anything.\nassistant\n",
+    "predict": "advise",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, okay, i get it.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, and have a heavenly day.\nassistant\n",
+    "predict": "leave",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso they wouldn't give glenn's job back?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni didn't mean to complain.\nassistant\n",
+    "predict": "apologise",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncorporate says we're in over our heads.\nassistant\n",
+    "predict": "inform",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust go with it, guys.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntomorrow we're gonna come back with signs.\nassistant\n",
+    "predict": "plan",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're gonna have one of those big, inflatable rats.\nassistant\n",
+    "predict": "plan",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe'll see you tomorrow.\nassistant\n",
+    "predict": "leave",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey just want things the way they were.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndetergents. pod, liquid, powder.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, high-efficiency, et cetera, et cetera.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're a lifesaver.\nassistant\n",
+    "predict": "thank",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, could you just repeat that over here?\nassistant\n",
+    "predict": "arrange",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually, i'm kinda in a hurry.\nassistant\n",
+    "predict": "inform",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is my son. you're hurting my arm!\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're hurting my arm.\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe bad man didn't get me.\nassistant\n",
+    "predict": "inform",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's ma-tato.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthere's just nothing like looking into your baby's eyes.\nassistant\n",
+    "predict": "praise",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnot now. i need everybody's help.\nassistant\n",
+    "predict": "inform",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso as i seek atonement for my foibles--  that's a little bit much.\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, blah, blah,  the movie 'magnolia'?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand this isn't even like a  sorry, not sorry  situation.\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmarcus got his thumb back, so, you know, no harm no foul.\nassistant\n",
+    "predict": "inform",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're never gonna have another march 14th.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, brother.\nassistant\n",
+    "predict": "complain",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncan i take a look at that bolt action rifle?\nassistant\n",
+    "predict": "confirm",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nservice denied. service denied.\nassistant\n",
+    "predict": "oppose",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhave you ever considered fencing?\nassistant\n",
+    "predict": "taunt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is discrimination.\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshe can't take us away from our guns.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfirst of all, i'm a man, but thank you.\nassistant\n",
+    "predict": "thank",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni can say whatever i want to say.\nassistant\n",
+    "predict": "flaunt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwill everybody please just shut up!\nassistant\n",
+    "predict": "complain",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe can't all just do whatever we want whenever we want to.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsomeone pisses you off so you have to flash a rifle to prove a point?\nassistant\n",
+    "predict": "doubt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust be a grown-up.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni appreciate that.\nassistant\n",
+    "predict": "thank",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand i usually hate being in teams.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's why i burnt out of business school.\nassistant\n",
+    "predict": "complain",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nanyway, the point is i got super stressed about being the best in my class, and i ended up in the hospital with dehydration for two days.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's plenty. now, glenn.\nassistant\n",
+    "predict": "inform",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nglenn?\nassistant\n",
+    "predict": "greet",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut i have a family, bo.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni just made $12.\nassistant\n",
+    "predict": "flaunt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, but james bond does.\nassistant\n",
+    "predict": "agree",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nstop being the halloween version of scrooge, whatever that is.\nassistant\n",
+    "predict": "criticize",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nput on a costume.\nassistant\n",
+    "predict": "advise",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually, i am dressed up. i'm you.\nassistant\n",
+    "predict": "joke",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i'm gonna find a costume to put on.\nassistant\n",
+    "predict": "plan",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand later, i get to go trick-or-treating with emma, which is the best.\nassistant\n",
+    "predict": "plan",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlooks matter, jonah.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i have a date... uh, with a good book.\nassistant\n",
+    "predict": "explain",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm going to a screening of  nosferatu  at the tivoli, if anybody wants to come.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhave you seen my eye line? it's unavoidable.\nassistant\n",
+    "predict": "taunt",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat is this?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmaybe you could tell me if you've seen or heard anything suspicious recently.\nassistant\n",
+    "predict": "ask for help",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me.\nassistant\n",
+    "predict": "greet",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, hey. mateo, did you vote?\nassistant\n",
+    "predict": "greet",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay. don't ask me any questions, but i want to buy your sticker.\nassistant\n",
+    "predict": "inform",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me.\nassistant\n",
+    "predict": "inform",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat's go--bring her in. oop!\nassistant\n",
+    "predict": "arrange",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i-i didn't meant to-i stumbled on the ladder and i fell into your hair.\nassistant\n",
+    "predict": "explain",
+    "lable": "apologise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, you know, uh, we--we might still be looking for some seasonal help if you're-you're looking for a gig, you know?\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwow. yeah. that's not a bad idea.\nassistant\n",
+    "predict": "agree",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat's not a bad idea?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, working here.\nassistant\n",
+    "predict": "introduce",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's just the way they do things here.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe have unibrow, unibrow 2, short guy tall hair, and booklady.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhich temp will quit next?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni just got sexually harassed.\nassistant\n",
+    "predict": "complain",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, my gosh. i'm so sorry.\nassistant\n",
+    "predict": "apologise",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni really hope you're okay.\nassistant\n",
+    "predict": "care",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're santa claus.\nassistant\n",
+    "predict": "taunt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou don't have to say all the numbers.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndairy factory-farmed.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, break!\nassistant\n",
+    "predict": "leave",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, none of it meant anything, but the confidence is inspiring.\nassistant\n",
+    "predict": "praise",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndina, i can't.\nassistant\n",
+    "predict": "oppose",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso are you just planning to avoid me until one of us quits, or--?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no, no, no, it's just, you know, i've been busy.\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, i won't be weird, lady who has multiple birds.\nassistant\n",
+    "predict": "taunt",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni forgot it was gonna do that.\nassistant\n",
+    "predict": "complain",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know, i mean, i guess i'll pay some bills...\nassistant\n",
+    "predict": "plan",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nooh, a panini press! we could have hot sandwiches.\nassistant\n",
+    "predict": "praise",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat? i love hot sandwiches.\nassistant\n",
+    "predict": "complain",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni could only find this stuff.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut i like halo.\nassistant\n",
+    "predict": "inform",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, i think we've seen enough.\nassistant\n",
+    "predict": "leave",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, that's fine.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe does a really good impression of you.\nassistant\n",
+    "predict": "taunt",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook, uh, i just don't want you to think that i got one foot out the door, okay?\nassistant\n",
+    "predict": "explain",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, okay.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, great, yeah.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno time like the present.\nassistant\n",
+    "predict": "leave",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay. i'll do it now.\nassistant\n",
+    "predict": "plan",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's in an email so i gotta search for it for-just hang on one second.\nassistant\n",
+    "predict": "leave",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, they do now!\nassistant\n",
+    "predict": "inform",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i know there's more.\nassistant\n",
+    "predict": "inform",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthere's just no shame in counseling.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know you're trying to help me and i really appreciate it, but i don't want to talk about it, okay?\nassistant\n",
+    "predict": "thank",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't. i just want everybody to treat me normally.\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhen he confronted the witches, it really grounded him.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, i'm not seeing anyone.\nassistant\n",
+    "predict": "inform",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat about jeff?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh! i'm gonna get another long island iced tea, beyotches!\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwithout kids, what's the point of life?\nassistant\n",
+    "predict": "doubt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni can't believe you'd want to bring someone into this crazy world.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni wasn't harassing her.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit was wrong to harass you, and if you want, i will quit right now.\nassistant\n",
+    "predict": "inform",
+    "lable": "apologise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat? no offense.\nassistant\n",
+    "predict": "apologise",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook, i'm just taking a break from the heat.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshe's got a terrible cold.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou sound terrible-shrill, but in a different way.\nassistant\n",
+    "predict": "criticize",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh-huh. hey, ames, can you hold on a sec?\nassistant\n",
+    "predict": "ask for help",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou just get well soon, okay?\nassistant\n",
+    "predict": "care",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso according to your wellness chart, you should shave that mustache.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou'll thank me later.\nassistant\n",
+    "predict": "inform",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncan we please not talk about this here?\nassistant\n",
+    "predict": "confirm",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntalk about what, mateo? the fact that i saw you making out with sandra's boyfriend?\nassistant\n",
+    "predict": "confirm",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe's not her boyfriend. he's my boyfriend.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's us as nick nolte and barbara streisand in  prince of tides.    what about sandra?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshe's just been saying she's dating him to get attention.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit wouldn't be good if this got out.\nassistant\n",
+    "predict": "warn",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndon't tell anyone though.\nassistant\n",
+    "predict": "inform",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's so gross.\nassistant\n",
+    "predict": "oppose",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit was very intense, and then they broke up.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyup, they broke up. it happened on a tuesday.\nassistant\n",
+    "predict": "inform",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nor manufacturing?\nassistant\n",
+    "predict": "doubt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, no baby shower, guys.\nassistant\n",
+    "predict": "inform",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're making a big deal out of this, and she doesn't even know if she's gonna keep it.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "confirm",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni've been off today.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngoing from two gallons of juice a day to nothing has been messing with my head.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i get it.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou can't push yourself for an award.\nassistant\n",
+    "predict": "oppose",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, i'm probably not eligible, since i'm dating jeff.\nassistant\n",
+    "predict": "inform",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, jonah, so sweet, so dumb.\nassistant\n",
+    "predict": "praise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey're in the new place. we're just getting boxes.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know, maybe your heart medicine, so that your body doesn't reject your new valve?\nassistant\n",
+    "predict": "explain",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyep.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is where i need to be, amelia...\nassistant\n",
+    "predict": "explain",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhm, who saw that coming?\nassistant\n",
+    "predict": "taunt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsave that crap for somebody who did not rescue a dog.\nassistant\n",
+    "predict": "taunt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure. i'm a good man to know, so let me know if you need anything else.\nassistant\n",
+    "predict": "inform",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy are you doing this?\nassistant\n",
+    "predict": "doubt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, your ex-boyfriend sends his regards and i think the rest is fairly self-explanatory.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy don't you put some clothes on, i'll get my purse, and dinner is on me, okay?\nassistant\n",
+    "predict": "advise",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni know a wonderful little sushi bar that has karaoke.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndoes it have peanut oil?\nassistant\n",
+    "predict": "confirm",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsince it's not bee season, you can have my epinephrine.\nassistant\n",
+    "predict": "taunt",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif it gets here and i’m not here, could you sign for it and put it in?\nassistant\n",
+    "predict": "confirm",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou realize that scene was rife with scientific inaccuracy?\nassistant\n",
+    "predict": "taunt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, i know, men can't fly.\nassistant\n",
+    "predict": "taunt",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nshe's 2 feet above the ground.\nassistant\n",
+    "predict": "joke",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni have 2600 comic books in there.\nassistant\n",
+    "predict": "inform",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nchallenge accepted.\nassistant\n",
+    "predict": "leave",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\narchimedes would be so proud.\nassistant\n",
+    "predict": "praise",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, but they all involve a green lantern and a power ring.\nassistant\n",
+    "predict": "agree",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmen do things for women without expecting sex.\nassistant\n",
+    "predict": "inform",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\na little messy?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm just inferring that this is a couch because the evidence suggests the coffee table's having a tiny garage sale.\nassistant\n",
+    "predict": "explain",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndid it occur to you that not everyone has the compulsive need to sort organize and label the entire world around them?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is not anyone's home. this is a swirling vortex of entropy.\nassistant\n",
+    "predict": "oppose",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwarriors, unsheathe your weapons. magic wielders, raise your wands.\nassistant\n",
+    "predict": "inform",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou betrayed us for money? who are you?\nassistant\n",
+    "predict": "doubt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno. i can't look at you or your avatar right now.\nassistant\n",
+    "predict": "refuse",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nby the way, you didn't join us because you stuffed yourself with a chicken-carbonara sub at quizno's.\nassistant\n",
+    "predict": "doubt",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou could have stopped at,  it could go well.  if i could have, i would have.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm having a panic attack.\nassistant\n",
+    "predict": "complain",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwould you just sit down?\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow, try to increase your alpha-wave activity.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit was sparsely sourced, but i think the science is valid.\nassistant\n",
+    "predict": "agree",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet me break this down for everyone.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis is strictly sex. no one stays over and we keep an even tally in terms of orgasms.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nin a relationship, you know things about the other person.\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know anything about dina, nor do i care to.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni guess just start with a punch in the face?\nassistant\n",
+    "predict": "doubt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat if i just kind of go like this?\nassistant\n",
+    "predict": "demonstrate",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'd rather be deported.\nassistant\n",
+    "predict": "complain",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmateo, it's not that easy to just punch somebody that you're not fighting with.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust--just talk to jeff.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, maybe.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, you really blew it.\nassistant\n",
+    "predict": "criticize",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhow old's this one?\nassistant\n",
+    "predict": "care",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, this is attachment therapy for timur's displacement/rage issues.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nstop! stop eating.\nassistant\n",
+    "predict": "prevent",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncrystal meth, he smokes a ton of it.\nassistant\n",
+    "predict": "introduce",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nis that-is that a deal-breaker?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncome get this candy.\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, uh, where do you see yourself in the future?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe means--where do you see yourself at cloud 9?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, glenn is in charge of hiring.\nassistant\n",
+    "predict": "inform",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, there's, like, a lot of dangerous people out there.\nassistant\n",
+    "predict": "warn",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, people spend so much time watching the coasts.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know where they're gonna strike first?\nassistant\n",
+    "predict": "confirm",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, what's up, truth?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat are you doing?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, look. it's dr. stud.\nassistant\n",
+    "predict": "joke",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, how did you know about it?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm fine.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso why was he at your party?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnothing, you're perfect.\nassistant\n",
+    "predict": "praise",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\necch. i'm not perfect.\nassistant\n",
+    "predict": "apologise",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyes, you are.\nassistant\n",
+    "predict": "agree",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you sure that your being drunk and your being angry with kurt doesn't have something to do with what's going on here?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i'm a freaking genius.\nassistant\n",
+    "predict": "flaunt",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbecause if all guys were like me, the human race couldn't survive.\nassistant\n",
+    "predict": "explain",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat are you doing?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npenny's still sleeping.\nassistant\n",
+    "predict": "inform",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy don't you have breakfast in bed?\nassistant\n",
+    "predict": "doubt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, howard said he'd take me shopping in beverly hills.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\npenny, you're always welcome to stay with us.\nassistant\n",
+    "predict": "inform",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat is that, like a mexican deli?\nassistant\n",
+    "predict": "joke",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmy first jew.\nassistant\n",
+    "predict": "introduce",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's my life, my friends. good to see you. say bye.\nassistant\n",
+    "predict": "arrange",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\na spring wedding?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyour parents don't consider this meddling.\nassistant\n",
+    "predict": "oppose",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhile arranged marriages are no longer the norm indian parents continue to have an involvement in their children's love lives.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou seemed confused.\nassistant\n",
+    "predict": "taunt",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmy parents are trying to marry me off to a stranger. what am i going to do?\nassistant\n",
+    "predict": "ask for help",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nromantic love as the basis for marriage has only existed since the 19th century.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nup until then, arranged marriages were the norm and it served society quite well.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntheir brain chemistry is far closer to ours.\nassistant\n",
+    "predict": "introduce",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwith certain obvious exceptions.\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num.... raj is going through some stuff right now and he'd like to take up drinking.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbartenders are supposed to have people skills.\nassistant\n",
+    "predict": "explain",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you talking to me?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nis there another penny here?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni was going to be the indira gandhi of particle astrophysics.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know what? i'm not going to let my parents control my future.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's time for a showdown.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, calm down.\nassistant\n",
+    "predict": "prevent",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno one can make you get married.\nassistant\n",
+    "predict": "oppose",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhaven't you been listening? i cannot talk to women.\nassistant\n",
+    "predict": "oppose",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nraj, honey you say you can't talk to women but you've been talking to me.\nassistant\n",
+    "predict": "criticize",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhappiness?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfreedom?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis warm glow inside of me that promises everything's going to be all hunky dunky?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, now you're a funnyman? this is not funny, mr. funnyman.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndr. and mrs. koothrappali, in all fairness, it wasn't entirely raj's fault.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngo ahead, tell my parents why they won't have any grandchildren.\nassistant\n",
+    "predict": "taunt",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfriends don't do that to each other.\nassistant\n",
+    "predict": "oppose",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndon't embarrass him in front of his friends.\nassistant\n",
+    "predict": "warn",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe ate, she lectured me on the link between gum disease and heart attacks nothing i didn't already know, and i came home.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso you're not gonna see her again?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsee?\nassistant\n",
+    "predict": "confirm",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhuh. well, that's handy.\nassistant\n",
+    "predict": "praise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh! they found the remote-control cars.\nassistant\n",
+    "predict": "praise",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni promised my mother.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, if i may drill down to the bedrock of my question why did you throw it out?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncome on, the only reason you're the lead author is because we went alphabetically.\nassistant\n",
+    "predict": "taunt",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me, i designed the experiment that proved the hypothesis.\nassistant\n",
+    "predict": "introduce",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, like in the classic sci-fi movie scanners?\nassistant\n",
+    "predict": "confirm",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhow about this one?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit says,  i know my physics, but i'm still a fun guy.  oh.\nassistant\n",
+    "predict": "introduce",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou see, kandor was the capital city of the planet krypton.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhere, why don't you put these on while i find a shirt and sport coat?\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, why didn't you wear it on halloween?\nassistant\n",
+    "predict": "doubt",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni said no. put it down.\nassistant\n",
+    "predict": "oppose",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me. little idea?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndon't you ever speak to me again.\nassistant\n",
+    "predict": "warn",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet's go.\nassistant\n",
+    "predict": "invite",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso we have a socially awkward genius in a room of attractive age-appropriate women.\nassistant\n",
+    "predict": "introduce",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni can't just go up and talk to her.\nassistant\n",
+    "predict": "complain",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy don't we do it your way, then?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmr. kim was not only the valedictorian at stanford university he is also the youngest recipient of the prestigious stevenson award.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwould you like to tell us about your upcoming research?\nassistant\n",
+    "predict": "invite",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, no, thanks. i'm going to the mall with emma.\nassistant\n",
+    "predict": "leave",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso smart, it's off-putting.\nassistant\n",
+    "predict": "praise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncan i go back and prevent you from explaining that to me?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's absurd.\nassistant\n",
+    "predict": "oppose",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsheldon, get out of my way.\nassistant\n",
+    "predict": "arrange",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat the hell's going on?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncome on, shelly.\nassistant\n",
+    "predict": "leave",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou tell people i'm a rocket scientist?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\na rocket scientist, how humiliating.\nassistant\n",
+    "predict": "leave",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, if i had a gun there, would you have shot yourself?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, god, oh, god, oh, god-the laundry is out of the hamper.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're late for leonard's birthday party and for another, i told him to call security.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe's coming. screen saver.\nassistant\n",
+    "predict": "inform",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat are you talking about? the date went fine.\nassistant\n",
+    "predict": "comfort",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhere could i have gone wrong?\nassistant\n",
+    "predict": "complain",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat woman across the hall is into me.\nassistant\n",
+    "predict": "inform",
+    "lable": "flaunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet's go to the tape.\nassistant\n",
+    "predict": "arrange",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's not a bad sign.\nassistant\n",
+    "predict": "comfort",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhich, by the way, compared to you guys, approaches warp speed.\nassistant\n",
+    "predict": "taunt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, fyi, the hot water is inadequate on machine 2, so colors only.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsheldon, may i ask you a question?\nassistant\n",
+    "predict": "confirm",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy would you lie about that?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, look, if leonard finds out that i lied, i will absolutely die of embarrassment.\nassistant\n",
+    "predict": "warn",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlook, i'm asking you as a friend.\nassistant\n",
+    "predict": "explain",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, i think i have the dinner shift on friday.\nassistant\n",
+    "predict": "inform",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe manager hasn't posted the schedule. how about i let you know?\nassistant\n",
+    "predict": "advise",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni have no information about your interactions with penny nor do i have any method of learning such things.\nassistant\n",
+    "predict": "explain",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat's wrong with your face?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthere's no reason to bring my looks into this.\nassistant\n",
+    "predict": "oppose",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngood day?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou sure things can't work out with you and leonard?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, then.\nassistant\n",
+    "predict": "agree",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwould it be possible for you to do this a little more quietly?\nassistant\n",
+    "predict": "ask for help",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat baldwin lock on your door uses traditional edge-mounted cylinders whereas the key for your volkswagen uses a center-cylinder system.\nassistant\n",
+    "predict": "introduce",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank you, sheldon.\nassistant\n",
+    "predict": "thank",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntoo midwest. what the hell does that even mean?\nassistant\n",
+    "predict": "doubt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwould you prefer to wait in our apartment?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njust when i think i've gotten the hang of sarcasm.\nassistant\n",
+    "predict": "complain",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni just got here.\nassistant\n",
+    "predict": "complain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're just gonna have to find someone else to take you home.\nassistant\n",
+    "predict": "leave",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, as it turns out, it's also a klingon word.\nassistant\n",
+    "predict": "inform",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njudge's ruling?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndid you pay your cable bill?\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat do you mean,  ohh?  like she didn't know we were nerds?\nassistant\n",
+    "predict": "doubt",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno wait, that's the future mrs. wolowitz.\nassistant\n",
+    "predict": "oppose",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'll just do my laundry another night.\nassistant\n",
+    "predict": "leave",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nanother night?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nanecdotal evidence suggests that in a game of rock, paper, scissors players familiar with each other will tie 75 to 80 percent of the time due to the limited number of outcomes.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, did you get pink eye again?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i'm sorry, but i'm not going to watch the clone wars tv series until i've seen the clone wars movie.\nassistant\n",
+    "predict": "oppose",
+    "lable": "apologise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfirst of all, that's a comparison of quality, not intensity.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsecondly, star trek i is orders of magnitude worse than star trek v.\nassistant\n",
+    "predict": "oppose",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nstar trek v is the standard against which all badness is measured.\nassistant\n",
+    "predict": "explain",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nplus, i understand you have to be next to the vehicle with your card when they arrive.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhave, um, you thought any more about you and rachel?\nassistant\n",
+    "predict": "confirm",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni wanna go talk to rachel for a minute. are you gonna be okay alone for a bit?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nphoebe, there is no secret, okay? i didn't propose.\nassistant\n",
+    "predict": "explain",
+    "lable": "oppose"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni am a doctor.\nassistant\n",
+    "predict": "introduce",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know what? i'm just gonna go and talk to rachel myself.\nassistant\n",
+    "predict": "leave",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, my god. she thinks we're engaged.\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nperhaps because you gave her an engagement ring?\nassistant\n",
+    "predict": "doubt",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit says to try holding the baby close to your body and then swing her rapidly from side to side.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nma'am, uh, do you have a minute?\nassistant\n",
+    "predict": "ask for help",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou fell asleep?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni went home and told my wife about tulsa, and she won't go.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'll call you from tulsa.\nassistant\n",
+    "predict": "plan",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i don't think dressing provocatively is going to help me here!\nassistant\n",
+    "predict": "oppose",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat's your new job, day or night. she starts crying, i need you here.\nassistant\n",
+    "predict": "arrange",
+    "lable": "ask for help"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're moving to tulsa.\nassistant\n",
+    "predict": "plan",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay? i never really wanted to marry joey, okay?\nassistant\n",
+    "predict": "emphasize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nmike hit my mom with a car.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou are unbelievable. i spent so much time finding the perfect girl for you.\nassistant\n",
+    "predict": "praise",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, who are you kidding?\nassistant\n",
+    "predict": "taunt",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ngod, this is humiliating!\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah? now, how's that going? is it getting serious?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\num, there's nothing wrong with you.\nassistant\n",
+    "predict": "oppose",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nphoebe.\nassistant\n",
+    "predict": "comfort",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey, i am not going to objectify women with you.\nassistant\n",
+    "predict": "oppose",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, and you know what you should bring?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyour black see-through teddy with the attached garters.\nassistant\n",
+    "predict": "inform",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me?\nassistant\n",
+    "predict": "doubt",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, i said that i think you're hot.\nassistant\n",
+    "predict": "explain",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm hayley.\nassistant\n",
+    "predict": "introduce",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, you're both so slutty, you don't remember who you slept with.\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou're made for each other.\nassistant\n",
+    "predict": "praise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno salt! bloaty!\nassistant\n",
+    "predict": "complain",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy don't you sit down.\nassistant\n",
+    "predict": "arrange",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbecause i have a little surprise for you.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndo you want me to get into the tub and thrash?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nreally, you are amazing. you were actually gonna do this for me?\nassistant\n",
+    "predict": "praise",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nooh, i don't know, chandler. i'm not so good with remembering lines.\nassistant\n",
+    "predict": "explain",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhy are we doing this?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso how many guys have your key?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, no, no. it's not as bad as it looks.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, um, david and i did used to go out.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's like the cheapest college ever.\nassistant\n",
+    "predict": "taunt",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso how come richard's selling the place? went bankrupt?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, that's okay. that's okay. i mean, i am a vegetarian except for veal. yeah. no. veal i love. heh.\nassistant\n",
+    "predict": "oppose",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's easy to remember, and it doesn't invite a lot of questions.\nassistant\n",
+    "predict": "explain",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat happened?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, i went to the zoo yesterday, now i'm a koala bear.\nassistant\n",
+    "predict": "inform",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou didn't come and visit me when i was in the hospital having the baby!\nassistant\n",
+    "predict": "criticize",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou didn't come see me in the hospital when i was getting my lips done!\nassistant\n",
+    "predict": "criticize",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbecause you don't want me to be happy.\nassistant\n",
+    "predict": "criticize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou've always been like this.\nassistant\n",
+    "predict": "taunt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlike in junior high, when you stole timmy from me.\nassistant\n",
+    "predict": "criticize",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, do you even realize how much that hurt me?\nassistant\n",
+    "predict": "criticize",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntimmy was my boyfriend, and you made out with him!\nassistant\n",
+    "predict": "criticize",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ntoo far, amy. too far.\nassistant\n",
+    "predict": "criticize",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nput the plates in the boxes! put the plates in the boxes!\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nlet's throw some jell-o on them!\nassistant\n",
+    "predict": "advise",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, that is it! this is our apartment, and you cannot behave this way!\nassistant\n",
+    "predict": "criticize",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow, i want you to apologize to each other and mean it.\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually, not pies. it's just pie.\nassistant\n",
+    "predict": "oppose",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, what do you know? i guess i'll be the one who dies first.\nassistant\n",
+    "predict": "complain",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey. i did it.\nassistant\n",
+    "predict": "inform",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, that's so cute. ross and mike's first date.\nassistant\n",
+    "predict": "praise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't know. but you know, we have a lot in common, you know?\nassistant\n",
+    "predict": "doubt",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, yeah.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni don't understand what just happened here.\nassistant\n",
+    "predict": "complain",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, no, she's not here right now. can i take a message?\nassistant\n",
+    "predict": "ask for help",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndid you guys...? you guys have a good time?\nassistant\n",
+    "predict": "confirm",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah?\nassistant\n",
+    "predict": "confirm",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhere's something blue and new.\nassistant\n",
+    "predict": "inform",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe'll bring it back. just put it under your dress.\nassistant\n",
+    "predict": "advise",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwendy's a fat-girl name.\nassistant\n",
+    "predict": "taunt",
+    "lable": "introduce"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. it was a stupid job, and i could not stand leaving you.\nassistant\n",
+    "predict": "explain",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand why should i be the only one who doesn't get to do what he really wants to do?\nassistant\n",
+    "predict": "doubt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i think that this is what you wanna do. i think it's great.\nassistant\n",
+    "predict": "oppose",
+    "lable": "praise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, while you were on your baby vacation, i was doing your job.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, and what department was that? the, uh, jerk department?\nassistant\n",
+    "predict": "doubt",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, did they mention that i'm rubber and you're glue?\nassistant\n",
+    "predict": "confirm",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nah, rachel. i see you've met gavin.\nassistant\n",
+    "predict": "introduce",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, wow. super ass-kissing power.\nassistant\n",
+    "predict": "praise",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow that you told me i can't have her, makes me want her even more!\nassistant\n",
+    "predict": "complain",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nfine.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nactually, uh, i'd rather be alone. you know, i really need to organize my thoughts.\nassistant\n",
+    "predict": "explain",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right, fine. i only have one thought.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nit's about the hot nanny. i gotta see her.\nassistant\n",
+    "predict": "leave",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i do rock that one.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nisn't there just a little part of you that wants to get up there?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, thank god! emma, there you are!\nassistant\n",
+    "predict": "greet",
+    "lable": "thank"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou knew this all along and you never told me?\nassistant\n",
+    "predict": "doubt",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwait, wait, wait! congratulations. you did it.\nassistant\n",
+    "predict": "comfort",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey, why did you tell chandler that monica was getting a boob job?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou know, sometimes your words, they hurt.\nassistant\n",
+    "predict": "comfort",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat? you want to get married?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand i love you, and i wanted to live with you.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ncan we at least try living together? you might change your mind about marriage.\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "advise"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you gonna change yours?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. okay.\nassistant\n",
+    "predict": "agree",
+    "lable": "acknowledge"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, at least you won't have to live with this ugly chair.\nassistant\n",
+    "predict": "taunt",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni love you.\nassistant\n",
+    "predict": "explain",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\njoey, you're sure? i mean, i know how much you love him.\nassistant\n",
+    "predict": "confirm",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyeah. well, why wouldn't she? he's a wonderful person.\nassistant\n",
+    "predict": "explain",
+    "lable": "agree"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nall right. look, let's think about this, okay?\nassistant\n",
+    "predict": "advise",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthis isn't about people not caring that you're dead.\nassistant\n",
+    "predict": "oppose",
+    "lable": "comfort"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nross, what are you doing?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nnow, do you have any idea what you just said?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, god, do you think she heard? it'd be so bad if she heard.\nassistant\n",
+    "predict": "complain",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, my god!\nassistant\n",
+    "predict": "leave",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm meeting with professor sherman about my being the keynote speaker.\nassistant\n",
+    "predict": "inform",
+    "lable": "plan"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhe, um... he fell asleep.\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou have to get that job.\nassistant\n",
+    "predict": "advise",
+    "lable": "emphasize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nso, um, tell me, how'd you guys meet?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndo you or any of your blood relatives have diabetes?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nuh, heart disease? alzheimer's? gout?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndid you have braces as a child?\nassistant\n",
+    "predict": "confirm",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nsure you don't want to stay a little longer?\nassistant\n",
+    "predict": "confirm",
+    "lable": "invite"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare you always tired?\nassistant\n",
+    "predict": "doubt",
+    "lable": "care"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthank god, because i don't wanna do this either.\nassistant\n",
+    "predict": "complain",
+    "lable": "thank"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nowen didn't know he's adopted and monica told him.\nassistant\n",
+    "predict": "explain",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni'm gonna go tell emma she was an accident.\nassistant\n",
+    "predict": "plan",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhey, stop staring at my wife's legs.\nassistant\n",
+    "predict": "warn",
+    "lable": "prevent"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni mean, it looks really good. i wonder if i should get one.\nassistant\n",
+    "predict": "taunt",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand she always brags about all the famous people she's met.\nassistant\n",
+    "predict": "introduce",
+    "lable": "taunt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat place in vermont? you can take a hint.\nassistant\n",
+    "predict": "taunt",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, can't you just go to vermont the next day?\nassistant\n",
+    "predict": "asking for opinions",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand, i mean, you know, you guys, this is a big deal.\nassistant\n",
+    "predict": "emphasize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand the race is going to go from here to here.\nassistant\n",
+    "predict": "introduce",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, ladies and gentlemen, wind your toys.\nassistant\n",
+    "predict": "arrange",
+    "lable": "inform"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwhat are you barking at?\nassistant\n",
+    "predict": "taunt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, how is that gonna help?\nassistant\n",
+    "predict": "doubt",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni bought you! how did i forget that that's all you do?\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthe rules clearly stated that the last one to cross the finish line was the loser.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nno, i didn't use the computer. it felt more personal to handwrite it.\nassistant\n",
+    "predict": "oppose",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\noh, my god. oh, my god. that letter is gonna go in our file.\nassistant\n",
+    "predict": "warn",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're gonna be one of those old couples that collects orchids or has a lot of birds.\nassistant\n",
+    "predict": "plan",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthey thought joey was a child?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndoesn't it make her nose look smaller?\nassistant\n",
+    "predict": "doubt",
+    "lable": "asking for opinions"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nif i had told you, then it wouldn't have been a surprise, now would it?\nassistant\n",
+    "predict": "confirm",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nhi, emma. oh. why is she wearing her hat so low?\nassistant\n",
+    "predict": "care",
+    "lable": "doubt"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ndid she do this to her?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbut, uh, my bosses didn't go for it. stupid sons of bitches.\nassistant\n",
+    "predict": "complain",
+    "lable": "criticize"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni got her from monica. she sold it to me for a very reasonable price.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwell, legend has it, joey, that she comes alive when you're asleep.\nassistant\n",
+    "predict": "taunt",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand then with her one good hand she slowly reaches up and turns your doorknob.\nassistant\n",
+    "predict": "explain",
+    "lable": "joke"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nget that legless witch out of here!\nassistant\n",
+    "predict": "arrange",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nbig smile.\nassistant\n",
+    "predict": "leave",
+    "lable": "arrange"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe took the wedding money we were gonna spend and donated it to a children's charity.\nassistant\n",
+    "predict": "inform",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nwe're so glad that you're here.\nassistant\n",
+    "predict": "inform",
+    "lable": "greet"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nare any other couples in the building adopting?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni went on a date with a guy who lived in this building. it didn't end very well.\nassistant\n",
+    "predict": "inform",
+    "lable": "complain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nthat wouldn't, by any chance, be joey tribbiani?\nassistant\n",
+    "predict": "doubt",
+    "lable": "confirm"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nokay, okay.\nassistant\n",
+    "predict": "acknowledge",
+    "lable": "leave"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nand we don't wanna buy your bat!\nassistant\n",
+    "predict": "oppose",
+    "lable": "refuse"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\nyou have got some nerve coming back here.\nassistant\n",
+    "predict": "criticize",
+    "lable": "warn"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni gave you my number. you never called me.\nassistant\n",
+    "predict": "criticize",
+    "lable": "explain"
+  },
+  {
+    "prompt": "system\nYou are a helpful assistant.\nuser\ni waited a long time! i can't wait anymore.\nassistant\n",
+    "predict": "complain",
+    "lable": "leave"
+  }
+]

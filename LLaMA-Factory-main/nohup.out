@@ -1,0 +1,39 @@
+bash: line 1: /root/miniconda3/etc/profile.d/conda.sh: No such file or directory
+bash: line 2: conda: command not found
+/opt/conda/envs/llama_factory/lib/python3.10/site-packages/jieba/_compat.py:18: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+INFO 11-18 04:34:29 [importing.py:53] Triton module has been replaced with a placeholder.
+INFO 11-18 04:34:29 [__init__.py:239] Automatically detected platform cuda.
+Traceback (most recent call last):
+  File "/opt/conda/envs/llama_factory/bin/llamafactory-cli", line 7, in <module>
+    sys.exit(main())
+  File "/root/user/xyh/LLaMA-Factory-main/src/llamafactory/cli.py", line 47, in main
+    from .webui.interface import run_web_demo, run_web_ui
+  File "/root/user/xyh/LLaMA-Factory-main/src/llamafactory/webui/interface.py", line 21, in <module>
+    from .components import (
+  File "/root/user/xyh/LLaMA-Factory-main/src/llamafactory/webui/components/__init__.py", line 15, in <module>
+    from .chatbot import create_chat_box
+  File "/root/user/xyh/LLaMA-Factory-main/src/llamafactory/webui/components/chatbot.py", line 24, in <module>
+    import gradio as gr
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/__init__.py", line 3, in <module>
+    import gradio._simple_templates
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/_simple_templates/__init__.py", line 1, in <module>
+    from .simpledropdown import SimpleDropdown
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/_simple_templates/simpledropdown.py", line 7, in <module>
+    from gradio.components.base import Component, FormComponent
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/components/__init__.py", line 41, in <module>
+    from gradio.components.multimodal_textbox import MultimodalTextbox
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/components/multimodal_textbox.py", line 41, in <module>
+    class MultimodalTextbox(FormComponent):
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/component_meta.py", line 221, in __new__
+    create_or_modify_pyi(component_class, name, events)
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/component_meta.py", line 136, in create_or_modify_pyi
+    current_interface, _ = extract_class_source_code(pyi_file.read_text(), class_name)
+  File "/opt/conda/envs/llama_factory/lib/python3.10/site-packages/gradio/component_meta.py", line 99, in extract_class_source_code
+    segment = ast.get_source_segment(code, node)
+  File "/opt/conda/envs/llama_factory/lib/python3.10/ast.py", line 362, in get_source_segment
+    lines = _splitlines_no_ff(source)
+  File "/opt/conda/envs/llama_factory/lib/python3.10/ast.py", line 323, in _splitlines_no_ff
+    if c in '\r\n':
+KeyboardInterrupt
+bash: -c: option requires an argument
