@@ -27,6 +27,60 @@
       "assistant_tag": "assistant"
     }
   },
+  "MIntRec_train_desc": {
+    "file_name": "MIntRec_train_desc.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec_test_desc": {
+    "file_name": "MIntRec_test_desc.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec_test_text": {
+    "file_name": "MIntRec_test_text.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec_train_text": {
+    "file_name": "MIntRec_train_text.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
   "MIntRec2_train": {
     "file_name": "MIntRec2_train.json",
     "formatting": "sharegpt",
@@ -43,34 +97,6 @@
   },
   "MIntRec2_test": {
     "file_name": "MIntRec2_test.json",
-    "formatting": "sharegpt",
-    "columns": {
-      "messages": "messages",
-      "videos": "videos"
-    },
-    "tags": {
-      "role_tag": "role",
-      "content_tag": "content",
-      "user_tag": "user",
-      "assistant_tag": "assistant"
-    }
-  },
-  "MIntRec2_train_sa": {
-    "file_name": "MIntRec2_train_sa.json",
-    "formatting": "sharegpt",
-    "columns": {
-      "messages": "messages",
-      "videos": "videos"
-    },
-    "tags": {
-      "role_tag": "role",
-      "content_tag": "content",
-      "user_tag": "user",
-      "assistant_tag": "assistant"
-    }
-  },
-  "MIntRec2_test_sa": {
-    "file_name": "MIntRec2_test_sa.json",
     "formatting": "sharegpt",
     "columns": {
       "messages": "messages",
@@ -139,34 +165,6 @@
       "assistant_tag": "assistant"
     }
   },
-"MIntRec2_train_efe_iwo": {
-    "file_name": "MIntRec2_train_efe_iwo.json",
-    "formatting": "sharegpt",
-    "columns": {
-      "messages": "messages",
-      "videos": "videos"
-    },
-    "tags": {
-      "role_tag": "role",
-      "content_tag": "content",
-      "user_tag": "user",
-      "assistant_tag": "assistant"
-    }
-  },
-  "MIntRec2_test_efe_iwo": {
-    "file_name": "MIntRec2_test_efe_iwo.json",
-    "formatting": "sharegpt",
-    "columns": {
-      "messages": "messages",
-      "videos": "videos"
-    },
-    "tags": {
-      "role_tag": "role",
-      "content_tag": "content",
-      "user_tag": "user",
-      "assistant_tag": "assistant"
-    }
-  },
   "MELD_train": {
     "file_name": "MELD_train.json",
     "formatting": "sharegpt",
@@ -187,6 +185,58 @@
     "columns": {
       "messages": "messages",
       "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec2_test_text": {
+    "file_name": "MIntRec2_test_text.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec2_train_text": {
+    "file_name": "MIntRec2_train_text.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec2_test_text_efe": {
+    "file_name": "MIntRec2_test_text_efe.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "MIntRec2_train_text_efe": {
+    "file_name": "MIntRec2_train_text_efe.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages"
     },
     "tags": {
       "role_tag": "role",

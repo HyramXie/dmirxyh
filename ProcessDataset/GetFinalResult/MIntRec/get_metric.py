@@ -3,9 +3,9 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from collections import defaultdict, Counter
 import sys
 
-logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/result_report.txt"
-json_file = "/root/user/xyh/LLaMA-Factory-main/eval/MIntRec/generated_predictions.json"
-wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/case_study.json"
+logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/result_report_text.txt"
+json_file = "/root/user/xyh/LLaMA-Factory-main/eval/MIntRec/generated_predictions_text.json"
+wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/case_study_text.json"
 
 class Logger:
     def __init__(self, filename):

@@ -21,7 +21,7 @@ preprocessing_num_workers: 1
 dataloader_num_workers: 0
 
 ### output
-output_dir: saves/qwen2_5omni-7b/lora/sft
+output_dir: saves/qwen2_5omni-7b-mintrec/lora/sft
 logging_steps: 10
 save_steps: 500
 plot_loss: true

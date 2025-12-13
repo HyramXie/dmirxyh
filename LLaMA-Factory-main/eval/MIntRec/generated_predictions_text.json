@@ -1,0 +1,445 @@
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou're gonna go back and work on that register\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncorned beef and cabbage are 20% off.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm not really that happy with you either.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ndon't be stingy with the squirts.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ndon't worry, sandra saw it and she didn't say anything.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou guys are the best. i love you all.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhat? wait, no, no.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, how's it going?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah. yeah. this is definitely overboard.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngod, i can't take it!\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\namy, i need to report an employee theft.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ndon't worry about it.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis lipstick is stay all day\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm gonna check on gerald, see if he's done crying in the men's room.\nassistant\n", "predict": "Leave", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, and you wouldn't give me the day off to skype with my boyfriend.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, guys. having fun?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, you guys don't have to come with me.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngreat. let's get back to work.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry, i got caught up in the moment.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nshe can't stand that i have authority now\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni think we should probably hear a few more, uh, female voices.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, well, thanks.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou've gone power mad.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni don't even know who you're thinking of.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\namy, sorry to interrupt\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhy shouldn't we have a debate?\nassistant\n", "predict": "Advise", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwait, it's- hey, stop... stop!\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni would give jonah a lap dance in a second\nassistant\n", "predict": "Joke", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncheyenne, give her the axe.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnext order of business,we're going to be holding an employee costume competition today.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat's past the property line.\nassistant\n", "predict": "Inform", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbo's mom calls, like, all the time.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nto award the golden vest...\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, i'm- i'm gonna make him look good.\nassistant\n", "predict": "Inform", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, but i don't think anyone should have that much power.\nassistant\n", "predict": "Complain", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni 'm just saying that you should tell garrett\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's a pipe organ.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat's tommy. he's lead organizer, total badass.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you so much.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ndina's right, you don't know fashion.\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah, she's great.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis pops  tony danza brand popcorn cartridges only.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\n'cause then i could hit on this bodacious babe.\nassistant\n", "predict": "Flaunt", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou need to go back up to her and tell her\nassistant\n", "predict": "Advise", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, hey. dina, what's up?\nassistant\n", "predict": "Greet", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhy are you telling people that i'm  lying like a syrian ?\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nanyway, zephra also asked me to set up a video conference\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis is a great debate for another time.\nassistant\n", "predict": "Leave", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe have, and we want to apologize.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe just solved our first business crisis.\nassistant\n", "predict": "Flaunt", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso thank you all so much for my gifts.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nuh, no, that definitely wasn't me.\nassistant\n", "predict": "Oppose", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncarol and justine, i'm moving you to school supplies.\nassistant\n", "predict": "Inform", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut i need you to go empty the rat traps.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nleading scientist admits earth is flat.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni really appreciate jerusha watching parker.\nassistant\n", "predict": "Praise", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni am so sorry\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\njonah, i don't feel you were fair to me--\nassistant\n", "predict": "Complain", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, she is the devil.\nassistant\n", "predict": "Taunt", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou are bright. your numbers are great.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, hey, dina.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, you don't have to be ashamed.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnow, i'm gonna be a little busy.\nassistant\n", "predict": "Leave", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand this is the break room.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni was just, um...i'm sorry.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit couldn't hurt to shake things up a little bit here.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmaybe st. louis finally has a female serial killer.\nassistant\n", "predict": "Joke", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\none-  it's a cereal bar!\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ntake one whack, all right?\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nlook, all i'm saying is that you don't have to worry\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni am going to sit in traffic for 45 minutes and return this.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\namy, why don't you be the manager, and you're gonna talk to cheyenne about her repeated absences.\nassistant\n", "predict": "Advise", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni can just take off.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, carol. welcome back.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncome on, it wasn't that bad.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, those babies look great.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou knocked over that cone back there, dog--i want a rematch.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso, girl, how is your day going?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmaybe, instead, we should make them feel\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, it doesn't matter.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, and i said how mateo's always serving up the tea, like when he told that lost little girl because her mommy was hot trash.\nassistant\n", "predict": "Taunt", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut you are coming on way too strong\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey! just coming by to say hey.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'll make sure to get the rest of those boxes.\nassistant\n", "predict": "Inform", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, no, it's- it's fine, it's fine.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut i can't forgive myself for leaving you for it.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm already three orders behind!\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry, i've just been feeling a little down lately.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni probably should've led with that, but you just kept talking and talking about how great you're doing.\nassistant\n", "predict": "Criticize", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis place is crawling with raccoons.\nassistant\n", "predict": "Inform", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, yes, thank you.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah. yeah, i would say that.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncarol, you can probably just go start your shift now.\nassistant\n", "predict": "Arrange", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsucks.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso how's your toast coming?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwell, it affects my work.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhow you doing?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry i'm being so insensitive.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni just had a really hard year.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, those are yesterday's donuts.\nassistant\n", "predict": "Oppose", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthe guy's a monster.\nassistant\n", "predict": "Criticize", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmateo, give him his gift card.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncorporate is asking us to run everybody through e-verify, and there's a bit of a problem.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ntotally. sounds great.\nassistant\n", "predict": "Agree", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, we have a problem.\nassistant\n", "predict": "Ask for help", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, ken, that's my car. that's the managers spot.\nassistant\n", "predict": "Prevent", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nfoul on the play!\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nplease gather in the break room\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nlet's not use the word  crazy.\nassistant\n", "predict": "Advise", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthen they shouldn't have started talking trash about us.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe should just take it from the top.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, man, don't touch my tummy!\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you for coming.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhannah, can you update the sim card on the robot?\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand here's the guy we have to thank.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni better go tell her.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, hey, guys, i don't know if you heard, but sandra's cat died yesterday\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat's a great idea. oh, my--\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nclose. they're supercloud step trackers.\nassistant\n", "predict": "Introduce", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni think jerry should have ended up with carol!\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit looked kind of like an inside-out otter.\nassistant\n", "predict": "Joke", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nplease, i should be thanking you.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand he's going to be taking over for glenn as manager.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni did, that was awesome.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry, i meant to say that i also have\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni got a meeting--party.\nassistant\n", "predict": "Inform", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nconnie, i love that dress.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nfast as lightning, but sharper.\nassistant\n", "predict": "Praise", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\njonah and amy are at each other's throats.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\na teenager bought 144 cans of chafing fuel\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnever mind.\nassistant\n", "predict": "Leave", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmight have everybody a little bit on edge, but i mean, everybody gets that you guys matter. we're all good.\nassistant\n", "predict": "Comfort", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmaybe we should humanize it.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthere, see, was that so hard?\nassistant\n", "predict": "Taunt", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks, that's comforting.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni, um, can type 100 words per minute.\nassistant\n", "predict": "Flaunt", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhat up, dave, is that i asked you hours ago  to assemble the turtle wax endcap, and it's still not done.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncan you back me up here, please?\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, maya's here.\nassistant\n", "predict": "Inform", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i think i'm gonna head to my car\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\njust tell 'em to take it down and get back to work.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm, uh, sorry about the mess.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, thank you for watching her.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, nothing. just having a little thing at my place.\nassistant\n", "predict": "Leave", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks, amy.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nah, sand--sandra, i am gonna have you set up the display today.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou sure i can't get you a drink?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry. text from dina.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhave you guys worked things out?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nshe doesn't want us!\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou guys should file a complaint with the company.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni thought you were, but then they started following me around; they started searching my stuff.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nanyway, dina i can't go this year\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthey looked great.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsandra, come on. let's go.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, sandra, this order just says  pot.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhi, uh, i'm brian, by the way. i'm dina's boyfriend.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah, definitely.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe quit telling you weeks ago because you're management.\nassistant\n", "predict": "Criticize", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmy name is dina fox, and my goal here today is\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand i thought it would be the same, but it's not!\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni think i've won her over.\nassistant\n", "predict": "Flaunt", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut it's not really your fault.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni thought it was screaming, but i guess i was silent, because you muted me. you took away my voice.\nassistant\n", "predict": "Complain", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni can do impressions too.\nassistant\n", "predict": "Flaunt", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwho wore it best, and the winner gets...\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnew policy. starting now, there will be absolutely no personal talk on the floor.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou stole jerry from me.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you. you know, kelly\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe should just send justine home, right?\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso, look, i think it's great you're out here\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhonestly, really great\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\num, georgia is kind of a legend.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm just gonna hand out shift assignments\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nduh. i'm sorry, mateo.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ntheir beauty standers are way lower\nassistant\n", "predict": "Complain", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhm. eugene, could you get those boxes off from the top shelf, and take them to the back?\nassistant\n", "predict": "Arrange", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthe colors are packaged so you know they go together.\nassistant\n", "predict": "Inform", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, yeah, you're right. you're right.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis sucks.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ntheir tablets barely hold a charge.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngreat. awesome.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso starting now, if anybody buys one of these without a warning and they die, we're liable.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat long. what have you been up to?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nis everything okay?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's fine, i'm just gonna put on my sweet and innocent voice, and bam, they won't even know what they're confessing to.\nassistant\n", "predict": "Joke", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhow's the peeing going?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, that is wonderful.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nuh, i'm sorry.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut i think it might be easier if you just wrote it down.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nkaluiokalani sounds made-up. anyway, just tell him i'm dead.\nassistant\n", "predict": "Inform", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhy can't i just delete the registry?\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry, marcus.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhuh, you know, that's a good point.\nassistant\n", "predict": "Agree", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nall you have to do today is hand out these nifty care packages to the holloway house women's shelter\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhonestly, you're- you're really beautiful.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni did. i did. i blew it.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou don't need to. no.\nassistant\n", "predict": "Prevent", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngarrett's like a really nice guy and funny and cute.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthe governor shut down all indoor dining.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngood morning, store 1217.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nexcuse me, do you know anything about drills?\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, anyway, i need to get a head count so i know who's coming.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, so i just wanted to apologize\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnot a refugee, like you. knock on wood.\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nshe threw a mustard jar at me. it left a bruise... on my thigh.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand we thought of you\nassistant\n", "predict": "Praise", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbeautiful.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nboth jonah and cheyenne wanna be floor supervisor.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut i thought we'd make a list of the other issues corporate needs to address.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis is a map of the night stars over st. louis where we met.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni don't think that's what i said at all.\nassistant\n", "predict": "Oppose", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nshe's a real grumplestiltskin.\nassistant\n", "predict": "Taunt", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, garrett.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, let's start by hearing everybody's work experience.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni guess it's defective, just like the two of you!\nassistant\n", "predict": "Taunt", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\njust say that you were with bo all night last thursday.\nassistant\n", "predict": "Advise", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou look good and you better get your prize\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit was a...anniversary present for my wife\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ntwo babies enter, one baby leaves.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nah mateo, that's awesome!\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nladies, this is the embalming conference.\nassistant\n", "predict": "Inform", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyours was just, like, attitude, which is fine.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe've got a really exciting covid announcement.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nif you could just put all the raw footage on there.\nassistant\n", "predict": "Advise", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthey don't even have to pay for their aroma-therapy diffusers. how is that fair?\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's not that bad.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, fine, whatever. let's just go.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngirl, don't be so hard up on yourself, okay? i'm sure it's not nearly as bad as you--.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you, glenn.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nshe was great. and funny.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou first, justine.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhe's in a handball league, he had a deaf girlfriend\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwell, i mean, you almost made me kill your cat.\nassistant\n", "predict": "Criticize", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm gonna pass out the tomatoes.\nassistant\n", "predict": "Inform", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat squeaks. that's what squirrels do.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis is too much pressure.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand actually,maybe you could talk to him about sex and stuff.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwell, amy is at the eye doctor.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni gotta go tag in.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou just throw it in a cart like a sack of margarine.\nassistant\n", "predict": "Taunt", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnobody's getting fired. get out of your head.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nstop, please.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat's good advice.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni know you're lying!\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand i was wondering if maybe you'd be willing to write a letter of recommendation\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry. i'm so sorry, judy.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncease fire! cease fire!\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis is a very good plan.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, you don't get a gift card for every stupid little army man.\nassistant\n", "predict": "Complain", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthese people, they're evil.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand crestwood came around... hey!\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni once ate a pencil 'cause i thought it was chocolate.\nassistant\n", "predict": "Joke", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou're hurt.\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nactually, i really need to get out.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, they're jordan 11 retro concords.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsandra's sister is useless, and jerry's family members\nassistant\n", "predict": "Taunt", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's homemade.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni just wanted to apologize for earlier.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsee, look at my dress. it's spotless.\nassistant\n", "predict": "Flaunt", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, you're right. you're right.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm like a sitting duck in customer service. you have any idea how wet-lipped\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\njust a heads up, you might be getting a call\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nright, yes, yeah, yeah. that's a good- that's a good point.\nassistant\n", "predict": "Agree", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, i gotta get going.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyes, definitely.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni wanna be puma, raised in the jungles of peru\nassistant\n", "predict": "Joke", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso you either interview amy,or i file a 31-j with kyle robichot.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyup, that was pretty cool of corporate to fix it.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nzephra finally sent over the safety protocols.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut properly distanced, so don't move your chairs.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni appreciate that you bought american!\nassistant\n", "predict": "Praise", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhat happened with amy?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat is a good point, dina.\nassistant\n", "predict": "Agree", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nquick covid safety reminder:\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis is great, this is healthy, this is--this is--\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nor girlfriend, what does she think about all your birds?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut, uh, we got some more partying to do, folks.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, wow. i look like a hot, glowing stanley tucci.\nassistant\n", "predict": "Joke", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmake a reservation at ramona's.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks for filling in.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnot a problem for me.\nassistant\n", "predict": "Comfort", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, hey, amy.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's the parents you want to impress\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou gotta show her these before you dump her.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, you know what? uh, everything's not all right.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nuh, sandra, can you take the lead on that?\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhalloween surfboard.  it's just stupid!\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou did? aww, thanks, garrett.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmaybe dina shouldn't have brought her loud, dirty birds into work.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, no, jurgen steals all my jobs.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, bo, stop. all right?\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey! i got you a little congratulations gift\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\num--oh, yeah, she is great.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, so, uh, st. patrick's day. right.\nassistant\n", "predict": "Introduce", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe're--we're not here for the crumbs, you know?\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ndina, you're gonna be fine.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, my god, you're cheating.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat's what i thought.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso if you see him, call me on the walkie immediately.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni think it's great that we're trying\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\namy, it's fine. it's just a call.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, you played that very cool, by the way.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhat? no, i didn't take any packages.\nassistant\n", "predict": "Oppose", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhoa, whoa, whoa, whoa, whoa. we don't need to do that, okay?\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nuh, so what was it?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\njust letting you know, i want a divorce.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhi amy, it's me.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhow's it going in there?\nassistant\n", "predict": "Care", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit is. it is a nice parking lot.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmargo's my girlfriend.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's worth a try.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, hey, excuse me, man. is this place open?\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nuh, don't eat the baby food. the baby food is bad.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncan you just help me figure out how to play this?\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nprotect your future, chica. you could be going places.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, girl. you won.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni was actually pretty upset about it. i stewed outside for hours.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nlook, i don't understand why everybody wants to talk everything to death. to talk everything to death.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, excuse me, sir- can i get this in a--\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou're right.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat- that i need until end of day!\nassistant\n", "predict": "Inform", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni have slept 90 minutes in three days.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyour total is $23.87.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthen i need you to go clean the men's washroom.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh! amy.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhy don't we pick out items for each other?\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncheyenne was right. i'm a screwup.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwell, we don't allow street performers out here\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry, this is where we're storing\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou should never joke about bombs.\nassistant\n", "predict": "Advise", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthanks for stopping by.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthey ride us till we drop and then immediately sell our ass meat.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe raised the wage!\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat's state-of-the-art wireless vr.\nassistant\n", "predict": "Introduce", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhe's obviously toxic american masculinity.\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut lady is on my last nerve today.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nso you may have heard about the new ownership, but we're still cloud 9\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, browsing's for cowards, dude!\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nor--or--or put them in, like, a science lab, you know?\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni mean, i applaud you for trying\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, nice to have you, man.\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno one moved product like me back at sturgis & sons.\nassistant\n", "predict": "Flaunt", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe'll consider that. thank you.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ndan wants to put in a  famous glasses in history  display.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwait, there's one more i want you to try.\nassistant\n", "predict": "Arrange", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni want to make you a manager.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni've heard it five times.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmaybe he's afraid of heights. put him on the floor.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, okay. all right, look.\nassistant\n", "predict": "Arrange", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis isn't even a break. this is just... unofficial break room time.\nassistant\n", "predict": "Oppose", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, yeah, sure.\nassistant\n", "predict": "Agree", "label": "Agree\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand terrence, you stole $40 billion\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, i haven't sold, like, anything today.\nassistant\n", "predict": "Complain", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthe--the case is closed. you can't reopen the case.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhy? glenn, what were you thinking?\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ntony!\nassistant\n", "predict": "Greet", "label": "Greet\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's just, it feels silly for me to be giving a speech\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou've got like a- like a post-pregnancy glow.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nher hair looks like spaghetti that's been left in the pot.\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou stay right here.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand you're really good at holding things.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry. i tried.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry, cheyenne. gecko lady's weirder.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwe should be talking about actual issues.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou don't have to be embarrassed.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthe worst part about this is that colleen wins again.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni really hate her.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni budgeted six shrimp per person, so go to town.\nassistant\n", "predict": "Arrange", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwhere's my order? i need that washing machine.\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry, buddy. not you. you look totally normal.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nbut you are gonna be fine.\nassistant\n", "predict": "Comfort", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni order three jars of pumpkin spice salsa an hour ago, and i've been waiting in my car.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nnot today. look, i'm sorry about amy too.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand the sound quality's full  garbagio.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni have to fix it before maya sees.\nassistant\n", "predict": "Arrange", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nglenn, apologize to the car i dented.\nassistant\n", "predict": "Arrange", "label": "Arrange\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nare you okay?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngarrett can do anything.\nassistant\n", "predict": "Praise", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni was the best salesperson in the store.\nassistant\n", "predict": "Flaunt", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis isn't the company i signed up to work for after they drove my family hardware store out of business.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\neric, i told you, you can't just let anybody into my house.\nassistant\n", "predict": "Prevent", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhe brings that up a lot. i'm sorry.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\neverything all right?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry, just a little nervous.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, they still have some!\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni work here 16 to 19 hours a day, so i'm missing a lot of time with her.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhe's lying right now because he stole the stuff.\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm pretty good at hiding things.\nassistant\n", "predict": "Flaunt", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nmy husband's being such a b-munch right now.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nokay, bye.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, no, no, janet, don't hang up.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nattention cloud 9 shoppers and employees. i, uh--i just wanted to take this moment\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it's nice.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthey're not really known for their customer service.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwell, then let's all stop annoying each other\nassistant\n", "predict": "Advise", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat i actually ended up suppressing votes?\nassistant\n", "predict": "Complain", "label": "Flaunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit's not cool, it's not funny, and it's starting to make people uncomfortable.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthank you.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm doing this new curbside thing.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwell, i really need ice cream cones.\nassistant\n", "predict": "Ask for help", "label": "Ask for help\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou know, it might be nice for parker to get some\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ngood. are you sick?\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthe reason i'm asking is we don't accept your insurance.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni've got an idea. fire her ass.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, so what's the latest with operation\nassistant\n", "predict": "Care", "label": "Care\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, that's really great.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nugh. what a waste of money.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyou're satan workers!\nassistant\n", "predict": "Criticize", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ncindy, i'm gonna do that right now.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nand unfortunately, it is supposed to rain.\nassistant\n", "predict": "Inform", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nit makes about as much sense\nassistant\n", "predict": "Complain", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm just gonna be a good old-fashioned cowboy.\nassistant\n", "predict": "Flaunt", "label": "Joke\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhe's just a wuss who's still afraid of his parents.\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nwow. cool shirts.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsorry i'm late. sorry.\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nis how a man manages to make it to 60 without hitting puberty.\nassistant\n", "predict": "Taunt", "label": "Taunt\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nanyway, thank you for coming and talking to me.\nassistant\n", "predict": "Thank", "label": "Thank\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nlike, you need to communicate better.\nassistant\n", "predict": "Advise", "label": "Advise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nlove the socks, by the way. so thoughtful.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nno, no, no, it's called multi-level marketing.\nassistant\n", "predict": "Oppose", "label": "Oppose\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis display's my masterpiece right here.\nassistant\n", "predict": "Flaunt", "label": "Introduce\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhow am i supposed to find $27,000 worth of stuff to repair in one day? there's just not that much stuff that's broken!\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyeah, it just takes practice.\nassistant\n", "predict": "Advise", "label": "Comfort\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthat was- good breakthrough.\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nthis is great!\nassistant\n", "predict": "Praise", "label": "Praise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nhey, you've got a thing coming up.\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\namy, us men of the store are tired of taking orders from a woman.\nassistant\n", "predict": "Complain", "label": "Complain\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nsandra, you have to stop.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni mean, i do kind of have to go.\nassistant\n", "predict": "Leave", "label": "Leave\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\noh, okay, well, yeah. don't--do not give him that.\nassistant\n", "predict": "Prevent", "label": "Prevent\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nguys, i sent carol to lunch so that we could talk about\nassistant\n", "predict": "Inform", "label": "Inform\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\ni'm sorry, garrett\nassistant\n", "predict": "Apologise", "label": "Apologise\n"}
+{"prompt": "system\nYou are a helpful assistant.\nuser\nyour fault because the two of you don't know\nassistant\n", "predict": "Criticize", "label": "Criticize\n"}
