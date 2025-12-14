@@ -8,12 +8,12 @@ from openai import OpenAI
 
 # 1. 配置
 client = OpenAI(
-    api_key="sk-fb74415fa8024a08be9639443b0c7127",
+    api_key="sk-599bb017e7f74dc9ba828773541362d4",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
 )
 
-input_csv = "/root/user/xyh/Datasets/MIntRec/train.tsv"
-output_csv = "mintrec_with_desc_omni.csv"
+input_csv = "/root/user/xyh/Datasets/MIntRec/temp.csv"
+output_csv = "temp.csv"
 
 # 设定阈值：小于 1.0 秒的视频将被视为“图片序列”处理
 MIN_VIDEO_DURATION = 1.0 
@@ -78,32 +78,20 @@ def generate_description(video_path):
     content_payload = []
     mode_log = ""
 
-    # 2. 分支处理
-    if duration < MIN_VIDEO_DURATION:
-        # === 模式 A: 视频太短 -> 转为多图序列 ===
-        mode_log = f"[Seq-Images {duration:.2f}s]"
-        print(f"   ⚠️ Video too short ({duration:.2f}s), extracting {NUM_FRAMES} frames...")
-        
-        # 提取关键帧
-        frames_b64_list = extract_frames_as_base64(video_path, num_frames=NUM_FRAMES)
-        
-        # 构造 OpenAI 格式的多图输入
-        # 这种格式下，模型会理解为这是一组连续的画面
-        for b64_str in frames_b64_list:
-            content_payload.append({
-                "type": "image_url",
-                "image_url": {"url": f"data:image/jpeg;base64,{b64_str}"}
-            })
-            
-    else:
-        # === 模式 B: 正常视频 -> 传视频流 ===
-        mode_log = "[Video]"
-        video_b64 = encode_video_base64(video_path)
+    # === 模式 A: 视频太短 -> 转为多图序列 ===
+    mode_log = f"[Seq-Images {duration:.2f}s]"
+    print(f"   ⚠️ Video too short ({duration:.2f}s), extracting {NUM_FRAMES} frames...")
+    
+    # 提取关键帧
+    frames_b64_list = extract_frames_as_base64(video_path, num_frames=NUM_FRAMES)
+    
+    # 构造 OpenAI 格式的多图输入
+    # 这种格式下，模型会理解为这是一组连续的画面
+    for b64_str in frames_b64_list:
         content_payload.append({
-            "type": "video_url",
-            "video_url": {"url": f"data:video/mp4;base64,{video_b64}"}
+            "type": "image_url",
+            "image_url": {"url": f"data:image/jpeg;base64,{b64_str}"}
         })
-
     # 3. 最后追加 Prompt 文本
     content_payload.append({"type": "text", "text": PROMPT})
 
@@ -122,7 +110,7 @@ def generate_description(video_path):
 # ---------------------------
 
 # 读取数据
-df = pd.read_csv(input_csv, sep='\t')
+df = pd.read_csv(input_csv)
 
 # --- 断点检测 ---
 start_index = 0
