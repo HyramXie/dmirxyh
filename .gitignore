@@ -1,3 +1,5 @@
-Datasets/
-!Datasets/*.tsv
-!Datasets/*.csv
+/Datasets/MIntRec/raw_data
+/Datasets/MIntRec2/video
+/LLaMA-Factory-main/output
+/LLaMA-Factory-main/saves
+*.log
