@@ -1,9 +1,5 @@
-import os
-import json
 import torch
-from torch.utils.data import Dataset
 from transformers import Qwen2_5_VLProcessor
-from qwen_vl_utils import process_vision_info 
 
 class DataCollatorForQwenMIntRec:
     def __init__(self, processor):

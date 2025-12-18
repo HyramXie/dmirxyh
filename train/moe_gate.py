@@ -1,8 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from transformers import Qwen2_5_VLForConditionalGeneration
-from peft import get_peft_model, LoraConfig
 
 class MoEGate(nn.Module):
     def __init__(self, input_dim, num_experts, top_k=2):

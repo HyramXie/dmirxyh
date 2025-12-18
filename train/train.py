@@ -1,7 +1,8 @@
 import argparse
 from transformers import TrainingArguments, Trainer, Qwen2_5_VLProcessor
-from model_provider import Qwen2_5_VL_MIntRec
-from data_provider import MIntRecDataset, DataCollatorForQwenMIntRec
+from qwen2_5vl_moe import Qwen2_5_VL_MIntRec
+from mintrec_dataset import MIntRecDataset
+from data_collator import DataCollatorForQwenMIntRec
 
 def train():
     parser = argparse.ArgumentParser()

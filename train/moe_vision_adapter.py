@@ -1,8 +1,6 @@
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
-from transformers import Qwen2_5_VLForConditionalGeneration
-from peft import get_peft_model, LoraConfig
+from moe_gate import MoEGate
 
 class VisionMoEAdapter(nn.Module):
     """

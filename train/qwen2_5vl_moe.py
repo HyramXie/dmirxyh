@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
 from transformers import Qwen2_5_VLForConditionalGeneration
 from peft import get_peft_model, LoraConfig
+from moe_vision_adapter import VisionMoEAdapter
 
 class Qwen2_5_VL_MIntRec(nn.Module):
     def __init__(self, model_path="/root/huggingface/qwen/Qwen2.5-Omni-7B", device="cuda"):
