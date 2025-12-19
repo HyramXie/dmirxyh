@@ -31,7 +31,7 @@ class MIntRecDataset(Dataset):
         text = messages[0]["content"]
         label = messages[1]["content"] # 假设 label 是意图字符串
         
-        video_path = item["video"][0]
+        video_path = item["videos"][0]
         
         # 构造对话格式
         messages = [
@@ -42,7 +42,7 @@ class MIntRecDataset(Dataset):
                         "type": "video",
                         "video": video_path,
                         "max_pixels": 360 * 420, # 控制分辨率以节省显存
-                        "fps": 2.0, # 抽帧率
+                        "fps": 1.0, # 抽帧率
                     },
                     {"type": "text", "text": f"Analyze the speaker's intent in the video and text: '{text}'. Answer with the intent label directly."}
                 ],

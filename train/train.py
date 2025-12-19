@@ -1,8 +1,8 @@
 import argparse
 from transformers import TrainingArguments, Trainer, Qwen2_5_VLProcessor
-from qwen2_5vl_moe import Qwen2_5_VL_MIntRec
-from mintrec_dataset import MIntRecDataset
-from data_collator import DataCollatorForQwenMIntRec
+from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
+from data.mintrec_dataset import MIntRecDataset
+from data.data_collator import DataCollatorForQwenMIntRec
 
 def train():
     parser = argparse.ArgumentParser()
@@ -12,7 +12,7 @@ def train():
     args = parser.parse_args()
 
     # 1. 初始化 Processor
-    model_path = "/root/huggingface/qwen/Qwen2.5-Omni-7B"
+    model_path = "/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct"
     processor = Qwen2_5_VLProcessor.from_pretrained(model_path, min_pixels=256*28*28, max_pixels=1280*28*28)
 
     # 2. 初始化数据集
@@ -34,7 +34,7 @@ def train():
         logging_steps=10,
         save_strategy="epoch",
         save_steps=500,
-        overwrite_output_dir=true,
+        overwrite_output_dir=True,
         report_to="none",
 
         ###train
@@ -50,10 +50,9 @@ def train():
         ### dataset
         dataloader_num_workers=0, # 单进程加载
 
-        ###other
+        # ###other
         remove_unused_columns=False,    # 必须False，防止Processor生成的video特征被删
-        dataloader_pin_memory=False,     # 视频数据加载有时会冲突，可视情况关闭
-        gradient_checkpointing=True     # 显存优化，推荐开启
+        # dataloader_pin_memory=False,     # 锁住视频内存，速度快，视频数据加载有时会冲突，可视情况关闭
     )
 
     # 5. 开始训练

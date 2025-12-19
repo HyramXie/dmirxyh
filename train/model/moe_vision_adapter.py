@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from moe_gate import MoEGate
+from model.moe_gate import MoEGate
 
 class VisionMoEAdapter(nn.Module):
     """

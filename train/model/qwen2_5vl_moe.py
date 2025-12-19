@@ -2,10 +2,10 @@ import torch
 import torch.nn as nn
 from transformers import Qwen2_5_VLForConditionalGeneration
 from peft import get_peft_model, LoraConfig
-from moe_vision_adapter import VisionMoEAdapter
+from model.moe_vision_adapter import VisionMoEAdapter
 
 class Qwen2_5_VL_MIntRec(nn.Module):
-    def __init__(self, model_path="/root/huggingface/qwen/Qwen2.5-Omni-7B", device="cuda"):
+    def __init__(self, model_path="/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct", device="cuda"):
         super().__init__()
         # 1. 加载基础模型
         self.core_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
