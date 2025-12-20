@@ -1,3 +1,4 @@
+import torch
 import argparse
 from transformers import TrainingArguments, Trainer, Qwen2_5_VLProcessor
 from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
