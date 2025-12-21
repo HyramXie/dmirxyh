@@ -3,3 +3,5 @@
 /LLaMA-Factory-main/output
 /LLaMA-Factory-main/saves
 *.log
+*.pyc
+train/checkpoints

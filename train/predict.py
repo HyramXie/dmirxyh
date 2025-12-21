@@ -7,19 +7,20 @@ from torch.utils.data import Dataset, DataLoader
 from transformers import Qwen2_5_VLProcessor
 from qwen_vl_utils import process_vision_info
 from peft import PeftModel
+from transformers import Qwen2_5_VLForConditionalGeneration
+from safetensors.torch import load_file # 必须导入这个来加载 safetensors
 
 # 导入你定义的模型类
-from model_provider import Qwen2_5_VL_MIntRec
+from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
 
 # --- 配置 ---
 CONFIG = {
-    "test_data_path": "./MIntRec/test.json",  # 测试集路径
-    "video_dir": "./MIntRec/video",           # 视频目录
-    "checkpoint_dir": "./checkpoints/mintrec_lora_moe", # 训练保存的目录
-    "moe_weights_name": "vision_moe_final.pt",          # MoE 权重文件名
-    "output_file": "test_predictions.csv",    # 结果保存路径
-    "image_max_pixels": 256 * 28 * 28,        # 必须与训练时一致
-    "video_max_pixels": 128 * 28 * 28,        # 必须与训练时一致
+    # "moe_weights_name": "./checkpoints/mintrec_moe/vision_moe_final.pt",          # MoE 权重文件名
+    "test_data_path": "/root/user/xyh/LLaMA-Factory-main/data/MIntRec2_test.json",  # 测试集路径
+    "video_dir": "/root/user/xyh/Datasets/MIntRec2/video",           # 视频目录
+    "checkpoint_dir": "./checkpoints/mintrec2_moe/checkpoint-2313", # 训练保存的目录
+    "output_file": "./eval/mintrec2_predictions.json",    # 结果保存路径
+    "model_path": "/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct"
 }
 
 class MIntRecTestDataset(Dataset):
@@ -34,11 +35,11 @@ class MIntRecTestDataset(Dataset):
 
     def __getitem__(self, idx):
         item = self.data[idx]
-        video_id = item['video_id']
-        text = item['text']
-        label = item['label'] # 测试集通常也有 label 用于计算指标，如果没有则忽略
+        messages = item['messages']
+        text = messages[0]["content"]
+        label = messages[1]["content"] # 假设 label 是意图字符串
         
-        video_path = os.path.join(self.video_dir, f"{video_id}.mp4")
+        video_path = item["videos"][0]
         
         # 构造 Prompt (注意：这里没有 Assistant 的回复，只有 User 的提问)
         messages = [
@@ -48,10 +49,10 @@ class MIntRecTestDataset(Dataset):
                     {
                         "type": "video",
                         "video": video_path,
-                        "max_pixels": CONFIG["video_max_pixels"],
-                        "fps": 1.0, 
+                        "max_pixels": 360 * 420, # 控制分辨率以节省显存
+                        "fps": 1.0, # 抽帧率
                     },
-                    {"type": "text", "text": f"Analyze the speaker's intent: '{text}'. Answer with label."}
+                    {"type": "text", "text": f"Analyze the speaker's intent in the video and text: '{text}'. Answer with the intent label directly."}
                 ],
             }
         ]
@@ -65,7 +66,6 @@ class MIntRecTestDataset(Dataset):
         image_inputs, video_inputs = process_vision_info(messages)
         
         return {
-            "video_id": video_id,
             "text_input": text_input,
             "images": image_inputs,
             "videos": video_inputs,
@@ -73,36 +73,44 @@ class MIntRecTestDataset(Dataset):
         }
 
 def load_trained_model():
-    print("Loading base model and initializing MoE...")
-    # 1. 初始化模型 (这一步会加载 Base Model + 4bit 量化 + 随机初始化的 LoRA/MoE)
-    # 注意：这里加载的是基础模型的权重，LoRA 和 MoE 还是初始状态
+    print("Loading base model structure...")
+    # 1. 初始化空模型
+    # 这一步会加载 Qwen 底座 (4-bit) + 随机初始化的 LoRA + 随机初始化的 MoE
+    # 注意：device_map="auto" 或 "cuda" 取决于你的显存，单卡建议用 "cuda"
     model_wrapper = Qwen2_5_VL_MIntRec(device="cuda")
     
-    print("Loading trained LoRA weights...")
-    # 2. 加载训练好的 LoRA 权重覆盖掉随机初始化的 LoRA
-    # model_wrapper.core_model 已经是 PeftModel 了
-    model_wrapper.core_model.load_adapter(CONFIG["checkpoint_dir"], adapter_name="default")
+    # 2. 定位权重文件
+    # 你的目录里有 model.safetensors，所以我们要加载它
+    checkpoint_path = os.path.join(CONFIG["checkpoint_dir"], "model.safetensors")
     
-    print("Loading trained MoE weights...")
-    # 3. 加载训练好的 MoE 权重
-    moe_path = os.path.join(CONFIG["checkpoint_dir"], CONFIG["moe_weights_name"])
-    if os.path.exists(moe_path):
-        state_dict = torch.load(moe_path, map_location="cuda")
-        model_wrapper.vision_moe.load_state_dict(state_dict)
-    else:
-        raise FileNotFoundError(f"MoE weights not found at {moe_path}")
-        
+    if not os.path.exists(checkpoint_path):
+        raise FileNotFoundError(f"❌ 找不到权重文件: {checkpoint_path}")
+
+    print(f"Loading full checkpoint from {checkpoint_path}...")
+    
+    # 3. 加载权重
+    # 使用 safetensors 库加载
+    state_dict = load_file(checkpoint_path)
+    
+    # 4. 将权重灌入模型
+    # strict=False 是为了忽略一些不匹配的 key (比如 Qwen 底座里的某些 buffer)
+    # 只要 LoRA (lora_A, lora_B) 和 MoE (vision_moe) 的 key 能对上就行
+    missing_keys, unexpected_keys = model_wrapper.load_state_dict(state_dict, strict=False)
+    
+    print(f"✅ Weights loaded successfully.")
+    print(f"   Missing keys: {len(missing_keys)} (Expected if base model is frozen)")
+    print(f"   Unexpected keys: {len(unexpected_keys)}")
+    
+    # 切换到评估模式
     model_wrapper.eval()
+    
     return model_wrapper
+
 
 def run_prediction():
     # 1. 准备 Processor (必须与训练时参数一致)
-    model_path = "Qwen/Qwen2.5-VL-7B-Instruct"
-    processor = Qwen2_5_VLProcessor.from_pretrained(
-        model_path, 
-        min_pixels=256, 
-        max_pixels=CONFIG["image_max_pixels"]
-    )
+    model_path = CONFIG["model_path"]
+    processor = Qwen2_5_VLProcessor.from_pretrained(model_path, min_pixels=256*28*28, max_pixels=1280*28*28)
 
     # 2. 加载模型
     model_wrapper = load_trained_model()
@@ -117,8 +125,6 @@ def run_prediction():
     test_loader = DataLoader(test_dataset, batch_size=1, shuffle=False, collate_fn=lambda x: x)
 
     results = []
-    correct_count = 0
-    total_count = 0
 
     print("Starting inference...")
     with torch.no_grad():
@@ -155,24 +161,15 @@ def run_prediction():
             pred_label = output_text.strip()
             gold_label = item["label"]
             
-            # 简单统计准确率
-            if pred_label.lower() == gold_label.lower():
-                correct_count += 1
-            total_count += 1
-            
             results.append({
-                "video_id": item["video_id"],
-                "prediction": pred_label,
-                "ground_truth": gold_label,
-                "is_correct": pred_label.lower() == gold_label.lower()
+                "predict": pred_label,
+                "label": gold_label
             })
 
     # 4. 保存结果
-    df = pd.DataFrame(results)
-    df.to_csv(CONFIG["output_file"], index=False)
+    with open(CONFIG["output_file"], "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
     
-    acc = correct_count / total_count if total_count > 0 else 0
-    print(f"Inference Done! Accuracy: {acc:.4f}")
     print(f"Results saved to {CONFIG['output_file']}")
 
 if __name__ == "__main__":

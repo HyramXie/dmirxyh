@@ -33,7 +33,7 @@ from vllm.lora.request import LoRARequest
 
 
 def vllm_infer(
-    model_name_or_path: str="output/qwen2_5omni_lora_sft_mintrec",
+    model_name_or_path: str="output/qwen2_5omni_lora_sft_mintrec_temp",
     adapter_name_or_path: str = None,
     dataset: str = "MIntRec_test",
     dataset_dir: str = "data",
@@ -41,7 +41,7 @@ def vllm_infer(
     cutoff_len: int = 2048,
     max_samples: Optional[int] = None,
     vllm_config: str = "{}",
-    save_name: str = "eval/MIntRec/generated_predictions.json",
+    save_name: str = "eval/MIntRec/generated_predictions_temp.json",
     temperature: float = 0.95,
     top_p: float = 0.7,
     top_k: int = 50,

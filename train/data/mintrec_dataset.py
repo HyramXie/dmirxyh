@@ -15,12 +15,6 @@ class MIntRecDataset(Dataset):
         
         self.video_dir = video_dir
         self.processor = processor
-        
-        # MIntRec 意图标签列表 (示例)
-        self.intents = [
-            "complain", "praise", "apologize", "thank", "criticize", 
-            "agree", "disagree", "ask", "answer", "taunt" # 请根据实际数据集补充完整
-        ]
 
     def __len__(self):
         return len(self.data)

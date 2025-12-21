@@ -1,0 +1,123 @@
+Accuracy: 0.7843
+Macro F1: 0.6856
+Macro Precision: 0.6999
+Macro Recall: 0.6839
+Weighted F1: 0.7873
+Weighted Precision: 0.7982
+Weighted Recall: 0.7843
+
+📊 各类别错误率排行榜（按真实标签统计）：
+------------------------------------------------------------
+Class              Total    Wrong   Error Rate
+------------------------------------------------------------
+Taunt                 12        9      75.00%
+Joke                  10        7      70.00%
+Criticize             23        9      39.13%
+Arrange               22        7      31.82%
+Oppose                10        3      30.00%
+Ask for help          10        3      30.00%
+Flaunt                10        3      30.00%
+Greet                 12        3      25.00%
+Complain              57       14      24.56%
+Inform                57       12      21.05%
+Advise                25        5      20.00%
+Prevent               15        3      20.00%
+Introduce             21        4      19.05%
+Leave                 17        2      11.76%
+Praise                43        5      11.63%
+Comfort               18        2      11.11%
+Agree                 12        1       8.33%
+Thank                 25        2       8.00%
+Care                  19        1       5.26%
+Apologise             27        1       3.70%
+
+🔍 每个类别最常被错认成的标签（Top Errors）：
+------------------------------------------------------------
+
+真实类别: Criticize, 总共样本数量：23
+  → 被预测为 Complain: 4 次
+  → 被预测为 Taunt: 2 次
+  → 被预测为 Arrange: 1 次
+
+真实类别: Advise, 总共样本数量：25
+  → 被预测为 Arrange: 2 次
+  → 被预测为 Taunt: 1 次
+  → 被预测为 Care: 1 次
+
+真实类别: Taunt, 总共样本数量：12
+  → 被预测为 Criticize: 3 次
+  → 被预测为 Leave: 1 次
+  → 被预测为 Inform: 1 次
+
+真实类别: Prevent, 总共样本数量：15
+  → 被预测为 Leave: 1 次
+  → 被预测为 Inform: 1 次
+  → 被预测为 Advise: 1 次
+
+真实类别: Complain, 总共样本数量：57
+  → 被预测为 Criticize: 6 次
+  → 被预测为 Inform: 5 次
+  → 被预测为 Taunt: 2 次
+
+真实类别: Joke, 总共样本数量：10
+  → 被预测为 Flaunt: 5 次
+  → 被预测为 Taunt: 1 次
+  → 被预测为 Criticize: 1 次
+
+真实类别: Oppose, 总共样本数量：10
+  → 被预测为 Comfort: 1 次
+  → 被预测为 Complain: 1 次
+  → 被预测为 Taunt: 1 次
+
+真实类别: Introduce, 总共样本数量：21
+  → 被预测为 Praise: 1 次
+  → 被预测为 Inform: 1 次
+  → 被预测为 Joke: 1 次
+
+真实类别: Arrange, 总共样本数量：22
+  → 被预测为 Advise: 3 次
+  → 被预测为 Inform: 1 次
+  → 被预测为 Ask for help: 1 次
+
+真实类别: Care, 总共样本数量：19
+  → 被预测为 Greet: 1 次
+
+真实类别: Praise, 总共样本数量：43
+  → 被预测为 Agree: 2 次
+  → 被预测为 Advise: 1 次
+  → 被预测为 Flaunt: 1 次
+
+真实类别: Thank, 总共样本数量：25
+  → 被预测为 Praise: 2 次
+
+真实类别: Inform, 总共样本数量：57
+  → 被预测为 Arrange: 3 次
+  → 被预测为 Leave: 2 次
+  → 被预测为 Introduce: 2 次
+
+真实类别: Greet, 总共样本数量：12
+  → 被预测为 Welcome: 2 次
+  → 被预测为 Inform: 1 次
+
+真实类别: Ask for help, 总共样本数量：10
+  → 被预测为 Arrange: 2 次
+  → 被预测为 Leave: 1 次
+
+真实类别: Flaunt, 总共样本数量：10
+  → 被预测为 Praise: 1 次
+  → 被预测为 Comfort: 1 次
+  → 被预测为 Complain: 1 次
+
+真实类别: Comfort, 总共样本数量：18
+  → 被预测为 Leave: 1 次
+  → 被预测为 Agree: 1 次
+
+真实类别: Leave, 总共样本数量：17
+  → 被预测为 Agree: 1 次
+  → 被预测为 Arrange: 1 次
+
+真实类别: Agree, 总共样本数量：12
+  → 被预测为 Arrange: 1 次
+
+真实类别: Apologise, 总共样本数量：27
+  → 被预测为 Taunt: 1 次

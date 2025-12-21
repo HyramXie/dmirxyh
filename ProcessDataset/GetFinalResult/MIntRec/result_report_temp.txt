@@ -1,34 +1,34 @@
-Accuracy: 0.8090
-Macro F1: 0.7911
-Macro Precision: 0.8183
-Macro Recall: 0.7805
-Weighted F1: 0.8085
-Weighted Precision: 0.8193
-Weighted Recall: 0.8090
+Accuracy: 0.8202
+Macro F1: 0.7629
+Macro Precision: 0.7739
+Macro Recall: 0.7618
+Weighted F1: 0.8204
+Weighted Precision: 0.8266
+Weighted Recall: 0.8202
 
 📊 各类别错误率排行榜（按真实标签统计）：
 ------------------------------------------------------------
 Class              Total    Wrong   Error Rate
 ------------------------------------------------------------
-Taunt                 12        7      58.33%
-Oppose                10        5      50.00%
-Flaunt                10        5      50.00%
+Taunt                 12        8      66.67%
 Criticize             23       10      43.48%
+Oppose                10        4      40.00%
+Flaunt                10        4      40.00%
 Joke                  10        3      30.00%
-Introduce             21        6      28.57%
-Leave                 17        4      23.53%
-Apologise             27        6      22.22%
+Complain              57       12      21.05%
 Ask for help          10        2      20.00%
-Complain              57       10      17.54%
-Inform                57        8      14.04%
+Inform                57       11      19.30%
+Arrange               22        4      18.18%
+Leave                 17        3      17.65%
+Comfort               18        3      16.67%
+Introduce             21        3      14.29%
 Praise                43        6      13.95%
-Arrange               22        3      13.64%
 Prevent               15        2      13.33%
-Care                  19        2      10.53%
 Greet                 12        1       8.33%
-Advise                25        2       8.00%
 Thank                 25        2       8.00%
-Comfort               18        1       5.56%
+Care                  19        1       5.26%
+Advise                25        1       4.00%
+Apologise             27        0       0.00%
 Agree                 12        0       0.00%
 
 🔍 每个类别最常被错认成的标签（Top Errors）：
@@ -36,43 +36,46 @@ Agree                 12        0       0.00%
 
 真实类别: Criticize, 总共样本数量：23
   → 被预测为 Complain: 4 次
-  → 被预测为 Taunt: 3 次
-  → 被预测为 Prevent: 2 次
+  → 被预测为 Taunt: 4 次
+  → 被预测为 Inform: 1 次
 
 真实类别: Taunt, 总共样本数量：12
   → 被预测为 Complain: 2 次
   → 被预测为 Joke: 2 次
-  → 被预测为 Leave: 1 次
+  → 被预测为 Criticize: 2 次
 
 真实类别: Complain, 总共样本数量：57
-  → 被预测为 Criticize: 4 次
+  → 被预测为 Criticize: 5 次
   → 被预测为 Inform: 3 次
-  → 被预测为 Taunt: 2 次
+  → 被预测为 Taunt: 3 次
 
 真实类别: Oppose, 总共样本数量：10
   → 被预测为 Complain: 2 次
-  → 被预测为 Prevent: 2 次
   → 被预测为 Inform: 1 次
+  → 被预测为 Prevent: 1 次
 
 真实类别: Care, 总共样本数量：19
   → 被预测为 Greet: 1 次
-  → 被预测为 Joke: 1 次
 
 真实类别: Praise, 总共样本数量：43
   → 被预测为 Agree: 3 次
-  → 被预测为 Leave: 1 次
-  → 被预测为 Inform: 1 次
-
-真实类别: Arrange, 总共样本数量：22
   → 被预测为 Inform: 2 次
-  → 被预测为 Advise: 1 次
+  → 被预测为 Leave: 1 次
 
 真实类别: Thank, 总共样本数量：25
   → 被预测为 Praise: 2 次
 
 真实类别: Inform, 总共样本数量：57
-  → 被预测为 Criticize: 2 次
-  → 被预测为 Complain: 2 次
+  → 被预测为 Arrange: 2 次
+  → 被预测为 Leave: 1 次
+  → 被预测为 Ask for help: 1 次
+
+真实类别: Arrange, 总共样本数量：22
+  → 被预测为 Advise: 3 次
+  → 被预测为 Apologise: 1 次
+
+真实类别: Comfort, 总共样本数量：18
+  → 被预测为 Agree: 2 次
   → 被预测为 Leave: 1 次
 
 真实类别: Joke, 总共样本数量：10
@@ -80,36 +83,26 @@ Agree                 12        0       0.00%
   → 被预测为 Flaunt: 1 次
   → 被预测为 Introduce: 1 次
 
-真实类别: Leave, 总共样本数量：17
-  → 被预测为 Inform: 3 次
-  → 被预测为 Arrange: 1 次
-
-真实类别: Apologise, 总共样本数量：27
-  → 被预测为 Complain: 2 次
-  → 被预测为 Inform: 2 次
-  → 被预测为 Taunt: 2 次
-
 真实类别: Ask for help, 总共样本数量：10
   → 被预测为 Arrange: 2 次
 
 真实类别: Flaunt, 总共样本数量：10
-  → 被预测为 Taunt: 1 次
-  → 被预测为 Joke: 1 次
-  → 被预测为 Introduce: 1 次
-
-真实类别: Comfort, 总共样本数量：18
-  → 被预测为 Leave: 1 次
+  → 被预测为 Joke: 2 次
+  → 被预测为 Inform: 1 次
+  → 被预测为 Complain: 1 次
 
 真实类别: Greet, 总共样本数量：12
   → 被预测为 Inform: 1 次
 
 真实类别: Introduce, 总共样本数量：21
-  → 被预测为 Inform: 4 次
-  → 被预测为 Arrange: 1 次
+  → 被预测为 Inform: 1 次
+  → 被预测为 Ask for help: 1 次
   → 被预测为 Flaunt: 1 次
 
+真实类别: Leave, 总共样本数量：17
+  → 被预测为 Inform: 3 次
+
 真实类别: Advise, 总共样本数量：25
-  → 被预测为 Inform: 1 次
   → 被预测为 Care: 1 次
 
 真实类别: Prevent, 总共样本数量：15

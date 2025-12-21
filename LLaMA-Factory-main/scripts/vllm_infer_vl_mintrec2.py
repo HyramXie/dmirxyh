@@ -33,15 +33,15 @@ from vllm.lora.request import LoRARequest
 
 
 def vllm_infer(
-    model_name_or_path: str="/root/user/xyh/LLaMA-Factory-main/output/qwen2_5omni_lora_sft_mintrec2_text",
+    model_name_or_path: str="/root/user/xyh/LLaMA-Factory-main/output/qwen2_5vl_lora_sft_mintrec2",
     adapter_name_or_path: str = None,
-    dataset: str = "MIntRec2_test_text",
+    dataset: str = "MIntRec2_test",
     dataset_dir: str = "data",
-    template: str = "qwen2_omni",
+    template: str = "qwen2_vl",
     cutoff_len: int = 2048,
     max_samples: Optional[int] = None,
     vllm_config: str = "{}",
-    save_name: str = "/root/user/xyh/LLaMA-Factory-main/eval/MIntRec2/generated_predictions_text.json",
+    save_name: str = "eval/MIntRec2/generated_predictions_vl.json",
     temperature: float = 0.95,
     top_p: float = 0.7,
     top_k: int = 50,
@@ -101,7 +101,6 @@ def vllm_infer(
         "pipeline_parallel_size": pipeline_parallel_size,
         "disable_log_stats": True,
         "enable_lora": model_args.adapter_name_or_path is not None,
-        "gpu_memory_utilization": 0.95,
     }
     if template_obj.mm_plugin.__class__.__name__ != "BasePlugin":
         engine_args["limit_mm_per_prompt"] = {"image": 4, "video": 2, "audio": 2}

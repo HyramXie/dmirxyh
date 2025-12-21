@@ -1,0 +1,194 @@
+Accuracy: 0.6498
+Macro F1: 0.5691
+Macro Precision: 0.6155
+Macro Recall: 0.5504
+Weighted F1: 0.6457
+Weighted Precision: 0.6619
+Weighted Recall: 0.6498
+
+📊 各类别错误率排行榜（按真实标签统计）：
+------------------------------------------------------------
+Class              Total    Wrong   Error Rate
+------------------------------------------------------------
+joke                  29       24      82.76%
+emphasize             17       14      82.35%
+refuse                17       12      70.59%
+criticize             47       30      63.83%
+warn                  19       12      63.16%
+taunt                 58       34      58.62%
+flaunt                22       12      54.55%
+introduce             60       30      50.00%
+comfort               49       24      48.98%
+advise                97       47      48.45%
+plan                  38       18      47.37%
+leave                 53       24      45.28%
+prevent               31       14      45.16%
+care                  47       21      44.68%
+acknowledge           68       30      44.12%
+complain             107       44      41.12%
+confirm               93       38      40.86%
+asking for opinions       48       18      37.50%
+explain              193       67      34.72%
+agree                 64       21      32.81%
+doubt                135       42      31.11%
+ask for help          37       11      29.73%
+invite                17        5      29.41%
+arrange               51       15      29.41%
+praise               113       24      21.24%
+oppose               117       24      20.51%
+inform               217       44      20.28%
+greet                 66        8      12.12%
+apologise             65        3       4.62%
+thank                 58        2       3.45%
+
+🔍 每个类别最常被错认成的标签（Top Errors）：
+------------------------------------------------------------
+
+真实类别: flaunt, 总共样本数量：22
+  → 被预测为 inform: 6 次
+  → 被预测为 taunt: 2 次
+  → 被预测为 leave: 2 次
+
+真实类别: confirm, 总共样本数量：93
+  → 被预测为 doubt: 25 次
+  → 被预测为 asking for opinions: 5 次
+  → 被预测为 invite: 2 次
+
+真实类别: criticize, 总共样本数量：47
+  → 被预测为 complain: 13 次
+  → 被预测为 taunt: 5 次
+  → 被预测为 doubt: 5 次
+
+真实类别: acknowledge, 总共样本数量：68
+  → 被预测为 agree: 25 次
+  → 被预测为 inform: 3 次
+  → 被预测为 confirm: 2 次
+
+真实类别: advise, 总共样本数量：97
+  → 被预测为 inform: 14 次
+  → 被预测为 arrange: 10 次
+  → 被预测为 taunt: 5 次
+
+真实类别: emphasize, 总共样本数量：17
+  → 被预测为 inform: 6 次
+  → 被预测为 oppose: 2 次
+  → 被预测为 complain: 2 次
+
+真实类别: complain, 总共样本数量：107
+  → 被预测为 inform: 11 次
+  → 被预测为 doubt: 8 次
+  → 被预测为 explain: 6 次
+
+真实类别: leave, 总共样本数量：53
+  → 被预测为 acknowledge: 5 次
+  → 被预测为 greet: 4 次
+  → 被预测为 plan: 3 次
+
+真实类别: prevent, 总共样本数量：31
+  → 被预测为 oppose: 3 次
+  → 被预测为 inform: 3 次
+  → 被预测为 warn: 3 次
+
+真实类别: inform, 总共样本数量：217
+  → 被预测为 oppose: 8 次
+  → 被预测为 explain: 7 次
+  → 被预测为 complain: 5 次
+
+真实类别: explain, 总共样本数量：193
+  → 被预测为 inform: 24 次
+  → 被预测为 oppose: 12 次
+  → 被预测为 complain: 7 次
+
+真实类别: doubt, 总共样本数量：135
+  → 被预测为 confirm: 19 次
+  → 被预测为 care: 6 次
+  → 被预测为 complain: 4 次
+
+真实类别: taunt, 总共样本数量：58
+  → 被预测为 complain: 9 次
+  → 被预测为 inform: 5 次
+  → 被预测为 criticize: 3 次
+
+真实类别: greet, 总共样本数量：66
+  → 被预测为 introduce: 2 次
+  → 被预测为 confirm: 1 次
+  → 被预测为 care: 1 次
+
+真实类别: asking for opinions, 总共样本数量：48
+  → 被预测为 doubt: 6 次
+  → 被预测为 ask for help: 4 次
+  → 被预测为 care: 3 次
+
+真实类别: invite, 总共样本数量：17
+  → 被预测为 leave: 1 次
+  → 被预测为 plan: 1 次
+  → 被预测为 advise: 1 次
+
+真实类别: agree, 总共样本数量：64
+  → 被预测为 acknowledge: 7 次
+  → 被预测为 leave: 4 次
+  → 被预测为 taunt: 2 次
+
+真实类别: oppose, 总共样本数量：117
+  → 被预测为 explain: 10 次
+  → 被预测为 inform: 4 次
+  → 被预测为 prevent: 2 次
+
+真实类别: introduce, 总共样本数量：60
+  → 被预测为 inform: 17 次
+  → 被预测为 explain: 4 次
+  → 被预测为 praise: 2 次
+
+真实类别: plan, 总共样本数量：38
+  → 被预测为 inform: 8 次
+  → 被预测为 leave: 5 次
+  → 被预测为 advise: 3 次
+
+真实类别: praise, 总共样本数量：113
+  → 被预测为 taunt: 7 次
+  → 被预测为 introduce: 4 次
+  → 被预测为 agree: 3 次
+
+真实类别: ask for help, 总共样本数量：37
+  → 被预测为 inform: 8 次
+  → 被预测为 confirm: 1 次
+  → 被预测为 explain: 1 次
+
+真实类别: apologise, 总共样本数量：65
+  → 被预测为 complain: 1 次
+  → 被预测为 explain: 1 次
+  → 被预测为 inform: 1 次
+
+真实类别: care, 总共样本数量：47
+  → 被预测为 doubt: 7 次
+  → 被预测为 asking for opinions: 7 次
+  → 被预测为 confirm: 4 次
+
+真实类别: joke, 总共样本数量：29
+  → 被预测为 inform: 5 次
+  → 被预测为 explain: 4 次
+  → 被预测为 taunt: 3 次
+
+真实类别: arrange, 总共样本数量：51
+  → 被预测为 inform: 7 次
+  → 被预测为 leave: 2 次
+  → 被预测为 warn: 2 次
+
+真实类别: comfort, 总共样本数量：49
+  → 被预测为 inform: 6 次
+  → 被预测为 oppose: 6 次
+  → 被预测为 explain: 3 次
+
+真实类别: warn, 总共样本数量：19
+  → 被预测为 inform: 6 次
+  → 被预测为 advise: 1 次
+  → 被预测为 confirm: 1 次
+
+真实类别: refuse, 总共样本数量：17
+  → 被预测为 oppose: 5 次
+  → 被预测为 inform: 3 次
+  → 被预测为 explain: 2 次
+
+真实类别: thank, 总共样本数量：58
+  → 被预测为 greet: 1 次
+  → 被预测为 explain: 1 次
