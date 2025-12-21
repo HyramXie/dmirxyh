@@ -5,15 +5,13 @@ from transformers import Qwen2_5_VLProcessor
 from qwen_vl_utils import process_vision_info 
 
 class MIntRecDataset(Dataset):
-    def __init__(self, json_path, video_dir, processor):
+    def __init__(self, json_path, processor):
         """
         json_path: MIntRec 的标注文件 (train.json)
-        video_dir: 视频文件夹路径
         """
         with open(json_path, 'r') as f:
             self.data = json.load(f)
         
-        self.video_dir = video_dir
         self.processor = processor
 
     def __len__(self):

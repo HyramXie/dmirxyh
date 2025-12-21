@@ -1,10 +1,9 @@
 # --- 1. 环境变量设置 ---
-export CUDA_VISIBLE_DEVICES=0  # 指定使用哪张显卡，多卡用 "0,1"
+export CUDA_VISIBLE_DEVICES=2  # 指定使用哪张显卡，多卡用 "0,1"
 
 # --- 2. 路径配置 ---
 model_path="/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct"
 data_path="/root/user/xyh/LLaMA-Factory-main/data/MIntRec_train.json"
-video_dir="/root/user/xyh/Datasets/MIntRec/raw_data"
 output_dir="/root/user/xyh/train/checkpoints/mintrec_moe_exp1"  # 每次实验可以改个名字
 
 # --- 3. 训练超参数配置 ---
@@ -26,7 +25,6 @@ echo "Output: $output_dir"
 python ../train.py \
     --model_path "$model_path" \
     --data_path "$data_path" \
-    --video_dir "$video_dir" \
     --output_dir "$output_dir" \
     --batch_size $batch_size \
     --grad_accum_steps $grad_accum_steps \

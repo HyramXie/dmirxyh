@@ -10,7 +10,6 @@ def train():
     # --- 路径相关参数 ---
     parser.add_argument("--model_path", type=str, default="/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct")
     parser.add_argument("--data_path", type=str, default="/root/user/xyh/LLaMA-Factory-main/data/MIntRec_train.json")
-    parser.add_argument("--video_dir", type=str, default="/root/user/xyh/Datasets/MIntRec/raw_data")
     parser.add_argument("--output_dir", type=str, default="./checkpoints/mintrec_moe")
 
     # --- 训练超参数 ---
@@ -33,7 +32,6 @@ def train():
     # 2. 初始化数据集
     train_dataset = MIntRecDataset(
         json_path=args.data_path,
-        video_dir=args.video_dir,
         processor=processor
     )
     

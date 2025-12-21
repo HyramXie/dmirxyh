@@ -3,8 +3,8 @@ export CUDA_VISIBLE_DEVICES=2  # 指定使用哪张显卡，多卡用 "0,1"
 
 # --- 2. 路径配置 ---
 model_path="/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct"
-data_path="/root/user/xyh/LLaMA-Factory-main/data/MIntRec2_train.json"
-output_dir="/root/user/xyh/train/checkpoints/mintrec2_moe"  # 每次实验可以改个名字
+data_path="/root/user/xyh/LLaMA-Factory-main/data/MELD_train.json"
+output_dir="/root/user/xyh/train/checkpoints/meld_moe"  # 每次实验可以改个名字
 
 # --- 3. 训练超参数配置 ---
 batch_size=1          # 单卡 Batch Size (显存占用大建议为1)
