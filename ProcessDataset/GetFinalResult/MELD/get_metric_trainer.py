@@ -3,9 +3,9 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from collections import defaultdict, Counter
 import sys
 
-logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/result_report.txt"
-json_file = "/root/user/xyh/LLaMA-Factory-main/eval/MELD/generated_predictions.json"
-wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/case_study.json"
+logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/result_report_vl_moe.txt"
+json_file = "/root/user/xyh/train/eval/meld_predictions_2.json"
+wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/case_study_vl_moe.json"
 
 class Logger:
     def __init__(self, filename):
@@ -30,20 +30,18 @@ y_pred = []
 wrong_cases = []
 
 with open(json_file, 'r', encoding='utf-8') as f:
-    for line in f:
-        data = json.loads(line)
-        # 去除标签中的换行符与多余空格
-        true_label = data["label"].strip()
-        pred_label = data["predict"].strip()
+    datas = json.load(f)
+    for data in datas:
+        true_label = data["label"]
+        pred_label = data["predict"]
         y_true.append(true_label)
         y_pred.append(pred_label)
 
         #获取错误样本
         if true_label != pred_label:
             wrong_cases.append({
-                "prompt": data["prompt"],
-                "predict": data["predict"].strip(),
-                "label": data["label"].strip()
+                "predict": data["predict"],
+                "label": data["label"]
             })
 
 # 计算各项指标

@@ -2,10 +2,10 @@ import pandas as pd
 import json
 import os
 
-csv_file = "/root/user/xyh/Datasets/MELD/test.tsv"
-json_file = "/root/user/xyh/GetDatasetsJson/MELD/MELD_test.json"
-
 #修改部分
+csv_file = "/root/user/xyh/Datasets/MELD/test.tsv"
+json_file = "/root/user/xyh/Datasets/MELD/MELD_test.json"
+
 df = pd.read_csv(csv_file, sep='\t')
 conversations = []
 
@@ -13,24 +13,15 @@ for i in range(len(df)):
     data = df.loc[i]
 
     #修改部分
-    video_path = os.path.join("/root/user/xyh/Datasets/MELD/test", "dia" + str(data["Dialogue_ID"]) + "_utt" + str(data["Utterance_ID"]) + ".mp4")
+    video_path = os.path.join("/root/user/xyh/Datasets/MELD/video", "dia" + str(data["Dialogue_ID"]) + "_utt" + str(data["Utterance_ID"]) + ".mp4")
     
     text = data["Utterance"]
     lable = data["label"]
+
     conversations.append({
-        "messages": [
-            {
-                "role": "user",
-                "content": "<video>" + text
-            },
-            {
-                "role": "assistant",
-                "content": lable
-            }
-        ],
-        "videos": [
-            video_path
-        ]
+        "video_path": video_path,
+        "text": text,
+        "label": lable
     })
     if (i + 1) % 50 ==0:
         print(f'processing {i+1}/{len(df)} images')

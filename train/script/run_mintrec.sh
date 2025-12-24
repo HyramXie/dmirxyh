@@ -13,7 +13,6 @@ epochs=5              # 训练轮数
 
 # --- 4. 日志与保存 ---
 logging_steps=10
-save_steps=1000
 
 num_workers=0             # Dataloader 进程数 (显存吃紧或报错时设为0)
 

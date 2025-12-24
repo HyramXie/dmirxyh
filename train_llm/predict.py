@@ -11,37 +11,35 @@ from peft import PeftModel
 from PIL import Image
 import numpy as np
 import cv2
+from tqdm import tqdm  # 引入进度条
+import json
 
-# ==========================================
-# 1. 必须复制 Projector 定义以加载权重
-# ==========================================
-class MMInputProjector(nn.Module):
-    def __init__(self, input_dim=1152, output_dim=4096):
-        super().__init__()
-        self.net = nn.Sequential(
-            nn.Linear(input_dim, output_dim),
-            nn.GELU(),
-            nn.Linear(output_dim, output_dim)
-        )
+from model.projector import MMInputProjector
 
-    def forward(self, x):
-        return self.net(x)
+CONFIG = {
+    "base_model_path": "/root/huggingface/qwen/Qwen3-8B", 
+    "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
+    "checkpoint_dir": "./checkpoints/qwen_mintrec_base", 
+    "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
+    "output_file": "./eval/mintrec_predictions.json",
+    "device": "cuda",
+    "num_frames": 4
+}
 
 # ==========================================
 # 2. 推理类定义
 # ==========================================
 class IntentPredictor:
-    def __init__(self, 
-                 model_dir, 
-                 base_model_path="Qwen/Qwen2.5-7B-Instruct", 
-                 vision_model_path="google/siglip-so400m-patch14-384", 
-                 device="cuda"):
+    def __init__(self, model_dir, base_model_path, vision_model_path, device="cuda"):
         
         self.device = device
         print(f"Loading Base Qwen Model from {base_model_path}...")
         
         # A. 加载 Base LLM
-        self.tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            model_dir,              # 直接指向保存了 tokenizer 的本地目录
+            trust_remote_code=True  # Qwen 模型通常需要这个参数
+        )
         base_model = AutoModelForCausalLM.from_pretrained(
             base_model_path, 
             torch_dtype=torch.bfloat16, 
@@ -111,23 +109,24 @@ class IntentPredictor:
         # 1. 准备视觉特征
         frames = self._load_frames(video_path, num_frames)
         vision_inputs = self.vision_processor(images=frames, return_tensors="pt")
-        pixel_values = vision_inputs.pixel_values.to(self.device) # [T, 3, H, W]
+        pixel_values = vision_inputs.pixel_values.to(self.device) 
         
+        b, t, c, h, w = pixel_values.shape
+        pixel_values_flat = pixel_values.view(-1, c, h, w)
         with torch.no_grad():
-            # Vision Encoder
-            # [T, C, H, W] -> [T, Seq, Dim]
-            vision_outputs = self.vision_encoder(pixel_values)
-            image_embeds = vision_outputs.last_hidden_state
-            
-            # Flatten & Project
-            # [T, Seq, Dim] -> [1, T*Seq, Dim] -> [1, T*Seq, LLM_Dim]
-            T, S, D = image_embeds.shape
-            image_embeds = image_embeds.view(1, T * S, D) 
+            vision_outputs = self.vision_encoder(pixel_values_flat)
+            image_embeds = vision_outputs.last_hidden_state  
+                
+            vis_seq_len = image_embeds.shape[1]
+            vis_dim = image_embeds.shape[2]
+            image_embeds = image_embeds.view(b, t * vis_seq_len, vis_dim)
+
             image_embeds = self.projector(image_embeds)
 
         # 2. 准备文本 Prompt
         # 构造 prompt，注意这里没有 Answer，只有 User 的提问
-        prompt = f"<|im_start|>user\nAnalyze the video and text to determine the intent.\nText: {text_utterance}\n<|im_end|>\n<|im_start|>assistant\nThe intent is"
+        messages = [{"role": "user", "content": text_utterance}]
+        prompt = self.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         
         input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to(self.device)
         
@@ -159,30 +158,69 @@ class IntentPredictor:
 # ==========================================
 # 3. 使用示例
 # ==========================================
+def evaluate():
+    # 1. 检查路径
+    if not os.path.exists(CONFIG['test_data_path']):
+        raise FileNotFoundError(f"Test data not found: {CONFIG['test_data_path']}")
+    
+    # 2. 初始化模型
+    predictor = IntentPredictor(
+        model_dir=CONFIG['checkpoint_dir'],
+        base_model_path=CONFIG['base_model_path'],
+        vision_model_path=CONFIG['vision_model_path'],
+        device=CONFIG['device']
+    )
+
+    # 3. 加载数据
+    print(f"Loading test data from {CONFIG['test_data_path']}...")
+    with open(CONFIG['test_data_path'], 'r', encoding='utf-8') as f:
+        test_data = json.load(f)
+    
+    # 调试：只测前5条 (正式跑时注释掉下面这行)
+    # test_data = test_data[:5] 
+
+    results = []
+    correct_count = 0
+    total_count = 0
+
+    print("Starting inference...")
+    # 使用 tqdm 显示进度条
+    for item in tqdm(test_data, desc="Predicting"):
+        video_path = item['video_path']
+        text = item['text']
+        true_label = item['label']
+
+        try:
+            # 进行预测
+            predicted_label = predictor.predict(
+                video_path=video_path,
+                text_utterance=text,
+                num_frames=CONFIG['num_frames']
+            )
+            
+            # 保存结果
+            result_item = {
+                "label": true_label,
+                "predict": predicted_label,
+            }
+            results.append(result_item)
+            
+        except Exception as e:
+            print(f"\nError processing {video_path}: {e}")
+            results.append({
+                "video_path": video_path,
+                "error": str(e)
+            })
+
+    # 4. 保存结果到文件
+    os.makedirs(os.path.dirname(CONFIG['output_file']), exist_ok=True)
+    with open(CONFIG['output_file'], 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
+
+    # 5. 打印统计信息
+    print("\n" + "="*30)
+    print(f"Results saved to: {CONFIG['output_file']}")
+    print("="*30)
+
 if __name__ == "__main__":
-    # 配置路径
-    # 这里指向 train.py 训练完保存的目录
-    MODEL_DIR = "output_qwen_siglip" 
-    
-    # 你的测试数据
-    test_video = "mintrec_videos/test_video_001.mp4"
-    test_text = "I really appreciate your help with this project."
-    
-    # 初始化
-    try:
-        predictor = IntentPredictor(model_dir=MODEL_DIR)
-        
-        # 预测
-        print("-" * 30)
-        print(f"Video: {test_video}")
-        print(f"Text: {test_text}")
-        
-        intent = predictor.predict(test_video, test_text)
-        
-        print("-" * 30)
-        print(f"Predicted Intent: {intent}")
-        print("-" * 30)
-        
-    except Exception as e:
-        print(f"Error: {e}")
-        print("请确保已运行 train.py 并在 output_qwen_siglip 中生成了模型文件。")
+    evaluate()

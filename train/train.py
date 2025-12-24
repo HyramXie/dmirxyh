@@ -4,8 +4,11 @@ from transformers import TrainingArguments, Trainer, Qwen2_5_VLProcessor
 from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
 from data.mintrec_dataset import MIntRecDataset
 from data.data_collator import DataCollatorForQwenMIntRec
+from transformers import set_seed
 
 def train():
+    set_seed(42) #设种子    
+
     parser = argparse.ArgumentParser()
     # --- 路径相关参数 ---
     parser.add_argument("--model_path", type=str, default="/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct")
@@ -19,7 +22,6 @@ def train():
     
     # --- 日志与保存 ---
     parser.add_argument("--logging_steps", type=int, default=10)
-    parser.add_argument("--save_steps", type=int, default=500)
     
     # --- 硬件与性能 ---
     parser.add_argument("--num_workers", type=int, default=0, help="Dataloader num workers")
@@ -27,7 +29,7 @@ def train():
 
     # 1. 初始化 Processor
     model_path = args.model_path
-    processor = Qwen2_5_VLProcessor.from_pretrained(model_path, min_pixels=256*28*28, max_pixels=1280*28*28)
+    processor = Qwen2_5_VLProcessor.from_pretrained(model_path)
 
     # 2. 初始化数据集
     train_dataset = MIntRecDataset(
@@ -44,8 +46,7 @@ def train():
         ### Output
         output_dir=args.output_dir,
         logging_steps=args.logging_steps,
-        save_strategy="epoch",
-        save_steps=args.save_steps,
+        save_strategy="no",
         overwrite_output_dir=True,
         report_to="none",
 

@@ -20,7 +20,7 @@ class MIntRecDataset(Dataset):
     def __getitem__(self, idx):
         item = self.data[idx]
         messages = item['messages']
-        text = messages[0]["content"]
+        text = messages[0]["content"].split("<video>")[1]
         label = messages[1]["content"] # 假设 label 是意图字符串
         
         video_path = item["videos"][0]
@@ -33,10 +33,11 @@ class MIntRecDataset(Dataset):
                     {
                         "type": "video",
                         "video": video_path,
-                        "max_pixels": 360 * 420, # 控制分辨率以节省显存
+                        "max_pixels": 64 * 28 * 28, # 控制分辨率以节省显存
+                        "min_pixels": 32 * 28 * 28,
                         "fps": 1.0, # 抽帧率
                     },
-                    {"type": "text", "text": f"Analyze the speaker's intent in the video and text: '{text}'. Answer with the intent label directly."}
+                    {"type": "text", "text": text}
                 ],
             },
             {

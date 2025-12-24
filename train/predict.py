@@ -16,18 +16,16 @@ from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
 # --- 配置 ---
 CONFIG = {
     # "moe_weights_name": "./checkpoints/mintrec_moe/vision_moe_final.pt",          # MoE 权重文件名
-    "test_data_path": "/root/user/xyh/LLaMA-Factory-main/data/MIntRec2_test.json",  # 测试集路径
-    "video_dir": "/root/user/xyh/Datasets/MIntRec2/video",           # 视频目录
-    "checkpoint_dir": "./checkpoints/mintrec2_moe/checkpoint-2313", # 训练保存的目录
-    "output_file": "./eval/mintrec2_predictions.json",    # 结果保存路径
+    "test_data_path": "/root/user/xyh/LLaMA-Factory-main/data/MELD_test.json",  # 测试集路径
+    "checkpoint_dir": "./checkpoints/meld_moe/checkpoint-2622", # 训练保存的目录
+    "output_file": "./eval/meld_predictions.json",    # 结果保存路径
     "model_path": "/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct"
 }
 
 class MIntRecTestDataset(Dataset):
-    def __init__(self, json_path, video_dir, processor):
+    def __init__(self, json_path, processor):
         with open(json_path, 'r') as f:
             self.data = json.load(f)
-        self.video_dir = video_dir
         self.processor = processor
 
     def __len__(self):
@@ -49,10 +47,11 @@ class MIntRecTestDataset(Dataset):
                     {
                         "type": "video",
                         "video": video_path,
-                        "max_pixels": 360 * 420, # 控制分辨率以节省显存
+                        "max_pixels": 64 * 28 * 28, # 控制分辨率以节省显存
+                        "min_pixels": 32 * 28 * 28,
                         "fps": 1.0, # 抽帧率
                     },
-                    {"type": "text", "text": f"Analyze the speaker's intent in the video and text: '{text}'. Answer with the intent label directly."}
+                    {"type": "text", "text": text}
                 ],
             }
         ]
@@ -110,7 +109,7 @@ def load_trained_model():
 def run_prediction():
     # 1. 准备 Processor (必须与训练时参数一致)
     model_path = CONFIG["model_path"]
-    processor = Qwen2_5_VLProcessor.from_pretrained(model_path, min_pixels=256*28*28, max_pixels=1280*28*28)
+    processor = Qwen2_5_VLProcessor.from_pretrained(model_path)
 
     # 2. 加载模型
     model_wrapper = load_trained_model()
@@ -120,7 +119,7 @@ def run_prediction():
     inference_model = model_wrapper.core_model 
 
     # 3. 准备数据
-    test_dataset = MIntRecTestDataset(CONFIG["test_data_path"], CONFIG["video_dir"], processor)
+    test_dataset = MIntRecTestDataset(CONFIG["test_data_path"], processor)
     # Batch size 设为 1 最稳，视频推理显存占用大
     test_loader = DataLoader(test_dataset, batch_size=1, shuffle=False, collate_fn=lambda x: x)
 

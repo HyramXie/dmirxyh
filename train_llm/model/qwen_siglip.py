@@ -1,25 +1,37 @@
 import torch
 import torch.nn as nn
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from peft import get_peft_model, LoraConfig, TaskType
+from peft import LoraConfig, TaskType, get_peft_model, PeftModel, prepare_model_for_kbit_training
+from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
+from model.siglip_encoder import SiglipEncoder
+from model.projector import MMInputProjector
 
 class QwenWithSiglip(nn.Module):
-    def __init__(self, 
-                 llm_path="Qwen/Qwen2.5-7B-Instruct", 
-                 vision_path="google/siglip-so400m-patch14-384",
-                 device="cuda"):
+    def __init__(self, llm_path="Qwen/Qwen2.5-7B-Instruct", vision_path="google/siglip-so400m-patch14-384", device="cuda"):
         super().__init__()
         self.device = device
         
         # 1. 加载 LLM
         print("Loading Qwen...")
+        print("Configuring QLoRA (4-bit)...")
+        bnb_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_use_double_quant=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_compute_dtype=torch.bfloat16 # 计算时使用 bf16
+        )
+        
+        # 2. 加载 LLM (带量化配置)
+        print(f"Loading Qwen (4-bit): {llm_path}")
         self.llm = AutoModelForCausalLM.from_pretrained(
             llm_path, 
-            torch_dtype=torch.bfloat16, # 建议使用 bf16
-            device_map=device
+            quantization_config=bnb_config, # <--- 关键：应用量化
+            device_map="auto",              # <--- 关键：自动分配设备
+            trust_remote_code=True,
+            torch_dtype=torch.bfloat16
         )
-        self.tokenizer = AutoTokenizer.from_pretrained(llm_path)
-        
+        self.llm = prepare_model_for_kbit_training(self.llm)
+        self.tokenizer = AutoTokenizer.from_pretrained(llm_path)     
+
         # 2. 加载 Vision Encoder
         print("Loading SIGLIP...")
         self.vision_encoder = SiglipEncoder(model_name=vision_path, device=device)
@@ -51,23 +63,39 @@ class QwenWithSiglip(nn.Module):
         peft_config = LoraConfig(
             task_type=TaskType.CAUSAL_LM,
             inference_mode=False,
-            r=16,
-            lora_alpha=32,
+            r=8,
+            lora_alpha=16,
             lora_dropout=0.1,
             # Qwen 的核心模块
             target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
         )
         self.llm = get_peft_model(self.llm, peft_config)
+
+        # self.llm.gradient_checkpointing_enable()
+        # self.llm.config.use_cache = False  # 必须关，否则无效
+
         self.llm.print_trainable_parameters()
 
     def forward(self, input_ids, attention_mask, pixel_values, labels=None):
-        """
-        input_ids: [B, Seq_Len] 文本
-        pixel_values: [B, C, H, W] 图像/视频帧
-        labels: [B, Seq_Len]
-        """
-        # 1. 获取视觉特征 [B, ViT_Seq, Vis_Dim]
-        image_embeds = self.vision_encoder(pixel_values) 
+        # 1. 获取 5D 维度信息
+        # pixel_values shape: [Batch_Size, Num_Frames, Channels, Height, Width]
+        b, t, c, h, w = pixel_values.shape
+        
+        # 2. 【关键修改】展平前两个维度 (Batch * Time)
+        # 变成: [Batch_Size * Num_Frames, Channels, Height, Width]
+        pixel_values_flat = pixel_values.view(-1, c, h, w)
+        
+        # 3. 传入视觉编码器
+        # 输出 image_embeds shape: [B*T, Seq_Len, Dim]
+        with torch.no_grad():
+            vision_outputs = self.vision_encoder(pixel_values_flat)
+            image_embeds = vision_outputs.last_hidden_state  
+        
+        # 4. 【关键修改】恢复维度并拼接
+        # [B*T, Seq_Len, Dim] -> [B, T * Seq_Len, Dim]
+        vis_seq_len = image_embeds.shape[1]
+        vis_dim = image_embeds.shape[2]
+        image_embeds = image_embeds.view(b, t * vis_seq_len, vis_dim)
         
         # 2. 投影到 LLM 空间 [B, ViT_Seq, LLM_Dim]
         image_embeds = self.projector(image_embeds)

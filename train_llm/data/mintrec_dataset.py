@@ -1,31 +1,23 @@
 import os
+import json
+import cv2
+import numpy as np
+import torch
 from torch.utils.data import Dataset
 from PIL import Image
 
 class MIntRecDataset(Dataset):
     def __init__(self, data_json_path, tokenizer, image_processor, num_frames=4):
         """
-        data_json_path: 包含 [{"video_id": "...", "text": "...", "label": "..."}] 的列表
+        data_json_path: 包含 [{"video_path": "...", "text": "...", "label": "..."}] 的列表
         """
         self.data = self._load_data(data_json_path)
-        self.video_dir = video_dir
         self.tokenizer = tokenizer
         self.image_processor = image_processor
         self.num_frames = num_frames
-        
-        # MIntRec Intent Labels (根据实际情况修改)
-        self.intents = [
-            'Complain', 'Praise', 'Apologise', 'Thank', 'Criticize', 'Care', 'Agree', 
-            'Taunt', 'Flaunt', 'Joke', 'Oppose', 'Comfort', 'Inform', 'Advise', 
-            'Arrange', 'Introduce', 'Leave', 'Prevent', 'Greeting', 'Ask for help'
-        ]
 
     def _load_data(self, path):
         # 如果是真实文件请使用 json.load
-        # 这里为了演示，生成伪数据
-        if not os.path.exists(path):
-            print("Warning: Data file not found. Using dummy data.")
-            return [{"video_id": "dummy.mp4", "text": "Why did you do that?", "label": "Complain"}] * 10
         with open(path, 'r') as f:
             return json.load(f)
 
@@ -67,8 +59,7 @@ class MIntRecDataset(Dataset):
         item = self.data[idx]
         
         # 1. 准备视频输入
-        # 假设 video_id 包含后缀，如 'train_001.mp4'
-        video_path = os.path.join(self.video_dir, item['video_id'])
+        video_path = item["video_path"]
         frames = self._load_frames(video_path) # List[PIL.Image]
         
         # Siglip Processor 处理图片列表
@@ -77,29 +68,43 @@ class MIntRecDataset(Dataset):
         pixel_values = vision_inputs.pixel_values # [T, 3, H, W]
         
         # 2. 准备文本输入
-        prompt = f"<|im_start|>user\nAnalyze the video and text to determine the intent.\nText: {item['text']}\n<|im_end|>\n<|im_start|>assistant\nThe intent is {item['label']}<|im_end|>"
+        messages = [
+            {"role": "user", "content": item['text']},
+            {"role": "assistant", "content": item['label']}
+        ]
         
-        # Tokenize
-        # 注意：这里我们手动拼接 prompt 和 answer，在 collator 里再处理 padding
-        encodings = self.tokenizer(prompt, return_tensors="pt", add_special_tokens=False)
-        input_ids = encodings.input_ids.squeeze(0)
-        attention_mask = encodings.attention_mask.squeeze(0)
+        # 3. 使用 apply_chat_template 生成文本
+        # 技巧：我们需要知道“提问部分”有多长，以便 mask 掉 labels
+        # A. 获取完整对话的 input_ids
+        full_input_ids = self.tokenizer.apply_chat_template(
+            messages, 
+            tokenize=True, 
+            add_generation_prompt=False, 
+            return_tensors="pt"
+        ).squeeze(0) # [Seq_Len]
+
+        # B. 获取“Prompt部分”（User输入 + Assistant引导符）的长度
+        # Qwen 的 template 会在 user 结束后自动加上 <|im_start|>assistant\n
+        user_only_messages = messages[:-1] # 去掉 assistant 的回复
+        prompt_input_ids = self.tokenizer.apply_chat_template(
+            user_only_messages, 
+            tokenize=True, 
+            add_generation_prompt=True, # 关键：加上这句会自动补全 <|im_start|>assistant\n
+            return_tensors="pt"
+        ).squeeze(0)
         
-        # Labels: 计算 Loss
-        # 简单的做法：Label = Input_ids, 但将 Prompt 部分设为 -100
-        labels = input_ids.clone()
+        prompt_len = prompt_input_ids.shape[0]
+
+        # 4. 处理 Labels (Masking)
+        labels = full_input_ids.clone()
+        # 将 Prompt 部分（包括 System, User, 和 Assistant 的引导符）设为 -100
+        labels[:prompt_len] = -100
         
-        # 找到 "The intent is " 的位置来截断 label (简化处理，实际可以使用更复杂的掩码逻辑)
-        # 这里简单假设只训练最后几个 token（意图标签）
-        # 更严谨的做法是分段 tokenize prompt 和 answer
-        
-        # 重新构建更稳健的 mask 逻辑：
-        user_prompt = f"<|im_start|>user\nAnalyze the video and text to determine the intent.\nText: {item['text']}\n<|im_end|>\n<|im_start|>assistant\nThe intent is "
-        prompt_ids = self.tokenizer(user_prompt, return_tensors="pt", add_special_tokens=False).input_ids.squeeze(0)
-        labels[:len(prompt_ids)] = -100
+        # 5. 获取 Attention Mask
+        attention_mask = torch.ones_like(full_input_ids)
         
         return {
-            "input_ids": input_ids,
+            "input_ids": full_input_ids,
             "attention_mask": attention_mask,
             "labels": labels,
             "pixel_values": pixel_values

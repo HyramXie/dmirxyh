@@ -2,31 +2,34 @@ import pandas as pd
 import json
 import os
 
-#修改部分
-csv_file = "/root/user/xyh/Datasets/MIntRec2/test.tsv"
-csv_desc_file= "/root/user/xyh/Datasets/MIntRec2/test_desc.tsv"
-json_file = "/root/user/xyh/ProcessDataset/GetDatasetsJson/MIntRec2/MIntRec2_test_text_efe.json"
+csv_file = "/root/user/xyh/Datasets/MELD/train.tsv"
+json_file = "/root/user/xyh/ProcessDataset/GetDatasetsJson/MELD/MELD_train.json"
 
+#修改部分
 df = pd.read_csv(csv_file, sep='\t')
-df_desc = pd.read_csv(csv_desc_file, sep='\t')
 conversations = []
 
 for i in range(len(df)):
     data = df.loc[i]
-    data_desc = df_desc.loc[i]
 
-    text = data["text"]
-    lable = data["label"].strip()
+    #修改部分
+    video_path = os.path.join("/root/user/xyh/Datasets/MELD/video", "dia" + str(data["Dialogue_ID"]) + "_utt" + str(data["Utterance_ID"]) + ".mp4")
+    
+    text = data["Utterance"]
+    lable = data["label"]
     conversations.append({
         "messages": [
             {
                 "role": "user",
-                "content": "text:" + text + "\nEmotions and Facial Expressions:" + data_desc["Emotions and Facial Expressions"]
+                "content": "<video>" + text
             },
             {
                 "role": "assistant",
                 "content": lable
             }
+        ],
+        "videos": [
+            video_path
         ]
     })
     if (i + 1) % 50 ==0:

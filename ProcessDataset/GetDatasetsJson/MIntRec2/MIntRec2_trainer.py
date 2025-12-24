@@ -3,28 +3,25 @@ import json
 import os
 
 #修改部分
-csv_file = "/root/user/xyh/Datasets/MIntRec2/test.tsv"
-json_file = "/root/user/xyh/ProcessDataset/GetDatasetsJson/MIntRec2/MIntRec2_test_text.json"
+csv_file = "/root/user/xyh/Datasets/MIntRec2/train.tsv"
+json_file = "/root/user/xyh/Datasets/MIntRec2/MIntRec2_train.json"
 
 df = pd.read_csv(csv_file, sep='\t')
 conversations = []
 
 for i in range(len(df)):
     data = df.loc[i]
+
+    #修改部分
+    video_path = os.path.join("/root/user/xyh/Datasets/MIntRec2/video", "MIntRec2.0_" + data["id"] + ".mp4")
     
     text = data["text"]
     lable = data["label"].strip()
+
     conversations.append({
-        "messages": [
-            {
-                "role": "user",
-                "content": text
-            },
-            {
-                "role": "assistant",
-                "content": lable
-            }
-        ]
+        "video_path": video_path,
+        "text": text,
+        "label": lable
     })
     if (i + 1) % 50 ==0:
         print(f'processing {i+1}/{len(df)} images')

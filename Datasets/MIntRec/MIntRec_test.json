@@ -1,0 +1,2227 @@
+[
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/70.mp4",
+    "text": "you're gonna go back and work on that register",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/121.mp4",
+    "text": "corned beef and cabbage are 20% off.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/377.mp4",
+    "text": "i'm not really that happy with you either.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/525.mp4",
+    "text": "don't be stingy with the squirts.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/158.mp4",
+    "text": "don't worry, sandra saw it and she didn't say anything.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/12.mp4",
+    "text": "you guys are the best. i love you all.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/192.mp4",
+    "text": "what? wait, no, no.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/437.mp4",
+    "text": "hey, how's it going?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E11/270.mp4",
+    "text": "yeah. yeah. this is definitely overboard.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/216.mp4",
+    "text": "god, i can't take it!",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/230.mp4",
+    "text": "amy, i need to report an employee theft.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/424.mp4",
+    "text": "don't worry about it.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/95.mp4",
+    "text": "thank you.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E02/526.mp4",
+    "text": "thanks.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/111.mp4",
+    "text": "this lipstick is stay all day",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/123.mp4",
+    "text": "i'm sorry.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/523.mp4",
+    "text": "i'm gonna check on gerald, see if he's done crying in the men's room.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/23.mp4",
+    "text": "yeah, and you wouldn't give me the day off to skype with my boyfriend.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/185.mp4",
+    "text": "hey, guys. having fun?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/176.mp4",
+    "text": "no, you guys don't have to come with me.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/41.mp4",
+    "text": "great. let's get back to work.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/440.mp4",
+    "text": "sorry, i got caught up in the moment.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/244.mp4",
+    "text": "she can't stand that i have authority now",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/426.mp4",
+    "text": "i think we should probably hear a few more, uh, female voices.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/576.mp4",
+    "text": "oh, well, thanks.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/551.mp4",
+    "text": "you've gone power mad.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/387.mp4",
+    "text": "i don't even know who you're thinking of.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/39.mp4",
+    "text": "amy, sorry to interrupt",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/481.mp4",
+    "text": "why shouldn't we have a debate?",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/168.mp4",
+    "text": "wait, it's- hey, stop... stop!",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/436.mp4",
+    "text": "i would give jonah a lap dance in a second",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/243.mp4",
+    "text": "cheyenne, give her the axe.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/42.mp4",
+    "text": "next order of business,we're going to be holding an employee costume competition today.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/535.mp4",
+    "text": "that's past the property line.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/159.mp4",
+    "text": "bo's mom calls, like, all the time.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/165.mp4",
+    "text": "to award the golden vest...",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E02/43.mp4",
+    "text": "no, i'm- i'm gonna make him look good.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/546.mp4",
+    "text": "yeah, but i don't think anyone should have that much power.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E10/414.mp4",
+    "text": "i 'm just saying that you should tell garrett",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/8.mp4",
+    "text": "it's a pipe organ.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/110.mp4",
+    "text": "that's tommy. he's lead organizer, total badass.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/522.mp4",
+    "text": "thank you so much.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/124.mp4",
+    "text": "dina's right, you don't know fashion.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E06/114.mp4",
+    "text": "oh, yeah, she's great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/113.mp4",
+    "text": "this pops  tony danza brand popcorn cartridges only.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E05/216.mp4",
+    "text": "'cause then i could hit on this bodacious babe.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/307.mp4",
+    "text": "you need to go back up to her and tell her",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E08/109.mp4",
+    "text": "oh, hey. dina, what's up?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/430.mp4",
+    "text": "why are you telling people that i'm  lying like a syrian ?",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/185.mp4",
+    "text": "anyway, zephra also asked me to set up a video conference",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/21.mp4",
+    "text": "this is a great debate for another time.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/440.mp4",
+    "text": "we have, and we want to apologize.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/222.mp4",
+    "text": "we just solved our first business crisis.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/507.mp4",
+    "text": "so thank you all so much for my gifts.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/64.mp4",
+    "text": "uh, no, that definitely wasn't me.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E01/96.mp4",
+    "text": "carol and justine, i'm moving you to school supplies.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E07/268.mp4",
+    "text": "but i need you to go empty the rat traps.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E09/360.mp4",
+    "text": "leading scientist admits earth is flat.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/510.mp4",
+    "text": "i really appreciate jerusha watching parker.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/3.mp4",
+    "text": "thanks.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/556.mp4",
+    "text": "i am so sorry",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/360.mp4",
+    "text": "jonah, i don't feel you were fair to me--",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E11/120.mp4",
+    "text": "oh, she is the devil.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/510.mp4",
+    "text": "you are bright. your numbers are great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/587.mp4",
+    "text": "oh, hey, dina.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/221.mp4",
+    "text": "hey, you don't have to be ashamed.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/22.mp4",
+    "text": "now, i'm gonna be a little busy.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/228.mp4",
+    "text": "and this is the break room.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/169.mp4",
+    "text": "i was just, um...i'm sorry.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/150.mp4",
+    "text": "it couldn't hurt to shake things up a little bit here.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/31.mp4",
+    "text": "maybe st. louis finally has a female serial killer.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/26.mp4",
+    "text": "one-  it's a cereal bar!",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/245.mp4",
+    "text": "take one whack, all right?",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/236.mp4",
+    "text": "look, all i'm saying is that you don't have to worry",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/287.mp4",
+    "text": "i am going to sit in traffic for 45 minutes and return this.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/332.mp4",
+    "text": "amy, why don't you be the manager, and you're gonna talk to cheyenne about her repeated absences.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/391.mp4",
+    "text": "i can just take off.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/457.mp4",
+    "text": "hey, carol. welcome back.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/170.mp4",
+    "text": "come on, it wasn't that bad.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/536.mp4",
+    "text": "yeah, those babies look great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/440.mp4",
+    "text": "you knocked over that cone back there, dog--i want a rematch.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/227.mp4",
+    "text": "so, girl, how is your day going?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/328.mp4",
+    "text": "maybe, instead, we should make them feel",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/351.mp4",
+    "text": "okay, it doesn't matter.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E02/97.mp4",
+    "text": "yeah, and i said how mateo's always serving up the tea, like when he told that lost little girl because her mommy was hot trash.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/285.mp4",
+    "text": "but you are coming on way too strong",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/491.mp4",
+    "text": "hey! just coming by to say hey.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/429.mp4",
+    "text": "i'll make sure to get the rest of those boxes.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/82.mp4",
+    "text": "no, no, it's- it's fine, it's fine.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/281.mp4",
+    "text": "but i can't forgive myself for leaving you for it.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/196.mp4",
+    "text": "i'm already three orders behind!",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/164.mp4",
+    "text": "sorry, i've just been feeling a little down lately.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/397.mp4",
+    "text": "i probably should've led with that, but you just kept talking and talking about how great you're doing.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E12/156.mp4",
+    "text": "this place is crawling with raccoons.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E01/194.mp4",
+    "text": "hey.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/447.mp4",
+    "text": "yeah.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/335.mp4",
+    "text": "oh, yes, thank you.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/292.mp4",
+    "text": "yeah. yeah, i would say that.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E10/26.mp4",
+    "text": "carol, you can probably just go start your shift now.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/591.mp4",
+    "text": "sucks.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/76.mp4",
+    "text": "so how's your toast coming?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/401.mp4",
+    "text": "well, it affects my work.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/417.mp4",
+    "text": "how you doing?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/279.mp4",
+    "text": "sorry i'm being so insensitive.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/481.mp4",
+    "text": "i just had a really hard year.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E02/17.mp4",
+    "text": "no, those are yesterday's donuts.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/506.mp4",
+    "text": "the guy's a monster.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/304.mp4",
+    "text": "mateo, give him his gift card.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/50.mp4",
+    "text": "corporate is asking us to run everybody through e-verify, and there's a bit of a problem.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/134.mp4",
+    "text": "totally. sounds great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/309.mp4",
+    "text": "hey, we have a problem.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E06/42.mp4",
+    "text": "no, ken, that's my car. that's the managers spot.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/230.mp4",
+    "text": "foul on the play!",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/194.mp4",
+    "text": "please gather in the break room",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/165.mp4",
+    "text": "let's not use the word  crazy.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E11/416.mp4",
+    "text": "then they shouldn't have started talking trash about us.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/500.mp4",
+    "text": "we should just take it from the top.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/103.mp4",
+    "text": "hey, man, don't touch my tummy!",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/143.mp4",
+    "text": "thank you for coming.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E10/436.mp4",
+    "text": "hannah, can you update the sim card on the robot?",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E05/388.mp4",
+    "text": "and here's the guy we have to thank.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/470.mp4",
+    "text": "i better go tell her.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E06/575.mp4",
+    "text": "oh, hey, guys, i don't know if you heard, but sandra's cat died yesterday",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/272.mp4",
+    "text": "that's a great idea. oh, my--",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E11/5.mp4",
+    "text": "close. they're supercloud step trackers.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/532.mp4",
+    "text": "i think jerry should have ended up with carol!",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/577.mp4",
+    "text": "it looked kind of like an inside-out otter.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/571.mp4",
+    "text": "please, i should be thanking you.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/277.mp4",
+    "text": "and he's going to be taking over for glenn as manager.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/476.mp4",
+    "text": "i did, that was awesome.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/551.mp4",
+    "text": "sorry, i meant to say that i also have",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E05/487.mp4",
+    "text": "i got a meeting--party.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/113.mp4",
+    "text": "connie, i love that dress.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/332.mp4",
+    "text": "fast as lightning, but sharper.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/292.mp4",
+    "text": "jonah and amy are at each other's throats.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/339.mp4",
+    "text": "a teenager bought 144 cans of chafing fuel",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/289.mp4",
+    "text": "never mind.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/308.mp4",
+    "text": "might have everybody a little bit on edge, but i mean, everybody gets that you guys matter. we're all good.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/215.mp4",
+    "text": "maybe we should humanize it.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/534.mp4",
+    "text": "there, see, was that so hard?",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/574.mp4",
+    "text": "thanks, that's comforting.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/208.mp4",
+    "text": "i, um, can type 100 words per minute.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/354.mp4",
+    "text": "what up, dave, is that i asked you hours ago  to assemble the turtle wax endcap, and it's still not done.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/61.mp4",
+    "text": "can you back me up here, please?",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/23.mp4",
+    "text": "hey, maya's here.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/361.mp4",
+    "text": "yeah, i think i'm gonna head to my car",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/321.mp4",
+    "text": "just tell 'em to take it down and get back to work.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/570.mp4",
+    "text": "i'm, uh, sorry about the mess.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/528.mp4",
+    "text": "oh, thank you for watching her.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/145.mp4",
+    "text": "oh, nothing. just having a little thing at my place.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/344.mp4",
+    "text": "thanks, amy.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/10.mp4",
+    "text": "ah, sand--sandra, i am gonna have you set up the display today.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/419.mp4",
+    "text": "you sure i can't get you a drink?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/175.mp4",
+    "text": "sorry. text from dina.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/439.mp4",
+    "text": "have you guys worked things out?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/181.mp4",
+    "text": "she doesn't want us!",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/160.mp4",
+    "text": "you guys should file a complaint with the company.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/440.mp4",
+    "text": "i thought you were, but then they started following me around; they started searching my stuff.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/6.mp4",
+    "text": "anyway, dina i can't go this year",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/172.mp4",
+    "text": "they looked great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/482.mp4",
+    "text": "sandra, come on. let's go.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/102.mp4",
+    "text": "hey, sandra, this order just says  pot.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/527.mp4",
+    "text": "hi, uh, i'm brian, by the way. i'm dina's boyfriend.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/85.mp4",
+    "text": "oh, yeah, definitely.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/68.mp4",
+    "text": "we quit telling you weeks ago because you're management.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/162.mp4",
+    "text": "my name is dina fox, and my goal here today is",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/225.mp4",
+    "text": "and i thought it would be the same, but it's not!",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/390.mp4",
+    "text": "i think i've won her over.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E08/542.mp4",
+    "text": "but it's not really your fault.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/388.mp4",
+    "text": "thank you.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/297.mp4",
+    "text": "i thought it was screaming, but i guess i was silent, because you muted me. you took away my voice.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/456.mp4",
+    "text": "i can do impressions too.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/45.mp4",
+    "text": "who wore it best, and the winner gets...",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/252.mp4",
+    "text": "new policy. starting now, there will be absolutely no personal talk on the floor.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/19.mp4",
+    "text": "you stole jerry from me.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/409.mp4",
+    "text": "thank you. you know, kelly",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/282.mp4",
+    "text": "we should just send justine home, right?",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/158.mp4",
+    "text": "so, look, i think it's great you're out here",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/387.mp4",
+    "text": "honestly, really great",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/89.mp4",
+    "text": "um, georgia is kind of a legend.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/482.mp4",
+    "text": "i'm just gonna hand out shift assignments",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/180.mp4",
+    "text": "duh. i'm sorry, mateo.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/370.mp4",
+    "text": "their beauty standers are way lower",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/122.mp4",
+    "text": "hm. eugene, could you get those boxes off from the top shelf, and take them to the back?",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/249.mp4",
+    "text": "the colors are packaged so you know they go together.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E02/80.mp4",
+    "text": "yeah, yeah, you're right. you're right.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/572.mp4",
+    "text": "this sucks.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E09/308.mp4",
+    "text": "their tablets barely hold a charge.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/128.mp4",
+    "text": "great. awesome.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/331.mp4",
+    "text": "so starting now, if anybody buys one of these without a warning and they die, we're liable.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/161.mp4",
+    "text": "okay.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E07/372.mp4",
+    "text": "that long. what have you been up to?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/294.mp4",
+    "text": "is everything okay?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E02/249.mp4",
+    "text": "it's fine, i'm just gonna put on my sweet and innocent voice, and bam, they won't even know what they're confessing to.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/389.mp4",
+    "text": "how's the peeing going?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/66.mp4",
+    "text": "oh, that is wonderful.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/227.mp4",
+    "text": "uh, i'm sorry.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E05/192.mp4",
+    "text": "but i think it might be easier if you just wrote it down.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/176.mp4",
+    "text": "kaluiokalani sounds made-up. anyway, just tell him i'm dead.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/183.mp4",
+    "text": "why can't i just delete the registry?",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/589.mp4",
+    "text": "i'm sorry, marcus.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/530.mp4",
+    "text": "huh, you know, that's a good point.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/12.mp4",
+    "text": "all you have to do today is hand out these nifty care packages to the holloway house women's shelter",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E06/41.mp4",
+    "text": "honestly, you're- you're really beautiful.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/468.mp4",
+    "text": "i did. i did. i blew it.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/8.mp4",
+    "text": "you don't need to. no.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E10/396.mp4",
+    "text": "garrett's like a really nice guy and funny and cute.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/105.mp4",
+    "text": "the governor shut down all indoor dining.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/1.mp4",
+    "text": "good morning, store 1217.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E07/244.mp4",
+    "text": "excuse me, do you know anything about drills?",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/24.mp4",
+    "text": "okay, anyway, i need to get a head count so i know who's coming.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E02/246.mp4",
+    "text": "hey, so i just wanted to apologize",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/266.mp4",
+    "text": "not a refugee, like you. knock on wood.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/389.mp4",
+    "text": "she threw a mustard jar at me. it left a bruise... on my thigh.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/333.mp4",
+    "text": "and we thought of you",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/534.mp4",
+    "text": "beautiful.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/219.mp4",
+    "text": "both jonah and cheyenne wanna be floor supervisor.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E05/167.mp4",
+    "text": "but i thought we'd make a list of the other issues corporate needs to address.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/453.mp4",
+    "text": "this is a map of the night stars over st. louis where we met.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/366.mp4",
+    "text": "i don't think that's what i said at all.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/398.mp4",
+    "text": "she's a real grumplestiltskin.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/304.mp4",
+    "text": "hey, garrett.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/190.mp4",
+    "text": "okay, let's start by hearing everybody's work experience.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E06/466.mp4",
+    "text": "i guess it's defective, just like the two of you!",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/139.mp4",
+    "text": "just say that you were with bo all night last thursday.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/473.mp4",
+    "text": "you look good and you better get your prize",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E07/160.mp4",
+    "text": "it was a...anniversary present for my wife",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/513.mp4",
+    "text": "two babies enter, one baby leaves.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/169.mp4",
+    "text": "ah mateo, that's awesome!",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/28.mp4",
+    "text": "ladies, this is the embalming conference.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E09/384.mp4",
+    "text": "yours was just, like, attitude, which is fine.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E06/20.mp4",
+    "text": "we've got a really exciting covid announcement.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/472.mp4",
+    "text": "if you could just put all the raw footage on there.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/510.mp4",
+    "text": "they don't even have to pay for their aroma-therapy diffusers. how is that fair?",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/250.mp4",
+    "text": "it's not that bad.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/183.mp4",
+    "text": "okay, fine, whatever. let's just go.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/227.mp4",
+    "text": "girl, don't be so hard up on yourself, okay? i'm sure it's not nearly as bad as you--.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/77.mp4",
+    "text": "thank you, glenn.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E06/313.mp4",
+    "text": "she was great. and funny.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/192.mp4",
+    "text": "you first, justine.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/146.mp4",
+    "text": "he's in a handball league, he had a deaf girlfriend",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/17.mp4",
+    "text": "well, i mean, you almost made me kill your cat.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/430.mp4",
+    "text": "i'm gonna pass out the tomatoes.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/210.mp4",
+    "text": "that squeaks. that's what squirrels do.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/114.mp4",
+    "text": "this is too much pressure.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/90.mp4",
+    "text": "and actually,maybe you could talk to him about sex and stuff.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/119.mp4",
+    "text": "well, amy is at the eye doctor.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/197.mp4",
+    "text": "i gotta go tag in.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/217.mp4",
+    "text": "you just throw it in a cart like a sack of margarine.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/20.mp4",
+    "text": "nobody's getting fired. get out of your head.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/85.mp4",
+    "text": "stop, please.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/397.mp4",
+    "text": "that's good advice.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/199.mp4",
+    "text": "i know you're lying!",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/13.mp4",
+    "text": "and i was wondering if maybe you'd be willing to write a letter of recommendation",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/461.mp4",
+    "text": "sorry. i'm so sorry, judy.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E01/446.mp4",
+    "text": "cease fire! cease fire!",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/477.mp4",
+    "text": "this is a very good plan.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/308.mp4",
+    "text": "no, you don't get a gift card for every stupid little army man.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/535.mp4",
+    "text": "these people, they're evil.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/204.mp4",
+    "text": "and crestwood came around... hey!",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E02/395.mp4",
+    "text": "i once ate a pencil 'cause i thought it was chocolate.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/512.mp4",
+    "text": "you're hurt.",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/171.mp4",
+    "text": "actually, i really need to get out.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/420.mp4",
+    "text": "yeah, they're jordan 11 retro concords.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/139.mp4",
+    "text": "sandra's sister is useless, and jerry's family members",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/340.mp4",
+    "text": "it's homemade.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/459.mp4",
+    "text": "i just wanted to apologize for earlier.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/265.mp4",
+    "text": "thanks.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/213.mp4",
+    "text": "see, look at my dress. it's spotless.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/293.mp4",
+    "text": "no, you're right. you're right.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/225.mp4",
+    "text": "i'm like a sitting duck in customer service. you have any idea how wet-lipped",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/96.mp4",
+    "text": "just a heads up, you might be getting a call",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/425.mp4",
+    "text": "right, yes, yeah, yeah. that's a good- that's a good point.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/552.mp4",
+    "text": "okay, i gotta get going.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/152.mp4",
+    "text": "yes, definitely.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/315.mp4",
+    "text": "i wanna be puma, raised in the jungles of peru",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/198.mp4",
+    "text": "so you either interview amy,or i file a 31-j with kyle robichot.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E05/26.mp4",
+    "text": "yup, that was pretty cool of corporate to fix it.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/208.mp4",
+    "text": "zephra finally sent over the safety protocols.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/111.mp4",
+    "text": "thanks.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/355.mp4",
+    "text": "but properly distanced, so don't move your chairs.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/485.mp4",
+    "text": "i appreciate that you bought american!",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/488.mp4",
+    "text": "what happened with amy?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/373.mp4",
+    "text": "that is a good point, dina.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E02/1.mp4",
+    "text": "quick covid safety reminder:",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/447.mp4",
+    "text": "this is great, this is healthy, this is--this is--",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/561.mp4",
+    "text": "or girlfriend, what does she think about all your birds?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/286.mp4",
+    "text": "but, uh, we got some more partying to do, folks.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/386.mp4",
+    "text": "oh, wow. i look like a hot, glowing stanley tucci.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/535.mp4",
+    "text": "make a reservation at ramona's.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E05/417.mp4",
+    "text": "thanks for filling in.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/100.mp4",
+    "text": "oh, yeah.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/89.mp4",
+    "text": "not a problem for me.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/361.mp4",
+    "text": "oh, hey, amy.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/25.mp4",
+    "text": "it's the parents you want to impress",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/535.mp4",
+    "text": "you gotta show her these before you dump her.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/436.mp4",
+    "text": "no, you know what? uh, everything's not all right.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/10.mp4",
+    "text": "uh, sandra, can you take the lead on that?",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/291.mp4",
+    "text": "halloween surfboard.  it's just stupid!",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/326.mp4",
+    "text": "you did? aww, thanks, garrett.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/13.mp4",
+    "text": "maybe dina shouldn't have brought her loud, dirty birds into work.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/425.mp4",
+    "text": "no, no, jurgen steals all my jobs.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/328.mp4",
+    "text": "okay, bo, stop. all right?",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E10/238.mp4",
+    "text": "hey! i got you a little congratulations gift",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/335.mp4",
+    "text": "um--oh, yeah, she is great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/23.mp4",
+    "text": "okay, so, uh, st. patrick's day. right.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/397.mp4",
+    "text": "we're--we're not here for the crumbs, you know?",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E05/368.mp4",
+    "text": "dina, you're gonna be fine.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/291.mp4",
+    "text": "oh, my god, you're cheating.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/521.mp4",
+    "text": "that's what i thought.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/156.mp4",
+    "text": "so if you see him, call me on the walkie immediately.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E05/208.mp4",
+    "text": "i think it's great that we're trying",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/343.mp4",
+    "text": "amy, it's fine. it's just a call.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/290.mp4",
+    "text": "yeah, you played that very cool, by the way.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/433.mp4",
+    "text": "what? no, i didn't take any packages.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/477.mp4",
+    "text": "whoa, whoa, whoa, whoa, whoa. we don't need to do that, okay?",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/575.mp4",
+    "text": "uh, so what was it?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/487.mp4",
+    "text": "just letting you know, i want a divorce.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E02/337.mp4",
+    "text": "hi amy, it's me.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/370.mp4",
+    "text": "how's it going in there?",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/436.mp4",
+    "text": "it is. it is a nice parking lot.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/515.mp4",
+    "text": "margo's my girlfriend.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/112.mp4",
+    "text": "it's worth a try.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E12/497.mp4",
+    "text": "oh, hey, excuse me, man. is this place open?",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E02/434.mp4",
+    "text": "uh, don't eat the baby food. the baby food is bad.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/204.mp4",
+    "text": "can you just help me figure out how to play this?",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/513.mp4",
+    "text": "protect your future, chica. you could be going places.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/472.mp4",
+    "text": "no, girl. you won.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/250.mp4",
+    "text": "i was actually pretty upset about it. i stewed outside for hours.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/595.mp4",
+    "text": "look, i don't understand why everybody wants to talk everything to death. to talk everything to death.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E11/185.mp4",
+    "text": "oh, excuse me, sir- can i get this in a--",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/498.mp4",
+    "text": "you're right.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/263.mp4",
+    "text": "that- that i need until end of day!",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E06/453.mp4",
+    "text": "i have slept 90 minutes in three days.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/535.mp4",
+    "text": "your total is $23.87.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E07/275.mp4",
+    "text": "then i need you to go clean the men's washroom.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/251.mp4",
+    "text": "oh! amy.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/56.mp4",
+    "text": "why don't we pick out items for each other?",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/383.mp4",
+    "text": "cheyenne was right. i'm a screwup.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/237.mp4",
+    "text": "well, we don't allow street performers out here",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/437.mp4",
+    "text": "sorry, this is where we're storing",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/506.mp4",
+    "text": "you should never joke about bombs.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/484.mp4",
+    "text": "thanks for stopping by.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/408.mp4",
+    "text": "they ride us till we drop and then immediately sell our ass meat.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/552.mp4",
+    "text": "we raised the wage!",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/294.mp4",
+    "text": "that's state-of-the-art wireless vr.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/22.mp4",
+    "text": "he's obviously toxic american masculinity.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E04/67.mp4",
+    "text": "but lady is on my last nerve today.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/1.mp4",
+    "text": "so you may have heard about the new ownership, but we're still cloud 9",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/219.mp4",
+    "text": "yeah, browsing's for cowards, dude!",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/145.mp4",
+    "text": "or--or--or put them in, like, a science lab, you know?",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/150.mp4",
+    "text": "i mean, i applaud you for trying",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/511.mp4",
+    "text": "oh, nice to have you, man.",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/47.mp4",
+    "text": "no one moved product like me back at sturgis & sons.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/226.mp4",
+    "text": "we'll consider that. thank you.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/88.mp4",
+    "text": "dan wants to put in a  famous glasses in history  display.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/339.mp4",
+    "text": "wait, there's one more i want you to try.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/328.mp4",
+    "text": "i want to make you a manager.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/13.mp4",
+    "text": "i've heard it five times.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/35.mp4",
+    "text": "maybe he's afraid of heights. put him on the floor.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/308.mp4",
+    "text": "yeah, okay. all right, look.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/123.mp4",
+    "text": "this isn't even a break. this is just... unofficial break room time.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/568.mp4",
+    "text": "oh, yeah, sure.",
+    "label": "Agree"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/419.mp4",
+    "text": "and terrence, you stole $40 billion",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/128.mp4",
+    "text": "yeah, i haven't sold, like, anything today.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E08/145.mp4",
+    "text": "the--the case is closed. you can't reopen the case.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/525.mp4",
+    "text": "why? glenn, what were you thinking?",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E21/142.mp4",
+    "text": "tony!",
+    "label": "Greet"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/267.mp4",
+    "text": "it's just, it feels silly for me to be giving a speech",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E06/43.mp4",
+    "text": "you've got like a- like a post-pregnancy glow.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E06/420.mp4",
+    "text": "her hair looks like spaghetti that's been left in the pot.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/423.mp4",
+    "text": "you stay right here.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/117.mp4",
+    "text": "and you're really good at holding things.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/25.mp4",
+    "text": "i'm sorry. i tried.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/127.mp4",
+    "text": "i'm sorry, cheyenne. gecko lady's weirder.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E03/474.mp4",
+    "text": "we should be talking about actual issues.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/196.mp4",
+    "text": "you don't have to be embarrassed.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E11/473.mp4",
+    "text": "the worst part about this is that colleen wins again.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/497.mp4",
+    "text": "i really hate her.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/287.mp4",
+    "text": "i budgeted six shrimp per person, so go to town.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/329.mp4",
+    "text": "where's my order? i need that washing machine.",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E16/148.mp4",
+    "text": "sorry, buddy. not you. you look totally normal.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/530.mp4",
+    "text": "but you are gonna be fine.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/373.mp4",
+    "text": "i order three jars of pumpkin spice salsa an hour ago, and i've been waiting in my car.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/573.mp4",
+    "text": "not today. look, i'm sorry about amy too.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/159.mp4",
+    "text": "and the sound quality's full  garbagio.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/321.mp4",
+    "text": "i have to fix it before maya sees.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/504.mp4",
+    "text": "glenn, apologize to the car i dented.",
+    "label": "Arrange"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E07/541.mp4",
+    "text": "are you okay?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E08/136.mp4",
+    "text": "garrett can do anything.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/51.mp4",
+    "text": "i was the best salesperson in the store.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E09/558.mp4",
+    "text": "this isn't the company i signed up to work for after they drove my family hardware store out of business.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/79.mp4",
+    "text": "eric, i told you, you can't just let anybody into my house.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E20/505.mp4",
+    "text": "he brings that up a lot. i'm sorry.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E17/384.mp4",
+    "text": "everything all right?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E08/60.mp4",
+    "text": "sorry, just a little nervous.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/144.mp4",
+    "text": "hey, they still have some!",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E13/129.mp4",
+    "text": "i work here 16 to 19 hours a day, so i'm missing a lot of time with her.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/517.mp4",
+    "text": "he's lying right now because he stole the stuff.",
+    "label": "Criticize"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/306.mp4",
+    "text": "i'm pretty good at hiding things.",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/145.mp4",
+    "text": "my husband's being such a b-munch right now.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/177.mp4",
+    "text": "okay, bye.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E10/281.mp4",
+    "text": "no, no, no, janet, don't hang up.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/1.mp4",
+    "text": "attention cloud 9 shoppers and employees. i, uh--i just wanted to take this moment",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/113.mp4",
+    "text": "yeah, it's nice.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/353.mp4",
+    "text": "they're not really known for their customer service.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E12/394.mp4",
+    "text": "well, then let's all stop annoying each other",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E04/515.mp4",
+    "text": "that i actually ended up suppressing votes?",
+    "label": "Flaunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/243.mp4",
+    "text": "it's not cool, it's not funny, and it's starting to make people uncomfortable.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/578.mp4",
+    "text": "thank you.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/136.mp4",
+    "text": "i'm doing this new curbside thing.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E10/422.mp4",
+    "text": "well, i really need ice cream cones.",
+    "label": "Ask for help"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/190.mp4",
+    "text": "you know, it might be nice for parker to get some",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E16/329.mp4",
+    "text": "good. are you sick?",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E05/156.mp4",
+    "text": "the reason i'm asking is we don't accept your insurance.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/391.mp4",
+    "text": "i've got an idea. fire her ass.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/64.mp4",
+    "text": "hey, so what's the latest with operation",
+    "label": "Care"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/332.mp4",
+    "text": "oh, that's really great.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/315.mp4",
+    "text": "ugh. what a waste of money.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/447.mp4",
+    "text": "you're satan workers!",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E01/432.mp4",
+    "text": "cindy, i'm gonna do that right now.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E15/529.mp4",
+    "text": "and unfortunately, it is supposed to rain.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E09/368.mp4",
+    "text": "it makes about as much sense",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/18.mp4",
+    "text": "i'm just gonna be a good old-fashioned cowboy.",
+    "label": "Joke"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E07/334.mp4",
+    "text": "he's just a wuss who's still afraid of his parents.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/136.mp4",
+    "text": "wow. cool shirts.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E06/35.mp4",
+    "text": "sorry i'm late. sorry.",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/106.mp4",
+    "text": "is how a man manages to make it to 60 without hitting puberty.",
+    "label": "Taunt"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/126.mp4",
+    "text": "anyway, thank you for coming and talking to me.",
+    "label": "Thank"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/320.mp4",
+    "text": "like, you need to communicate better.",
+    "label": "Advise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S06/E10/257.mp4",
+    "text": "love the socks, by the way. so thoughtful.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E12/129.mp4",
+    "text": "no, no, no, it's called multi-level marketing.",
+    "label": "Oppose"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E07/554.mp4",
+    "text": "this display's my masterpiece right here.",
+    "label": "Introduce"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E14/169.mp4",
+    "text": "how am i supposed to find $27,000 worth of stuff to repair in one day? there's just not that much stuff that's broken!",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E14/109.mp4",
+    "text": "yeah, it just takes practice.",
+    "label": "Comfort"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S04/E03/413.mp4",
+    "text": "that was- good breakthrough.",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/80.mp4",
+    "text": "this is great!",
+    "label": "Praise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E13/213.mp4",
+    "text": "hey, you've got a thing coming up.",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E11/526.mp4",
+    "text": "amy, us men of the store are tired of taking orders from a woman.",
+    "label": "Complain"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E17/353.mp4",
+    "text": "sandra, you have to stop.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/366.mp4",
+    "text": "i mean, i do kind of have to go.",
+    "label": "Leave"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E18/395.mp4",
+    "text": "oh, okay, well, yeah. don't--do not give him that.",
+    "label": "Prevent"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E19/389.mp4",
+    "text": "guys, i sent carol to lunch so that we could talk about",
+    "label": "Inform"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E08/90.mp4",
+    "text": "i'm sorry, garrett",
+    "label": "Apologise"
+  },
+  {
+    "video_path": "/root/user/xyh/Datasets/MIntRec/raw_data/S05/E09/540.mp4",
+    "text": "your fault because the two of you don't know",
+    "label": "Criticize"
+  }
+]
