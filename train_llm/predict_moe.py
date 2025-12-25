@@ -15,13 +15,14 @@ from tqdm import tqdm  # 引入进度条
 import json
 
 from model.projector import MMInputProjector
+from model.moe_vision_adapter import VisionMoEAdapter
 
 CONFIG = {
     "base_model_path": "/root/huggingface/qwen/Qwen2.5-7B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/qwen_mintrec_base", 
+    "checkpoint_dir": "./checkpoints/qwen_mintrec_moe", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_base.json",
+    "output_file": "./eval/mintrec_predictions_moe.json",
     "device": "cuda",
     "num_frames": 4
 }
@@ -72,6 +73,16 @@ class IntentPredictor:
             raise FileNotFoundError(f"Projector weights not found at {projector_path}")
         self.projector.eval()
         self.projector.to(dtype=torch.bfloat16)
+
+        #E. 加载moe_adapter
+        self.vision_moe = VisionMoEAdapter(input_dim=llm_dim, num_experts=4, top_k=2).to(device).to(torch.bfloat16)
+        # 加载训练好的 vision_moe.pt
+        moe_path = os.path.join(model_dir, "vision_moe.pt")
+        if os.path.exists(moe_path):
+            self.vision_moe.load_state_dict(torch.load(moe_path, map_location=device))
+        else:
+            raise FileNotFoundError(f"MoE Adapter weights not found at {moe_path}")
+        self.vision_moe.eval()
         
         print("Model loaded successfully!")
 
@@ -126,6 +137,13 @@ class IntentPredictor:
             image_embeds = image_embeds.view(b, t * vis_seq_len, vis_dim)
 
             image_embeds = self.projector(image_embeds)
+        
+        #插入moe
+        batch_size, total_seq, hidden_dim = image_embeds.shape
+        image_embeds_flat = image_embeds.view(-1, hidden_dim)
+        with torch.no_grad():
+            image_embeds_flat = self.vision_moe(image_embeds_flat)
+            image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
 
         # 2. 准备文本 Prompt
         # 构造 prompt，注意这里没有 Answer，只有 User 的提问

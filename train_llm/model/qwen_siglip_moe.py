@@ -4,6 +4,7 @@ from peft import LoraConfig, TaskType, get_peft_model, PeftModel, prepare_model_
 from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
 from model.siglip_encoder import SiglipEncoder
 from model.projector import MMInputProjector
+from model.moe_vision_adapter import VisionMoEAdapter
 
 class QwenWithSiglip(nn.Module):
     def __init__(self, llm_path="Qwen/Qwen2.5-7B-Instruct", vision_path="google/siglip-so400m-patch14-384", device="cuda"):
@@ -43,6 +44,9 @@ class QwenWithSiglip(nn.Module):
         vision_hidden_size = self.vision_encoder.model.config.hidden_size
         self.projector = MMInputProjector(input_dim=vision_hidden_size, output_dim=llm_hidden_size).to(device)
 
+        #moe
+        self.vision_moe = VisionMoEAdapter(input_dim=llm_hidden_size, num_experts=4, top_k=2).to(self.llm.device).to(torch.bfloat16)
+
         # 4. 配置训练参数（冻结策略）
         self._set_trainable_params()
         
@@ -59,7 +63,11 @@ class QwenWithSiglip(nn.Module):
         for param in self.projector.parameters():
             param.requires_grad = True
             
-        # D. 应用 LoRA 到 LLM
+        # D. 激活 Vision MoE 参数
+        for param in self.vision_moe.parameters():
+            param.requires_grad = True
+            
+        # E. 应用 LoRA 到 LLM
         peft_config = LoraConfig(
             task_type=TaskType.CAUSAL_LM,
             inference_mode=False,
@@ -103,6 +111,14 @@ class QwenWithSiglip(nn.Module):
         
         # 2. 投影到 LLM 空间 [B, ViT_Seq, LLM_Dim]
         image_embeds = self.projector(image_embeds)
+
+        #2.1 插入moe
+        batch_size, total_seq, hidden_dim = image_embeds.shape
+        image_embeds_flat = image_embeds.view(-1, hidden_dim)
+        # 过 MoE
+        image_embeds_flat = self.vision_moe(image_embeds_flat)
+        # 恢复形状
+        image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
         
         # 3. 获取文本 Embeddings [B, Text_Seq, LLM_Dim]
         # 注意：这里需要通过 llm.model.embed_tokens 获取，因为 llm 现在包裹了 LoRA
