@@ -77,6 +77,7 @@ def train():
 
     print("Starting training with Qwen2.5-VL + MoE + LoRA...")
     trainer.train()
+    trainer.save_model(args.output_dir)
 
 if __name__ == "__main__":
     train()
