@@ -122,16 +122,16 @@ class QwenWithSiglip(nn.Module):
         
         fusion_output = self.fusion_module(
             text_embeds=text_embeds,
-            video_embeds=video_embeds
+            video_embeds=image_embeds
             # 如果你有 video_padding_mask 可以在这里传入
         )
         # 4. 拼接策略: [Image, Text]
         # 这里的实现方式是简单的拼接。更复杂的做法是使用特殊的 <image> token 占位并替换
-        inputs_embeds = torch.cat([video_embeds, text_embeds, fusion_output], dim=1)
+        inputs_embeds = torch.cat([image_embeds, fusion_output, text_embeds], dim=1)
         
         # 5. 调整 Attention Mask
         # 视觉部分的 mask 全是 1
-        video_mask = torch.ones((b, video_embeds.shape[1]), device=self.device)
+        video_mask = torch.ones((b, image_embeds.shape[1]), device=self.device)
         
         # Text Mask (原始输入的 mask)
         text_mask_original = attention_mask 
@@ -140,13 +140,13 @@ class QwenWithSiglip(nn.Module):
         fusion_mask = attention_mask
         
         # 拼接 Mask
-        combined_mask = torch.cat([video_mask, text_mask_original, fusion_mask], dim=1)
+        combined_mask = torch.cat([video_mask, fusion_mask, text_mask_original], dim=1)
         
         # 6. 调整 Labels
         # 视觉部分的 label 设为 -100 (不计算 loss)
         if labels is not None:
             # Video 部分不训练 -> -100
-            video_labels = torch.full((b, video_embeds.shape[1]), -100, device=self.device)
+            video_labels = torch.full((b, image_embeds.shape[1]), -100, device=self.device)
             
             # Text 部分 (原始 Labels)
             text_labels = labels
@@ -154,7 +154,7 @@ class QwenWithSiglip(nn.Module):
             # Fusion 部分不训练 -> -100 (这只是辅助特征)
             fusion_labels = torch.full((b, fusion_output.shape[1]), -100, device=self.device)
             
-            combined_labels = torch.cat([video_labels, text_labels, fusion_labels], dim=1)
+            combined_labels = torch.cat([video_labels, fusion_labels, text_labels], dim=1)
         else:
             combined_labels = None
         
