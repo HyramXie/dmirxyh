@@ -1,0 +1,41 @@
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+from transformers import Qwen2_5_VLForConditionalGeneration, BitsAndBytesConfig
+from peft import get_peft_model, LoraConfig, prepare_model_for_kbit_training
+from model.moe_vision_adapter import VisionMoEAdapter
+
+class Qwen2_5_VL_MIntRec(nn.Module):
+    def __init__(self, model_path="/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct", device="cuda"):
+        super().__init__()
+        # 1. 加载基础模型
+        self.core_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            model_path, 
+            torch_dtype=torch.bfloat16,
+            device_map=device
+        )
+        self.core_model.gradient_checkpointing_enable()
+        
+        # 2. 配置 LoRA (微调 LLM)
+        lora_config = LoraConfig(
+            r=8,  # 修改为 8
+            lora_alpha=16, # 通常 alpha = 2 * r
+            target_modules=["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"], 
+            task_type="CAUSAL_LM",
+            lora_dropout=0.05
+        )
+        self.core_model = get_peft_model(self.core_model, lora_config)
+        
+        self.print_trainable_parameters()
+
+    def forward(self, **kwargs):
+        return self.core_model(**kwargs)
+
+    def print_trainable_parameters(self):
+        trainable = 0
+        all_param = 0
+        for name, param in self.named_parameters():
+            all_param += param.numel()
+            if param.requires_grad:
+                trainable += param.numel()
+        print(f"trainable params: {trainable/1e6:.2f}M || all params: {all_param/1e6:.2f}M || trainable%: {100 * trainable / all_param:.2f}")
