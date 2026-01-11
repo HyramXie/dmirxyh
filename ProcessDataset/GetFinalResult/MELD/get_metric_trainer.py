@@ -3,24 +3,25 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from collections import defaultdict, Counter
 import sys
 
-logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/result_report_vl_moe.txt"
+# wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/case_study_vl_moe.json"
+# logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/result_report_vl_moe.txt"
 json_file = "/root/user/xyh/train/eval/meld_predictions_2.json"
-wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MELD/case_study_vl_moe.json"
 
-class Logger:
-    def __init__(self, filename):
-        self.terminal = sys.stdout
-        self.log = open(filename, "w", encoding="utf-8")
+# 写入文件夹
+# class Logger:
+#     def __init__(self, filename):
+#         self.terminal = sys.stdout
+#         self.log = open(filename, "w", encoding="utf-8")
 
-    def write(self, message):
-        self.terminal.write(message)   # 同时输出到终端
-        self.log.write(message)        # 同时写入文件
+#     def write(self, message):
+#         self.terminal.write(message)   # 同时输出到终端
+#         self.log.write(message)        # 同时写入文件
 
-    def flush(self):
-        self.terminal.flush()
-        self.log.flush()
+#     def flush(self):
+#         self.terminal.flush()
+#         self.log.flush()
 
-sys.stdout = Logger(logger_file)
+# sys.stdout = Logger(logger_file)
 
 # 读取 jsonl 文件
 
@@ -63,6 +64,7 @@ print(f"Weighted F1: {weighted_f1:.4f}")
 print(f"Weighted Precision: {weighted_prec:.4f}")
 print(f"Weighted Recall: {weighted_rec:.4f}")
 
+# # 保存错误样本
 # with open(wrong_case_file, "w", encoding="utf-8") as f:
 #     json.dump(wrong_cases, f, ensure_ascii=False, indent=2)
 # print("finish")
