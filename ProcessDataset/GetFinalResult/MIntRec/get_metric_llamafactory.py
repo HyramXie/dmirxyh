@@ -48,23 +48,23 @@ with open(json_file, 'r', encoding='utf-8') as f:
             })
 
 # 计算各项指标
-acc = accuracy_score(y_true, y_pred)
-f1 = f1_score(y_true, y_pred, average='macro')
-prec = precision_score(y_true, y_pred, average='macro')
-rec = recall_score(y_true, y_pred, average='macro')
+acc = accuracy_score(y_true, y_pred) * 100
+f1 = f1_score(y_true, y_pred, average='macro') * 100
+prec = precision_score(y_true, y_pred, average='macro') * 100
+rec = recall_score(y_true, y_pred, average='macro') * 100
 
-weighted_f1 = f1_score(y_true, y_pred, average='weighted')
-weighted_prec = precision_score(y_true, y_pred, average='weighted')
-weighted_rec = recall_score(y_true, y_pred, average='weighted')
+weighted_f1 = f1_score(y_true, y_pred, average='weighted') * 100
+weighted_prec = precision_score(y_true, y_pred, average='weighted') * 100
+weighted_rec = recall_score(y_true, y_pred, average='weighted') * 100
 
 # 打印结果
-print(f"Accuracy: {acc:.4f}")
-print(f"Macro F1: {f1:.4f}")
-print(f"Macro Precision: {prec:.4f}")
-print(f"Macro Recall: {rec:.4f}")
-print(f"Weighted F1: {weighted_f1:.4f}")
-print(f"Weighted Precision: {weighted_prec:.4f}")
-print(f"Weighted Recall: {weighted_rec:.4f}")
+print(f"Accuracy: {acc:.2f}")
+print(f"Macro F1: {f1:.2f}")
+print(f"Macro Precision: {prec:.2f}")
+print(f"Macro Recall: {rec:.2f}")
+print(f"Weighted F1: {weighted_f1:.2f}")
+print(f"Weighted Precision: {weighted_prec:.2f}")
+print(f"Weighted Recall: {weighted_rec:.2f}")
 
 # # 保存错误样本
 # with open(wrong_case_file, "w", encoding="utf-8") as f:
