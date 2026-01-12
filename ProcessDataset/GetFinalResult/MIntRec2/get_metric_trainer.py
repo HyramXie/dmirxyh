@@ -57,11 +57,11 @@ weighted_rec = recall_score(y_true, y_pred, average='weighted') * 100
 
 # 打印结果
 print(f"Accuracy: {acc:.2f}")
+print(f"Weighted F1: {weighted_f1:.2f}")
+print(f"Weighted Precision: {weighted_prec:.2f}")
 print(f"Macro F1: {f1:.2f}")
 print(f"Macro Precision: {prec:.2f}")
 print(f"Macro Recall: {rec:.2f}")
-print(f"Weighted F1: {weighted_f1:.2f}")
-print(f"Weighted Precision: {weighted_prec:.2f}")
 print(f"Weighted Recall: {weighted_rec:.2f}")
 
 # # 保存错误样本
