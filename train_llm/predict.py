@@ -13,15 +13,16 @@ import numpy as np
 import cv2
 from tqdm import tqdm  # 引入进度条
 import json
+from transformers import set_seed
 
 from model.projector import MMInputProjector
 
 CONFIG = {
-    "base_model_path": "/root/huggingface/qwen/Qwen2.5-7B-Instruct", 
+    "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/qwen_mintrec_base", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec_base", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_base.json",
+    "output_file": "./eval/mintrec_predictions_llama_base.json",
     "device": "cuda",
     "num_frames": 4
 }
@@ -163,6 +164,8 @@ class IntentPredictor:
 # 3. 使用示例
 # ==========================================
 def evaluate():
+    set_seed(42) #设种子
+    
     # 1. 检查路径
     if not os.path.exists(CONFIG['test_data_path']):
         raise FileNotFoundError(f"Test data not found: {CONFIG['test_data_path']}")

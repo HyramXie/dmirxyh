@@ -3,10 +3,11 @@ import torch
 import argparse
 from transformers import (
     Trainer, 
-    TrainingArguments
+    TrainingArguments,
+    SiglipImageProcessor
 )
 from transformers import set_seed
-from model.qwen_siglip import QwenWithSiglip
+from model.qwen_siglip_fusion import QwenWithSiglip
 from data.mintrec_dataset import MIntRecDataset
 from data.data_collator import DataCollator  
 
@@ -88,6 +89,7 @@ def train():
     model.llm.save_pretrained(args.output_dir)
     model.tokenizer.save_pretrained(args.output_dir)
     torch.save(model.projector.state_dict(), os.path.join(args.output_dir, "projector.pt"))
+    torch.save(model.fusion_module.state_dict(), os.path.join(args.output_dir, "fusion_module.pt"))
     print(f"Model and projector saved to {args.output_dir}")
 
 if __name__ == "__main__":

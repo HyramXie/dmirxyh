@@ -19,11 +19,11 @@ from model.projector import MMInputProjector
 from model.fusion import CrossAttentionFusion
 
 CONFIG = {
-    "base_model_path": "/root/huggingface/qwen/Qwen2.5-7B-Instruct", 
+    "base_model_path": "/root/huggingface/llama/llama-2-7b-chat-hf", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/qwen_mintrec_fusion", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec_fusion", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_fusion.json",
+    "output_file": "./eval/mintrec_predictions_llama_fusion.json",
     "device": "cuda",
     "num_frames": 4
 }
