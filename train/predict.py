@@ -17,7 +17,7 @@ from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
 CONFIG = {
     # "moe_weights_name": "./checkpoints/mintrec_moe/vision_moe_final.pt",          # MoE 权重文件名
     "test_data_path": "/root/user/xyh/LLaMA-Factory-main/data/MELD_test.json",  # 测试集路径
-    "checkpoint_dir": "./checkpoints/meld_moe/checkpoint-2622", # 训练保存的目录
+    "checkpoint_dir": "./checkpoints/meld_base", # 训练保存的目录
     "output_file": "./eval/meld_predictions.json",    # 结果保存路径
     "model_path": "/root/huggingface/qwen/Qwen2.5-VL-7B-Instruct"
 }

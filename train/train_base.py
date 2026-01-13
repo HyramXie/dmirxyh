@@ -1,7 +1,7 @@
 import torch
 import argparse
 from transformers import TrainingArguments, Trainer, Qwen2_5_VLProcessor
-from model.qwen2_5vl_moe import Qwen2_5_VL_MIntRec
+from model.qwen2_5vl import Qwen2_5_VL_MIntRec
 from data.mintrec_dataset import MIntRecDataset
 from data.data_collator import DataCollatorForQwenMIntRec
 from transformers import set_seed
