@@ -3,6 +3,9 @@ import torch
 class DataCollator:
     def __init__(self, tokenizer):
         self.tokenizer = tokenizer
+        # Llama-3 有时默认没有 pad_token，这里做一个兜底
+        if self.tokenizer.pad_token_id is None:
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id
 
     def __call__(self, batch):
         input_ids = [item['input_ids'] for item in batch]

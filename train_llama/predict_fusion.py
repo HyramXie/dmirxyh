@@ -19,11 +19,11 @@ from model.projector import MMInputProjector
 from model.fusion import CrossAttentionFusion
 
 CONFIG = {
-    "base_model_path": "/root/huggingface/llama/llama-2-7b-chat-hf", 
+    "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
     "checkpoint_dir": "./checkpoints/llama_mintrec_fusion", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_llama_fusion.json",
+    "output_file": "./eval/mintrec_predictions_fusion.json",
     "device": "cuda",
     "num_frames": 4
 }
@@ -35,13 +35,14 @@ class IntentPredictor:
     def __init__(self, model_dir, base_model_path, vision_model_path, device="cuda"):
         
         self.device = device
+
         print(f"Loading Base Qwen Model from {base_model_path}...")
-        
         # A. 加载 Base LLM
-        self.tokenizer = AutoTokenizer.from_pretrained(
-            model_dir,              # 直接指向保存了 tokenizer 的本地目录
-            trust_remote_code=True  # Qwen 模型通常需要这个参数
-        )
+        self.tokenizer = AutoTokenizer.from_pretrained(model_dir)
+        if self.tokenizer.pad_token is None:
+            self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id  
+
         base_model = AutoModelForCausalLM.from_pretrained(
             base_model_path, 
             torch_dtype=torch.bfloat16, 
@@ -148,7 +149,11 @@ class IntentPredictor:
 
         # 2. 准备文本 Prompt
         # 构造 prompt，注意这里没有 Answer，只有 User 的提问
-        messages = [{"role": "user", "content": text_utterance}]
+        instruction = (
+                f"Analyze the user intent based on the video and the following text: '{text_utterance}'. "
+                f"Answer with the label only."
+            )
+        messages = [{"role": "user", "content": instruction}]
         prompt = self.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         
         input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to(self.device)

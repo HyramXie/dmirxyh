@@ -26,11 +26,14 @@ class QwenWithSiglip(nn.Module):
             llm_path, 
             quantization_config=bnb_config, # <--- 关键：应用量化
             device_map="auto",              # <--- 关键：自动分配设备
-            trust_remote_code=True,
             torch_dtype=torch.bfloat16
         )
         self.llm = prepare_model_for_kbit_training(self.llm)
         self.tokenizer = AutoTokenizer.from_pretrained(llm_path)     
+        # Llama-3 必须手动设置 pad_token，通常使用 eos_token 作为 pad
+        if self.tokenizer.pad_token is None:
+            self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id    
 
         # 2. 加载 Vision Encoder
         print("Loading SIGLIP...")
