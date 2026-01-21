@@ -51,7 +51,8 @@ def train():
         ### Output
         output_dir=args.output_dir,
         logging_steps=args.logging_steps,
-        save_strategy="no",
+        save_strategy="steps",
+        save_steps=500,
         overwrite_output_dir=True,
         report_to="none",
 
