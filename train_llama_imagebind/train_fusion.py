@@ -21,7 +21,6 @@ def train():
     parser.add_argument("--vision_path", type=str, default="/root/huggingface/google/siglip-so400m-patch14-384")
     parser.add_argument("--data_path", type=str, default="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json")
     parser.add_argument("--output_dir", type=str, default="./checkpoints/qwen_mintrec_base")
-    parser.add_argument("--num_frames", type=int, default=4)
 
     # --- 训练超参数 ---
     parser.add_argument("--batch_size", type=int, default=1, help="Per device train batch size")
@@ -41,9 +40,7 @@ def train():
     # 2. 准备数据
     dataset = MIntRecDataset(
         data_json_path=args.data_path,
-        tokenizer=model.tokenizer,
-        image_processor=model.vision_encoder.processor,
-        num_frames=args.num_frames # 显存不够可以设为 1 或 2，显存大可以设为 8
+        tokenizer=model.tokenizer
     )
     
     # 3. 训练参数

@@ -3,9 +3,7 @@ import torch
 import torch.nn as nn
 from transformers import (
     AutoModelForCausalLM, 
-    AutoTokenizer, 
-    SiglipVisionModel, 
-    SiglipImageProcessor
+    AutoTokenizer
 )
 from peft import PeftModel
 from PIL import Image
@@ -15,17 +13,19 @@ from tqdm import tqdm  # 引入进度条
 import json
 from transformers import set_seed
 
+from imagebind.models import imagebind_model
+from imagebind.models.imagebind_model import ModalityType
+from imagebind import data
 from model.projector import MMInputProjector
 from model.fusion import CrossAttentionFusion
 
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
-    "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
+    "vision_model_path": "/root/huggingface/imagebind/imagebind_huge.pth", 
     "checkpoint_dir": "./checkpoints/llama_mintrec_fusion", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
     "output_file": "./eval/mintrec_predictions_fusion.json",
-    "device": "cuda",
-    "num_frames": 4
+    "device": "cuda"
 }
 
 # ==========================================
@@ -56,15 +56,15 @@ class IntentPredictor:
         self.llm.eval() # 切换到评估模式
         
         # C. 加载 Vision Encoder
-        print(f"Loading Vision Encoder from {vision_model_path}...")
-        self.vision_encoder = SiglipVisionModel.from_pretrained(vision_model_path, torch_dtype=torch.bfloat16).to(device)
-        self.vision_processor = SiglipImageProcessor.from_pretrained(vision_model_path)
-        self.vision_encoder.eval()
+        print("Loading ImageBind...")
+        self.encoder = imagebind_model.imagebind_huge(pretrained=False)
+        self.encoder.load_state_dict(torch.load(CONFIG['vision_model_path'], map_location="cpu"))
+        self.encoder.eval().to(device)
 
         # D. 加载 Projector
         print("Loading Projector weights...")
         llm_dim = self.llm.config.hidden_size
-        vis_dim = self.vision_encoder.config.hidden_size
+        vis_dim = 1024
         
         self.projector = MMInputProjector(input_dim=vis_dim, output_dim=llm_dim).to(device)
         # 加载训练好的 projector.pt
@@ -95,57 +95,23 @@ class IntentPredictor:
 
         print("Model loaded successfully!")
 
-    def _load_frames(self, video_path, num_frames=4):
-        """读取视频帧，与训练时逻辑保持一致"""
-        frames = []
-        if not os.path.exists(video_path):
-            print(f"Video not found: {video_path}")
-            return [Image.new('RGB', (224, 224)) for _ in range(num_frames)]
-            
-        cap = cv2.VideoCapture(video_path)
-        total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-        
-        if total_frames <= 0:
-             return [Image.new('RGB', (224, 224)) for _ in range(num_frames)]
-
-        indices = np.linspace(0, total_frames-1, num_frames).astype(int)
-        
-        for i in indices:
-            cap.set(cv2.CAP_PROP_POS_FRAMES, i)
-            ret, frame = cap.read()
-            if ret:
-                frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-                frames.append(Image.fromarray(frame))
-            else:
-                frames.append(Image.new('RGB', (224, 224)))
-        cap.release()
-        
-        # 补全
-        while len(frames) < num_frames:
-            frames.append(frames[-1] if frames else Image.new('RGB', (224, 224)))
-            
-        return frames[:num_frames]
-
-    def predict(self, video_path, text_utterance, num_frames=4):
-        # 1. 准备视觉特征
-        frames = self._load_frames(video_path, num_frames)
-        vision_inputs = self.vision_processor(images=frames, return_tensors="pt")
-        pixel_values = vision_inputs.pixel_values.to(self.device).to(torch.bfloat16)
-        
-        if pixel_values.ndim == 4:
-            pixel_values = pixel_values.unsqueeze(0)
-
-        b, t, c, h, w = pixel_values.shape
-        pixel_values_flat = pixel_values.view(-1, c, h, w)
+    def predict(self, video_path, audio_path, text_utterance):
+        imagebind_inputs = {
+            ModalityType.VISION: data.load_and_transform_video_data([video_path], self.device),
+            ModalityType.AUDIO: data.load_and_transform_audio_data([audio_path], self.device)
+        }
         with torch.no_grad():
-            vision_outputs = self.vision_encoder(pixel_values_flat)
-            image_embeds = vision_outputs.last_hidden_state  
-                
-            vis_seq_len = image_embeds.shape[1]
-            vis_dim = image_embeds.shape[2]
-            image_embeds = image_embeds.view(b, t * vis_seq_len, vis_dim)
+            multimodal_embeds = self.encoder(imagebind_inputs)
 
-            image_embeds = self.projector(image_embeds)
+            vision_embeds = multimodal_embeds[ModalityType.VISION]
+            audio_embeds = multimodal_embeds[ModalityType.AUDIO]
+
+            vision_embeds = vision_embeds.unsqueeze(1)
+            audio_embeds = audio_embeds.unsqueeze(1)
+
+            mm_inputs = torch.cat([vision_embeds, audio_embeds], dim=1)
+            mm_inputs = mm_inputs.to(dtype=torch.bfloat16)
+            mm_embeds = self.projector(mm_inputs)
 
         # 2. 准备文本 Prompt
         # 构造 prompt，注意这里没有 Answer，只有 User 的提问
@@ -164,10 +130,10 @@ class IntentPredictor:
             text_embeds = self.llm.get_input_embeddings()(input_ids)
             
             #fusion
-            fusion_output = self.fusion_module(text_embeds, image_embeds)
+            fusion_output = self.fusion_module(text_embeds, mm_embeds)
 
             # 3. 拼接 [Image, Text]
-            inputs_embeds = torch.cat([image_embeds, fusion_output, text_embeds], dim=1)
+            inputs_embeds = torch.cat([mm_embeds, fusion_output, text_embeds], dim=1)
             
             # 4. 生成 Attention Mask
             attention_mask = torch.ones(inputs_embeds.shape[:2], dtype=torch.long, device=self.device)
@@ -218,6 +184,7 @@ def evaluate():
     # 使用 tqdm 显示进度条
     for item in tqdm(test_data, desc="Predicting"):
         video_path = item['video_path']
+        audio_path = item['audio_path']
         text = item['text']
         true_label = item['label']
 
@@ -225,8 +192,8 @@ def evaluate():
             # 进行预测
             predicted_label = predictor.predict(
                 video_path=video_path,
-                text_utterance=text,
-                num_frames=CONFIG['num_frames']
+                audio_path=audio_path,
+                text_utterance=text
             )
             
             # 保存结果

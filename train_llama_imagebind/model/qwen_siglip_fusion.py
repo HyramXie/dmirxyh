@@ -2,7 +2,9 @@ import torch
 import torch.nn as nn
 from peft import LoraConfig, TaskType, get_peft_model, PeftModel, prepare_model_for_kbit_training
 from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
-from model.siglip_encoder import SiglipEncoder
+from imagebind.models import imagebind_model
+from imagebind.models.imagebind_model import ModalityType
+from imagebind import data
 from model.projector import MMInputProjector
 from model.fusion import CrossAttentionFusion
 
@@ -36,17 +38,17 @@ class QwenWithSiglip(nn.Module):
             self.tokenizer.pad_token = self.tokenizer.eos_token
             self.tokenizer.pad_token_id = self.tokenizer.eos_token_id  
 
-        # 2. 加载 Vision Encoder
-        print("Loading SIGLIP...")
-        self.vision_encoder = SiglipEncoder(model_name=vision_path, device=device)
+        # 2. 加载 ImageBind encoder
+        print("Loading ImageBind...")
+        self.encoder = imagebind_model.imagebind_huge(pretrained=False)
+        self.encoder.load_state_dict(torch.load(vision_path, map_location="cpu"))
+        self.encoder.eval().to(device)
         
         # 3. 加载 Projector
         print("Initializing Projector...")
         # 获取 LLM 的 hidden size 和 Vision 的 hidden size
         llm_hidden_size = self.llm.config.hidden_size
-        vision_hidden_size = self.vision_encoder.model.config.hidden_size
-        self.projector = MMInputProjector(input_dim=vision_hidden_size, output_dim=llm_hidden_size).to(device)
-
+        self.projector = MMInputProjector(input_dim=1024, output_dim=llm_hidden_size).to(device)
         print("Initializing Cross-Attention Fusion...")
         self.fusion_module = CrossAttentionFusion(
             hidden_size=llm_hidden_size,
@@ -63,7 +65,7 @@ class QwenWithSiglip(nn.Module):
             param.requires_grad = False
             
         # B. 冻结 Vision Encoder (已在类内部处理，这里再次确认)
-        for param in self.vision_encoder.parameters():
+        for param in self.encoder.parameters():
             param.requires_grad = False
             
         # C. 激活 Projector 参数
@@ -90,33 +92,24 @@ class QwenWithSiglip(nn.Module):
 
         self.llm.print_trainable_parameters()
 
-    def forward(self, input_ids, attention_mask, pixel_values, labels=None):
-        # 1. 获取 5D 维度信息
-        # pixel_values shape: [Batch_Size, Num_Frames, Channels, Height, Width]
-        b, t, c, h, w = pixel_values.shape
-        
-        # 2. 【关键修改】展平前两个维度 (Batch * Time)
-        # 变成: [Batch_Size * Num_Frames, Channels, Height, Width]
-        pixel_values_flat = pixel_values.view(-1, c, h, w)
-        
-        # 3. 传入视觉编码器
-        # 输出 image_embeds shape: [B*T, Seq_Len, Dim]
+    def forward(self, input_ids, attention_mask, video_paths, audio_paths, labels=None):
+        imagebind_inputs = {
+            ModalityType.VISION: data.load_and_transform_video_data(video_paths, self.device),
+            ModalityType.AUDIO: data.load_and_transform_audio_data(audio_paths, self.device)
+        }
         with torch.no_grad():
-            vision_outputs = self.vision_encoder(pixel_values_flat)
-            if isinstance(vision_outputs, torch.Tensor):
-                image_embeds = vision_outputs
-            else:
-                # 如果是对象（BaseModelOutputWithPooling），则取 .last_hidden_state
-                image_embeds = vision_outputs.last_hidden_state
-        
-        # 4. 【关键修改】恢复维度并拼接
-        # [B*T, Seq_Len, Dim] -> [B, T * Seq_Len, Dim]
-        vis_seq_len = image_embeds.shape[1]
-        vis_dim = image_embeds.shape[2]
-        image_embeds = image_embeds.view(b, t * vis_seq_len, vis_dim)
+            multimodal_embeds = self.encoder(imagebind_inputs)
+
+        vision_embeds = multimodal_embeds[ModalityType.VISION]
+        audio_embeds = multimodal_embeds[ModalityType.AUDIO]
+
+        vision_embeds = vision_embeds.unsqueeze(1)
+        audio_embeds = audio_embeds.unsqueeze(1)
+
+        mm_inputs = torch.cat([vision_embeds, audio_embeds], dim=1)
         
         # 2. 投影到 LLM 空间 [B, ViT_Seq, LLM_Dim]
-        image_embeds = self.projector(image_embeds)
+        mm_embeds = self.projector(mm_inputs)
         
         # 3. 获取文本 Embeddings [B, Text_Seq, LLM_Dim]
         # 注意：这里需要通过 llm.model.embed_tokens 获取，因为 llm 现在包裹了 LoRA
@@ -125,16 +118,16 @@ class QwenWithSiglip(nn.Module):
         
         fusion_output = self.fusion_module(
             text_embeds=text_embeds,
-            video_embeds=image_embeds
+            video_embeds=mm_embeds
             # 如果你有 video_padding_mask 可以在这里传入
         )
         # 4. 拼接策略: [Image, Text]
         # 这里的实现方式是简单的拼接。更复杂的做法是使用特殊的 <image> token 占位并替换
-        inputs_embeds = torch.cat([image_embeds, fusion_output, text_embeds], dim=1)
+        inputs_embeds = torch.cat([mm_embeds, fusion_output, text_embeds], dim=1)
         
         # 5. 调整 Attention Mask
         # 视觉部分的 mask 全是 1
-        video_mask = torch.ones((b, image_embeds.shape[1]), device=self.device)
+        video_mask = torch.ones((mm_embeds.shape[0], mm_embeds.shape[1]), device=self.device)
         
         # Text Mask (原始输入的 mask)
         text_mask_original = attention_mask 
@@ -149,13 +142,13 @@ class QwenWithSiglip(nn.Module):
         # 视觉部分的 label 设为 -100 (不计算 loss)
         if labels is not None:
             # Video 部分不训练 -> -100
-            video_labels = torch.full((b, image_embeds.shape[1]), -100, device=self.device)
+            video_labels = torch.full((mm_embeds.shape[0], mm_embeds.shape[1]), -100, device=self.device)
             
             # Text 部分 (原始 Labels)
             text_labels = labels
             
             # Fusion 部分不训练 -> -100 (这只是辅助特征)
-            fusion_labels = torch.full((b, fusion_output.shape[1]), -100, device=self.device)
+            fusion_labels = torch.full((mm_embeds.shape[0], fusion_output.shape[1]), -100, device=self.device)
             
             combined_labels = torch.cat([video_labels, fusion_labels, text_labels], dim=1)
         else:
