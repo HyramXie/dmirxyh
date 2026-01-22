@@ -106,6 +106,11 @@ class IntentPredictor:
         
         input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to(self.device)
         
+        terminators = [
+            self.tokenizer.eos_token_id,
+            self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+        ]
+
         with torch.no_grad():
             # 获取文本 Embedding
             # 注意：llm 是 PeftModel，可以通过 get_input_embeddings 获取
@@ -124,7 +129,7 @@ class IntentPredictor:
                 max_new_tokens=10,      # 意图标签通常很短
                 do_sample=False,
                 pad_token_id=self.tokenizer.eos_token_id,
-                eos_token_id=self.tokenizer.eos_token_id
+                eos_token_id=terminators
             )
 
         # 6. 解码
