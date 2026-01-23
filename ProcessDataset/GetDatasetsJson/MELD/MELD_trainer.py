@@ -13,10 +13,10 @@ for i in range(len(df)):
     data = df.loc[i]
 
     #修改部分
-    video_path = os.path.join("/root/user/xyh/Datasets/MELD/video", "dia" + str(data["Dialogue_ID"]) + "_utt" + str(data["Utterance_ID"]) + ".mp4")
+    video_path = os.path.join("/root/user/xyh/Datasets/MELD/video", "MELD-DA_" + str(data["id"]) + ".mp4")
     
-    text = data["Utterance"]
-    lable = data["label"]
+    text = data["text"]
+    lable = data["label"].strip()
 
     conversations.append({
         "video_path": video_path,

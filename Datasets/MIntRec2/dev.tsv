@@ -1,0 +1,1107 @@
+id	text	label	dimension
+2_0	hey. don't distract jonah.	 prevent	intent
+2_1	go collect the clothes from the dressing rooms, then fold them, hang them, put them on the racks, and i'll come show you how to scrub down the bathrooms.	 arrange	intent
+2_2	lose the attitude. go.	 arrange	intent
+2_4	i feel like i barely did anything my first day.	 complain	intent
+2_5	she just has such an attitude since the divorce.	 explain	intent
+2_6	that's why i'm making her work here.	 explain	intent
+2_8	and you're not worried that if you're too hard on her, adam gets to be the good guy?	 doubt	intent
+2_9	what? no.	 oppose	intent
+2_12	and that was something you wanted?	 confirm	intent
+2_13	although that might be because he doesn't send me long, pointless texts about book club.	 explain	intent
+2_14	we just break their spirit so the world doesn't.	 explain	intent
+2_15	huh.	 acknowledge	intent
+2_16	got it. i'll just find out on reddit.	 plan	intent
+33_0	it's been brought to my attention that there has been some bullying in the store.	 inform	intent
+33_1	i have spoken to the person responsible, but i would like to remind everybody that cloud 9 has a zero tolerance policy against bullying of anyone under any circumstance.	 inform	intent
+33_4	okay, can we just forget about hitler?	 advise	intent
+33_5	no, we can't ever forget about hitler.	 oppose	intent
+33_6	okay, bullying's not just beating people up.	 explain	intent
+33_7	it's--it's any behavior that's hostile or intimidating.	 introduce	intent
+33_12	okay, i meant other examples of bullying, not name-calling.	 explain	intent
+33_14	how about being excluded socially?	 confirm	intent
+33_15	sure, especially if they're purposely targeting an individual.	 emphasize	intent
+33_16	yes, that is bullying, sandra.	 agree	intent
+34_0	you really got this firing thing down.	 praise	intent
+34_1	i think he's gonna make a fine associate.	 praise	intent
+34_2	stop. ow, you're breaking my arm.	 prevent	intent
+44_0	that one's my favorite.	 introduce	intent
+44_2	thanks.	 thank	intent
+44_4	uh-huh, that's great. um...	 praise	intent
+44_5	how about a kitty cat?	 advise	intent
+44_8	i'm so sick of basic people.	 complain	intent
+44_9	not you, your mom.	 explain	intent
+44_10	no, my cousin is getting married in the philippines, and literally everyone i know is going except for me.	 complain	intent
+44_11	aw, you should totally go.	 advise	intent
+44_12	i can't exactly leave the country, remember?	 complain	intent
+44_13	oh, right, because you're...	 agree	intent
+44_14	do you know what  undocumented  means?	 asking for opinions	intent
+44_15	because you're undocumented.	 explain	intent
+44_16	this is so unfair.	 complain	intent
+66_0	come on, i don't know if it's a bulb or a stripped wire.	 complain	intent
+66_2	my grandmother would kill me for saying this, make such a big deal out of christmas.	 taunt	intent
+66_3	christmas is pretty disappointing and overhyped.	 complain	intent
+66_5	it's about looking back on the year we shared and celebrating it.	 explain	intent
+66_6	yeah, let's celebrate the year a tornado hit the store.	 taunt	intent
+66_7	my entire apartment got destroyed.	 complain	intent
+66_8	my boyfriend wound up in a coma.	 complain	intent
+66_11	i feel like i can get wilder. oh, god.	 flaunt	intent
+66_12	no. i mean, maybe.	 oppose	intent
+66_13	i don't know. i just mean, like...	 explain	intent
+66_14	there's just no way you're doing any of that.	 oppose	intent
+66_15	you guys can call me  craymie.  uh, no, thanks.	 joke	intent
+68_1	it's so christmas, huh?	 praise	intent
+68_2	but i'm actually trying to limit my carbs right now.	 prevent	intent
+68_3	so just-just try it.	 invite	intent
+87_0	hey, um, i might need a ride home later today.	 ask for help	intent
+87_1	do you happen to know where kelly lives?	 ask for help	intent
+87_4	okay, yeah, great.	 acknowledge	intent
+87_6	you know, it hasn't actually been that long.	 explain	intent
+87_7	jonah, relax. it's fine.	 comfort	intent
+87_8	i think it's great. it's great.	 praise	intent
+87_11	i just mean, like,  ah, i can't peel this orange.  it's not exactly a ted talk.	 taunt	intent
+87_12	i like her video.	 praise	intent
+87_13	you're just jealous.	 criticize	intent
+87_14	uh, someone's flattering himself.	 taunt	intent
+87_15	no, i meant jealous that everybody loves her video.	 explain	intent
+87_16	yeah, i know that's what you meant.	 acknowledge	intent
+87_18	oh, she filmed herself microwaving ramen and she got 100 people to view it.	 taunt	intent
+87_19	fine. then do it.	 acknowledge	intent
+87_20	okay, well then, you're on, and i hope you like dead rats.	 taunt	intent
+87_21	me winning bets.	 flaunt	intent
+92_0	hello. glenn sturgis speaking.	 greet	intent
+92_1	well, hello, mr. nestle.	 greet	intent
+92_2	trace this call.	 arrange	intent
+92_3	yeah, i don't have that technology.	 oppose	intent
+92_4	okay, well, thank you for calling to tell us.	 thank	intent
+92_5	are you tracing this call?	 confirm	intent
+92_6	his name's mateo.	 introduce	intent
+92_7	and i think he's a real dummy!	 criticize	intent
+92_8	a class a stinker!	 criticize	intent
+92_11	mr. sturgis, i need to get back to work.	 inform	intent
+92_12	uh, okay, then.	 acknowledge	intent
+92_16	lost the trace.	 inform	intent
+105_0	oh, dina. you're three hours early.	 greet	intent
+105_3	well, i mean, i'm yours. you're my number four.	 explain	intent
+105_5	come on in.	 invite	intent
+105_7	why don't you tackle the walls?	 advise	intent
+105_9	there's no smell. it smells like a regular house.	 oppose	intent
+105_14	yeah, no, i'm not wearing sweats to my party.	 oppose	intent
+105_15	okay, why don't you go change?	 advise	intent
+105_16	and i will do a quick vibrator sweep.	 plan	intent
+132_0	i can't shower in the mornings because cliff, in the adjoining trailer, only takes baths.	 complain	intent
+132_2	oh, i-i thought you said something.	 explain	intent
+132_3	i didn't say anything.	 oppose	intent
+145_0	no talking during  game of thrones.  no cooking fish.	 warn	intent
+145_1	and leave me out of your coffee-making process.	 warn	intent
+145_3	i do not like fragrant soaps, on wednesday, my black friends come over, so do not be around.	 warn	intent
+165_0	you should go with this one.	 advise	intent
+165_1	it's 4k.	 introduce	intent
+165_2	oh, um, 4k televisions have 8.3 megapixels.	 introduce	intent
+165_3	wow. okay, i'll take it.	 agree	intent
+165_4	it has all of the channels.	 introduce	intent
+167_0	okay, as soon as we hit $80,000, drop the balloons, hit the music, get a candid picture of me celebrating with everybody to send to corporate.	 arrange	intent
+167_1	music and balloons with no dancers?	 confirm	intent
+167_2	jeff. uh, new hat?	 greet	intent
+167_3	yeah. i splurged.	 flaunt	intent
+167_5	well, but earlier you said it would be better.	 doubt	intent
+167_6	that sounds amazing.	 praise	intent
+167_7	right.	 acknowledge	intent
+167_8	is there any possibility that it could maybe get worse?	 doubt	intent
+167_9	you know what, there's a lot of liars out there, okay?	 warn	intent
+167_11	and don't believe everything you hear.	 warn	intent
+167_12	that's why it's a paradox.	 explain	intent
+167_13	believe me. it's gonna be great.	 comfort	intent
+167_14	trust me.	 leave	intent
+167_15	man, i can't wait for it to be great.	 praise	intent
+176_0	i can't let you buy these.  why?	 prevent	intent
+176_1	it's been recalled, sorry.	 apologise	intent
+176_2	all right, now it's buzzing at me like it's mad at me.	 complain	intent
+187_0	mermaid treasure for the treasure hunt.	 introduce	intent
+187_1	like, human garbage would be treasure to them.	 explain	intent
+187_4	they didn't go extinct.	 oppose	intent
+187_5	i don't think so.	 oppose	intent
+187_7	no, i believe in evolution.	 oppose	intent
+187_8	i'm just saying it's make believe--it's like unicorns.	 emphasize	intent
+187_9	we don't know that there were never unicorns.	 oppose	intent
+187_10	i read that we discover like 50 new species of frogs each year.	 introduce	intent
+187_15	no, you don't.	 oppose	intent
+187_16	yeah, i do.	 oppose	intent
+187_17	i used to think kangaroos were real.	 inform	intent
+202_0	we're not sleeping together.	 oppose	intent
+202_1	that was just a negotiation tactic with glenn.	 explain	intent
+202_2	oh, right.	 acknowledge	intent
+202_3	of course. smart.	 praise	intent
+202_4	dina, i'd like you to meet my new surrogate.	 introduce	intent
+202_5	she's ready to rock.	 inform	intent
+202_6	isn't that right, sandra?	 confirm	intent
+202_7	yeah, i'm really excited.	 agree	intent
+202_8	and i have no problem signing all the paperwork, so let's do it.	 inform	intent
+202_9	you are gonna leave your baby at the mercy of a person whose judgment is so bad she moved from hawaii to st. louis?	 taunt	intent
+202_10	yes, i am.	 agree	intent
+202_12	that was just foreplay, all right?	 introduce	intent
+202_13	we're about to get this thing going!	 inform	intent
+202_14	sandra, lift your shirt.	 arrange	intent
+202_15	marcus, take off your shirt!	 arrange	intent
+202_17	you both know what you're doing, so stop pretending!	 prevent	intent
+202_19	of course i don't want to use sandra.	 agree	intent
+202_20	who would want to use sandra?	 complain	intent
+202_21	fine with me.	 agree	intent
+202_22	all right.	 acknowledge	intent
+209_0	so, word on the street is you are horny and looking for love.	 confirm	intent
+209_2	shh, shh, look, here's what we're gonna do.	 advise	intent
+209_4	i will quit right now. no.	 inform	intent
+216_0	attention cloud 9 shoppers.	 inform	intent
+216_1	roma tomatoes are now $2.99 a pound.	 inform	intent
+216_2	that's for sure.	 acknowledge	intent
+238_0	hey, sandra.	 greet	intent
+238_1	no one cares. you're not special.	 criticize	intent
+238_2	this is ridiculous.	 complain	intent
+244_1	this is just a witch's broom. why would they recall this?	 doubt	intent
+244_2	oh, i remember this. here.	 introduce	intent
+244_3	oh, oh, i see it, got it, good recall.	 acknowledge	intent
+244_4	that's very funny, but i can't--i need your help.	 ask for help	intent
+244_5	stop!	 prevent	intent
+244_9	that's enough of that.	 prevent	intent
+244_10	we actually drank these in the parking lot at the end of my first day here.	 introduce	intent
+244_11	oh, yeah, i remember that. god, that was a long time ago.	 agree	intent
+244_13	i just thought you were like, naive and useless..	 criticize	intent
+244_14	oh, okay, wow. i can take that.	 agree	intent
+244_15	uh-huh.	 acknowledge	intent
+244_18	ah.	 acknowledge	intent
+281_0	okay, so, i'm the one who's been stealing the shopping carts, uh, but they're not for me.	 inform	intent
+281_4	i've been smoking weed in the stock room on wednesdays and fridays.	 inform	intent
+281_5	right under our noses. how awful.	 complain	intent
+281_6	and on mondays and thursdays, i just drink.	 inform	intent
+281_8	i stole a pack of sour cherry bubblicious.	 inform	intent
+281_12	nice.	 praise	intent
+281_17	what is happening in this store?	 complain	intent
+281_18	now, you just keep that same face right there...	 arrange	intent
+281_19	that is going on my wall right next to the picture of me with the guy who played balki.	 plan	intent
+288_0	thank you all very much for this going away party.	 thank	intent
+288_1	i'm sorry, did you bring champagne for one person?	 confirm	intent
+288_2	in a way, this is a celebration of us reuniting.	 inform	intent
+288_5	frankly, i think this is a mismatch.	 criticize	intent
+288_7	hey, why don't we all go around and tell our favorite jeff story?	 advise	intent
+288_10	i'm going to need that back, actually.	 plan	intent
+288_11	even though we never actually dated, i spent several months telling people we did.	 joke	intent
+288_16	whoo, what a trip down memory lane, huh?	 praise	intent
+288_22	so uh, hope you're ready for some competition.	 joke	intent
+288_24	i'll clean your clock with arm and hammer.	 joke	intent
+290_2	sorry, dealing with some false advertising there.	 apologise	intent
+290_5	garrett, i'm sorry, i can't deal with this right now.	 apologise	intent
+290_7	sorry. hmm.	 apologise	intent
+290_8	uh, well, you know, jeff offered me a job at target for a dollar more an hour.	 inform	intent
+290_9	but you don't have to worry about it.	 comfort	intent
+290_10	because i told him that you would probably match it.	 explain	intent
+290_11	that bald little weasel!	 criticize	intent
+290_14	oh, hi jeff, it's glenn sturgis from cloud 9.	 introduce	intent
+290_15	we need to talk face to face, at your earliest convenience.	 invite	intent
+293_0	thank you for coming in, jeff.	 thank	intent
+293_4	but if you start trying to pooch my people, then we are going to have a problem.	 warn	intent
+293_5	did you mean  poach?	 confirm	intent
+293_7	because you're not my boss anymore.	 explain	intent
+293_8	you're just another schmo, like me, down here in the dirt with the rest of us.	 taunt	intent
+293_9	you don't like it, do you?	 confirm	intent
+293_12	stop spraying me with the bottle, i'm not lying!	 criticize	intent
+293_14	one more time.	 warn	intent
+293_15	spray me one more time.	 warn	intent
+293_16	you want to poach? let's poach.	 warn	intent
+293_17	what, no, i don't want to poach.	 oppose	intent
+296_1	glenn asked you to do a display?	 confirm	intent
+296_3	yeah, yeah, yeah, that's probably it.	 acknowledge	intent
+299_2	well, you can tell me on your first day, then.	 invite	intent
+299_3	how would you like to work at the cloud 9 on ozark highlands?	 invite	intent
+299_5	isn't that the store where they found a foot?	 confirm	intent
+299_12	no, i'm going to stay here, because--	 refuse	intent
+299_13	hey, excuse me, miss.	 greet	intent
+299_14	hi, glenn.	 greet	intent
+299_15	sup, cheyenne.	 greet	intent
+299_17	if you needed a raise, why didn't you come see me?	 advise	intent
+299_18	i mean, i have a discretionary fund.	 explain	intent
+299_22	nope, not one. i checked.	 oppose	intent
+321_0	this red area here represents all the money the store spends on utilities.	 introduce	intent
+321_1	amy, that is a big slice of pie.	 praise	intent
+321_3	i mean, i couldn't finish that.	 explain	intent
+321_4	but when the store shifts over to led and motion sensors, then something happens to that slice of pie.	 introduce	intent
+321_5	next slide. mm.	 arrange	intent
+321_6	that slice gets a lot smaller.	 introduce	intent
+321_8	i'm sorry, was that the donkey from  shrek?	 confirm	intent
+321_11	that, i have to admit, is very impressive.	 praise	intent
+321_12	oh, i just--i'm sorry. i can't justify keeping her.	 apologise	intent
+321_14	very impressive, though, and very good work.	 praise	intent
+321_15	i got my eye on you guys.	 leave	intent
+328_0	you know, if you buy just one more scarf, you get a free other scarf.	 introduce	intent
+328_1	um...	 acknowledge	intent
+335_0	hey, feel like getting some lunch?	 invite	intent
+335_1	oh, no, i'm not really hungry.	 refuse	intent
+335_2	people aren't buying anything anymore.	 complain	intent
+335_3	earlier i was selling a lot, but now people are returning things.	 complain	intent
+335_6	i just can't help but kind of feel like a failure as a woman.	 complain	intent
+335_7	you know, my lady parts are all dried up.	 complain	intent
+335_8	my hair won't hold a perm.	 complain	intent
+335_9	when is it jerusha's turn?	 complain	intent
+335_10	oh, come on.	 comfort	intent
+335_11	it'll be fine. sales will pick up.	 comfort	intent
+335_12	i mean, people love your scarves.	 comfort	intent
+335_14	no, the--the same.	 oppose	intent
+335_15	look, it'll get better. i promise.	 comfort	intent
+358_0	so, i just managed to get us a reservation tonight at the italian place with the irish name that you love.	 inform	intent
+358_2	it wasn't easy, by the way. they don't have a host that takes reservations, so i had to track down the owner at a spin class.	 explain	intent
+369_0	it has a mouth! oh, great.	 praise	intent
+369_1	nobody does a fail video quite like a russian.	 taunt	intent
+369_2	dina, take a look. it's perfect.	 praise	intent
+369_3	okay.	 acknowledge	intent
+376_1	oh, you've got to be kidding me.	 complain	intent
+386_0	oh, hey, amy. i need your advice.	 ask for help	intent
+386_1	yeah, right now's not the best time--	 refuse	intent
+386_2	yeah, i want to surprise jerusha with some baby stuff at the party that can work for a boy or girl.	 plan	intent
+399_0	i might do it again sometime.	 plan	intent
+399_2	excuse me.	 ask for help	intent
+399_3	where can i find the dog food?	 ask for help	intent
+401_0	you can't just not talk to me.	 criticize	intent
+401_1	i'm not not talking to you.	 oppose	intent
+401_2	i just don't want to talk about yesterday.	 explain	intent
+401_5	uh, okay.	 acknowledge	intent
+401_6	i got two minutes until my break. go.	 inform	intent
+401_10	hi, adam.	 greet	intent
+401_11	hey, adam. uh, congratulations.	 greet	intent
+401_12	thanks, man.	 thank	intent
+401_13	congratulations on what?	 doubt	intent
+401_14	uh. so what are you doing here?	 care	intent
+401_15	you left a message saying we needed to talk in person.	 explain	intent
+401_16	i meant, like, after work.	 explain	intent
+401_17	you said it was urgent. i needed batteries anyways.	 explain	intent
+401_18	so i thought since you get a discount.	 explain	intent
+401_19	well, i can't really use my discount on friends, so--	 refuse	intent
+401_21	yo, amy. i left that baby stuff by your locker.	 inform	intent
+401_22	that guy's got great timing.	 praise	intent
+401_23	no, don't worry. it's--it's yours.	 comfort	intent
+401_24	okay, good. what?	 doubt	intent
+401_25	yep. surprise.	 agree	intent
+401_26	i'm sorry. how did this even--	 doubt	intent
+401_30	this is--this is alex, our beverage rep.	 introduce	intent
+401_31	or i mean, and other things, but we just haven't really discussed labels.	 explain	intent
+401_32	no, no, no, no. you're fine where you are.	 prevent	intent
+401_34	no, this is my ex-husband.	 introduce	intent
+401_35	and we're having a baby together.	 inform	intent
+427_0	hi, i am interested in your decision-making process for new products.	 inform	intent
+427_3	i am the founder and ceo of boob cheese, cheese from humans.	 introduce	intent
+432_0	so are we okay?	 care	intent
+432_2	uh, why don't we just start over?	 advise	intent
+440_0	look what i found over in menswear.	 inform	intent
+440_1	a good old pair of american blue jeans pants.	 introduce	intent
+440_3	you guys are way too into brunch.	 taunt	intent
+440_5	what are you-what are you talking about?	 care	intent
+440_9	are you--mateo, you're an american citizen, right?	 confirm	intent
+440_10	oh, just 'cause i'm asian, i can't be a citizen?	 doubt	intent
+440_11	no, no, i'm-i'm sorry.	 apologise	intent
+440_12	it's just that i've read about so many situations where parents bring their kids into the country illegally, and then, you know, they don't even tell them that they're undocumented.	 explain	intent
+440_14	the...green card store?	 doubt	intent
+440_15	yeah, they sell green cards and knockoff handbags and bootleg  spider-man  dvds.	 introduce	intent
+453_0	excuse me.	 greet	intent
+453_1	hi, i'm jeff sutton. i'm the district manager.	 introduce	intent
+453_2	could i see some id?	 confirm	intent
+453_3	you photograph terribly. never model.	 taunt	intent
+453_5	dina fox, assistant manager.	 introduce	intent
+453_9	okay, i'm gonna have to let corporate know about that.	 inform	intent
+453_11	no, thank you.	 prevent	intent
+453_12	no push-ups are necessary today for this.	 prevent	intent
+453_13	maybe just run outside and grab whoever's in charge and ask them to come in for a meeting?	 advise	intent
+453_14	of course.	 agree	intent
+453_15	i mean, that's what an assistant manager does, right?	 confirm	intent
+453_17	oh, hi.	 greet	intent
+454_0	i'm here to talk to the heat.	 inform	intent
+454_1	district manager jeff sutton wants a meeting.	 inform	intent
+454_2	okay, yeah. we'll talk.	 agree	intent
+454_3	all right, break room, ten minutes.	 inform	intent
+454_4	if you're not there by then...	 warn	intent
+454_7	why not try to get more than glenn's job back, right?	 advise	intent
+454_9	we're not on strike.	 oppose	intent
+454_11	why not ask for things like-like, uh, better health insurance?	 advise	intent
+454_12	and we don't get paid for overtime, even when we work overtime.	 complain	intent
+454_14	we need to get glenn's job back.	 inform	intent
+462_0	hey, how's the rat coming?	 care	intent
+462_1	i just gotta hook it up to the valve.	 plan	intent
+462_2	because the news just got here, and i really want us to look professional.	 explain	intent
+462_3	i'm gonna have you wait in your car, okay?	 arrange	intent
+471_0	you stuck it out as long as you could.	 comfort	intent
+471_1	you're one of the good ones.	 praise	intent
+471_2	yeah, it was tough, but principles.	 emphasize	intent
+476_0	it's just so nice to hear that you actually wanna listen to our concerns.	 thank	intent
+476_1	i'd just like to take a walk around.	 leave	intent
+476_2	observe how things work. we'll meet later and discuss ways that we can all improve.	 leave	intent
+476_3	oh, sorry, did you just say,  we can all  improve?	 confirm	intent
+476_4	sure, but... everything is a two-way street.	 agree	intent
+476_6	you need both, you know?	 advise	intent
+476_8	yeah, so here's what i'd like to do.	 agree	intent
+476_11	how about they stop limiting our hours or docking our pay for bathroom breaks?	 complain	intent
+476_12	we are not the ones who need to improve here.	 oppose	intent
+476_16	let's do that today.	 arrange	intent
+476_17	okay, well, let's just be on our game, okay?	 advise	intent
+476_18	okay, you got it.	 agree	intent
+476_19	attention cloud 9 shoppers, beef products from cloud 9 ranch are now 80% off, but maybe ask yourself why we would do that.	 inform	intent
+480_0	okay, we need to keep the line moving.	 inform	intent
+480_2	uh, you can just say  hangry  now.	 joke	intent
+480_3	it's a new word. my friend's cousin made it up.	 introduce	intent
+480_4	i'll take rolls, veggies, and condiments.	 plan	intent
+480_6	definitely. i'm a quick study, so--	 flaunt	intent
+480_7	well, maybe i should do-  marcus, that looks really bad.	 care	intent
+480_11	you don't know?	 doubt	intent
+480_12	why don't you check?	 advise	intent
+480_13	we just need to put it in a cold, air-tight container, we'll get it to the hospital, they're reattach it.	 plan	intent
+480_14	mm-hmm.	 acknowledge	intent
+484_0	everyone's gonna wanna see photos of the baby, so...	 explain	intent
+484_1	okay, quick drive to the hospital.	 arrange	intent
+493_2	why do you care if people like you?	 doubt	intent
+493_3	don't try to flip this, okay?	 prevent	intent
+494_0	i am willing to take that chance.	 inform	intent
+494_1	do you think i'm a memorable person?	 asking for opinions	intent
+494_2	can you please stop asking questions and just go find the thumb?	 ask for help	intent
+508_1	okay. i got it.	 acknowledge	intent
+508_2	i'll clean it up.	 plan	intent
+508_4	oh, hey, babe, what's up?	 care	intent
+516_0	okay, everybody calm down.	 comfort	intent
+516_1	it's just an open carry protest.	 inform	intent
+516_2	gun owners are just exercising their second amendment rights.	 inform	intent
+516_4	they are equally as dangerous.	 warn	intent
+516_6	no, he doesn't get to win.	 refuse	intent
+516_9	oh, my god, just bang already.	 complain	intent
+516_11	gross.	 complain	intent
+516_12	we're all feeling emotional, but we're gonna get through this safely together.	 comfort	intent
+516_13	and then we can go home to our loved ones.	 comfort	intent
+516_15	they got the same brain-to-body ratio as humans.	 inform	intent
+525_0	that's my baby sleeping.	 introduce	intent
+525_1	sleeping.	 introduce	intent
+525_3	oh. oh, my gosh, this next one's kind of funny.	 praise	intent
+525_4	especially you, garrett, since your brand is telling it like it is.	 emphasize	intent
+525_5	oh, thank you for noticing.	 thank	intent
+525_7	no.	 oppose	intent
+525_8	i am so sorry.	 apologise	intent
+525_9	why do you think he's into you?	 doubt	intent
+525_10	ooh, jeff is slutty.	 taunt	intent
+525_13	no, that wasn't it.	 oppose	intent
+539_1	i gotta stop by the hotel first.	 plan	intent
+539_3	so that's-and after that, though, i was gonna hit the new italian place.	 plan	intent
+539_5	no, i was just wondering if you wanted to get dinner.	 invite	intent
+539_6	no, i mean, like, take you out to dinner to the italian place that i just mentioned.	 explain	intent
+539_7	you're asking me out on a date?	 confirm	intent
+539_8	uh-huh.	 acknowledge	intent
+539_13	sure, why not?	 agree	intent
+539_14	great.	 praise	intent
+539_15	oh, my god, i cannot wait to tell garrett that i was right about this.	 flaunt	intent
+556_0	oh, that's okay.	 comfort	intent
+556_2	sure, i'll miss you.	 leave	intent
+556_3	thanks.	 thank	intent
+556_4	you cannot go out with that guy.	 inform	intent
+556_5	and because he was your teacher.	 explain	intent
+556_6	do you really need another reason?	 doubt	intent
+556_8	no, it's terrible.	 oppose	intent
+556_10	i'm probably just a little intimidated by his talent, and his looks, and, you know, his face.	 explain	intent
+556_11	he's the whole package.	 praise	intent
+556_12	oh, that's really nice of you to say.	 praise	intent
+556_14	i'm sorry, what?	 care	intent
+556_15	bo doesn't like me?	 doubt	intent
+556_16	yeah, he says you're a poser.	 agree	intent
+556_18	he really called me a poser?	 confirm	intent
+556_19	yeah, a big one.	 agree	intent
+569_0	well, it's halloween, so everything's kind of out of the ordinary.	 explain	intent
+569_1	it's janet.	 explain	intent
+576_0	i have to be home in an hour to trick-or-treat with emma.	 plan	intent
+576_1	don't tell dina.	 inform	intent
+576_3	smart.	 praise	intent
+588_0	hey. i'm just reminding everyone to vote.	 inform	intent
+588_1	we want a 100% employee turnout.	 inform	intent
+588_2	a lot of people died so you could vote.	 inform	intent
+588_3	also, a lot of horses died.	 inform	intent
+588_5	oh, i'm not 18 yet.	 inform	intent
+588_6	you know, it's funny. i can drink, but i can't vote.	 inform	intent
+588_7	well, i'll be definitely getting my vote on.	 inform	intent
+588_9	okay, good.	 acknowledge	intent
+588_10	also, voting time is unpaid.	 inform	intent
+588_11	nobody paid those horses to die.	 leave	intent
+588_12	cheyenne, can you keep a secret?	 ask for help	intent
+588_14	okay.   a few months ago, i found out that i'm actually undocumented.	 inform	intent
+588_15	okay.	 acknowledge	intent
+588_17	it means that i'm an illegal alien.	 explain	intent
+588_18	no, i'm-i'm human, who happens to live in the country illegally.	 explain	intent
+588_19	oh. that's your secret?	 taunt	intent
+588_21	wait. you know about that?	 care	intent
+588_22	yeah, but don't worry.	 comfort	intent
+588_23	i only told my baby, and she's not gonna tell anybody.	 comfort	intent
+588_25	oh, you can't just get one of those  i voted  stickers and say that you voted?	 advise	intent
+588_26	oh. yeah. right.	 agree	intent
+588_27	you are so much smarter than what i tell people.	 praise	intent
+588_28	aww, thank you.	 thank	intent
+588_29	so, do you love jeff?	 care	intent
+588_30	shut up. i don't know. maybe.	 leave	intent
+590_0	it's totally slanted.	 introduce	intent
+590_1	they're just pushing the pro-business, anti-worker candidates.	 introduce	intent
+590_2	what? a corporation doing something unethical?	 doubt	intent
+590_3	to protect its interests?	 doubt	intent
+590_7	hey, marcus?	 greet	intent
+590_8	he's pro-freedom and anti-bad guys, and those are two things i can get behind.	 explain	intent
+590_9	hey, are we still on for drinks tonight?	 invite	intent
+590_10	well, we'll figure it out later.	 leave	intent
+590_12	no, never mind. it's stupid.	 oppose	intent
+590_13	no, i'm gonna say it.	 oppose	intent
+590_14	we should make our own pamphlet with the truth.	 advise	intent
+590_15	ooh.	 acknowledge	intent
+590_16	a rogue pamphlet?	 doubt	intent
+590_17	you're crazy, lady.	 oppose	intent
+590_18	i think that's a great idea, and i have layout experience.	 praise	intent
+590_20	everyone's busy.	 complain	intent
+599_2	surprise!	 greet	intent
+599_3	oh, hey. hi.	 greet	intent
+599_4	you said you'd help me pick out some towels.	 explain	intent
+599_5	oh, hi. i'm naomi.	 greet	intent
+599_6	oh, naomi, this is amy. she's my boss.	 introduce	intent
+599_7	it's nice to meet you.	 greet	intent
+599_8	you too. as well.	 greet	intent
+599_9	yeah.	 acknowledge	intent
+599_10	naomi works the cheese booth at the farmers market by my house.	 introduce	intent
+599_11	yes, the cheese booth, not the soap booth.	 oppose	intent
+599_14	so do you have time now?	 invite	intent
+599_15	yeah. of course that's cool.	 agree	intent
+599_16	wow, a new apartment. a new man.	 praise	intent
+599_18	yeah. thanks.	 thank	intent
+599_19	okay. all right.	 leave	intent
+600_1	rats gave birth in the nacho cheese.	 inform	intent
+600_2	thank you.	 thank	intent
+605_1	i thought we should talk about all the stuff that went on today.	 advise	intent
+605_2	yeah. actually, i was thinking the same thing.	 agree	intent
+612_0	i want you to stop parking in it.	 criticize	intent
+612_1	excuse me. all right, thank you.	 thank	intent
+612_2	okay, everyone. good morning!	 greet	intent
+612_3	let's settle down. um, 'tis the season.	 inform	intent
+612_4	and i'd like to give a permanent welcome to all our new temporary workers in the light blue vests.	 inform	intent
+612_5	now, i haven't put all the faces to the names yet, but i do know that you are reggie and--and we now have a black todd.	 inform	intent
+612_6	uh, you'll be white todd?	 confirm	intent
+612_7	and, uh, oh, and this sweetheart here is opal, who, at 90 years old, i think is the oldest employee we've ever had.	 introduce	intent
+612_8	oh, and lastly, let's give a big cloud 9 welcome to amy's better half, adam dubanowski.	 introduce	intent
+612_10	he means amy, not me. i'm not gay.	 explain	intent
+612_11	anyway, if you have any questions about amy, come see me.	 inform	intent
+612_12	i've got all the dirt.	 joke	intent
+612_13	oh, right. sorry, bean.	 apologise	intent
+612_14	all right, uh, moving on. tornado safety--	 inform	intent
+612_15	is it because you fart a lot?	 joke	intent
+612_16	like this gentleman sitting next to me?	 taunt	intent
+612_17	it's 'cause i'm small, okay?	 explain	intent
+612_20	okay, well, any more questions?	 care	intent
+615_0	it just kind of makes it hard for me to be the boss.	 complain	intent
+615_1	yeah, sure. no problem.	 agree	intent
+615_2	i really appreciate it.	 thank	intent
+658_1	my stuffing is not what made us sick.	 oppose	intent
+658_2	eating the flesh off of a bird's bones, you savage.	 criticize	intent
+658_3	why are you so weird?	 doubt	intent
+658_4	why is everyone being so mean to each other?	 complain	intent
+658_5	this is what black friday wants!	 inform	intent
+658_6	that is a family recipe with a secret ingredient.	 introduce	intent
+658_7	but this is not what black friday is gonna get!	 oppose	intent
+658_8	oh, cinnamon? boring.	 taunt	intent
+658_9	i have a terrible headache, mateo.	 complain	intent
+658_10	can you please barf quieter?	 ask for help	intent
+658_11	okay, i called corporate to ask for help, and turns out they're closed today 'cause it's a holiday.	 inform	intent
+658_12	okay.	 agree	intent
+658_13	yeah, even if everyone in here felt great, we still don't have enough people to cover the floor.	 inform	intent
+658_14	so we just abandon the store?	 doubt	intent
+658_16	wait, we're just gonna leave?	 doubt	intent
+658_19	yo, i don't like working here.	 inform	intent
+658_20	okay.	 acknowledge	intent
+658_21	but it's my job.	 emphasize	intent
+658_22	i do the bare minimum, but i don't do less than that.	 inform	intent
+681_0	this is the best day of my life.	 praise	intent
+681_1	you just had a baby.	 joke	intent
+692_0	what?	 doubt	intent
+692_1	i really hope he dies.	 complain	intent
+700_0	what about the back? would you mind checking the back?	 confirm	intent
+700_1	i'm sorry, there's nothing left in the back.	 apologise	intent
+700_2	oh, thanks anyway.	 thank	intent
+724_0	um, to be clear, i don't think i can win you.	 explain	intent
+724_1	i mean--and i wouldn't want to, even if i could.	 explain	intent
+724_2	i'm a little bit drunk.	 inform	intent
+724_3	we don't talk like that here.	 oppose	intent
+728_2	so what do we do next? do we--do we call the cops?	 asking for opinions	intent
+728_3	do we bust her ourselves?	 confirm	intent
+728_4	easy, cagney.	 comfort	intent
+728_11	you?	 taunt	intent
+728_12	okay, yeah, you're way underqualified.	 taunt	intent
+728_13	what do you need to be qualified?	 asking for opinions	intent
+728_14	you need to watch a video.	 advise	intent
+757_0	some things were said that i'm sure both parties regret.	 inform	intent
+757_1	she told me to go to hell. i'm catholic.	 criticize	intent
+757_2	what's wrong with that? you have a nice smile.	 doubt	intent
+757_3	but you don't tell me when to smile, marcus.	 criticize	intent
+757_4	fine. i'm sorry if you felt offended.	 apologise	intent
+757_5	i just forgot how sensitive women can be.	 taunt	intent
+757_6	marcus, no.	 prevent	intent
+757_8	well, how's this for sensitive, marcus?	 asking for opinions	intent
+757_9	i am writing you up.	 plan	intent
+757_10	yeah, 'cause you were being like an uptight teacher.	 taunt	intent
+757_12	more like i'm your superior at a job you used to have, marcus.	 inform	intent
+757_13	you're fired.	 inform	intent
+757_14	no, no, no, no, no, no. no!	 oppose	intent
+757_15	and it's not  nothing,  all right?	 comfort	intent
+757_16	marcus, you're fired.	 inform	intent
+768_1	that must be a real kick in the shins, huh?	 confirm	intent
+768_3	i've seen, like, seven, but i'm not sure it counts, 'cause it was all at once.	 inform	intent
+768_4	oh, i'm sorry, is that offensive?	 apologise	intent
+768_5	do we say doctor now?	 asking for opinions	intent
+768_6	only to doctors.	 inform	intent
+768_7	hey, where should i put these cups?	 asking for opinions	intent
+768_8	put them over there with the rest of them.	 arrange	intent
+768_9	i set up a little juice station at the entrance-sort of a healthy treat to get people in the mood.	 introduce	intent
+768_10	you know, uh, juice actually isn't that healthy.	 inform	intent
+768_11	it's like the healthiest stuff on the planet.	 inform	intent
+768_12	fruit juice is loaded with sugar.	 inform	intent
+768_13	i guess jonah's right, and i'm something else.	 agree	intent
+768_14	did you guys see  babe 2: pig in the city?	 asking for opinions	intent
+768_15	i seem to have wound up with two copies at my house.	 inform	intent
+779_0	we don't seem to have any training video about not discussing abortion at work, because we just thought it was so obvious, but you guys managed to surprise us, so good job.	 inform	intent
+779_1	just the woman who's pregnant with your bi-racial child.	 inform	intent
+779_4	wait, so you didn't knock her up?	 confirm	intent
+779_5	well, i am. i'm gay.	 inform	intent
+779_7	i made it up.   i haven't been dating anyone.	 inform	intent
+779_9	i'm the one who's been dating jeff.	 inform	intent
+779_11	me and jeff.   does anybody have any questions?	 asking for opinions	intent
+779_12	can we please keep this in this room?	 ask for help	intent
+779_13	i'm not supposed to be dating anybody from one of the stores.	 inform	intent
+779_14	but casual sex is okay, right?	 confirm	intent
+779_15	uh, that is correct.	 agree	intent
+779_17	i'm sorry, it just-we haven't told anybody.	 apologise	intent
+779_19	what has happened to this store?	 complain	intent
+779_23	sandra, i'm really sorry.	 apologise	intent
+779_24	no more lies. no more credit card debt from buying myself flowers.	 inform	intent
+785_0	what? me?	 confirm	intent
+785_1	huh?   you--are you sure?	 confirm	intent
+785_2	yeah, you're such a good guy.	 praise	intent
+797_0	excuse me, do you have anymore bug bombs in back?	 ask for help	intent
+808_1	okay, thanks for your time.	 thank	intent
+808_3	my apologies. what's your plan?	 asking for opinions	intent
+808_4	it's just a privilege to watch your mind at work.	 taunt	intent
+816_1	thank you again.	 thank	intent
+816_2	penny?	 greet	intent
+816_4	what's he talking about?	 doubt	intent
+818_0	morning.	 greet	intent
+818_1	i have to say i slept splendidly.	 flaunt	intent
+818_4	a well-known folk cure for insomnia is to break into your neighbor's apartment and clean.	 taunt	intent
+818_5	sarcasm?	 doubt	intent
+818_6	you think?	 asking for opinions	intent
+818_7	granted, my methods may have been somewhat unorthodox but the end result will be a measurable enhancement to penny's quality of life.	 explain	intent
+818_8	you've convinced me, maybe we should sneak in and shampoo her carpet.	 taunt	intent
+818_9	for god's sake, sheldon do i have to hold up a sarcasm sign every time i open my mouth?	 doubt	intent
+818_10	no, i do not have a sarcasm sign.	 oppose	intent
+818_11	you want some cereal?	 asking for opinions	intent
+818_13	hello, honey puffs.	 greet	intent
+818_15	how did she know it was us?	 doubt	intent
+818_17	you came into my apartment while i was sleeping?	 doubt	intent
+818_18	yes, but only to clean.	 explain	intent
+818_19	i'm very, very sorry.	 apologise	intent
+818_20	yes, we discussed it at length last night.	 agree	intent
+818_22	but it could be sleep apnea. you might wanna see an otorhinolaryngologist.	 advise	intent
+818_24	and what kind of doctor removes shoes from asses?	 doubt	intent
+818_27	penny, penny, hold on.	 prevent	intent
+818_30	you are going to march yourself over there right now and apologize.	 warn	intent
+819_1	i'm truly sorry for what happened last night.	 apologise	intent
+819_2	i hope that it won't color your opinion of leonard who is not only a wonderful guy, but also, i hear, a gentle and thorough lover.	 explain	intent
+830_0	no.	 oppose	intent
+830_3	we both have people in our lives who wanna nip intestinal polyps in the bud.	 explain	intent
+830_4	so, what's new in the world of physics?	 asking for opinions	intent
+830_6	really? nothing?	 doubt	intent
+830_8	what's new at the cheesecake factory?	 care	intent
+830_10	oh, we do have a chocolate key lime that's moving pretty well.	 inform	intent
+830_11	good.	 acknowledge	intent
+830_12	uh, what about your, uh, hallway friend?	 care	intent
+830_14	and this thing with doug would just be rebound sex.	 explain	intent
+830_16	it's just-it's my pattern.	 explain	intent
+830_17	i'm not sure that i do. um.... is that one 36-hour experience or is that 36 hours spread out over say, one glorious summer?	 doubt	intent
+830_18	no. it's usually over a weekend.	 oppose	intent
+830_19	and trust me, you do not feel good after it.	 inform	intent
+830_20	well, chafing, right?	 confirm	intent
+830_22	of course, yeah. emotional chafing.	 agree	intent
+830_23	hey, do you wanna see something cool?	 asking for opinions	intent
+830_24	i can make this olive go into this glass without touching it.	 introduce	intent
+830_26	actually, it's centripetal force, which is an inward force generated by the glass acting on the olive. ooh.	 explain	intent
+830_27	excuse me.	 apologise	intent
+840_0	sheldon, your mom made dinner.	 inform	intent
+840_7	that is a lovely story.	 praise	intent
+840_9	so everybody grab a plate and a pretty placemat that shelly wove.	 arrange	intent
+840_10	has shelly ever freaked out like this before?	 confirm	intent
+840_17	it pissed our dog off to no end.	 joke	intent
+840_18	you know, you two make a cute couple.	 praise	intent
+840_19	i-no, no. no, we're not a couple. we're singles.	 oppose	intent
+840_20	two singles. like those individually wrapped slices of cheese that.... or friends.	 joke	intent
+840_21	okay. all right, everybody, it's time to eat.	 arrange	intent
+840_25	oh, my god, this is the best cobbler i've ever had.	 praise	intent
+840_27	this is ridiculous.	 complain	intent
+840_28	you don't hunt, do you?	 confirm	intent
+844_0	hey, how did it go?	 care	intent
+851_0	the problem, maureen, is you have boxes for eight different types of  pacific islander,  but only three for what this relationship is.	 explain	intent
+851_1	it doesn't matter. just check the box and let's move on with our lives.	 comfort	intent
+851_2	maureen, we're gonna need to speak to your supervisor.	 inform	intent
+859_0	oh, hello, frenchfryguy81.	 greet	intent
+859_1	are you busy spewing hateful things about good people from the comfort of your own...	 doubt	intent
+859_2	i need you to restart the  quantum leap  video.	 ask for help	intent
+867_0	okay.	 acknowledge	intent
+867_3	hey, bobbie sue-bobbie sue?	 greet	intent
+874_0	okay, let's give a warm first-day welcome to our newest employee, bo thompson...	 inform	intent
+874_1	why does his middle finger look so weird?	 doubt	intent
+874_2	bo, maybe you should change.	 advise	intent
+874_3	where am i supposed to find another shirt?	 asking for opinions	intent
+874_5	no, it wasn't.	 oppose	intent
+874_8	that's not true at all. in fact, just this morning, kristen said she respects how much i don't kiss up.	 oppose	intent
+874_9	where did you see kristen this morning?	 doubt	intent
+874_10	hm?	 acknowledge	intent
+874_11	we, uh, met for breakfast.	 explain	intent
+874_13	that's what happened.	 agree	intent
+874_14	and what restaurant is open at, like, 4:00 in the morning?	 doubt	intent
+879_2	sorry, we don't have hot dogs.	 apologise	intent
+879_4	we only really serve mexican food.	 explain	intent
+879_7	you got it.	 praise	intent
+879_10	yeah.	 acknowledge	intent
+879_12	exactly.	 agree	intent
+879_13	where were you born?	 care	intent
+879_16	do jewish people like snow?	 asking for opinions	intent
+879_20	uh, what's the biggest dog you've ever seen, and why?	 asking for opinions	intent
+884_0	oh, he's totally packing, right?	 confirm	intent
+884_1	oh, no, no, reggie can't hold an actual weapon.	 oppose	intent
+895_1	an alternate and less likely interpretation is that you could manufacture one.	 joke	intent
+895_3	how so?	 care	intent
+895_4	well, what do you think?	 asking for opinions	intent
+911_0	hello, penny. hello, kurt.	 greet	intent
+911_1	oh, hey, guys. you having a good time?	 greet	intent
+911_2	what? you're a zebra, right?	 confirm	intent
+911_4	and what are you supposed to be, an elf?	 confirm	intent
+911_5	no, i'm a hobbit.	 oppose	intent
+911_7	because he's neither tall nor immortal, and none of us could be the flash.	 explain	intent
+911_9	i'm not. no offense.	 oppose	intent
+911_12	you can't compete with me on an intellectual level and so you're driven to animalistic puffery.	 taunt	intent
+911_13	you calling me a puffy animal?	 doubt	intent
+911_15	you're in trouble.	 warn	intent
+911_16	you know, you use a lot of big words for such a little dwarf.	 taunt	intent
+911_20	a hobbit.	 emphasize	intent
+911_21	okay, now you're starting to make me mad.	 warn	intent
+911_22	yeah? how about i make a point out of your pointy little head?	 warn	intent
+911_23	there's not going to be a confrontation.	 comfort	intent
+911_24	in fact, i doubt if he can even spell confrontation.	 taunt	intent
+911_26	i don't care, i'm finishing it. put him down.	 criticize	intent
+911_27	fine.	 agree	intent
+911_28	you're one lucky little leprechaun.	 taunt	intent
+916_0	ugh. i cannot believe christy let howard into my apartment.	 complain	intent
+916_2	sure, cut the foreigner in half. there's a billion more where he came from.	 joke	intent
+916_5	this is a complex battle simulation with a steep learning curve.	 introduce	intent
+916_7	mine.	 complain	intent
+916_8	okay, i got this. lock and load, boys.	 invite	intent
+916_10	okay, it's not good sportsmanship to shoot somebody who's just re-spawned.	 criticize	intent
+916_12	raj, raj, she's got me cornered. cover me.	 ask for help	intent
+916_13	penny, you are on fire.	 praise	intent
+916_14	yeah, and so is sheldon.	 thank	intent
+916_16	wait, sheldon, come back. you forgot something.	 prevent	intent
+916_17	what?	 doubt	intent
+916_20	gosh. he's kind of a sore loser, isn't he?	 confirm	intent
+916_22	penny, we make such a good team.	 praise	intent
+916_23	maybe we could enter a couple of  halo  tournaments sometime.	 invite	intent
+916_27	what do you suppose she meant by that?	 doubt	intent
+916_29	well, she could have said goodbye.	 complain	intent
+916_31	what's wrong?	 care	intent
+916_32	well, um, howard and christy are kind of hooking up in my bedroom.	 complain	intent
+916_33	do you mind if i stay here tonight?	 asking for opinions	intent
+916_34	no. yeah, take the couch, or my bed. i just got new pillows.	 agree	intent
+916_39	frankly, if i could afford the rent, i'd ask you to leave.	 warn	intent
+916_41	are you suggesting that if we let penny stay we might succumb to cannibalism?	 doubt	intent
+916_43	it's the fallacy of extending someone's argument to ridiculous proportions and then criticizing the result. and i don't appreciate it.	 complain	intent
+916_44	i'll get you a blanket and a pillow.	 leave	intent
+916_45	okay, since i'm obviously being ignored here, let's go over the morning schedule.	 plan	intent
+916_46	i use the bathroom from 7 to 7:20.	 plan	intent
+916_47	plan your ablutions and bodily functions accordingly.	 plan	intent
+916_48	how am i supposed to plan my bodily functions?	 care	intent
+916_49	i suggest no liquids after 11p.m.	 advise	intent
+916_54	it serves the ancient imperative of protecting oneself against marauders.	 explain	intent
+916_55	anything else i should know?	 care	intent
+916_56	yes. if you use my toothbrush, i'll jump out that window.	 warn	intent
+916_57	please don't come to my funeral. have a good night.	 leave	intent
+916_59	thanks.	 thank	intent
+920_0	we can't order chinese food without wolowitz?	 doubt	intent
+920_1	do you see the problem?	 asking for opinions	intent
+920_5	fine. what do you wanna eliminate?	 asking for opinions	intent
+920_8	hi, fellas.	 greet	intent
+920_9	oh. where's your annoying little friend who thinks he speaks mandarin?	 care	intent
+920_10	can we get an order of dumplings, but with three instead of four?	 confirm	intent
+920_11	no substitutions.	 oppose	intent
+920_12	this isn't a substitution. it's a reduction.	 explain	intent
+920_16	if we have extra, we'll just take the leftovers home.	 plan	intent
+920_20	can we please make a decision?	 confirm	intent
+920_21	not only are there children starving in india, there's an indian starving right here.	 complain	intent
+920_22	there's an idea. why don't we go out for indian food?	 advise	intent
+920_24	you're nice boys.	 praise	intent
+920_29	what about the won tons?	 asking for opinions	intent
+922_1	for god's sakes, sheldon, you are driving me crazy.	 complain	intent
+922_2	i'm pretty sure my anger is with you.	 emphasize	intent
+922_3	what is happening to us? we're falling apart.	 complain	intent
+923_0	now, raj, jump in the tank.	 arrange	intent
+923_2	there's a sniper. use your rocket launcher.	 arrange	intent
+923_3	all i've got is a needler and i'm all out of ammo!	 complain	intent
+923_4	sorry, go.	 apologise	intent
+928_0	drinks do not work that way.	 oppose	intent
+946_0	okay, ground rules: no sponge baths and definitely no enemas.	 inform	intent
+946_1	agreed.	 agree	intent
+955_0	mm. this is really delicious, isn't it?	 praise	intent
+955_1	still can't talk to me unless you're drunk, huh?	 confirm	intent
+955_2	oh, sweetie, you are so damaged.	 comfort	intent
+955_4	how about a hug for howie?	 advise	intent
+955_6	something you'd like to share?	 care	intent
+955_7	a tale of woe perhaps?	 joke	intent
+955_11	antonio salieri?	 confirm	intent
+955_12	oh, god, now even you're smarter than me.	 complain	intent
+955_14	just eat, sheldon. you'll feel better.	 comfort	intent
+955_15	why waste food?	 doubt	intent
+955_17	i'm confused. did sheldon stop giving milk?	 doubt	intent
+955_18	you knew that someday, someone would come along who's younger and smarter.	 comfort	intent
+955_20	so you got a little competition. i really don't see what the big deal is.	 comfort	intent
+955_21	of course you don't. you've never excelled at anything.	 taunt	intent
+955_22	i don't understand, exactly how did he get any friends in the first place?	 complain	intent
+955_24	what are you gonna do, just give up?	 asking for opinions	intent
+970_4	why would they be looking for test subjects here?	 doubt	intent
+970_7	sheldon's office?	 doubt	intent
+970_8	is she lost?	 doubt	intent
+970_11	hello.	 greet	intent
+970_12	oh, hey, buddy.	 greet	intent
+970_13	buddy?	 doubt	intent
+970_14	sorry i'm late. i'm working on a project that may take me up on the next space shuttle.	 apologise	intent
+970_18	missy, this is leonard and rajesh, and you've already met howard.	 introduce	intent
+970_19	yeah.	 acknowledge	intent
+970_20	so how do you two know each other?	 doubt	intent
+970_21	oh, he once spent nine months with my legs wrapped around his head.	 joke	intent
+970_22	excuse me?	 doubt	intent
+970_23	she's my twin sister.	 explain	intent
+970_26	how exactly would one measure a sense of humor?	 doubt	intent
+970_28	i'm sorry, what was your name again?	 apologise	intent
+970_30	so, missy, what brings you all the way from texas?	 care	intent
+970_34	and i had to drop off some papers for shelly to sign for my dad's estate.	 plan	intent
+970_35	the papers could've been mailed. mom sent you here to spy on me, didn't she?	 confirm	intent
+970_40	if the wedding's not till tomorrow, why don't you stay with us tonight?	 invite	intent
+970_41	oh, i don't think so. shelly doesn't like company.	 oppose	intent
+970_43	they were not friends. they were imaginary colleagues.	 explain	intent
+970_44	look, you're here, and we have plenty of room.	 invite	intent
+970_47	and don't ever call me shelly.	 oppose	intent
+970_49	i'll walk you to your car. you're in structure 3, level c, right?	 leave	intent
+970_50	what just happened?	 doubt	intent
+986_0	no, no.	 oppose	intent
+986_1	of course not.	 oppose	intent
+986_2	i'm sorry. what were the choices again?	 apologise	intent
+986_4	i mean, not you smart.	 explain	intent
+986_5	you know, and then he just goes and has to humiliate me by writing about me on his blog so the entire world can read it.	 complain	intent
+986_7	not that i need to know the details of your sex life.	 explain	intent
+986_8	i just thought.... never mind.	 explain	intent
+986_10	might as well read it, everybody else has. go ahead.	 advise	intent
+986_11	oh, god, i just feel so betrayed and embarrassed.	 complain	intent
+986_12	i just wanna crawl into a hole and die.	 complain	intent
+986_13	okay, well, you know, this isn't that bad.	 comfort	intent
+986_14	it just paints the picture of a very affectionate woman who's open to expressing her affection in nontraditional locales.	 comfort	intent
+986_18	doesn't that violate the health code or...?	 doubt	intent
+986_19	ah, okay.	 acknowledge	intent
+986_20	really? do you think i overreacted?	 confirm	intent
+986_21	no, that would be under-reacting.	 oppose	intent
+986_23	yes, you're right.	 agree	intent
+986_25	what is there to explain? it's all right here.	 doubt	intent
+986_26	it's betrayal.	 criticize	intent
+986_27	no, you were right the first time.	 oppose	intent
+986_29	i'm pretty sure i never said that.	 oppose	intent
+986_30	no, you did better than that. you helped me see it on my own.	 praise	intent
+990_0	okay, so here's the thing.	 inform	intent
+990_1	i guess you're aware that leonard asked me out.	 inform	intent
+990_3	oh, that's nice.	 praise	intent
+990_5	you see, i don't spend much time here, and so i've never chosen a place to sit.	 explain	intent
+990_7	there are a number of options and.... i'm really not familiar enough with the cushion densities air-flow patterns and dispersion of sunlight to make an informed choice.	 explain	intent
+990_8	why don't you pick at random, if you don't like it, sit somewhere else next time?	 advise	intent
+990_9	no, no, that's crazy.	 refuse	intent
+990_10	you go ahead and talk while i figure it out.	 inform	intent
+990_11	okay.	 acknowledge	intent
+990_12	well, i suppose so.	 agree	intent
+990_13	leonard isn't the kind of guy anyone usually goes out with.	 inform	intent
+990_14	would you be open to rotating the couch clockwise 30 degrees?	 asking for opinions	intent
+990_15	no. what i'm saying is, leonard might be different in a good way.	 explain	intent
+990_19	but on the other hand if things don't go well with leonard, i risk losing a really good friend.	 explain	intent
+990_20	i mean, he's not looking for a fling.	 explain	intent
+990_21	i would not say that.	 oppose	intent
+990_22	no one would say that. a light-year is a unit of distance, not time.	 explain	intent
+990_23	thank you for the clarification.	 thank	intent
+990_26	right. thanks.	 thank	intent
+990_28	do you have anything to say that has anything to do with, you know, what i'm talking about?	 asking for opinions	intent
+990_30	we might consider schrödinger's cat.	 advise	intent
+990_31	no, that's mrs. grossinger.	 oppose	intent
+990_33	sorry, you diverted me.	 apologise	intent
+990_34	anyway, in 1935, erwin schrödinger, in an attempt to explain the copenhagen interpretation of quantum physics, he proposed an experiment.	 introduce	intent
+990_35	a cat is placed in a box with a sealed vial of poison that will break open at a random time.	 introduce	intent
+990_36	now, since no one knows when or if the poison has been released until the box is opened, the cat can be thought of as both alive and dead.	 introduce	intent
+990_37	i'm sorry, i don't get the point.	 apologise	intent
+990_39	just like schrödinger's cat, your potential relationship with leonard right now can be thought of as both good and bad.	 explain	intent
+990_40	no, no, no.	 oppose	intent
+1023_0	good morning.	 greet	intent
+1023_2	really? why?	 doubt	intent
+1023_5	yep.	 acknowledge	intent
+1081_1	ross, i feel terrible.	 complain	intent
+1081_3	you, uh, want me to help you with that?	 confirm	intent
+1081_5	no, i know ross. but what's it short for?	 explain	intent
+1081_9	oh.	 acknowledge	intent
+1081_10	it's pretty.	 praise	intent
+1081_13	actually, i'm a paleon... dinosaurs is fine.	 emphasize	intent
+1081_14	the drawing is not.	 oppose	intent
+1081_15	all right. uh, who do you want as your emergency contact?	 asking for opinions	intent
+1081_18	i don't think that we are.	 oppose	intent
+1081_21	come on, ross, that didn't mean anything.	 comfort	intent
+1090_0	hi. um, my name's rachel green. i have an appointment for emma.	 greet	intent
+1090_1	dr. gettleman is finishing up with a patient. he'll be out shortly.	 inform	intent
+1090_2	okay, thank you.	 thank	intent
+1090_3	thanks, doctor.	 thank	intent
+1112_0	hello.	 greet	intent
+1112_3	oh, and the people are so nice.	 praise	intent
+1112_4	chandler, you will love him.	 inform	intent
+1112_5	he is without a doubt the funniest guy i have ever met.	 praise	intent
+1126_2	oh. thank you.	 thank	intent
+1126_5	mom, dad, this is phoebe.	 introduce	intent
+1126_6	phoebe, these are my parents, theodore and bitsy.	 introduce	intent
+1126_7	your home is lovely.	 praise	intent
+1126_8	thank you. i'll give you a tour later. it's actually three floors.	 introduce	intent
+1126_10	oh. why don't you come meet our friends?	 invite	intent
+1126_12	i'm sure they will, but you don't have to do this.	 comfort	intent
+1126_13	phoebe, these are our friends tom and sue engel.	 introduce	intent
+1126_15	well, all right. um, originally, i'm from upstate but, um, then my mom killed herself, and my stepdad went to prison.	 introduce	intent
+1126_16	so i moved to the city where, um, i lived in a burned-out buick lesabre for a while.	 introduce	intent
+1126_18	and, um, anyway, now i'm a, um, freelance massage therapist um, which isn't always steady money, but at least i don't pay taxes.	 introduce	intent
+1126_19	though maybe just a little less  pimp spit.    okay.	 advise	intent
+1126_22	yes. i'm sorry. i've never met a boyfriend's parents before.	 apologise	intent
+1126_23	but, i mean, you have met humans before, right?	 confirm	intent
+1126_24	why don't you go talk to my mom?	 advise	intent
+1126_26	oh, bitsy? um, uh, listen, i wanted to thank you again for having me here tonight.	 thank	intent
+1126_28	also, um, i just want you to know what a wonderful man your son is.	 praise	intent
+1126_29	especially to you, because he's very respectful of women.	 praise	intent
+1126_30	no, don't get me wrong. no, not in like a sissy way.	 explain	intent
+1126_33	awesome.	 praise	intent
+1132_0	hey, you guys. this is my sister amy.	 introduce	intent
+1132_1	this is chandler, joey, phoebe, and you know mon.	 introduce	intent
+1132_3	yeah.	 acknowledge	intent
+1132_7	thank you, amy.	 thank	intent
+1132_11	that's a great movie!	 praise	intent
+1132_12	but i was thinking about changing her name.	 plan	intent
+1132_17	why does she keep making that noise?	 asking for opinions	intent
+1132_20	i don't believe this. hold on a second. you guys die and i don't get your baby?	 doubt	intent
+1132_21	amy, see, we're a lot closer to monica and chandler.	 explain	intent
+1132_22	we see them every day. and truthfully, you don't seem connected to the baby.	 explain	intent
+1132_27	seriously?	 doubt	intent
+1132_28	everyone, we're using our fancy china and it's very expensive, so please be careful.	 inform	intent
+1143_0	hey, buddy.	 greet	intent
+1143_1	uh, hi.	 greet	intent
+1147_0	here's your ticket.	 inform	intent
+1147_1	thanks. hey, listen i'm never gonna lie to you again, okay?	 thank	intent
+1147_2	thanks, man.	 thank	intent
+1168_0	now that i'm back, why don't you just fill me in on what you've been up to?	 asking for opinions	intent
+1168_1	well, i've changed your screen saver from that picture of *nsync.	 inform	intent
+1168_3	oh, no. i see what you're doing here, all right?	 oppose	intent
+1168_4	oh, god. you've totally messed with the back support on my chair.	 complain	intent
+1168_5	all right, fill me in.	 inform	intent
+1181_0	oh, hi.	 greet	intent
+1181_1	i still can't believe you invited gavin.	 complain	intent
+1181_3	maybe he keeps bothering you so much because he likes you.	 explain	intent
+1181_9	hey, rach. so can i sing  happy birthday  to you now?	 confirm	intent
+1181_10	see you later.	 leave	intent
+1181_11	hey, rach. somebody got you shoes.	 inform	intent
+1181_14	oh, you brought rats to my birthday party?	 doubt	intent
+1181_18	are you comparing my daughter to a rat?	 doubt	intent
+1181_19	no. seven rats.	 oppose	intent
+1181_20	well, i'm sorry, rachel, but i'm not like you. okay?	 apologise	intent
+1182_1	right behind you, big guy.	 inform	intent
+1187_2	no, i totally disagree. i think it's fine for a guy to do something like that.	 oppose	intent
+1187_4	before i forget, are you coming to mike's piano bar tonight?	 invite	intent
+1187_8	nope. nope. it's not working on me.	 oppose	intent
+1187_9	wow, i must be growing up.	 flaunt	intent
+1187_10	okay, fine. just please come and support mike. you don't have to sing.	 ask for help	intent
+1187_11	hi, you guys. listen, i really need your help.	 ask for help	intent
+1187_16	oh, yeah.	 acknowledge	intent
+1187_21	sounds like you need to think about what you want and talk to gavin.	 advise	intent
+1187_22	wow! five months maternity leave, you're back for four days kiss a co-worker and call in sick. they are lucky to have you.	 taunt	intent
+1197_2	wait a minute. you haven't even told her you are a doctor yet?	 confirm	intent
+1197_3	actually, about an hour and a half.	 emphasize	intent
+1197_5	you feel that too? oh!	 confirm	intent
+1197_6	i don't know. are we just kissing guys on balconies?	 taunt	intent
+1197_8	score.	 praise	intent
+1197_11	because you've been out there in bars and on balconies for over a month now. and you don't even have the courtesy to tell me.	 criticize	intent
+1197_12	from the guy in the bar? why didn't i get that message?	 doubt	intent
+1197_13	because i folded it up and put it in my pants pocket.	 explain	intent
+1197_17	who do you think you are? who are you to decide what messages i should or should not get?!	 criticize	intent
+1197_18	i actually came in here hoping to have a mature conversation about us.	 explain	intent
+1197_20	that's not the point, okay? the point is you are the one who moved on and didn't tell anyone.	 criticize	intent
+1197_21	oh, god, ross, this is just so messed up.	 complain	intent
+1197_23	so, what do you wanna do?	 asking for opinions	intent
+1229_0	because i told everyone he slept with dinosaurs.	 explain	intent
+1229_2	hello?	 greet	intent
+1229_8	i'm so gonna get back at ross.	 plan	intent
+1229_10	i'm dead?	 doubt	intent
+1229_12	posting that i died? that really isn't funny.	 criticize	intent
+1229_14	oh, please. hit by a blimp?	 doubt	intent
+1229_16	unbelievable. my classmates are gonna think i'm dead.	 complain	intent
+1229_18	you're messing with people's feelings here.	 criticize	intent
+1229_19	you wanna talk about people's feelings?	 doubt	intent
+1229_20	you should have heard how hurt professor stern was when i told him i wouldn't be able to go with him to key west!	 complain	intent
+1229_21	you've really crossed a line here. but that's okay.	 criticize	intent
+1239_2	you assume because i was heavy that's the only way i could win something?	 doubt	intent
+1239_4	they're towing a car.	 inform	intent
+1239_6	ross, you don't have emma! rachel, you don't have emma!	 inform	intent
+1239_10	well, there's two spots left, right?	 confirm	intent
+1239_15	i thought we could use some extra luck so i brought a wishbone home from work.	 inform	intent
+1239_16	a psychic and a wishbone? guys, give someone else a chance.	 taunt	intent
+1239_19	i don't want that turkey smell all over my hands.	 refuse	intent
+1239_22	but you're wishing for what we think, aren't you?	 confirm	intent
+1239_27	that thing gets hot!	 complain	intent
+1239_28	how are you gonna feel if we actually do win?	 asking for opinions	intent
+1239_29	why would i eat my own arm?	 doubt	intent
+1239_33	but just the fact that you want me to have fun with you guys, that's so sweet.	 praise	intent
+1239_35	so now that you're in, what are you gonna do if we win?	 asking for opinions	intent
+1239_38	you won't let me buy the knicks? i can't believe you're taking this away.	 doubt	intent
+1239_40	oh, i've gotten into the habit of calling rachel  mommy  when we're around emma.	 explain	intent
+1239_44	i, uh-i was just talking about rachel.	 explain	intent
+1239_47	what? susan got it? how?	 doubt	intent
+1239_51	we divide them into six groups of 40.	 arrange	intent
+1239_52	the remaining 10 can be read by whoever finishes first.	 inform	intent
+1239_54	heh. uh, no, you didn't. you must be mistaken.	 oppose	intent
+1239_55	okay, fine. i bought 20 extra tickets for me and chandler.	 acknowledge	intent
+1239_58	i was with you the whole time. when did you even get those?	 doubt	intent
+1239_61	how are you gonna feel when you win and lose your friends?	 asking for opinions	intent
+1239_62	chandler, would you just tell her what she did was wrong?	 confirm	intent
+1239_63	fine. don't be my friends. i'll buy new friends.	 taunt	intent
+1239_64	i want my tickets too! and i'm buying the knicks!	 plan	intent
+1239_66	cool. then i want mine too! and if i win i'm gonna put it all into a very low-yield bond!	 plan	intent
+1239_67	no. no, we should divide them up and i should get extra because we used my car!	 prevent	intent
+1239_68	just give them to me, and i'll split them up!	 arrange	intent
+1239_69	god, i can't take it anymore! i'm putting an end to this!	 complain	intent
+1241_0	what a beautiful night to be running around the street, looking for tickets.	 joke	intent
+1241_1	and the wind sure made it fun.	 joke	intent
+1241_3	weird your psychic didn't mention anything about the scary pigeon.	 taunt	intent
+1241_5	so excuse me for being a little skittish.	 apologise	intent
+1241_6	there's two messages. this could be from work.	 inform	intent
+1241_8	gosh, i'm so sorry, honey.	 apologise	intent
+1241_9	it is so unfair. it's like that time they promoted saundra over me at work.	 complain	intent
+1241_10	was she related to ralph lauren?	 confirm	intent
+1241_11	no, she was just much better at her job than me.	 explain	intent
+1241_12	you guys, the drawing's about to start.	 inform	intent
+1241_13	honey, you're being really strong about this.	 praise	intent
+1241_19	phoebe's totally ruined that for me.	 complain	intent
+1241_20	hi, mom. put her back on.	 greet	intent
+1241_22	come on!	 invite	intent
+1241_23	mom, please, i know you love your new lips, but i can barely understand you.	 complain	intent
+1241_24	would you please just let me say good night to my daughter?	 confirm	intent
+1241_25	all right, check your numbers! make me rich.	 inform	intent
+1241_26	you guys, you're not gonna believe this.	 inform	intent
+1241_30	why aren't you more excited?	 doubt	intent
+1241_31	rach, heh,  gleba  is not a word.	 explain	intent
+1241_34	here it is!  the fleshy, spore-bearing inner mass of a certain fungi.  heh.	 introduce	intent
+1241_39	no!	 complain	intent
+1241_40	it's your boss.	 introduce	intent
+1259_0	oh, hey, you guys, this is charlie.	 introduce	intent
+1259_1	oh, okay. now, what do you think of renyard's new theory of species variegation in segmented arthropods?	 asking for opinions	intent
+1259_3	oh, i'm sorry. i have to take this. excuse me.	 apologise	intent
+1259_4	renyard's theory of species variegation?	 doubt	intent
+1259_5	i saw the article on your coffee table. i memorized the title to freak you out.	 explain	intent
+1259_6	so did you two have fun?	 asking for opinions	intent
+1259_7	oh, my god. she's great.	 praise	intent
+1259_8	we have so much in common, and she's just cool, you know? and funny.	 praise	intent
+1259_9	hi!	 greet	intent
+1259_11	newcastle disease is a secretion-borne virus that only affects chickens and other poultry.	 explain	intent
+1259_12	i'm sorry. rachel, this is charlie wheeler. she's a colleague.	 introduce	intent
+1259_14	you're not sick.	 oppose	intent
+1259_16	okay, then why are you all dressed up?	 doubt	intent
+1259_17	when you're sick, you do whatever you can to make yourself feel better.	 inform	intent
+1259_19	no, i heard you before. that is so not what this is.	 oppose	intent
+1259_20	okay.	 acknowledge	intent
+1259_21	what?!	 doubt	intent
+1259_22	wait, joey's having a party, and he wasn't gonna invite us?	 doubt	intent
+1259_23	he does it every year. that's why he's sending you to the play.	 inform	intent
+1259_24	that's why he sent us to that medieval restaurant and to that button factory.	 explain	intent
+1259_25	and that horrible museum tour?	 doubt	intent
+1259_27	hey, you guys, i'm turning in. have fun.	 greet	intent
+1259_29	nice to meet you.	 greet	intent
+1263_0	ross, this is one of my costars, dirk. dirk, this is my good friend ross.	 introduce	intent
+1263_1	i'm not an actor. i'm a professor of paleontology.	 introduce	intent
+1263_2	hey, well, listen, i play a scientist on days.	 introduce	intent
+1263_3	dirk was wondering about the woman you brought and if you two are together?	 confirm	intent
+1263_4	hey, i got a 690 on my sats.	 flaunt	intent
+1263_7	don't worry, joe. i won't come next year!	 comfort	intent
+1263_9	just some boys gave me their phone numbers.	 explain	intent
+1263_10	i think i am.	 acknowledge	intent
+1263_15	it's just that, you know, they're not really good enough for you and you deserve the best.	 comfort	intent
+1263_17	who?	 doubt	intent
+1263_19	what?	 doubt	intent
+1263_20	yeah, because we live together. it's a joke! it's a joke.	 joke	intent
+1267_0	hey, thank you so much for these tickets, chandler.	 thank	intent
+1267_2	you're so wonderful.	 praise	intent
+1267_3	i can't believe you guys bought that. enjoy your slow death.	 leave	intent
+1285_1	which is like the highest level of hotness.	 praise	intent
+1285_2	then don't go.	 advise	intent
+1285_4	all right, then you go to that party, and you pretend to be over mike.	 advise	intent
+1285_6	phoebe! hi.	 greet	intent
+1285_7	wow! you look unbelievable.	 praise	intent
+1285_8	oh, yeah, well... what are you doing here?	 care	intent
+1285_10	well, what happened?	 doubt	intent
+1285_12	yeah.	 acknowledge	intent
+1285_14	well great that you're back. how are you?	 care	intent
+1285_19	well, this is probably a stupid question, seeing that you look like that but, um, do you have someplace that you need to be right now?	 care	intent
+1285_20	uh, do you smell beets?	 confirm	intent
+1285_22	no, that's david.	 introduce	intent
+1285_23	there's a third guy?	 doubt	intent
+1294_0	everyone, i would like to make a toast to rachel and joey.	 plan	intent
+1294_5	oh, my god, are we supposed to answer?	 asking for opinions	intent
+1294_9	ross, you don't seem okay.	 care	intent
+1294_11	wait, ross. ross, i, um... i have to take off.	 leave	intent
+1294_12	i have an early class in the morning.	 explain	intent
+1294_13	but this has been lovely.	 praise	intent
+1294_16	fine.	 leave	intent
+1294_18	hey.	 greet	intent
+1294_20	you know what, ross, i think, uh, we're gonna take off too.	 leave	intent
+1294_21	oh, oh. heh. of course. god, i'm so stupid.	 complain	intent
+1294_23	i mean, you probably just want to be alone.	 explain	intent
+1294_26	i think i'm gonna stay here and make sure he's okay.	 plan	intent
+1294_28	so you took off my pants and shoes?	 confirm	intent
+1294_29	no. no, no.	 oppose	intent
+1294_31	ahem. look, uh, ross about rachel and i. listen, you don't have to worry about that because nothing's gonna happen.	 comfort	intent
+1294_32	what do you mean?	 doubt	intent
+1294_34	it's okay, ross. you know, i totally understand.	 comfort	intent
+1294_39	has it been that long?	 confirm	intent
+1294_41	this is crazy. i mean, six years and because of me, you guys aren't gonna be together?	 doubt	intent
+1294_42	really what is this thing with you and rachel?	 care	intent
+1294_45	and she feels the same way?	 confirm	intent
+1294_46	i think so.	 agree	intent
+1294_47	well, then maybe it's time we all moved on.	 advise	intent
+1294_48	i will be.	 plan	intent
+1294_49	oh, my god, i'm still with charlie, aren't i?	 confirm	intent
+1294_52	you sure about this?	 doubt	intent
+1305_0	okay.	 acknowledge	intent
+1305_1	wait. there's two sets of nozzles. which one is it? which one is it?	 ask for help	intent
+1306_0	really?	 confirm	intent
+1306_2	no. i just had to get a picture of this. i'll see you later.	 leave	intent
+1312_0	now, another way to organize your stuffed animals is by size.	 inform	intent
+1312_1	game?	 confirm	intent
+1312_2	emma, do you even know it's your birthday today? you're 1.	 asking for opinions	intent
+1312_3	one year old. that's little.	 inform	intent
+1312_6	did i teach her that? did i just impart wisdom?	 confirm	intent
+1312_8	me too.	 agree	intent
+1312_9	i wasn't. let's get going.	 plan	intent
+1312_10	i just felt so bad missing this. so i just slipped him a little something, you know.	 explain	intent
+1312_13	i've been here the whole time.	 inform	intent
+1312_15	i don't care that you left. i'm just glad that you're here. thanks, you guys.	 thank	intent
+1312_17	oh, emma, that's right. you're that many.	 praise	intent
+1312_18	oh, my god, our daughter's a genius.	 praise	intent
+1312_20	thanks.	 thank	intent
+1320_0	so how's the, uh, baby-styling business going?	 care	intent
+1320_3	there's ross. hey, ross.	 greet	intent
+1320_4	hello, ross?	 greet	intent
+1329_0	look, i'm sorry i didn't give them your tape.	 apologise	intent
+1329_1	that's not the point, chandler. the point is that you lied.	 emphasize	intent
+1329_2	i know. you're right.	 agree	intent
+1329_3	oh, what's it gonna take for you to forgive me?	 asking for opinions	intent
+1334_1	what's going on?	 doubt	intent
+1334_3	is he all right out there by himself?	 care	intent
+1337_0	hello?	 greet	intent
+1337_1	oh, hi.	 greet	intent
+1337_2	oh, my god, really? i can't wait to tell chandler.	 confirm	intent
+1337_4	she gave us a great report and we're officially on the waiting list.	 inform	intent
+1337_5	hello?	 greet	intent

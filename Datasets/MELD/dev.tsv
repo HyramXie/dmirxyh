@@ -1,0 +1,1000 @@
+id	text	label	dimension
+0_0	also I was the point person on my company's transition from the KL-5 to GR-6 system.	 statement-non-opinion	dialogue act
+0_9	We can go into detail	 statement-opinion	dialogue act
+2_2	Do I ever.	 others	dialogue act
+2_4	No way!	 disagreement	dialogue act
+2_9	Hey, did you pick a roommate?	 question	dialogue act
+2_10	You betcha!	 others	dialogue act
+2_12	Um-mm, yeah right!	 answer	dialogue act
+4_0	Hey!	 greeting	dialogue act
+4_7	How'd did it go?	 question	dialogue act
+4_9	I'm so proud of you.	 apology	dialogue act
+4_11	Listen, I'm ah, I'm sorry I've been so crazy and jealous and, it's just that I like you a lot, so...	 apology	dialogue act
+6_1	You liked it? You really liked it?	 question	dialogue act
+6_7	Hey, what about the scene with the kangaroo? Did-did you like that part?	 question	dialogue act
+6_16	I'm so sorry!	 apology	dialogue act
+6_17	Look!	 command	dialogue act
+8_3	I don't know.  Let me see the ring.	 statement-non-opinion	dialogue act
+11_0	This is my wedding.	 statement-non-opinion	dialogue act
+11_5	Thank you.	 greeting	dialogue act
+12_1	Hey! So Estelle lined up a bunch of auditions for me tomorrow and I'll have my health insurance back in no time.	 statement-non-opinion	dialogue act
+12_3	What?!	 question	dialogue act
+14_1	Okay	 agreement	dialogue act
+15_0	Get Out!	 command	dialogue act
+15_1	Ross, can I talk to you for a minute?	 question	dialogue act
+15_9	I guess.	 answer	dialogue act
+16_4	Oh, yeah, Bob said there might be flood damage.	 statement-non-opinion	dialogue act
+18_0	Hey, you wanna get something to eat or uh, do you wanna see how long we can throw this ball back and forth? Huh?	 question	dialogue act
+20_8	Y'know?	 others	dialogue act
+20_12	And!	 backchannel	dialogue act
+21_6	I got no sleep last night!	 answer	dialogue act
+21_11	You have no idea how loud they are!	 statement-non-opinion	dialogue act
+22_0	Ew! What is that? Something exploded!	 question	dialogue act
+22_2	Water breaking, what do you mean? What's that, water breaking?	 question	dialogue act
+23_5	Which one is Gina?	 question	dialogue act
+23_7	No, no, no, that's Dina.	 statement-non-opinion	dialogue act
+23_8	You see you can't tell which one is which either, dwha!!	 agreement	dialogue act
+24_0	I don't know, you thought 'See you Saturday' was funny.	 statement-non-opinion	dialogue act
+25_0	: I know, we did it!! Hey, that was incredible, huh?!	 statement-opinion	dialogue act
+26_2	Is it a good sign that they asked us to hang around after the audition?	 question	dialogue act
+26_8	Actually, that can't happen.	 disagreement	dialogue act
+26_10	So it'll be either you two  or you two.	 statement-opinion	dialogue act
+28_1	Are you kidding?	 question	dialogue act
+28_3	And it's all because of you, wonderful, amazing you.	 statement-opinion	dialogue act
+29_0	Wow! That Mike thing was interesting! I don't know what's gonna happen with Phoebe and David.	 statement-opinion	dialogue act
+29_1	"I do! Want a hint? huh? ""I do""  ""I do""."	 statement-non-opinion	dialogue act
+29_8	Now couldn't you just have made some sort of inappropriate joke?	 statement-opinion	dialogue act
+30_14	Okay. I'll give you one chance to change my mind.  You got one minute.	 answer	dialogue act
+32_1	Oh yeah, I'm sure.  And all of a sudden his hands weren't the problem anymore.	 statement-opinion	dialogue act
+32_10	You have to tell her!	 statement-opinion	dialogue act
+32_12	It's your moral obligation, as a friend, as a woman, I think it's a feminist issue!	 statement-opinion	dialogue act
+32_15	Oh, yeah, you have to tell her.	 agreement	dialogue act
+33_1	It's the big night! We wanted to wish you good luck!	 statement-non-opinion	dialogue act
+33_5	Okay, now will you guys get out of here? I want this is to be a surprise and she's gonna know.	 statement-opinion	dialogue act
+33_9	Oh, thank you!   What's going on?	 question	dialogue act
+34_12	Yeah.	 answer	dialogue act
+35_5	Oh hey, don't thank me, thank yourself. You're the one who faced her fears and ultimately overcame them.	 statement-non-opinion	dialogue act
+38_4	Wait you stole those from these people's wedding?	 question	dialogue act
+38_8	My sweater!	 statement-non-opinion	dialogue act
+39_6	Nothing.	 others	dialogue act
+39_11	Peel the onion. First of all, he's good looking.	 answer	dialogue act
+40_5	Let's call 'em.	 answer	dialogue act
+40_12	All right! I'll have a sandwich!	 statement-non-opinion	dialogue act
+41_7	I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy.	 statement-opinion	dialogue act
+41_11	Then y'haven't. You're burning your tomatoes.	 statement-non-opinion	dialogue act
+43_2	By the way, Ross dropped by a box of your stuff.	 statement-non-opinion	dialogue act
+43_4	I'm just gonna throw it out, it's probably just a bunch of shampoo and...	 statement-non-opinion	dialogue act
+44_2	Yeah.	 others	dialogue act
+47_13	Well, don't, don't think me immodest, but, me?	 statement-opinion	dialogue act
+48_0	Bye.	 greeting	dialogue act
+49_8	Ross, you gotta follow your heart.	 answer	dialogue act
+50_7	Come on man, you-you got to give me a second chance!	 statement-opinion	dialogue act
+50_12	Okay?	 others	dialogue act
+50_15	God!	 others	dialogue act
+53_4	Like I have nothing better to do!	 statement-non-opinion	dialogue act
+54_7	Look, Rachel's told me how much easier you've made all this on her. Why can't you do that for me?	 question	dialogue act
+54_9	And you're my big brother!	 statement-non-opinion	dialogue act
+55_16	Uh, it was very nice meeting you.	 greeting	dialogue act
+56_3	Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.	 statement-non-opinion	dialogue act
+57_1	Are you seeing anybody right now?	 question	dialogue act
+59_3	Phil!	 others	dialogue act
+61_1	Of course, you did.	 statement-non-opinion	dialogue act
+61_4	You're not feeling left out or anything are ya?	 question	dialogue act
+62_1	Hey! How's my pal Toby doing today?	 question	dialogue act
+62_2	If I see him, I'll ask.	 answer	dialogue act
+62_8	What do you think of adding him to our team?	 question	dialogue act
+65_3	Oh Ross, you're so great. [she playfully rubs his head and gets up]	 apology	dialogue act
+66_1	That was supposed to be a good thing, I forget why.	 statement-non-opinion	dialogue act
+66_9	I love you, too.	 statement-non-opinion	dialogue act
+68_3	Me?	 question	dialogue act
+70_3	We don't have 50 bucks, but would you be willing to trade for it? We've got a canoe.	 statement-opinion	dialogue act
+71_0	Pheebs?	 question	dialogue act
+73_8	I don't know.  I can't tell, what ever it was went back in too quickly.	 answer	dialogue act
+74_4	Oh sure, go with the sissy.	 statement-non-opinion	dialogue act
+79_2	Rach! Hey! It's fine! You're at Joey's!	 statement-opinion	dialogue act
+81_0	OK, you've got to promise that you'll never, ever tell Ross that I told you.	 statement-non-opinion	dialogue act
+81_5	About what?	 question	dialogue act
+81_15	I was the last one to know when you had a crush on Joey when he was moving in.	 statement-non-opinion	dialogue act
+86_4	Y'know what I mean, like dubbies?	 statement-non-opinion	dialogue act
+86_5	"And I actually, I thought to myself, ""Wow, those guys are crazy!"""	 statement-non-opinion	dialogue act
+86_8	Oh, me too.	 agreement	dialogue act
+86_10	Oh, me too.	 agreement	dialogue act
+87_5	Hi.	 greeting	dialogue act
+87_8	We ripped that couple apart, and kept the pieces for ourselves.	 statement-non-opinion	dialogue act
+89_1	It's 6:00.	 statement-non-opinion	dialogue act
+89_7	There's nothing to handle.	 statement-non-opinion	dialogue act
+93_4	Excellent hole, Joe.	 apology	dialogue act
+94_4	Oh my God!! Ohh, that is it! I'm leaving! You are just a horrible person!	 statement-non-opinion	dialogue act
+94_10	Say more things like that.	 command	dialogue act
+96_2	Oh...	 backchannel	dialogue act
+98_1	Well, if the magician can open my beer with his but cheeks, then all right.	 statement-opinion	dialogue act
+99_9	Okay.  But wait, we can't. My Cousin Cassie is in the guest room, we're supposed to have lunch.	 statement-opinion	dialogue act
+103_0	Umm, this is great wine.	 statement-opinion	dialogue act
+103_2	Really?	 backchannel	dialogue act
+103_7	Oh that's great! I was hiking along the foothills of Mount Tibidaybo	 statement-non-opinion	dialogue act
+104_0	So? Congratulations you two, I didn't even know you got married.	 statement-non-opinion	dialogue act
+104_1	Oh we-we didn't.	 disagreement	dialogue act
+106_1	Why?!!	 question	dialogue act
+107_5	You can come in, but your filter-tipped little buddy has to stay outside!	 statement-non-opinion	dialogue act
+107_7	Dear Ms. Buffay.	 greeting	dialogue act
+109_4	Very good,  so good.	 acknowledge	dialogue act
+110_1	You do?	 question	dialogue act
+110_4	Hey.	 greeting	dialogue act
+111_3	Uh, you've had a lot of sex right?	 question	dialogue act
+113_8	Oh, that'd be great!	 apology	dialogue act
+114_2	"""It's almost as good as being there."""	 statement-opinion	dialogue act
+115_2	Look, it's like I told you, there's nothing I can do. You signed for it, Monica Velula Geller.	 statement-non-opinion	dialogue act
+117_1	Oh. Look, just friends, I won't grope you. I promise.	 statement-opinion	dialogue act
+120_9	Okay.	 agreement	dialogue act
+122_2	Well, that shouldn't be a problem. I mean I work in fashion and all I meet are eligible straight men.	 disagreement	dialogue act
+122_4	Yeah, a slice of cheesecake and-and a date if you're given' 'em out.	 answer	dialogue act
+122_13	That wig all in disarray, and boobs flung over the night stand, y'know.	 statement-non-opinion	dialogue act
+124_1	Okay, what is in here? Rocks?	 question	dialogue act
+124_8	Well, I mean if uh, if Emily gave me a choice	 answer	dialogue act
+124_10	Why?	 question	dialogue act
+125_8	That's Carol with your son!	 statement-non-opinion	dialogue act
+129_11	Why the Post?	 question	dialogue act
+131_1	Sorry, Pheebs.	 apology	dialogue act
+135_4	Hi, here's the deal.	 statement-non-opinion	dialogue act
+137_1	My name is Ross Geller.	 statement-non-opinion	dialogue act
+138_8	"And he said, ""Laundry?"	 statement-non-opinion	dialogue act
+138_9	Is	 others	dialogue act
+139_4	A test?!!	 question	dialogue act
+141_7	What does a guy have to	 others	dialogue act
+145_13	I feel like I can't do stuff!	 statement-opinion	dialogue act
+147_5	Yuh-huh.	 disagreement	dialogue act
+148_14	I'm not moving out.	 answer	dialogue act
+149_0	Ooh, oh no! I have to go! I have a massage appointment.	 statement-non-opinion	dialogue act
+149_3	Absolutely.  I love the way you kiss.	 statement-opinion	dialogue act
+150_0	Oh my God! Oh my God! I'm so sorry!	 apology	dialogue act
+151_16	You are asking me to be your wife!	 statement-non-opinion	dialogue act
+152_1	I know, I know, I'm such an idiot.	 statement-opinion	dialogue act
+152_5	Well, you might try accidentally breaking something valuable of hers, say her-	 answer	dialogue act
+154_1	Okay, okay look, I know I'm being Mr. Inappropriate today, but it's just so tough, I mean see you walking around and I just wanna touch you and hold you, come on no one's around, just, just kiss me.	 statement-opinion	dialogue act
+155_1	Yeah?	 backchannel	dialogue act
+155_3	Oh hi!	 greeting	dialogue act
+155_11	Sure! Uh, let me get it for ya.	 agreement	dialogue act
+156_0	Look, I feel really bad about how I freaked you out before, so I called the father and asked him to meet you here so you can tell him.	 statement-opinion	dialogue act
+156_7	Uh, let's rip!	 answer	dialogue act
+156_8	Really? Are you sure?	 question	dialogue act
+158_4	Come on!	 command	dialogue act
+159_8	Isn't this great?!	 statement-opinion	dialogue act
+160_3	Hi, Ross.	 greeting	dialogue act
+160_10	But work comes first!  Oh hey, but that?s sad about you though, what happened? Burn out? Burn all out, did ya?	 question	dialogue act
+160_16	Yeah, me too.	 agreement	dialogue act
+162_1	Ahh.	 backchannel	dialogue act
+164_7	Maybe?	 question	dialogue act
+165_18	What do you think?	 question	dialogue act
+166_2	I just saw Janice.	 answer	dialogue act
+167_1	Wow! This girl is good.	 statement-opinion	dialogue act
+167_2	Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.	 statement-non-opinion	dialogue act
+167_3	I like her.	 statement-opinion	dialogue act
+167_10	Okay, my next song's called: Phoebe Buffay, What Can I Say.	 statement-non-opinion	dialogue act
+168_5	No,	 disagreement	dialogue act
+168_10	Oh, come on! Rach, it's-it's not that bad.	 statement-opinion	dialogue act
+168_14	Okay, there was	 others	dialogue act
+169_2	No, it's okay. Some-some kid asked me to pick it up for him, but I don't	 answer	dialogue act
+170_7	Well usually...yeah!	 answer	dialogue act
+172_4	Goodbye Mike, we'll see you at the wedding, fella!	 greeting	dialogue act
+172_6	Thank you, Chandler.	 greeting	dialogue act
+173_10	Morning!	 others	dialogue act
+174_3	Thank you!    You haven't said anything...	 statement-non-opinion	dialogue act
+174_5	Oh..please!I-I welcome criticism.	 statement-opinion	dialogue act
+175_1	You owe me 20 bucks.	 statement-non-opinion	dialogue act
+175_3	Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.	 statement-non-opinion	dialogue act
+177_5	Nothing! Phoebe kinda made a mistake. But y'know you do wear that sweater a lot, are you involved in some kind of dare?	 answer	dialogue act
+178_0	'Kay!	 others	dialogue act
+179_3	Nope.	 answer	dialogue act
+179_14	I promise.	 answer	dialogue act
+180_10	Oh, this should be easy. I have a very wide pelvis. You remember Chandler.	 statement-opinion	dialogue act
+182_2	Oh, honey, I'm sorry.	 apology	dialogue act
+182_4	You had no relationship!!	 disagreement	dialogue act
+184_9	"""Hi Joey, it's Jane Rogers can't wait for your party tonight"""	 statement-non-opinion	dialogue act
+184_10	Stupid Jane Rogers!!	 statement-opinion	dialogue act
+185_13	Oh.... my God.	 others	dialogue act
+187_2	Hi!	 greeting	dialogue act
+190_1	You guys make a	 others	dialogue act
+193_0	Smelly cat, smelly cat, what are they feeding you? Smelly cat, smelly cat, it's not your fault.	 others	dialogue act
+195_1	Ah, so this is a half-caf, double tall, easy hazel nut, non-fat, no foam, with whip, extra hot latte, right?	 question	dialogue act
+195_3	You freak.	 statement-opinion	dialogue act
+195_13	Ross, it took you ten years to finally admit you liked me.	 statement-non-opinion	dialogue act
+200_7	Ooooh! Freeze him out.	 command	dialogue act
+201_3	Look, I...  Look, I'm having a great time with you and I just don't want us to move to fast or put to much pressure on us.	 statement-opinion	dialogue act
+201_7	No. I think you misunderstood what	 statement-opinion	dialogue act
+202_13	You're right, you're right I shouldn't freak out.	 agreement	dialogue act
+202_14	'Cause this is what will happen when you and I have babies!	 statement-non-opinion	dialogue act
+202_16	Phoebe, would you take a look at this mess!!!!	 question	dialogue act
+203_4	Last night! I just felt it and I went into Joey's room and he was sleeping	 answer	dialogue act
+204_7	I'm not! This is what I'm doing now. I've got this job-	 statement-non-opinion	dialogue act
+205_1	So, um, will you bring the truck?	 question	dialogue act
+207_10	Okay, ah, before you get all talky again, umm, could you also please tell Sergei that I really like his suit.	 statement-non-opinion	dialogue act
+207_11	Eh, he said, thank you very much, he thinks you look very pretty tonight, your hair, golden like the sun.	 statement-non-opinion	dialogue act
+208_5	Oh, this is so good  you have got to try it.	 statement-opinion	dialogue act
+208_7	Here, I'll get it.	 statement-non-opinion	dialogue act
+210_7	Great scene yeah?	 statement-opinion	dialogue act
+211_2	I remember when we first got engaged.	 statement-non-opinion	dialogue act
+211_14	We have it. Only now, we call it the beach house.	 answer	dialogue act
+216_2	But hey, it's not just me, I mean the scientists and the tour guides	 statement-non-opinion	dialogue act
+218_2	Where you work the uh, waiters eat with the waiters, right?	 question	dialogue act
+218_5	Look, Ross, really it's-it's no big deal.	 statement-opinion	dialogue act
+218_10	So it's y'know, it's uh, it's cool.	 statement-opinion	dialogue act
+218_12	Yeah, when we're in the audience he doesn't talk to us, but he does wave.	 statement-non-opinion	dialogue act
+219_3	"Remember when Ross tried to say, ""Butternut squash?"""	 statement-non-opinion	dialogue act
+221_1	Yeah, they're out of town.	 answer	dialogue act
+222_1	Honey, you remember my boss Doug right?	 question	dialogue act
+222_3	Hi. So good news, the divorce is final. I signed the papers this A.M.	 statement-non-opinion	dialogue act
+222_11	Tomorrow night it is then, I should be out of court by six.	 answer	dialogue act
+222_13	Okay, I'll see you tomorrow!	 statement-non-opinion	dialogue act
+224_0	So uh, what's your name?	 question	dialogue act
+225_2	Ahh, nooo!!	 answer	dialogue act
+225_8	Okay, I'll pay you tomorrow.	 statement-non-opinion	dialogue act
+225_10	Yeah, okay, bye.	 greeting	dialogue act
+226_0	Hey! Oh right, tonight was your party.	 statement-non-opinion	dialogue act
+226_21	Yeah!	 agreement	dialogue act
+228_3	You really think I'm ready?	 question	dialogue act
+228_4	Uh-huh!	 answer	dialogue act
+231_0	Okay, that's a fire. Oh yeah. Oh yeah.	 statement-non-opinion	dialogue act
+232_0	Oh yeah? When?	 question	dialogue act
+234_2	Yeah, that's her.	 agreement	dialogue act
+237_9	I'm sorry, my friend Phoebe...	 apology	dialogue act
+239_4	You and I, we're interfacing.	 answer	dialogue act
+240_6	Oh, now... tomorrow do you guys wanna share a cab to the airport or should Mike and I just meet you there.	 question	dialogue act
+241_3	"He's totally ok with seeing you!""."	 statement-non-opinion	dialogue act
+242_0	Julie hi! Chandler Bing, I, I guess you remember me.	 greeting	dialogue act
+242_1	Hello Skidmark.	 greeting	dialogue act
+245_12	Oh my God!	 others	dialogue act
+245_15	I mean, I...I'm never gonna have a first kiss again.	 statement-non-opinion	dialogue act
+246_4	You're gonna have to tell me how you did that.	 command	dialogue act
+247_0	All right where's that turkey!	 question	dialogue act
+248_1	No!	 disagreement	dialogue act
+251_0	Y'know what? I cannot do this with my left hand! Would you please, help me with this too?	 statement-non-opinion	dialogue act
+252_2	Let me ask you some questions about, is it, uh, Marcel?	 statement-non-opinion	dialogue act
+252_8	Uh, how is he at handling small objects?	 question	dialogue act
+252_10	How about a hammer, or a small blade?	 question	dialogue act
+252_19	I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.	 statement-opinion	dialogue act
+253_11	Oh! Well, you know what? It probably is.	 statement-opinion	dialogue act
+254_8	Haha!	 others	dialogue act
+256_4	I mean I wish I were a seahorse.	 statement-opinion	dialogue act
+260_3	Yeah, she clamed she had to go out of town suddenly.	 answer	dialogue act
+260_5	She knows, and she won't tell me.	 statement-non-opinion	dialogue act
+261_1	I knew it, wow!!	 statement-non-opinion	dialogue act
+261_2	Wait-wait-wait, wait! Puppies. Cute or ugly?	 question	dialogue act
+262_2	Just do it really fast, and then the wound is exposed.	 statement-non-opinion	dialogue act
+264_8	I'm going crazy! Okay? Do you have any thing around here that looks homemade?	 question	dialogue act
+264_12	I made it in the sixth grade.	 statement-non-opinion	dialogue act
+264_17	Why not?	 question	dialogue act
+265_2	Oh, what are you, stupid? It's been three hours.	 statement-non-opinion	dialogue act
+271_5	Oww!!!! Joey, she just kicked me.	 statement-non-opinion	dialogue act
+274_7	Dude, this isn't funny!	 statement-opinion	dialogue act
+275_2	Joey, do you have a minute?	 question	dialogue act
+275_6	Oh well, you're timing couldn't be better. I am putting out fires all over the place.	 statement-non-opinion	dialogue act
+276_2	Hey, come on now!	 statement-non-opinion	dialogue act
+277_3	It was so stupid, I said some stuff in an interview that I shouldn't have said.	 statement-opinion	dialogue act
+278_2	That's, that's great!	 statement-opinion	dialogue act
+278_5	So, yay!	 others	dialogue act
+279_0	Whoa-whoa, Treeger made you cry?	 question	dialogue act
+281_8	That's weird!	 statement-opinion	dialogue act
+284_1	What?	 question	dialogue act
+285_0	Hey uh, is it okay to come in?	 question	dialogue act
+287_1	Oh, uh, listen, about tonight...	 statement-non-opinion	dialogue act
+288_4	But it really	 statement-non-opinion	dialogue act
+288_9	Did you tell your sister to ask me out?	 question	dialogue act
+288_11	Oh wow!	 backchannel	dialogue act
+288_12	I mean, wow!	 backchannel	dialogue act
+288_15	"Yeah but after you said it was okay, I figured, ""Why not?!"""	 answer	dialogue act
+289_4	It's just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!	 answer	dialogue act
+292_4	Uh, I'm gonna kill myself!	 statement-non-opinion	dialogue act
+294_1	Whoa, that	 others	dialogue act
+295_5	No, I'm gonna!!	 statement-non-opinion	dialogue act
+295_9	And now Pheebs, you're doing the same thing!	 statement-non-opinion	dialogue act
+295_16	I don't have time to convince you because he's only here for four hours, and I'm gonna go see him!	 answer	dialogue act
+296_8	She.	 answer	dialogue act
+299_0	Y'know what?	 question	dialogue act
+299_2	I bet 'ya ya I could fit in there.	 statement-opinion	dialogue act
+300_7	The Celtics.	 answer	dialogue act
+301_0	Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.	 statement-non-opinion	dialogue act
+301_12	What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!	 statement-opinion	dialogue act
+301_15	I hope you can find some way to be happy for me. And I hope you'll still be my maid of honor...?	 statement-non-opinion	dialogue act
+304_3	Oh, just this!  Y'know what it's my fault really, because the couch is usually where we	 statement-non-opinion	dialogue act
+304_7	Yo!! Spackel boy! Get up!	 command	dialogue act
+305_2	Uh-oh.	 others	dialogue act
+305_8	Hey, what are you guys doing tomorrow night?	 question	dialogue act
+307_11	I am a good kisser.	 statement-non-opinion	dialogue act
+311_0	Okay!	 others	dialogue act
+311_2	Our eyes are closed and we're about to cross the street. Very good.	 statement-non-opinion	dialogue act
+312_7	Oh, y-yeah, so, you-you love me!	 statement-non-opinion	dialogue act
+312_13	What?!	 question	dialogue act
+313_3	It still doesn't work.	 statement-non-opinion	dialogue act
+314_1	I know, they're gonna be	 answer	dialogue act
+314_5	Me too! So happy for them!	 agreement	dialogue act
+314_9	Totally. I'm like 90/10.	 statement-non-opinion	dialogue act
+314_11	Hey uh, have you guys scene Chandler?	 question	dialogue act
+316_5	Stop callin'!!	 command	dialogue act
+317_3	"""Pheebs, can't make it, got a date. Talk to you later. Big Daddy.""  Big Daddy?"	 statement-non-opinion	dialogue act
+317_6	Hey!	 greeting	dialogue act
+317_15	Y'know boyfriends and girlfriends come and go, but this  is for life!	 statement-opinion	dialogue act
+318_0	Did you know he was in there?	 question	dialogue act
+319_3	Oh, right! I completely forgot about that.	 statement-non-opinion	dialogue act
+319_13	You wanna what?!	 question	dialogue act
+319_21	What do you think?	 question	dialogue act
+320_16	Including me?	 question	dialogue act
+321_0	Hey!	 greeting	dialogue act
+324_1	Ehh?	 others	dialogue act
+326_8	Ah, it's still not the time.	 statement-non-opinion	dialogue act
+327_1	When did I say you were boring?!	 question	dialogue act
+327_7	Okay, there's a	 others	dialogue act
+328_2	That's you Rachel!	 statement-non-opinion	dialogue act
+332_4	Oh, thank you.	 greeting	dialogue act
+333_2	Doctor? Wow! I didn't know he had a nickname.	 question	dialogue act
+334_2	Listen uh, could you put Kathy on, I wanna apologize.	 command	dialogue act
+335_2	Well I am that. And that whole rage thing is definitely behind me.	 agreement	dialogue act
+336_3	Ah, we're out. I sold them all.	 answer	dialogue act
+337_3	Yeah but you don't need--What is this?	 question	dialogue act
+337_8	No you didn't.	 disagreement	dialogue act
+337_14	So you don't have the cameras?!	 question	dialogue act
+338_2	Hello. Well, Joshua, that $500 was for groceries.	 statement-non-opinion	dialogue act
+339_1	Thanks.	 greeting	dialogue act
+347_3	Nope! Because I'm not your boyfriend.  Hey Pheebs, how did it go?	 question	dialogue act
+348_2	So we never got to hear about your wedding!	 question	dialogue act
+349_7	Well, I can't give you a massage, because my licence has been    revoked again!	 statement-non-opinion	dialogue act
+349_8	Phoebe, what happened?	 question	dialogue act
+351_6	No! No sir umm, she means a lot to me. I mean, I care-I-I love Rachel.	 answer	dialogue act
+352_1	I know what time it is, but I'm looking at the WENUS and I'm not happy!...	 statement-non-opinion	dialogue act
+352_2	Oh, really, really, really?	 question	dialogue act
+353_0	Bijan for men?  Bijan for men?  Bijan for men?	 question	dialogue act
+354_6	"I miss Janice though.  ""Hello, Chandler Bing."""	 statement-non-opinion	dialogue act
+356_18	What's the opposite of man?	 question	dialogue act
+361_0	Okay, I've got three of my five.	 statement-non-opinion	dialogue act
+362_7	What?	 question	dialogue act
+365_1	May I see your boarding pass?	 question	dialogue act
+366_4	Ow!	 apology	dialogue act
+366_17	We should always always break up together.	 statement-opinion	dialogue act
+367_2	It doesn't matter because nothing beats a three and a six.	 answer	dialogue act
+367_9	What?	 question	dialogue act
+371_6	So you're really doing this, huh?	 question	dialogue act
+371_8	Sounds nice.	 statement-opinion	dialogue act
+372_1	Nothing, nothing.	 answer	dialogue act
+372_3	It's, I mean, it's nothing, I'm fine.	 answer	dialogue act
+372_8	But they don't see all the wonderfulness that I see.	 statement-non-opinion	dialogue act
+373_3	Yeah. Right.	 agreement	dialogue act
+374_2	What?	 question	dialogue act
+376_1	Hey!	 greeting	dialogue act
+379_9	Look, if you want to get back at Ross, I am here for you.	 statement-non-opinion	dialogue act
+380_1	Right here!	 statement-non-opinion	dialogue act
+383_2	Y'know it wouldn't kill ya to respect your wife's privacy!	 statement-opinion	dialogue act
+383_9	Take my hand.	 others	dialogue act
+385_5	You have chalk on your face.	 statement-non-opinion	dialogue act
+387_1	Hey, are you okay?	 question	dialogue act
+387_3	Cool!!	 statement-opinion	dialogue act
+388_3	Why, what's wrong with my bathroom floor?	 question	dialogue act
+388_4	Nothing. It's just old and dingy, that's all.	 answer	dialogue act
+388_6	Oh yeah. If you ah, move your hamper, you see what color the tile used to be.  Yeah.	 statement-non-opinion	dialogue act
+388_12	It'd take forever to pry this up.	 statement-non-opinion	dialogue act
+388_16	You know that's nice, y'know we could put it back there after the surgeons remove it from your colon!	 statement-non-opinion	dialogue act
+389_7	That's so sweet.  I'm gonna get some coffee.	 statement-non-opinion	dialogue act
+392_10	So you're not homesick yet?	 question	dialogue act
+395_6	I want to do it again.	 statement-non-opinion	dialogue act
+395_7	We	 statement-non-opinion	dialogue act
+397_0	Fine! Do you want something to drink?	 question	dialogue act
+400_7	No, no, trust, me, it's, it's, it's much better that I know.	 answer	dialogue act
+400_8	Uh, I just liked it better before it was better...	 statement-non-opinion	dialogue act
+401_1	It has umm, three beautiful bedrooms and ah, no baths.	 statement-non-opinion	dialogue act
+401_5	Are you ah, Phoebe Abott?	 question	dialogue act
+401_12	Uh-huh. Wow! Well, look! There's Frank.	 statement-non-opinion	dialogue act
+404_0	Chandler, Chandler, y'know what we should do? You and I should go out and get some new sunglasses.	 question	dialogue act
+404_9	Oh, was she hot.	 statement-opinion	dialogue act
+405_3	Here!	 statement-non-opinion	dialogue act
+407_3	Aw, dammit!	 others	dialogue act
+408_0	Ah.	 backchannel	dialogue act
+410_0	I'm just sayin', if I see one more picture of Ed Begley, Jr. in that	 statement-opinion	dialogue act
+410_1	I can't believe you'd rather go out with him than me.	 statement-opinion	dialogue act
+412_0	...DUMB, DRUNKEN, BITCH!!!   Thank you, thanks.	 greeting	dialogue act
+412_1	Hey, here's a question; where did you guys get the finest oak East of the Mississippi?	 question	dialogue act
+412_9	You want it?	 question	dialogue act
+415_9	Dude, you are sick.	 answer	dialogue act
+416_4	OK, is there a mute button on this woman?	 question	dialogue act
+418_18	Well uh if you must know I'm a widower.	 answer	dialogue act
+418_20	Yeah.	 acknowledge	dialogue act
+420_5	What are you talking about? Lots of things rhyme with Rachel. Bagel. Mail. Jail. Bail. Able. May-pole.	 disagreement	dialogue act
+423_3	No, he's gone.	 disagreement	dialogue act
+423_7	I'm only 26, I'm not even thinking about babies yet.	 statement-non-opinion	dialogue act
+427_0	All right, well why don't I go out with an ex-boyfriend and do Joey a favor?!	 question	dialogue act
+427_1	Hey, you wanna do Joey a favor, maybe you go out with Joey.	 command	dialogue act
+428_2	Oh, that's fine! Go with your instincts, go with your instincts.	 command	dialogue act
+429_11	Hey, it's Janice.	 greeting	dialogue act
+430_1	Rachel is one of my closest friends.  Although, being the only one who knows anything about this does makes me feel special. Okay!	 statement-opinion	dialogue act
+431_16	Y'know, I've been meaning to talk to you about this whole, little, new European thing you got going on, and I just need to tell you that it makes me very uncomfortable and I just-y'know-stop it!	 statement-non-opinion	dialogue act
+432_0	Is she in there?	 question	dialogue act
+434_0	I'm guess I'm just done with the whole dating thing.	 statement-opinion	dialogue act
+434_6	Wait until uh, wait until the first time your baby grabs your finger.	 command	dialogue act
+434_13	Right. Good night.	 greeting	dialogue act
+436_1	Just because he's got a bigger boat he thinks he can take up the whole river.	 statement-opinion	dialogue act
+436_5	What are they doing out here? The coast's all the way over there.	 question	dialogue act
+439_1	No, no, no, I wouldn't do you myself, I mean that would be weird.	 disagreement	dialogue act
+440_2	Um, that's ok!  Ok. All right. Now we need the semen of a righteous man.	 statement-opinion	dialogue act
+441_9	It's awfully pink.	 statement-non-opinion	dialogue act
+442_2	It's a kitchen slash bathroom.	 answer	dialogue act
+442_4	We are bad people.	 statement-opinion	dialogue act
+445_13	Stay calm?!!	 question	dialogue act
+445_15	This is unacceptable Rachel!	 disagreement	dialogue act
+446_0	So, you're like a zillionaire?	 question	dialogue act
+446_1	And you're our age. You're our age.	 statement-non-opinion	dialogue act
+448_5	"""Hi I'm Rachel, is my sweater too tight? No? Oh, I'd better wash it and shrink it!"""	 others	dialogue act
+448_8	"""Oh my God, I love Ross! I hate Ross! I love Ross! I hate Ross!"""	 statement-non-opinion	dialogue act
+448_10	"So I guess I'll just stumble across the hall and sleep with the first guy I find in there!"""	 statement-non-opinion	dialogue act
+450_13	I know.  I need more pie.	 agreement	dialogue act
+451_0	Ok, so it's a tie again, 41 to 41.	 statement-non-opinion	dialogue act
+452_2	Yeah me too, all night.	 statement-non-opinion	dialogue act
+456_7	Phoebe, I asked you to guard the ring!	 statement-non-opinion	dialogue act
+460_1	No, we can go together! Just don't wait too long though, okay? 'Cause I'm outta here sometime before Friday.	 command	dialogue act
+462_8	Okay.  My word! Those are snug.	 others	dialogue act
+463_4	Are you serious?! Chandler, we ate an entire cheesecake two days ago and you want more?	 question	dialogue act
+463_8	It had a buttery, crumbly, graham cracker crust, with a very rich yet light, cream cheese filling...  Wow!	 statement-non-opinion	dialogue act
+464_8	Now that you're a couple, we don't get two presents from you guys?	 question	dialogue act
+464_18	No I know, because to be a grandmother you have to be married and have children and I don't have any of those things.	 statement-non-opinion	dialogue act
+466_1	I think it's great. Y'know, it's sweet, it's romantic...	 answer	dialogue act
+466_10	You gotta do it, man.	 command	dialogue act
+466_11	Oh yeah? Well, I'm rubber, you're glue, whatever--can't do it.  Listen, uh- gimme back my puck.	 statement-opinion	dialogue act
+468_0	Oh, I told the stripper to be here at five. That's good right?	 question	dialogue act
+468_1	You ordered a stripper for the shower?! That is totally inappropriate!	 answer	dialogue act
+468_4	I'm so glad you could make it.	 statement-non-opinion	dialogue act
+471_0	No, I don't think we'll be doing that.	 answer	dialogue act
+471_1	We're not gonna do that.	 agreement	dialogue act
+471_3	Am I interrupting?	 question	dialogue act
+471_4	Uh yes! Thank you.	 answer	dialogue act
+474_6	Well, we called everyone in your phone book and a bunch of people came, but it took us so long to get you here that they-they had to leave.	 answer	dialogue act
+474_14	Well now, I get to spend my shower with the only people I really love!	 answer	dialogue act
+475_7	I don't think so!	 disagreement	dialogue act
+475_12	I punched you...?	 question	dialogue act
+479_3	Apparently Howie's editing now.	 statement-non-opinion	dialogue act
+482_6	"The next time you want to dump a fire alarm in a trash chute, don't wrap it in a blanket that says, ""Property of Phoebe Buffay not Monica."""	 answer	dialogue act
+482_8	Please reattach this, it's against the law to disconnect them.	 command	dialogue act
+483_6	I turned it off. Mother of God, I turned it off!	 statement-non-opinion	dialogue act
+484_0	Well, you'll have to wait your turn.	 statement-non-opinion	dialogue act
+486_3	Ooh, it's probably a residual check, hey can you open it for me, I'm kinda....	 question	dialogue act
+488_1	I had to kiss Phoebe and Rachel every time I left a room, I mean it's too bad they didn't see us having sex.	 statement-opinion	dialogue act
+488_5	Okay.	 acknowledge	dialogue act
+490_0	Oh, y'know..	 answer	dialogue act
+491_1	He said he's really gonna miss you guys.	 answer	dialogue act
+492_2	Uh, moist, yeah.	 answer	dialogue act
+493_12	No you don't!	 disagreement	dialogue act
+495_0	Yeah, what town are we near?	 question	dialogue act
+497_2	I'm not wrong! I wish I was. I'm sorry. Bet that barium enema doesn't sound so bad now, huh?	 disagreement	dialogue act
+498_4	What is the matter with your face?!	 question	dialogue act
+499_5	What do you mean?	 question	dialogue act
+499_21	Yeah uh, what am I gonna do?	 question	dialogue act
+501_3	Ohh that's nice.	 statement-opinion	dialogue act
+507_0	Windows are clean, candels are lit.	 statement-non-opinion	dialogue act
+507_6	Mon, I don't understand.	 statement-non-opinion	dialogue act
+507_8	I mean, why all the sudden are you so... Oh.	 question	dialogue act
+507_13	Things happen, and they happen.	 statement-non-opinion	dialogue act
+508_12	Oh, what did I say?	 question	dialogue act
+508_14	How's that different?  Oh! Yeah!	 question	dialogue act
+508_19	Hmm, soup.  I mean, noodle soup. I mean soup!	 statement-non-opinion	dialogue act
+509_10	I'd have to say I really don't care for your tone.	 statement-non-opinion	dialogue act
+510_2	The blond woman is my ex-wife, and the woman touching her is her... close, personal friend.	 answer	dialogue act
+511_2	Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me.	 apology	dialogue act
+511_4	Y'know Marcel?	 question	dialogue act
+512_3	Good.	 answer	dialogue act
+512_6	And remember how I said I was going to keep it in my purse so that if it rang I could just pick it up?	 question	dialogue act
+512_8	And do you remember going into my purse and stealing the phone?!	 question	dialogue act
+512_10	You stole the phone!	 question	dialogue act
+512_11	No I didn't!	 answer	dialogue act
+513_4	Fine.	 agreement	dialogue act
+517_4	You want it there? You take it there baby!	 question	dialogue act
+518_1	Well, why don't you tell me what you're supposed to be!	 question	dialogue act
+518_8	Well, that was ah...	 others	dialogue act
+519_3	No. We were in the middle of sex...and	 disagreement	dialogue act
+520_0	Don't worry, Chandler, it's not a globe of the United States.	 statement-opinion	dialogue act
+520_2	Phoebe, why is your bag moving?	 question	dialogue act
+520_3	Oh, it's not!	 answer	dialogue act
+521_1	I had such an opportunity in the recent, present.	 statement-non-opinion	dialogue act
+521_4	And now, he's got a two year contract opposite Susan Luchhi, the first lady of daytime television, and me, me I'm stuck here teaching a bunch of people, most of whom are too ugly to even be on TV.	 statement-non-opinion	dialogue act
+522_5	Okay honey, you can finish this later we're gonna be late. We gotta go.	 statement-opinion	dialogue act
+523_2	And Monica knows...	 statement-non-opinion	dialogue act
+523_6	Wait-oh-hey-huh, oh great now he knows, and I don't know!	 disagreement	dialogue act
+523_11	Pheebs!	 greeting	dialogue act
+523_14	Nothing, I'm sorry, I'm just, I'm out of sorts.	 answer	dialogue act
+523_17	Fine.	 acknowledge	dialogue act
+528_0	Oh Mon, listen I have to ask!	 others	dialogue act
+528_1	Okay, Joey Tribbiani invited me back to his apartment, now does he do this with a lot of girls?	 question	dialogue act
+528_2	Yeah, a lot. A lot, a lot!	 answer	dialogue act
+530_5	I took this picture from your fridge.	 statement-non-opinion	dialogue act
+530_10	So if you can help me find my Father then you should!	 statement-non-opinion	dialogue act
+530_22	Heh?	 others	dialogue act
+531_2	What's-what's this nonsense?	 question	dialogue act
+531_9	About paleontology.	 question	dialogue act
+531_12	But what you guys think of me is really important because I'm-I'm hoping to get a permanent job here.	 statement-opinion	dialogue act
+532_9	She's forbidden fruit!	 statement-non-opinion	dialogue act
+532_15	Fine ... mediocre porn	 answer	dialogue act
+533_6	Hello Rachel, you uh, got a minute?	 question	dialogue act
+533_7	Yeah, sure Mr. Zelner, for you anything-minute. Okay. Fine.  Abort the plan, abort the plan.	 answer	dialogue act
+533_8	Uh actually, I'd like to speak with both of you.	 statement-non-opinion	dialogue act
+533_9	Okay. Uh, well can we, can we get you anything Mr. Zelner? Maybe some chocolates?	 agreement	dialogue act
+534_0	Cassie, are you finding everything okay in there?	 question	dialogue act
+538_4	Ooh, Phoebe's here! Okay, let's turn out all the lights and we'll just watch the movie!	 statement-non-opinion	dialogue act
+539_1	How do you think she's doing?	 question	dialogue act
+539_4	Thank you!	 acknowledge	dialogue act
+541_1	Yeah! And maybe someday we could get a place with two bathrooms.	 agreement	dialogue act
+541_4	Carol our sex life is-it's just not working	 answer	dialogue act
+541_5	Hey there little fella!	 greeting	dialogue act
+546_15	What? You just click when they click.	 question	dialogue act
+548_3	I'm so glad we've got adjoining rooms!	 statement-non-opinion	dialogue act
+548_4	The sun is out!	 statement-non-opinion	dialogue act
+548_6	Ok listen, you go down to the pool and reserve the chairs, and I'll get the magazines and the lotion.	 statement-non-opinion	dialogue act
+548_10	Walls are pretty thin, guys!	 statement-non-opinion	dialogue act
+549_6	But it's $2,000.	 others	dialogue act
+551_4	Okay.	 agreement	dialogue act
+551_8	What are you doing?	 question	dialogue act
+553_8	Yeah!	 agreement	dialogue act
+553_9	Hey! You're a good dancer!	 statement-opinion	dialogue act
+556_0	Hey.	 greeting	dialogue act
+556_2	Look, I understand if you came by to hit me, I deserve it.	 statement-non-opinion	dialogue act
+558_3	Really?! I-I thought you weren't looking for something serious? I thought you were looking for some kind of a fling.	 question	dialogue act
+559_1	Oh, yeah. Had that dream.	 agreement	dialogue act
+560_2	Your favorite!	 answer	dialogue act
+561_17	Really?	 question	dialogue act
+563_1	It depends on who asked.	 answer	dialogue act
+571_7	Careful of the angle.	 statement-non-opinion	dialogue act
+572_1	Including umm, evil bitch and uh, sick bastard.	 statement-non-opinion	dialogue act
+572_7	No!	 answer	dialogue act
+573_3	Oh, of course!	 agreement	dialogue act
+574_3	Joey, can I talk to you for a second?	 question	dialogue act
+577_0	Okay, some tricks of the trade.	 statement-non-opinion	dialogue act
+580_0	Y'know, birds have a very good sense of direction, and I thought maybe they could help us find where the presents are hidden.	 statement-opinion	dialogue act
+584_1	Oh that's all right, I'm coming back later with your father.	 agreement	dialogue act
+585_7	Wait, wait, wait, wait, wait.	 command	dialogue act
+587_0	Yeah.  Hi Mark!	 answer	dialogue act
+588_6	I	 others	dialogue act
+590_0	"I like this one.  It seems to say, ""I love you and that's why I have to kill you."""	 statement-non-opinion	dialogue act
+590_3	Do you really want to pull at that thread?	 question	dialogue act
+590_9	I know it's really lame, but I got these tickets from my boss and-Oh no! No! No! My God!	 acknowledge	dialogue act
+592_1	You two will have very hairy children.	 statement-non-opinion	dialogue act
+592_3	Ross! Janice?!	 greeting	dialogue act
+592_6	Hold on.	 command	dialogue act
+592_7	This is Ross, okay?	 greeting	dialogue act
+593_4	Here we go again.	 statement-non-opinion	dialogue act
+594_0	Wait!	 command	dialogue act
+594_2	Please!	 command	dialogue act
+594_4	Okay?	 agreement	dialogue act
+594_10	I'm back baby! Ha-ha-ha!	 statement-non-opinion	dialogue act
+595_5	Well, I told you not to walk. Here.  There. Okay.	 statement-non-opinion	dialogue act
+596_19	Don't call us that!	 statement-non-opinion	dialogue act
+599_4	Did you eat all the neighbor candy?!	 question	dialogue act
+599_10	Mine stole my newspaper! It's like a	 statement-non-opinion	dialogue act
+599_14	Oh my God Ross!!	 others	dialogue act
+599_16	I	 question	dialogue act
+600_0	Hello darlings.	 greeting	dialogue act
+601_3	He is so cute!	 statement-opinion	dialogue act
+602_1	Yeah, isn't he?	 question	dialogue act
+602_2	It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.	 statement-non-opinion	dialogue act
+603_4	Yeah?	 question	dialogue act
+603_11	Oh.	 backchannel	dialogue act
+603_13	Okay, I understand why	 acknowledge	dialogue act
+604_3	What?	 question	dialogue act
+604_6	'Cause you're still into Monica.	 answer	dialogue act
+604_7	So you told her there was somebody else so she would agree to work with you, so 'cause you figure oh if you spent a lot of time together, maybe something might happen, and...	 statement-non-opinion	dialogue act
+605_8	Can't wait.	 statement-non-opinion	dialogue act
+607_3	The bottom line is, smoking is cool, and you know it.	 statement-non-opinion	dialogue act
+607_6	He does?	 question	dialogue act
+608_3	Thank you.	 greeting	dialogue act
+610_2	I mean... uh, did you know you were  mouthing the words along with me?	 question	dialogue act
+611_4	Hello? Oh, uh, Rachel, it's the	 greeting	dialogue act
+611_12	I've got magic beans.  Never-never mind.	 statement-non-opinion	dialogue act
+612_2	What message?	 command	dialogue act
+612_6	I wrote it on the board, then I went all over New York City looking for ya!	 answer	dialogue act
+614_6	Oh sure, every Sunday night I'm telling myself I'm quitting but every Monday morning it's like	 agreement	dialogue act
+614_18	Yes! Great! Give me those cigs! Give it! Give it!	 command	dialogue act
+615_4	It's worse than the thumb!	 statement-opinion	dialogue act
+616_2	Aw! Does that mean the	 others	dialogue act
+619_1	Oh, I'm fine.	 answer	dialogue act
+621_1	New people.	 answer	dialogue act
+622_5	I mean it's like every guy I see-I mean look here.	 statement-non-opinion	dialogue act
+623_3	Then I called 9-1-1 and they laughed at me, if this isn't an emergency, then what is?	 question	dialogue act
+625_15	All right, well I guess I'll just have to do what I do on dates.	 statement-non-opinion	dialogue act
+626_5	You want some help with that?	 question	dialogue act
+626_7	Whoa! Are you okay?	 question	dialogue act
+626_8	Whew! Stood up to fast, got a little head rush.	 others	dialogue act
+626_9	It's the heat.  And-and the humidity.	 others	dialogue act
+626_11	Do you wanna come in for some lemonade?	 question	dialogue act
+628_3	Hey Gunther, these yours?	 question	dialogue act
+628_7	There's a lost and found?  My shoe!	 answer	dialogue act
+629_15	Bye.	 greeting	dialogue act
+630_1	Thanks Monica!	 acknowledge	dialogue act
+630_5	I can smell it a little, bake the pie.	 statement-non-opinion	dialogue act
+630_14	Well, I have to go now.	 statement-non-opinion	dialogue act
+632_3	Are you crazy?	 question	dialogue act
+633_0	So-so you two were married huh? What happened? You just drift apart?	 question	dialogue act
+635_4	Oh my God! Oranges!	 others	dialogue act
+636_2	I realized it was stupid to get upset about not having a husband and kids.	 statement-non-opinion	dialogue act
+638_2	Hey!	 greeting	dialogue act
+639_9	Phoebs, It's open! It's open!	 statement-non-opinion	dialogue act
+640_10	I-I-I of course, I have more responsibilities than that.	 statement-non-opinion	dialogue act
+644_2	"Did you not hear me say, ""Du-ude?!"""	 question	dialogue act
+644_3	And this girl is making eyes at Chandler, okay?	 statement-non-opinion	dialogue act
+645_8	Wait-wait where are you going? Where are you going?	 question	dialogue act
+645_13	Hey!	 greeting	dialogue act
+646_3	Me too!	 others	dialogue act
+646_8	Yes!!! Oh!!	 agreement	dialogue act
+648_3	I mean, it is so annoying.	 statement-non-opinion	dialogue act
+649_3	And, a brownie!	 others	dialogue act
+650_5	Please! I am not as bad as Ross.	 statement-non-opinion	dialogue act
+651_5	Ciao, bela.	 greeting	dialogue act
+655_7	What?	 question	dialogue act
+655_13	No! No! It's wrong! It's-it's-it's naughty. It's taboo.	 disagreement	dialogue act
+657_0	Yeah! So-so when are you getting married?	 question	dialogue act
+657_5	So when are you getting married?	 question	dialogue act
+657_10	We met with him. Did he show you the photos of the nude wedding he did?	 question	dialogue act
+657_13	Oh, my fiancee wants the Swing Kings.	 statement-non-opinion	dialogue act
+658_14	No, interestingly enough her leaf blower picked up.	 answer	dialogue act
+658_19	Okay, they're just talking...	 answer	dialogue act
+659_19	And, Kristin, Kristin......does something that, funnily enough, wasn't even her major!	 statement-non-opinion	dialogue act
+660_4	And instead my parents got me this little plastic chicken that you hop around on.	 statement-non-opinion	dialogue act
+663_3	We are the hottest! Huh?	 question	dialogue act
+663_4	No, you're the best.	 answer	dialogue act
+663_5	No, you're the best.	 answer	dialogue act
+665_3	Okay, it'll take just a little while to prepare the embryos.	 statement-non-opinion	dialogue act
+666_1	Hey!	 greeting	dialogue act
+668_0	Ohh.	 backchannel	dialogue act
+669_0	Sorry about that. So. What have you been up to?	 question	dialogue act
+672_5	I mean this-this is clearly very, very important to you, to us!	 statement-non-opinion	dialogue act
+673_3	Yes, second in two years. Third overall.	 answer	dialogue act
+673_19	There's no way to do this without her?	 statement-non-opinion	dialogue act
+676_6	It's awful I know, I mean, I feel terrible but I have to do this if I want my marriage to work.	 statement-non-opinion	dialogue act
+677_3	Umm, Jo's a girl, it's short for Josephine.	 statement-non-opinion	dialogue act
+678_0	Chandler.	 greeting	dialogue act
+678_3	Joey.	 greeting	dialogue act
+678_16	Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars.	 statement-non-opinion	dialogue act
+680_8	Okay!	 agreement	dialogue act
+682_8	Oh, look, look, he's closing his eyes.  Look, he's opening his eyes.	 statement-non-opinion	dialogue act
+682_12	Yeah.	 answer	dialogue act
+682_13	All right, I'll see you guys later.	 statement-non-opinion	dialogue act
+686_2	Who wants it? Anybody?	 question	dialogue act
+686_6	You're right, I'm sorry.	 apology	dialogue act
+688_0	You've seen my huge stack of porn, right?	 question	dialogue act
+689_5	Chip, is Chip Matthews.	 answer	dialogue act
+689_14	Well ah, actually...	 others	dialogue act
+692_1	Oh it's OK. You were worth the wait, and I don't just mean tonight.	 agreement	dialogue act
+693_1	: Yeah, well your friends are in violation of it.	 others	dialogue act
+694_0	All right! I found one that fits!	 statement-non-opinion	dialogue act
+694_1	Well y'know what they say, the 23	 others	dialogue act
+695_3	No don't! Go back to repeating!	 command	dialogue act
+697_2	Oh absolutely. Shall we say, around seven?	 question	dialogue act
+697_5	Hey-hey, check it out! Check it out! Ugly Naked Guy has a naked friend!	 statement-non-opinion	dialogue act
+698_3	Noo.	 answer	dialogue act
+698_7	I just, I feel, I-I just...	 answer	dialogue act
+699_5	Sells drugs to kids.	 answer	dialogue act
+699_8	It was my quarter!	 statement-non-opinion	dialogue act
+700_6	Listen, look I thought a lot about how to tell you this and the bottom line, Ross, is we can not stay married.	 command	dialogue act
+700_10	Oh Ross, come on! This is not, this is not a marriage!! This is the world's worst hangover! Ross, listen, if	 statement-non-opinion	dialogue act
+703_2	Cleveland.	 answer	dialogue act
+706_5	All right, then massage me up right nice!	 command	dialogue act
+706_6	Ah! Ahh!! Ahh!!	 backchannel	dialogue act
+706_8	It's so good I don't know what I've done to deserve it!	 answer	dialogue act
+707_5	Not interested in that.	 statement-opinion	dialogue act
+707_14	I thought I told you to get outta here!	 command	dialogue act
+712_7	All right! Let's play Bamboozled!	 statement-non-opinion	dialogue act
+713_2	Look at this!  There we go!	 statement-non-opinion	dialogue act
+719_2	I love your car.	 statement-opinion	dialogue act
+719_6	Yeah!	 answer	dialogue act
+720_9	No, the quiet down thing!	 disagreement	dialogue act
+720_17	Uh fellas,	 greeting	dialogue act
+722_5	So you didn't uh, choose Ross before me.	 statement-opinion	dialogue act
+725_2	Check it out.  How much of a man am I?!	 question	dialogue act
+727_5	Well, you-you know what I meant.	 answer	dialogue act
+728_1	Y'know if we ever go to war and you're captured, you're in for a	 statement-non-opinion	dialogue act
+728_7	I mean at least when I've seen her with clothes on, I could imagine her body was like covered in boles or something.	 statement-non-opinion	dialogue act
+728_10	Wow! Could everyone totally see up his robe?	 question	dialogue act
+730_1	You know, if they're    gonna shorten it, they should call it the MUSE!	 statement-opinion	dialogue act
+735_5	Oh right, that Rachel chick from the coffee place.	 statement-non-opinion	dialogue act
+735_14	No, we're not!!	 disagreement	dialogue act
+735_15	Okay, we're not.	 agreement	dialogue act
+736_3	You are so sweet.	 statement-non-opinion	dialogue act
+736_13	That's no problem.	 agreement	dialogue act
+737_1	She's sleeping.	 statement-non-opinion	dialogue act
+737_5	Ooh!	 backchannel	dialogue act
+738_4	Oh, it even has a tree with a broken limb out front and the uh, the window in the attic is...Oh my God!	 statement-non-opinion	dialogue act
+739_12	Huh?	 backchannel	dialogue act
+739_14	(Singing, to the tune of	 statement-non-opinion	dialogue act
+739_15	That's okay.	 statement-non-opinion	dialogue act
+740_3	See, this is exactly the kind of thing that makes her think you guys love me more than you love her.	 statement-opinion	dialogue act
+740_9	Well, not right now.	 answer	dialogue act
+740_11	Okay, grab...grab some empty boxes.	 statement-non-opinion	dialogue act
+741_0	Y'know Joey, I could teach you to sail if you want.	 statement-non-opinion	dialogue act
+743_1	I guess I'm done.	 statement-non-opinion	dialogue act
+744_1	Question. You're not dating anybody, are you, because I met somebody who would be perfect for you.	 question	dialogue act
+744_4	Yes please.	 answer	dialogue act
+745_7	My agent would like to know why I didn't show up at the audition I didn't know I had today.	 statement-non-opinion	dialogue act
+745_9	How could you not give me the message?	 question	dialogue act
+746_0	See Joe, that's why your parents told you not to jump on the bed.	 statement-opinion	dialogue act
+752_4	Susan! Hi!	 greeting	dialogue act
+752_8	I'm-I'm Ross by the way.	 statement-non-opinion	dialogue act
+752_11	How hot is this?!	 question	dialogue act
+755_5	Why don't you look in the mirror, scrud.	 question	dialogue act
+755_7	All right girls, and man. Let's see your final tallies.  Ohhhh, Debbie,  321 boxes of cookies,  Very nice.	 statement-non-opinion	dialogue act
+756_4	Yeah, I've been thinking a lot about you too.	 statement-non-opinion	dialogue act
+756_7	Yeah, I do think it's better this way.  Yeah, we're being smart.   Yes, I'm sure.	 statement-opinion	dialogue act
+757_1	Well uh, you and I are just goofing around, I thought, why not goof around with him.	 answer	dialogue act
+757_9	Yeah. All right, I'm gonna go tell Dan that it's not gonna happen.  Don't do the dance.	 statement-non-opinion	dialogue act
+757_10	Right!	 agreement	dialogue act
+760_3	Wow. Oh, I am really flattered, but I just I don't feel that way about you.	 statement-opinion	dialogue act
+761_2	Oh!  All right.  Now, let's not do this!	 agreement	dialogue act
+761_6	Alright, now I will let go if you both stop.	 statement-non-opinion	dialogue act
+762_0	Okay, buddy-boy. Here it is. You hide my clothes, I'm wearing everything you own.	 statement-non-opinion	dialogue act
+762_3	Whew, it's hot with all of this stuff on.	 statement-opinion	dialogue act
+763_1	Hi.	 greeting	dialogue act
+766_1	That's great. Good for you guys.	 statement-non-opinion	dialogue act
+766_2	I am not high maintenance!	 statement-opinion	dialogue act
+766_5	You did!	 answer	dialogue act
+767_4	Next on Ross... Uh-oh.	 statement-non-opinion	dialogue act
+769_1	And I just want a million dollars!	 statement-opinion	dialogue act
+770_3	I hear ya, Mugsy!	 statement-non-opinion	dialogue act
+770_5	Can you just pick one so I can watch--have a perfect, magical weekend together with you.	 statement-non-opinion	dialogue act
+771_0	Y'know, maybe it's best that we never got to do it again.	 statement-opinion	dialogue act
+771_13	I mean, there's no way I can make myself taller now, y'know?	 statement-opinion	dialogue act
+772_13	It's Rachel!	 statement-non-opinion	dialogue act
+774_10	Hey, how, how did you do that?	 question	dialogue act
+775_7	Oh... Milwaukee.	 answer	dialogue act
+775_8	Um... Ross?	 question	dialogue act
+777_12	She does want to.	 agreement	dialogue act
+778_1	These old things.	 statement-non-opinion	dialogue act
+780_1	Yeah.	 statement-non-opinion	dialogue act
+780_2	Why have you been following me?	 question	dialogue act
+786_1	Are you kidding me?!	 question	dialogue act
+786_2	It's just so frustrating! Why doesn't she want my breast?!	 question	dialogue act
+787_9	But, we're roommates and it's a huge mistake for us to continue down this road.	 statement-opinion	dialogue act
+787_10	Joey...	 statement-non-opinion	dialogue act
+791_4	I got a big date coming up, do you know a good restaurant?	 question	dialogue act
+792_10	Okay. . Hello Drake, I'm surprised to see you    here.	 statement-non-opinion	dialogue act
+792_18	I can never kiss you again when it's all I can do not    to kiss you right now.	 statement-opinion	dialogue act
+793_2	I'd like to propose a toast.	 statement-opinion	dialogue act
+793_5	Anyway, I was just thinking, I mean, if you'd gone to Vail, and if you guys'd been with your family, if you didn't have syphilis and stuff, we wouldn't be all together, you know?	 statement-opinion	dialogue act
+794_4	She's-she's just a friend and that's all!	 acknowledge	dialogue act
+798_4	Oh, I am so sorry.	 apology	dialogue act
+799_0	Well, there's no way I'm gonna get a shot.	 statement-non-opinion	dialogue act
+804_7	: You think you could make a mess and the big man in coveralls will come in here and clean it up, huh?	 statement-non-opinion	dialogue act
+806_11	So are you ever gonna tell whoever it is?	 question	dialogue act
+806_14	I'm not?	 agreement	dialogue act
+809_0	Yes!	 statement-non-opinion	dialogue act
+810_0	Who is that?!	 question	dialogue act
+810_12	I am sorry, but some of us have to	 answer	dialogue act
+811_10	Is that my ass?	 question	dialogue act
+813_5	And did you?!	 question	dialogue act
+813_7	But it didn't. Say hello to Mrs. Chatracus.	 statement-non-opinion	dialogue act
+815_3	Well, I'm not gonna talk because	 answer	dialogue act
+817_3	But she just came up here!	 statement-non-opinion	dialogue act
+817_4	That was Joey!	 statement-non-opinion	dialogue act
+820_8	It's really classy!	 statement-opinion	dialogue act
+820_18	They want me to be totally naked in the movie!	 answer	dialogue act
+820_20	I know! My grandmother's gonna see this!	 statement-non-opinion	dialogue act
+821_13	Dr. Geller!	 greeting	dialogue act
+822_4	No. They said you 'Weren't believable as a human being.' So, you can work on that.	 answer	dialogue act
+823_0	Hey.	 greeting	dialogue act
+823_13	Orrr, you could follow him and see where he goes.	 statement-opinion	dialogue act
+826_3	Almost as good as that play with the two naked girls on the see-saw.	 answer	dialogue act
+827_13	God. Do think it really doesn't hurt? 'Cause how can they do that?	 question	dialogue act
+827_14	Hello! Organic substances recently discovered in the depths of the rain forest!	 answer	dialogue act
+832_5	Oh, on a date. Yeah, I met this girl on the train going to a museum upstate.	 answer	dialogue act
+832_11	Were you so late because you were burring this woman?	 question	dialogue act
+833_0	No, there is no way! It can	 disagreement	dialogue act
+834_3	I mean, like in the case of this young woman, she has lost her clothes, so she rides naked on the horse, she's crying out, 'Where are they, where are they?'	 statement-non-opinion	dialogue act
+834_14	What?!	 question	dialogue act
+835_8	Chandler please!	 statement-non-opinion	dialogue act
+836_12	Hey!	 greeting	dialogue act
+839_8	No!!	 disagreement	dialogue act
+839_12	And shame on you!	 statement-non-opinion	dialogue act
+841_1	I'm not freaking out.	 disagreement	dialogue act
+841_8	Phoebe and Rachel!	 others	dialogue act
+841_9	So the people that knew about our wedding before me were you, Phoebe and Rachel, Heldi, and apparently some band called Starlight Magic 7 who are available by the way!	 statement-non-opinion	dialogue act
+841_12	Really?	 statement-non-opinion	dialogue act
+841_15	Okay.	 agreement	dialogue act
+841_20	Yeah, it's beautiful.	 answer	dialogue act
+842_6	Did I use that already today? I'm sorry.	 apology	dialogue act
+843_14	And-and you don't need, you don't need this custom-made, empire-waisted, duchess, satin gown; you can wear off the rack.	 statement-opinion	dialogue act
+844_11	I'm Ted, and I just moved here a month ago, and New York really scares me.	 statement-non-opinion	dialogue act
+844_19	Yeah, okay, Scott!	 backchannel	dialogue act
+845_6	You! Chuckles! What's your name?	 question	dialogue act
+845_10	This team is about hard work, but it's also about having fun.	 statement-opinion	dialogue act
+847_4	She didn't hang up either...	 statement-non-opinion	dialogue act
+849_1	Really? That's great!	 apology	dialogue act
+849_11	Y'know, I don't really know you well enough for you to do that.	 statement-opinion	dialogue act
+851_4	Kristen.	 greeting	dialogue act
+851_11	Right down there.	 statement-non-opinion	dialogue act
+851_13	Do not take a nap on this stoop  or you can wake up with your shoes gone.	 statement-opinion	dialogue act
+851_17	But how about tomorrow?	 question	dialogue act
+853_0	By the way, the week before your wedding you may not see a lot of me.	 statement-non-opinion	dialogue act
+853_5	Well, I would love to but...the bike got stolen and the police have no suspects.	 answer	dialogue act
+853_9	If you are not going to learn how to ride this bike then I'm sorry, I'm just gonna have to take it back.	 statement-opinion	dialogue act
+855_3	Whoa!! Now look, don't be just blurtin' stuff out. I want you to really think about your answers. Okay?	 statement-opinion	dialogue act
+856_1	Hey man, how did the audition go?	 question	dialogue act
+857_10	But, we'll stay here with you.	 agreement	dialogue act
+858_2	Oh-okay, I get the game now.	 statement-non-opinion	dialogue act
+859_1	Oh, I thought there was a mirror there. Okay, bye-bye.	 greeting	dialogue act
+859_2	Wait a second! So, what's new with you?	 question	dialogue act
+860_2	Umm look, you're coming on a little strong.	 statement-opinion	dialogue act
+860_3	But I'm going to give you the benefit of the doubt, because it seems the universe really wants to be together.	 statement-non-opinion	dialogue act
+861_9	Okay, relax, relax.	 statement-non-opinion	dialogue act
+861_14	...Yeah, they were gross.	 statement-opinion	dialogue act
+861_17	How she was always stealing them from- from restaurants.	 statement-non-opinion	dialogue act
+863_7	Huh?	 backchannel	dialogue act
+865_5	So, how about you huh? How do you know the happy couple?	 question	dialogue act
+865_6	Okay, you're fine.	 statement-non-opinion	dialogue act
+866_0	Monica, why have you brought me here of all places?!	 question	dialogue act
+867_5	That's right! That's right!	 statement-non-opinion	dialogue act
+869_9	All right fine, don't do anything, just sit here and talk to us, meanwhile she is talking to him about you.	 statement-non-opinion	dialogue act
+872_4	Nothing! It's an expression.	 answer	dialogue act
+874_5	I don't wanna give up the bag.	 disagreement	dialogue act
+874_15	Yeah umm, they're called wallets.	 statement-non-opinion	dialogue act
+875_6	This is a garden view room, and we paid for an ocean view room.	 answer	dialogue act
+875_8	Excuse me, umm, can I talk to you over here for just a second?	 command	dialogue act
+876_2	Oh. Oh, did-did-did I wake you?	 question	dialogue act
+877_1	Hey! Oh, I was just about to leave. I-I-I-I didn't think you were coming.	 statement-non-opinion	dialogue act
+877_3	Well, I'm very glad you're here.	 statement-opinion	dialogue act
+883_3	'Kay.	 agreement	dialogue act
+883_5	Yeah.	 others	dialogue act
+884_1	Great! All right, so I'll call you later.	 statement-non-opinion	dialogue act
+884_2	Great!	 agreement	dialogue act
+884_8	Yeah-yeah. And the craziest thing is that I just ate a whole pizza by myself!	 statement-non-opinion	dialogue act
+886_10	Well, what-what 'cha got there?	 question	dialogue act
+887_4	No, I mean it's okay, I mean, they're-they're my friends.	 answer	dialogue act
+890_3	Yes, this Russell, Ross's divorce lawyer, just tell him that since I haven't heard from him, I assume he's decided to give the marriage a try.	 answer	dialogue act
+892_1	I have a job interview I have to get ready for.	 answer	dialogue act
+892_11	You cooked him?	 question	dialogue act
+893_11	That is true.	 agreement	dialogue act
+894_0	Ah-ha! Too cocky!	 others	dialogue act
+895_9	Hurry up.	 others	dialogue act
+897_3	Okay, y'know what, I have to go have dinner with my son, can I trust that when you see Phoebe, you will tell her.	 statement-non-opinion	dialogue act
+897_5	Thank you.	 acknowledge	dialogue act
+897_8	Y'know what, I think this might be one of the times he's wrong.	 answer	dialogue act
+898_0	Seven hundred bucks!	 statement-non-opinion	dialogue act
+901_7	Y'know what you should do, you should get her one of those um, barium enemas.	 statement-non-opinion	dialogue act
+902_12	Speech! Come on Monica!	 statement-non-opinion	dialogue act
+903_2	Oh crap!	 others	dialogue act
+905_5	Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing.	 statement-non-opinion	dialogue act
+905_8	No way, forget it.	 disagreement	dialogue act
+905_15	Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'	 statement-non-opinion	dialogue act
+907_6	What?!	 question	dialogue act
+907_13	Okay, cancel backup! Cancel backup!	 statement-non-opinion	dialogue act
+908_1	Oh.	 backchannel	dialogue act
+908_9	Show me where?	 question	dialogue act
+908_10	Right-right up here.	 answer	dialogue act
+908_15	It's called the Bapstein-King comet, okay?  Hey! Hey! Bapstein was a very well respected astronomer!	 others	dialogue act
+909_6	Why else would I be here?	 question	dialogue act
+910_7	I mean, it-it was like, it was like he made us into a team.	 statement-opinion	dialogue act
+911_3	Okay.	 statement-non-opinion	dialogue act
+911_5	Yeah, this was a stupid idea.	 statement-opinion	dialogue act
+913_0	You're driving me crazy with that!	 statement-non-opinion	dialogue act
+913_2	Don't stop! Move the bowl further away! Ross could make that shot!	 command	dialogue act
+913_6	And I have to write five whole pages if I'm gonna stick to his schedule.	 statement-non-opinion	dialogue act
+913_11	Okay, but be careful okay, because I wanna get our security deposit back.	 agreement	dialogue act
+915_3	You are really frightening me.	 statement-non-opinion	dialogue act
+915_4	Somebody wanna help me, tryin' to rip out my heart.  Uh, that's great.  Anybody seen a nipple?	 question	dialogue act
+916_7	So where-where is it going?	 question	dialogue act
+916_11	Now I-I know what you're thinking, fun was fine for you like ten years ago y'know, but you're-you're not getting any younger.	 statement-non-opinion	dialogue act
+918_11	In fact-yes,  I'm, I'm sorry.	 apology	dialogue act
+921_4	Oh. Ew! Ew! Ew! Ugh! Y'know what? This is too weird.	 others	dialogue act
+922_5	You can?	 others	dialogue act
+925_8	Nothing.	 disagreement	dialogue act
+926_2	No. When it comes to sweets, he's surprisingly strict.	 statement-non-opinion	dialogue act
+926_5	"I can get out, ""Joey, I have too..."" but then I lose my nerve and I always finish with, ""...go to the bathroom."""	 statement-non-opinion	dialogue act
+926_6	He may think I'm sick.	 statement-non-opinion	dialogue act
+926_12	All right.	 agreement	dialogue act
+926_13	Hey Monica!	 greeting	dialogue act
+926_17	Oh my God! You're pregnant!	 statement-non-opinion	dialogue act
+928_1	He's gonna go up to the counter with	 statement-non-opinion	dialogue act
+928_4	Me too.	 statement-non-opinion	dialogue act
+929_0	Yes! Yes! Yes! Yes! Awww!	 others	dialogue act
+930_3	What'd you rent?	 question	dialogue act
+931_2	I don't care if you    are my brother.	 statement-non-opinion	dialogue act
+933_3	Uh, yeah, I'll take a coffee. Thanks, man.	 statement-non-opinion	dialogue act
+933_12	Joey, honey, I don't think you're supposed to go back there.	 statement-opinion	dialogue act
+933_15	Okay, but I don't see you asking any other paying customers to put on aprons.	 statement-non-opinion	dialogue act
+933_18	Hey, waiter.	 others	dialogue act
+934_4	This is Chandler Bing! This is Chandler Bing!  Yes, the groom-No! Not the groom!!	 others	dialogue act
+936_2	Because I'm going to London.	 answer	dialogue act
+936_4	Yeah, I have to tell Ross that I love him.	 answer	dialogue act
+936_15	Because he's in love with the British chippy!	 statement-opinion	dialogue act
+938_4	Thanks.	 others	dialogue act
+938_8	Oh, she's not home huh?	 question	dialogue act
+939_15	Oh uh, hey Pheebs. Uh y'know what? I'll-I'll come  back later.	 statement-non-opinion	dialogue act
+941_9	Actually I ah, I am a poet.	 agreement	dialogue act
+942_3	What?	 question	dialogue act
+942_6	Yes we are. So, coffee?	 answer	dialogue act
+943_0	Okay, here's batch 22.	 statement-non-opinion	dialogue act
+943_1	Oh, maybe these'll taste a little like your grandmother's.	 statement-non-opinion	dialogue act
+947_10	Okay, go ahead.	 agreement	dialogue act
+947_11	Well umm, they both have a egg yolk and butter base, but a bearnaise has shallots, shirvel, and most importantly tarragon.	 answer	dialogue act
+947_13	Monica.	 answer	dialogue act
+948_3	Olé!	 others	dialogue act
+948_5	Well, you said that you had customers lined up in the street,    so I am here to entertain!	 answer	dialogue act
+949_3	Hey hey hey! Don't mind if I do!	 statement-non-opinion	dialogue act
+949_10	And... that's the most sex I'm gonna have this weekend.	 statement-non-opinion	dialogue act
+950_7	Oh, be-because of the leather pants.	 statement-non-opinion	dialogue act
+950_16	Okay, now that everything's wrapped up here, I think I'm, I'm gonna go do my laundry.	 statement-non-opinion	dialogue act
+952_0	Great nap.	 statement-non-opinion	dialogue act
+953_19	I don't know, I mean I'm not sure  ...	 statement-non-opinion	dialogue act
+955_3	"I said, ""No!"""	 statement-non-opinion	dialogue act
+956_12	So what if I'm close to my family, are you gonna let that stand in the way of us?	 question	dialogue act
+959_0	I didn't even realise how late it was, until I noticed the 5 o'clock shadow on her head.	 statement-non-opinion	dialogue act
+959_1	Anyway, she didn't want to stay.	 statement-non-opinion	dialogue act
+960_2	All right, that I'll retract.	 statement-non-opinion	dialogue act
+960_5	You should serve it with vodka and a piece of celery.	 statement-non-opinion	dialogue act
+960_6	Hey! I'm proud of that sauce, it's delicious.	 statement-non-opinion	dialogue act
+961_4	No! No! No!	 others	dialogue act
+961_14	Oh God!	 others	dialogue act
+963_0	Ross! You gotta stop! Okay?! You can't just stare through the peep hole for three hours! You're gonna get peep eye!	 statement-non-opinion	dialogue act
+964_7	Oh God.	 others	dialogue act
+968_1	Dude!	 statement-non-opinion	dialogue act
+968_2	I have never known love like this.	 statement-opinion	dialogue act
+969_1	Anyway, I-I still think we should try to patch things up, y'know?	 statement-non-opinion	dialogue act
+971_1	All the time?	 question	dialogue act
+971_2	All the time!	 answer	dialogue act
+973_11	Do you think breaking up with him was a huge mistake?	 question	dialogue act
+973_14	All right, betting and wagering of any kind, are, I'm sure, not permitted in the happy place.	 statement-non-opinion	dialogue act
+976_9	Rachel, it's not that your friend is bad, it's that she's so bad, she makes me want to put my finger through my eye into my brain and swirl it around.	 answer	dialogue act
+977_10	Ugh. Wait, wait, wait.	 others	dialogue act
+978_5	What?	 question	dialogue act
+979_0	I just-I thought you guys were doing it, I didn't know you were in love!	 statement-non-opinion	dialogue act
+982_9	Well that's a full cup!	 answer	dialogue act
+984_1	I can't decide which route to take to Vegas. Hey, you've traveled a lot right?	 question	dialogue act
+984_2	Yeah, I've been around.	 answer	dialogue act
+985_4	Bastard!	 disagreement	dialogue act
+986_2	Uh-huh, doing it. Doing it. Phone doing it.	 others	dialogue act
+986_4	I mean I think it's great!	 statement-non-opinion	dialogue act
+986_8	Joey! Come here! Come here!	 command	dialogue act
+986_10	You mean how they're friends and nothing more?	 question	dialogue act
+990_1	Just trying to get comfortable. I can't sleep in my underwear.	 answer	dialogue act
+990_2	Well, you're gonna.	 statement-non-opinion	dialogue act
+990_9	You're you.	 statement-opinion	dialogue act
+991_4	Cheese makes me thirsty.	 answer	dialogue act
+991_14	That's right.	 agreement	dialogue act
+992_13	Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?	 statement-opinion	dialogue act
+992_14	...No, we hate him.	 disagreement	dialogue act
+996_18	It's you that is backwards.	 statement-non-opinion	dialogue act
+999_3	Really?	 question	dialogue act
+999_4	But um, we just refer to you as Bobo the Sperm Guy.	 answer	dialogue act
+1002_3	So how does this work, you going to balance the plates on these little guys' heads?	 question	dialogue act
+1005_0	Hey, ready for dinner?	 question	dialogue act
+1005_3	Ooh, I love that place!  So, no.	 answer	dialogue act
+1005_5	Enh. Sure!	 answer	dialogue act
+1005_17	Well, I suppose I could give him a warning.	 statement-non-opinion	dialogue act
+1007_3	Nimitz, and sold over 2,000 boxes.	 statement-non-opinion	dialogue act
+1007_5	Oh, I blew it. I wouldn't of even hired me.	 answer	dialogue act
+1008_4	It's all right.	 statement-non-opinion	dialogue act
+1009_16	I see pizza!	 statement-non-opinion	dialogue act
+1010_7	Aww, thank you.	 greeting	dialogue act
+1011_7	Oh, yeah, well y'know Chandler printed it up on his computer.	 statement-non-opinion	dialogue act
+1012_5	Shh!	 backchannel	dialogue act
+1012_6	Doogie, shh!	 others	dialogue act
+1016_8	Pheebs? What, why are you whispering?	 question	dialogue act
+1016_9	I ate a bug.	 answer	dialogue act
+1016_13	Yes, please.	 answer	dialogue act
+1016_17	Listen, we both know you're gonna do it 'cause you're not a jerk.	 statement-opinion	dialogue act
+1017_7	Pheebs, what are you doing with the coat? How about the whole animal rights thing?	 question	dialogue act
+1018_5	Oh okay, I'll fix that to. What's her e-mail address?	 question	dialogue act
+1018_12	You call that a fight?	 question	dialogue act
+1021_3	It's so annoying.	 statement-non-opinion	dialogue act
+1021_4	Does it bug you?	 question	dialogue act
+1022_6	Joey,  where did you learn that word?	 question	dialogue act
+1022_15	There's nothing wrong with a woman enjoying a little...erotica.	 statement-non-opinion	dialogue act
+1023_0	Well, I feel like a snack!	 statement-opinion	dialogue act
+1025_0	Dad, please don't pick your teeth out here!	 command	dialogue act
+1026_10	I'm sorry it's just, Phoebe just always thought you were, you were charming in a, in a sexless kind of way.	 apology	dialogue act
+1026_14	This bicep?	 question	dialogue act
+1027_1	Umm, well I sorta have some bad news, can I come in?	 question	dialogue act
+1028_4	And he was Theta Beta Pi at Syracuse.	 statement-non-opinion	dialogue act
+1029_13	Can I do it to you?	 question	dialogue act
+1030_0	Chloe? Hi..	 greeting	dialogue act
+1032_3	I see Spindler a lot.	 statement-non-opinion	dialogue act
+1032_5	Stick, Brown, Sulkov, McGuire, J.T., Beardsley.	 statement-non-opinion	dialogue act
+1032_10	Isn't he an architect now?	 question	dialogue act
+1033_3	And people will think you own a Porsche because you're wearing the clothes?	 statement-opinion	dialogue act
+1035_3	Hey, how can it	 question	dialogue act
+1035_4	I'm not even... I'm not even	 statement-non-opinion	dialogue act
+1035_5	Fine, y'know what, that's it. From now on, Joey, I want you to be my best man.	 statement-non-opinion	dialogue act
+1035_6	Yes!  Shame about you man.	 statement-non-opinion	dialogue act
+1036_1	Umm, slight change of plans. We've shut down.	 statement-non-opinion	dialogue act
+1036_3	It's a money thing, we don't have any.	 answer	dialogue act
+1036_11	Maybe two?	 statement-non-opinion	dialogue act
+1036_15	No!	 answer	dialogue act
+1038_13	You or me?	 question	dialogue act

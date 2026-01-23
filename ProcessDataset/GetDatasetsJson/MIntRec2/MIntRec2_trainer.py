@@ -3,8 +3,8 @@ import json
 import os
 
 #修改部分
-csv_file = "/root/user/xyh/Datasets/MIntRec2/train.tsv"
-json_file = "/root/user/xyh/Datasets/MIntRec2/MIntRec2_train.json"
+csv_file = "/root/user/xyh/Datasets/MIntRec2/dev.tsv"
+json_file = "/root/user/xyh/Datasets/MIntRec2/MIntRec2_dev.json"
 
 df = pd.read_csv(csv_file, sep='\t')
 conversations = []
