@@ -1,2672 +1,2672 @@
 [
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/70.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/70.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_70.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_70.wav",
     "text": "you're gonna go back and work on that register",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/121.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/121.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_121.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_121.wav",
     "text": "corned beef and cabbage are 20% off.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/377.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/377.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_377.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_377.wav",
     "text": "i'm not really that happy with you either.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/525.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/525.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_525.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_525.wav",
     "text": "don't be stingy with the squirts.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/158.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/158.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_158.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_158.wav",
     "text": "don't worry, sandra saw it and she didn't say anything.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/12.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/12.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_12.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_12.wav",
     "text": "you guys are the best. i love you all.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/192.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/192.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_192.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_192.wav",
     "text": "what? wait, no, no.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/437.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/437.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_437.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_437.wav",
     "text": "hey, how's it going?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E11/270.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E11/270.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E11_270.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E11_270.wav",
     "text": "yeah. yeah. this is definitely overboard.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/216.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/216.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_216.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_216.wav",
     "text": "god, i can't take it!",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/230.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/230.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_230.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_230.wav",
     "text": "amy, i need to report an employee theft.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/424.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/424.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_424.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_424.wav",
     "text": "don't worry about it.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/95.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/95.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_95.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_95.wav",
     "text": "thank you.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E02/526.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E02/526.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E02_526.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E02_526.wav",
     "text": "thanks.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/111.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/111.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_111.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_111.wav",
     "text": "this lipstick is stay all day",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/123.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/123.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_123.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_123.wav",
     "text": "i'm sorry.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/523.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/523.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_523.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_523.wav",
     "text": "i'm gonna check on gerald, see if he's done crying in the men's room.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/23.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/23.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_23.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_23.wav",
     "text": "yeah, and you wouldn't give me the day off to skype with my boyfriend.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/185.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/185.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_185.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_185.wav",
     "text": "hey, guys. having fun?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/176.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/176.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_176.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_176.wav",
     "text": "no, you guys don't have to come with me.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/41.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/41.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_41.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_41.wav",
     "text": "great. let's get back to work.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/440.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/440.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_440.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_440.wav",
     "text": "sorry, i got caught up in the moment.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/244.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/244.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_244.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_244.wav",
     "text": "she can't stand that i have authority now",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/426.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/426.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_426.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_426.wav",
     "text": "i think we should probably hear a few more, uh, female voices.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/576.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/576.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_576.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_576.wav",
     "text": "oh, well, thanks.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/551.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/551.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_551.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_551.wav",
     "text": "you've gone power mad.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/387.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/387.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_387.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_387.wav",
     "text": "i don't even know who you're thinking of.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/39.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/39.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_39.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_39.wav",
     "text": "amy, sorry to interrupt",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/481.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/481.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_481.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_481.wav",
     "text": "why shouldn't we have a debate?",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/168.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/168.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_168.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_168.wav",
     "text": "wait, it's- hey, stop... stop!",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/436.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/436.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_436.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_436.wav",
     "text": "i would give jonah a lap dance in a second",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/243.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/243.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_243.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_243.wav",
     "text": "cheyenne, give her the axe.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/42.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/42.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_42.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_42.wav",
     "text": "next order of business,we're going to be holding an employee costume competition today.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/535.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/535.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_535.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_535.wav",
     "text": "that's past the property line.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/159.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/159.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_159.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_159.wav",
     "text": "bo's mom calls, like, all the time.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/165.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/165.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_165.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_165.wav",
     "text": "to award the golden vest...",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E02/43.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E02/43.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E02_43.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E02_43.wav",
     "text": "no, i'm- i'm gonna make him look good.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/546.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/546.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_546.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_546.wav",
     "text": "yeah, but i don't think anyone should have that much power.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E10/414.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E10/414.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E10_414.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E10_414.wav",
     "text": "i 'm just saying that you should tell garrett",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/8.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/8.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_8.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_8.wav",
     "text": "it's a pipe organ.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/110.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/110.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_110.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_110.wav",
     "text": "that's tommy. he's lead organizer, total badass.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/522.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/522.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_522.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_522.wav",
     "text": "thank you so much.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/124.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/124.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_124.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_124.wav",
     "text": "dina's right, you don't know fashion.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E06/114.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E06/114.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E06_114.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E06_114.wav",
     "text": "oh, yeah, she's great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/113.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/113.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_113.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_113.wav",
     "text": "this pops  tony danza brand popcorn cartridges only.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E05/216.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E05/216.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E05_216.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E05_216.wav",
     "text": "'cause then i could hit on this bodacious babe.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/307.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/307.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_307.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_307.wav",
     "text": "you need to go back up to her and tell her",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E08/109.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E08/109.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E08_109.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E08_109.wav",
     "text": "oh, hey. dina, what's up?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/430.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/430.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_430.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_430.wav",
     "text": "why are you telling people that i'm  lying like a syrian ?",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/185.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/185.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_185.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_185.wav",
     "text": "anyway, zephra also asked me to set up a video conference",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/21.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/21.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_21.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_21.wav",
     "text": "this is a great debate for another time.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/440.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/440.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_440.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_440.wav",
     "text": "we have, and we want to apologize.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/222.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/222.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_222.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_222.wav",
     "text": "we just solved our first business crisis.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/507.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/507.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_507.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_507.wav",
     "text": "so thank you all so much for my gifts.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/64.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/64.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_64.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_64.wav",
     "text": "uh, no, that definitely wasn't me.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E01/96.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E01/96.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E01_96.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E01_96.wav",
     "text": "carol and justine, i'm moving you to school supplies.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E07/268.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E07/268.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E07_268.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E07_268.wav",
     "text": "but i need you to go empty the rat traps.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E09/360.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E09/360.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E09_360.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E09_360.wav",
     "text": "leading scientist admits earth is flat.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/510.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/510.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_510.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_510.wav",
     "text": "i really appreciate jerusha watching parker.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/3.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/3.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_3.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_3.wav",
     "text": "thanks.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/556.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/556.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_556.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_556.wav",
     "text": "i am so sorry",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/360.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/360.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_360.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_360.wav",
     "text": "jonah, i don't feel you were fair to me--",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E11/120.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E11/120.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E11_120.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E11_120.wav",
     "text": "oh, she is the devil.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/510.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/510.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_510.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_510.wav",
     "text": "you are bright. your numbers are great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/587.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/587.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_587.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_587.wav",
     "text": "oh, hey, dina.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/221.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/221.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_221.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_221.wav",
     "text": "hey, you don't have to be ashamed.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/22.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/22.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_22.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_22.wav",
     "text": "now, i'm gonna be a little busy.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/228.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/228.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_228.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_228.wav",
     "text": "and this is the break room.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/169.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/169.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_169.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_169.wav",
     "text": "i was just, um...i'm sorry.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/150.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/150.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_150.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_150.wav",
     "text": "it couldn't hurt to shake things up a little bit here.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/31.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/31.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_31.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_31.wav",
     "text": "maybe st. louis finally has a female serial killer.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/26.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/26.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_26.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_26.wav",
     "text": "one-  it's a cereal bar!",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/245.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/245.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_245.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_245.wav",
     "text": "take one whack, all right?",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/236.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/236.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_236.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_236.wav",
     "text": "look, all i'm saying is that you don't have to worry",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/287.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/287.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_287.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_287.wav",
     "text": "i am going to sit in traffic for 45 minutes and return this.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/332.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/332.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_332.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_332.wav",
     "text": "amy, why don't you be the manager, and you're gonna talk to cheyenne about her repeated absences.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/391.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/391.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_391.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_391.wav",
     "text": "i can just take off.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/457.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/457.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_457.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_457.wav",
     "text": "hey, carol. welcome back.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/170.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/170.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_170.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_170.wav",
     "text": "come on, it wasn't that bad.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/536.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/536.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_536.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_536.wav",
     "text": "yeah, those babies look great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/440.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/440.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_440.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_440.wav",
     "text": "you knocked over that cone back there, dog--i want a rematch.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/227.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/227.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_227.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_227.wav",
     "text": "so, girl, how is your day going?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/328.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/328.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_328.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_328.wav",
     "text": "maybe, instead, we should make them feel",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/351.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/351.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_351.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_351.wav",
     "text": "okay, it doesn't matter.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E02/97.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E02/97.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E02_97.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E02_97.wav",
     "text": "yeah, and i said how mateo's always serving up the tea, like when he told that lost little girl because her mommy was hot trash.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/285.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/285.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_285.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_285.wav",
     "text": "but you are coming on way too strong",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/491.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/491.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_491.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_491.wav",
     "text": "hey! just coming by to say hey.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/429.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/429.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_429.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_429.wav",
     "text": "i'll make sure to get the rest of those boxes.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/82.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/82.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_82.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_82.wav",
     "text": "no, no, it's- it's fine, it's fine.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/281.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/281.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_281.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_281.wav",
     "text": "but i can't forgive myself for leaving you for it.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/196.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/196.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_196.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_196.wav",
     "text": "i'm already three orders behind!",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/164.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/164.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_164.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_164.wav",
     "text": "sorry, i've just been feeling a little down lately.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/397.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/397.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_397.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_397.wav",
     "text": "i probably should've led with that, but you just kept talking and talking about how great you're doing.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E12/156.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E12/156.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E12_156.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E12_156.wav",
     "text": "this place is crawling with raccoons.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E01/194.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E01/194.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E01_194.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E01_194.wav",
     "text": "hey.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/447.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/447.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_447.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_447.wav",
     "text": "yeah.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/335.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/335.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_335.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_335.wav",
     "text": "oh, yes, thank you.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/292.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/292.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_292.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_292.wav",
     "text": "yeah. yeah, i would say that.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E10/26.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E10/26.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E10_26.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E10_26.wav",
     "text": "carol, you can probably just go start your shift now.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/591.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/591.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_591.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_591.wav",
     "text": "sucks.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/76.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/76.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_76.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_76.wav",
     "text": "so how's your toast coming?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/401.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/401.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_401.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_401.wav",
     "text": "well, it affects my work.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/417.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/417.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_417.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_417.wav",
     "text": "how you doing?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/279.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/279.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_279.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_279.wav",
     "text": "sorry i'm being so insensitive.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/481.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/481.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_481.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_481.wav",
     "text": "i just had a really hard year.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E02/17.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E02/17.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E02_17.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E02_17.wav",
     "text": "no, those are yesterday's donuts.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/506.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/506.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_506.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_506.wav",
     "text": "the guy's a monster.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/304.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/304.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_304.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_304.wav",
     "text": "mateo, give him his gift card.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/50.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/50.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_50.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_50.wav",
     "text": "corporate is asking us to run everybody through e-verify, and there's a bit of a problem.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/134.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/134.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_134.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_134.wav",
     "text": "totally. sounds great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/309.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/309.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_309.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_309.wav",
     "text": "hey, we have a problem.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E06/42.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E06/42.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E06_42.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E06_42.wav",
     "text": "no, ken, that's my car. that's the managers spot.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/230.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/230.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_230.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_230.wav",
     "text": "foul on the play!",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/194.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/194.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_194.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_194.wav",
     "text": "please gather in the break room",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/165.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/165.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_165.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_165.wav",
     "text": "let's not use the word  crazy.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E11/416.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E11/416.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E11_416.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E11_416.wav",
     "text": "then they shouldn't have started talking trash about us.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/500.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/500.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_500.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_500.wav",
     "text": "we should just take it from the top.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/103.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/103.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_103.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_103.wav",
     "text": "hey, man, don't touch my tummy!",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/143.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/143.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_143.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_143.wav",
     "text": "thank you for coming.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E10/436.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E10/436.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E10_436.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E10_436.wav",
     "text": "hannah, can you update the sim card on the robot?",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E05/388.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E05/388.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E05_388.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E05_388.wav",
     "text": "and here's the guy we have to thank.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/470.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/470.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_470.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_470.wav",
     "text": "i better go tell her.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E06/575.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E06/575.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E06_575.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E06_575.wav",
     "text": "oh, hey, guys, i don't know if you heard, but sandra's cat died yesterday",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/272.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/272.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_272.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_272.wav",
     "text": "that's a great idea. oh, my--",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E11/5.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E11/5.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E11_5.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E11_5.wav",
     "text": "close. they're supercloud step trackers.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/532.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/532.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_532.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_532.wav",
     "text": "i think jerry should have ended up with carol!",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/577.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/577.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_577.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_577.wav",
     "text": "it looked kind of like an inside-out otter.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/571.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/571.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_571.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_571.wav",
     "text": "please, i should be thanking you.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/277.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/277.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_277.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_277.wav",
     "text": "and he's going to be taking over for glenn as manager.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/476.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/476.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_476.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_476.wav",
     "text": "i did, that was awesome.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/551.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/551.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_551.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_551.wav",
     "text": "sorry, i meant to say that i also have",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E05/487.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E05/487.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E05_487.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E05_487.wav",
     "text": "i got a meeting--party.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/113.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/113.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_113.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_113.wav",
     "text": "connie, i love that dress.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/332.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/332.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_332.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_332.wav",
     "text": "fast as lightning, but sharper.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/292.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/292.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_292.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_292.wav",
     "text": "jonah and amy are at each other's throats.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/339.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/339.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_339.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_339.wav",
     "text": "a teenager bought 144 cans of chafing fuel",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/289.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/289.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_289.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_289.wav",
     "text": "never mind.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/308.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/308.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_308.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_308.wav",
     "text": "might have everybody a little bit on edge, but i mean, everybody gets that you guys matter. we're all good.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/215.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/215.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_215.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_215.wav",
     "text": "maybe we should humanize it.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/534.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/534.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_534.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_534.wav",
     "text": "there, see, was that so hard?",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/574.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/574.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_574.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_574.wav",
     "text": "thanks, that's comforting.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/208.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/208.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_208.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_208.wav",
     "text": "i, um, can type 100 words per minute.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/354.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/354.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_354.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_354.wav",
     "text": "what up, dave, is that i asked you hours ago  to assemble the turtle wax endcap, and it's still not done.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/61.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/61.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_61.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_61.wav",
     "text": "can you back me up here, please?",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/23.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/23.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_23.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_23.wav",
     "text": "hey, maya's here.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/361.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/361.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_361.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_361.wav",
     "text": "yeah, i think i'm gonna head to my car",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/321.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/321.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_321.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_321.wav",
     "text": "just tell 'em to take it down and get back to work.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/570.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/570.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_570.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_570.wav",
     "text": "i'm, uh, sorry about the mess.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/528.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/528.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_528.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_528.wav",
     "text": "oh, thank you for watching her.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/145.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/145.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_145.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_145.wav",
     "text": "oh, nothing. just having a little thing at my place.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/344.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/344.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_344.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_344.wav",
     "text": "thanks, amy.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/10.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/10.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_10.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_10.wav",
     "text": "ah, sand--sandra, i am gonna have you set up the display today.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/419.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/419.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_419.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_419.wav",
     "text": "you sure i can't get you a drink?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/175.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/175.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_175.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_175.wav",
     "text": "sorry. text from dina.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/439.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/439.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_439.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_439.wav",
     "text": "have you guys worked things out?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/181.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/181.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_181.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_181.wav",
     "text": "she doesn't want us!",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/160.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/160.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_160.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_160.wav",
     "text": "you guys should file a complaint with the company.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/440.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/440.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_440.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_440.wav",
     "text": "i thought you were, but then they started following me around; they started searching my stuff.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/6.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/6.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_6.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_6.wav",
     "text": "anyway, dina i can't go this year",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/172.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/172.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_172.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_172.wav",
     "text": "they looked great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/482.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/482.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_482.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_482.wav",
     "text": "sandra, come on. let's go.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/102.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/102.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_102.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_102.wav",
     "text": "hey, sandra, this order just says  pot.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/527.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/527.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_527.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_527.wav",
     "text": "hi, uh, i'm brian, by the way. i'm dina's boyfriend.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/85.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/85.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_85.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_85.wav",
     "text": "oh, yeah, definitely.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/68.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/68.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_68.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_68.wav",
     "text": "we quit telling you weeks ago because you're management.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/162.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/162.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_162.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_162.wav",
     "text": "my name is dina fox, and my goal here today is",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/225.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/225.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_225.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_225.wav",
     "text": "and i thought it would be the same, but it's not!",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/390.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/390.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_390.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_390.wav",
     "text": "i think i've won her over.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E08/542.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E08/542.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E08_542.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E08_542.wav",
     "text": "but it's not really your fault.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/388.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/388.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_388.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_388.wav",
     "text": "thank you.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/297.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/297.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_297.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_297.wav",
     "text": "i thought it was screaming, but i guess i was silent, because you muted me. you took away my voice.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/456.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/456.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_456.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_456.wav",
     "text": "i can do impressions too.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/45.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/45.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_45.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_45.wav",
     "text": "who wore it best, and the winner gets...",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/252.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/252.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_252.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_252.wav",
     "text": "new policy. starting now, there will be absolutely no personal talk on the floor.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/19.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/19.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_19.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_19.wav",
     "text": "you stole jerry from me.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/409.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/409.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_409.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_409.wav",
     "text": "thank you. you know, kelly",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/282.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/282.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_282.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_282.wav",
     "text": "we should just send justine home, right?",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/158.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/158.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_158.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_158.wav",
     "text": "so, look, i think it's great you're out here",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/387.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/387.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_387.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_387.wav",
     "text": "honestly, really great",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/89.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/89.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_89.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_89.wav",
     "text": "um, georgia is kind of a legend.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/482.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/482.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_482.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_482.wav",
     "text": "i'm just gonna hand out shift assignments",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/180.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/180.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_180.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_180.wav",
     "text": "duh. i'm sorry, mateo.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/370.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/370.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_370.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_370.wav",
     "text": "their beauty standers are way lower",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/122.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/122.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_122.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_122.wav",
     "text": "hm. eugene, could you get those boxes off from the top shelf, and take them to the back?",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/249.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/249.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_249.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_249.wav",
     "text": "the colors are packaged so you know they go together.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E02/80.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E02/80.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E02_80.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E02_80.wav",
     "text": "yeah, yeah, you're right. you're right.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/572.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/572.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_572.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_572.wav",
     "text": "this sucks.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E09/308.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E09/308.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E09_308.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E09_308.wav",
     "text": "their tablets barely hold a charge.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/128.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/128.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_128.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_128.wav",
     "text": "great. awesome.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/331.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/331.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_331.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_331.wav",
     "text": "so starting now, if anybody buys one of these without a warning and they die, we're liable.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/161.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/161.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_161.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_161.wav",
     "text": "okay.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E07/372.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E07/372.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E07_372.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E07_372.wav",
     "text": "that long. what have you been up to?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/294.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/294.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_294.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_294.wav",
     "text": "is everything okay?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E02/249.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E02/249.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E02_249.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E02_249.wav",
     "text": "it's fine, i'm just gonna put on my sweet and innocent voice, and bam, they won't even know what they're confessing to.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/389.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/389.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_389.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_389.wav",
     "text": "how's the peeing going?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/66.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/66.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_66.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_66.wav",
     "text": "oh, that is wonderful.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/227.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/227.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_227.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_227.wav",
     "text": "uh, i'm sorry.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E05/192.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E05/192.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E05_192.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E05_192.wav",
     "text": "but i think it might be easier if you just wrote it down.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/176.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/176.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_176.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_176.wav",
     "text": "kaluiokalani sounds made-up. anyway, just tell him i'm dead.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/183.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/183.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_183.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_183.wav",
     "text": "why can't i just delete the registry?",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/589.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/589.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_589.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_589.wav",
     "text": "i'm sorry, marcus.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/530.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/530.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_530.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_530.wav",
     "text": "huh, you know, that's a good point.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/12.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/12.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_12.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_12.wav",
     "text": "all you have to do today is hand out these nifty care packages to the holloway house women's shelter",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E06/41.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E06/41.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E06_41.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E06_41.wav",
     "text": "honestly, you're- you're really beautiful.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/468.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/468.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_468.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_468.wav",
     "text": "i did. i did. i blew it.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/8.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/8.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_8.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_8.wav",
     "text": "you don't need to. no.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E10/396.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E10/396.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E10_396.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E10_396.wav",
     "text": "garrett's like a really nice guy and funny and cute.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/105.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/105.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_105.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_105.wav",
     "text": "the governor shut down all indoor dining.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/1.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/1.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_1.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_1.wav",
     "text": "good morning, store 1217.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E07/244.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E07/244.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E07_244.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E07_244.wav",
     "text": "excuse me, do you know anything about drills?",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/24.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/24.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_24.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_24.wav",
     "text": "okay, anyway, i need to get a head count so i know who's coming.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E02/246.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E02/246.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E02_246.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E02_246.wav",
     "text": "hey, so i just wanted to apologize",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/266.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/266.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_266.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_266.wav",
     "text": "not a refugee, like you. knock on wood.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/389.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/389.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_389.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_389.wav",
     "text": "she threw a mustard jar at me. it left a bruise... on my thigh.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/333.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/333.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_333.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_333.wav",
     "text": "and we thought of you",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/534.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/534.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_534.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_534.wav",
     "text": "beautiful.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/219.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/219.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_219.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_219.wav",
     "text": "both jonah and cheyenne wanna be floor supervisor.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E05/167.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E05/167.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E05_167.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E05_167.wav",
     "text": "but i thought we'd make a list of the other issues corporate needs to address.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/453.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/453.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_453.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_453.wav",
     "text": "this is a map of the night stars over st. louis where we met.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/366.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/366.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_366.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_366.wav",
     "text": "i don't think that's what i said at all.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/398.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/398.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_398.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_398.wav",
     "text": "she's a real grumplestiltskin.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/304.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/304.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_304.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_304.wav",
     "text": "hey, garrett.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/190.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/190.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_190.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_190.wav",
     "text": "okay, let's start by hearing everybody's work experience.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E06/466.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E06/466.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E06_466.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E06_466.wav",
     "text": "i guess it's defective, just like the two of you!",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/139.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/139.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_139.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_139.wav",
     "text": "just say that you were with bo all night last thursday.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/473.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/473.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_473.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_473.wav",
     "text": "you look good and you better get your prize",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E07/160.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E07/160.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E07_160.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E07_160.wav",
     "text": "it was a...anniversary present for my wife",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/513.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/513.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_513.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_513.wav",
     "text": "two babies enter, one baby leaves.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/169.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/169.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_169.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_169.wav",
     "text": "ah mateo, that's awesome!",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/28.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/28.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_28.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_28.wav",
     "text": "ladies, this is the embalming conference.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E09/384.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E09/384.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E09_384.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E09_384.wav",
     "text": "yours was just, like, attitude, which is fine.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E06/20.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E06/20.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E06_20.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E06_20.wav",
     "text": "we've got a really exciting covid announcement.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/472.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/472.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_472.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_472.wav",
     "text": "if you could just put all the raw footage on there.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/510.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/510.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_510.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_510.wav",
     "text": "they don't even have to pay for their aroma-therapy diffusers. how is that fair?",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/250.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/250.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_250.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_250.wav",
     "text": "it's not that bad.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/183.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/183.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_183.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_183.wav",
     "text": "okay, fine, whatever. let's just go.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/227.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/227.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_227.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_227.wav",
     "text": "girl, don't be so hard up on yourself, okay? i'm sure it's not nearly as bad as you--.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/77.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/77.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_77.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_77.wav",
     "text": "thank you, glenn.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E06/313.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E06/313.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E06_313.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E06_313.wav",
     "text": "she was great. and funny.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/192.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/192.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_192.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_192.wav",
     "text": "you first, justine.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/146.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/146.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_146.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_146.wav",
     "text": "he's in a handball league, he had a deaf girlfriend",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/17.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/17.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_17.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_17.wav",
     "text": "well, i mean, you almost made me kill your cat.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/430.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/430.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_430.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_430.wav",
     "text": "i'm gonna pass out the tomatoes.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/210.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/210.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_210.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_210.wav",
     "text": "that squeaks. that's what squirrels do.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/114.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/114.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_114.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_114.wav",
     "text": "this is too much pressure.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/90.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/90.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_90.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_90.wav",
     "text": "and actually,maybe you could talk to him about sex and stuff.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/119.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/119.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_119.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_119.wav",
     "text": "well, amy is at the eye doctor.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/197.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/197.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_197.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_197.wav",
     "text": "i gotta go tag in.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/217.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/217.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_217.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_217.wav",
     "text": "you just throw it in a cart like a sack of margarine.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/20.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/20.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_20.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_20.wav",
     "text": "nobody's getting fired. get out of your head.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/85.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/85.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_85.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_85.wav",
     "text": "stop, please.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/397.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/397.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_397.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_397.wav",
     "text": "that's good advice.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/199.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/199.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_199.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_199.wav",
     "text": "i know you're lying!",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/13.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/13.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_13.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_13.wav",
     "text": "and i was wondering if maybe you'd be willing to write a letter of recommendation",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/461.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/461.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_461.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_461.wav",
     "text": "sorry. i'm so sorry, judy.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E01/446.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E01/446.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E01_446.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E01_446.wav",
     "text": "cease fire! cease fire!",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/477.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/477.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_477.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_477.wav",
     "text": "this is a very good plan.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/308.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/308.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_308.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_308.wav",
     "text": "no, you don't get a gift card for every stupid little army man.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/535.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/535.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_535.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_535.wav",
     "text": "these people, they're evil.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/204.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/204.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_204.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_204.wav",
     "text": "and crestwood came around... hey!",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E02/395.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E02/395.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E02_395.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E02_395.wav",
     "text": "i once ate a pencil 'cause i thought it was chocolate.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/512.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/512.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_512.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_512.wav",
     "text": "you're hurt.",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/171.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/171.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_171.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_171.wav",
     "text": "actually, i really need to get out.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/420.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/420.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_420.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_420.wav",
     "text": "yeah, they're jordan 11 retro concords.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/139.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/139.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_139.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_139.wav",
     "text": "sandra's sister is useless, and jerry's family members",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/340.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/340.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_340.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_340.wav",
     "text": "it's homemade.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/459.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/459.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_459.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_459.wav",
     "text": "i just wanted to apologize for earlier.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/265.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/265.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_265.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_265.wav",
     "text": "thanks.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/213.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/213.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_213.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_213.wav",
     "text": "see, look at my dress. it's spotless.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/293.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/293.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_293.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_293.wav",
     "text": "no, you're right. you're right.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/225.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/225.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_225.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_225.wav",
     "text": "i'm like a sitting duck in customer service. you have any idea how wet-lipped",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/96.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/96.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_96.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_96.wav",
     "text": "just a heads up, you might be getting a call",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/425.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/425.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_425.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_425.wav",
     "text": "right, yes, yeah, yeah. that's a good- that's a good point.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/552.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/552.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_552.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_552.wav",
     "text": "okay, i gotta get going.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/152.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/152.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_152.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_152.wav",
     "text": "yes, definitely.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/315.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/315.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_315.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_315.wav",
     "text": "i wanna be puma, raised in the jungles of peru",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/198.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/198.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_198.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_198.wav",
     "text": "so you either interview amy,or i file a 31-j with kyle robichot.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E05/26.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E05/26.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E05_26.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E05_26.wav",
     "text": "yup, that was pretty cool of corporate to fix it.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/208.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/208.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_208.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_208.wav",
     "text": "zephra finally sent over the safety protocols.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/111.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/111.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_111.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_111.wav",
     "text": "thanks.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/355.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/355.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_355.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_355.wav",
     "text": "but properly distanced, so don't move your chairs.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/485.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/485.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_485.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_485.wav",
     "text": "i appreciate that you bought american!",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/488.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/488.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_488.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_488.wav",
     "text": "what happened with amy?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/373.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/373.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_373.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_373.wav",
     "text": "that is a good point, dina.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E02/1.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E02/1.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E02_1.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E02_1.wav",
     "text": "quick covid safety reminder:",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/447.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/447.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_447.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_447.wav",
     "text": "this is great, this is healthy, this is--this is--",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/561.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/561.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_561.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_561.wav",
     "text": "or girlfriend, what does she think about all your birds?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/286.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/286.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_286.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_286.wav",
     "text": "but, uh, we got some more partying to do, folks.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/386.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/386.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_386.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_386.wav",
     "text": "oh, wow. i look like a hot, glowing stanley tucci.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/535.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/535.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_535.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_535.wav",
     "text": "make a reservation at ramona's.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E05/417.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E05/417.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E05_417.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E05_417.wav",
     "text": "thanks for filling in.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/100.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/100.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_100.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_100.wav",
     "text": "oh, yeah.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/89.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/89.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_89.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_89.wav",
     "text": "not a problem for me.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/361.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/361.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_361.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_361.wav",
     "text": "oh, hey, amy.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/25.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/25.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_25.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_25.wav",
     "text": "it's the parents you want to impress",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/535.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/535.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_535.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_535.wav",
     "text": "you gotta show her these before you dump her.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/436.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/436.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_436.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_436.wav",
     "text": "no, you know what? uh, everything's not all right.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/10.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/10.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_10.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_10.wav",
     "text": "uh, sandra, can you take the lead on that?",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/291.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/291.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_291.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_291.wav",
     "text": "halloween surfboard.  it's just stupid!",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/326.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/326.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_326.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_326.wav",
     "text": "you did? aww, thanks, garrett.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/13.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/13.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_13.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_13.wav",
     "text": "maybe dina shouldn't have brought her loud, dirty birds into work.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/425.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/425.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_425.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_425.wav",
     "text": "no, no, jurgen steals all my jobs.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/328.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/328.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_328.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_328.wav",
     "text": "okay, bo, stop. all right?",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E10/238.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E10/238.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E10_238.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E10_238.wav",
     "text": "hey! i got you a little congratulations gift",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/335.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/335.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_335.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_335.wav",
     "text": "um--oh, yeah, she is great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/23.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/23.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_23.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_23.wav",
     "text": "okay, so, uh, st. patrick's day. right.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/397.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/397.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_397.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_397.wav",
     "text": "we're--we're not here for the crumbs, you know?",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E05/368.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E05/368.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E05_368.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E05_368.wav",
     "text": "dina, you're gonna be fine.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/291.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/291.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_291.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_291.wav",
     "text": "oh, my god, you're cheating.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/521.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/521.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_521.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_521.wav",
     "text": "that's what i thought.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/156.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/156.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_156.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_156.wav",
     "text": "so if you see him, call me on the walkie immediately.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E05/208.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E05/208.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E05_208.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E05_208.wav",
     "text": "i think it's great that we're trying",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/343.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/343.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_343.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_343.wav",
     "text": "amy, it's fine. it's just a call.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/290.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/290.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_290.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_290.wav",
     "text": "yeah, you played that very cool, by the way.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/433.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/433.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_433.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_433.wav",
     "text": "what? no, i didn't take any packages.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/477.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/477.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_477.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_477.wav",
     "text": "whoa, whoa, whoa, whoa, whoa. we don't need to do that, okay?",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/575.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/575.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_575.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_575.wav",
     "text": "uh, so what was it?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/487.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/487.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_487.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_487.wav",
     "text": "just letting you know, i want a divorce.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E02/337.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E02/337.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E02_337.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E02_337.wav",
     "text": "hi amy, it's me.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/370.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/370.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_370.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_370.wav",
     "text": "how's it going in there?",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/436.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/436.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_436.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_436.wav",
     "text": "it is. it is a nice parking lot.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/515.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/515.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_515.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_515.wav",
     "text": "margo's my girlfriend.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/112.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/112.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_112.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_112.wav",
     "text": "it's worth a try.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E12/497.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E12/497.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E12_497.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E12_497.wav",
     "text": "oh, hey, excuse me, man. is this place open?",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E02/434.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E02/434.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E02_434.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E02_434.wav",
     "text": "uh, don't eat the baby food. the baby food is bad.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/204.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/204.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_204.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_204.wav",
     "text": "can you just help me figure out how to play this?",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/513.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/513.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_513.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_513.wav",
     "text": "protect your future, chica. you could be going places.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/472.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/472.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_472.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_472.wav",
     "text": "no, girl. you won.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/250.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/250.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_250.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_250.wav",
     "text": "i was actually pretty upset about it. i stewed outside for hours.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/595.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/595.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_595.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_595.wav",
     "text": "look, i don't understand why everybody wants to talk everything to death. to talk everything to death.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E11/185.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E11/185.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E11_185.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E11_185.wav",
     "text": "oh, excuse me, sir- can i get this in a--",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/498.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/498.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_498.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_498.wav",
     "text": "you're right.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/263.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/263.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_263.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_263.wav",
     "text": "that- that i need until end of day!",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E06/453.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E06/453.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E06_453.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E06_453.wav",
     "text": "i have slept 90 minutes in three days.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/535.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/535.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_535.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_535.wav",
     "text": "your total is $23.87.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E07/275.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E07/275.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E07_275.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E07_275.wav",
     "text": "then i need you to go clean the men's washroom.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/251.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/251.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_251.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_251.wav",
     "text": "oh! amy.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/56.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/56.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_56.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_56.wav",
     "text": "why don't we pick out items for each other?",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/383.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/383.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_383.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_383.wav",
     "text": "cheyenne was right. i'm a screwup.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/237.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/237.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_237.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_237.wav",
     "text": "well, we don't allow street performers out here",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/437.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/437.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_437.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_437.wav",
     "text": "sorry, this is where we're storing",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/506.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/506.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_506.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_506.wav",
     "text": "you should never joke about bombs.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/484.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/484.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_484.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_484.wav",
     "text": "thanks for stopping by.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/408.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/408.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_408.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_408.wav",
     "text": "they ride us till we drop and then immediately sell our ass meat.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/552.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/552.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_552.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_552.wav",
     "text": "we raised the wage!",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/294.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/294.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_294.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_294.wav",
     "text": "that's state-of-the-art wireless vr.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/22.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/22.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_22.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_22.wav",
     "text": "he's obviously toxic american masculinity.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E04/67.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E04/67.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E04_67.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E04_67.wav",
     "text": "but lady is on my last nerve today.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/1.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/1.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_1.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_1.wav",
     "text": "so you may have heard about the new ownership, but we're still cloud 9",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/219.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/219.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_219.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_219.wav",
     "text": "yeah, browsing's for cowards, dude!",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/145.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/145.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_145.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_145.wav",
     "text": "or--or--or put them in, like, a science lab, you know?",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/150.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/150.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_150.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_150.wav",
     "text": "i mean, i applaud you for trying",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/511.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/511.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_511.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_511.wav",
     "text": "oh, nice to have you, man.",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/47.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/47.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_47.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_47.wav",
     "text": "no one moved product like me back at sturgis & sons.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/226.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/226.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_226.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_226.wav",
     "text": "we'll consider that. thank you.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/88.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/88.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_88.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_88.wav",
     "text": "dan wants to put in a  famous glasses in history  display.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/339.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/339.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_339.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_339.wav",
     "text": "wait, there's one more i want you to try.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/328.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/328.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_328.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_328.wav",
     "text": "i want to make you a manager.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/13.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/13.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_13.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_13.wav",
     "text": "i've heard it five times.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/35.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/35.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_35.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_35.wav",
     "text": "maybe he's afraid of heights. put him on the floor.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/308.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/308.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_308.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_308.wav",
     "text": "yeah, okay. all right, look.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/123.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/123.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_123.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_123.wav",
     "text": "this isn't even a break. this is just... unofficial break room time.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/568.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/568.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_568.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_568.wav",
     "text": "oh, yeah, sure.",
-    "label": "Agree"
+    "label": " agree"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/419.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/419.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_419.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_419.wav",
     "text": "and terrence, you stole $40 billion",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/128.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/128.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_128.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_128.wav",
     "text": "yeah, i haven't sold, like, anything today.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E08/145.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E08/145.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E08_145.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E08_145.wav",
     "text": "the--the case is closed. you can't reopen the case.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/525.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/525.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_525.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_525.wav",
     "text": "why? glenn, what were you thinking?",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E21/142.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E21/142.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E21_142.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E21_142.wav",
     "text": "tony!",
-    "label": "Greet"
+    "label": " greet"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/267.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/267.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_267.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_267.wav",
     "text": "it's just, it feels silly for me to be giving a speech",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E06/43.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E06/43.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E06_43.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E06_43.wav",
     "text": "you've got like a- like a post-pregnancy glow.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E06/420.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E06/420.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E06_420.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E06_420.wav",
     "text": "her hair looks like spaghetti that's been left in the pot.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/423.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/423.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_423.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_423.wav",
     "text": "you stay right here.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/117.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/117.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_117.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_117.wav",
     "text": "and you're really good at holding things.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/25.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/25.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_25.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_25.wav",
     "text": "i'm sorry. i tried.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/127.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/127.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_127.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_127.wav",
     "text": "i'm sorry, cheyenne. gecko lady's weirder.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E03/474.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E03/474.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E03_474.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E03_474.wav",
     "text": "we should be talking about actual issues.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/196.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/196.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_196.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_196.wav",
     "text": "you don't have to be embarrassed.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E11/473.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E11/473.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E11_473.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E11_473.wav",
     "text": "the worst part about this is that colleen wins again.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/497.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/497.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_497.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_497.wav",
     "text": "i really hate her.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/287.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/287.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_287.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_287.wav",
     "text": "i budgeted six shrimp per person, so go to town.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/329.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/329.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_329.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_329.wav",
     "text": "where's my order? i need that washing machine.",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E16/148.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E16/148.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E16_148.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E16_148.wav",
     "text": "sorry, buddy. not you. you look totally normal.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/530.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/530.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_530.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_530.wav",
     "text": "but you are gonna be fine.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/373.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/373.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_373.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_373.wav",
     "text": "i order three jars of pumpkin spice salsa an hour ago, and i've been waiting in my car.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/573.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/573.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_573.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_573.wav",
     "text": "not today. look, i'm sorry about amy too.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/159.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/159.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_159.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_159.wav",
     "text": "and the sound quality's full  garbagio.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/321.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/321.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_321.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_321.wav",
     "text": "i have to fix it before maya sees.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/504.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/504.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_504.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_504.wav",
     "text": "glenn, apologize to the car i dented.",
-    "label": "Arrange"
+    "label": " arrange"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E07/541.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E07/541.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E07_541.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E07_541.wav",
     "text": "are you okay?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E08/136.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E08/136.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E08_136.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E08_136.wav",
     "text": "garrett can do anything.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/51.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/51.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_51.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_51.wav",
     "text": "i was the best salesperson in the store.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E09/558.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E09/558.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E09_558.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E09_558.wav",
     "text": "this isn't the company i signed up to work for after they drove my family hardware store out of business.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/79.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/79.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_79.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_79.wav",
     "text": "eric, i told you, you can't just let anybody into my house.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E20/505.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E20/505.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E20_505.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E20_505.wav",
     "text": "he brings that up a lot. i'm sorry.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E17/384.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E17/384.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E17_384.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E17_384.wav",
     "text": "everything all right?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E08/60.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E08/60.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E08_60.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E08_60.wav",
     "text": "sorry, just a little nervous.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/144.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/144.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_144.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_144.wav",
     "text": "hey, they still have some!",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E13/129.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E13/129.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E13_129.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E13_129.wav",
     "text": "i work here 16 to 19 hours a day, so i'm missing a lot of time with her.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/517.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/517.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_517.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_517.wav",
     "text": "he's lying right now because he stole the stuff.",
-    "label": "Criticize"
+    "label": " criticize"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/306.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/306.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_306.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_306.wav",
     "text": "i'm pretty good at hiding things.",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/145.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/145.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_145.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_145.wav",
     "text": "my husband's being such a b-munch right now.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/177.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/177.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_177.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_177.wav",
     "text": "okay, bye.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E10/281.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E10/281.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E10_281.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E10_281.wav",
     "text": "no, no, no, janet, don't hang up.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/1.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/1.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_1.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_1.wav",
     "text": "attention cloud 9 shoppers and employees. i, uh--i just wanted to take this moment",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/113.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/113.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_113.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_113.wav",
     "text": "yeah, it's nice.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/353.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/353.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_353.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_353.wav",
     "text": "they're not really known for their customer service.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E12/394.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E12/394.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E12_394.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E12_394.wav",
     "text": "well, then let's all stop annoying each other",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E04/515.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E04/515.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E04_515.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E04_515.wav",
     "text": "that i actually ended up suppressing votes?",
-    "label": "Flaunt"
+    "label": " flaunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/243.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/243.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_243.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_243.wav",
     "text": "it's not cool, it's not funny, and it's starting to make people uncomfortable.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/578.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/578.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_578.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_578.wav",
     "text": "thank you.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/136.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/136.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_136.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_136.wav",
     "text": "i'm doing this new curbside thing.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E10/422.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E10/422.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E10_422.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E10_422.wav",
     "text": "well, i really need ice cream cones.",
-    "label": "Ask for help"
+    "label": " ask for help"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/190.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/190.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_190.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_190.wav",
     "text": "you know, it might be nice for parker to get some",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E16/329.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E16/329.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E16_329.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E16_329.wav",
     "text": "good. are you sick?",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E05/156.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E05/156.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E05_156.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E05_156.wav",
     "text": "the reason i'm asking is we don't accept your insurance.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/391.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/391.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_391.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_391.wav",
     "text": "i've got an idea. fire her ass.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/64.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/64.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_64.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_64.wav",
     "text": "hey, so what's the latest with operation",
-    "label": "Care"
+    "label": " care"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/332.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/332.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_332.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_332.wav",
     "text": "oh, that's really great.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/315.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/315.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_315.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_315.wav",
     "text": "ugh. what a waste of money.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/447.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/447.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_447.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_447.wav",
     "text": "you're satan workers!",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E01/432.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E01/432.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E01_432.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E01_432.wav",
     "text": "cindy, i'm gonna do that right now.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E15/529.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E15/529.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E15_529.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E15_529.wav",
     "text": "and unfortunately, it is supposed to rain.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E09/368.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E09/368.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E09_368.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E09_368.wav",
     "text": "it makes about as much sense",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/18.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/18.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_18.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_18.wav",
     "text": "i'm just gonna be a good old-fashioned cowboy.",
-    "label": "Joke"
+    "label": " joke"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E07/334.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E07/334.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E07_334.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E07_334.wav",
     "text": "he's just a wuss who's still afraid of his parents.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/136.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/136.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_136.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_136.wav",
     "text": "wow. cool shirts.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E06/35.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E06/35.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E06_35.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E06_35.wav",
     "text": "sorry i'm late. sorry.",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/106.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/106.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_106.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_106.wav",
     "text": "is how a man manages to make it to 60 without hitting puberty.",
-    "label": "Taunt"
+    "label": " taunt"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/126.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/126.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_126.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_126.wav",
     "text": "anyway, thank you for coming and talking to me.",
-    "label": "Thank"
+    "label": " thank"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/320.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/320.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_320.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_320.wav",
     "text": "like, you need to communicate better.",
-    "label": "Advise"
+    "label": " advise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S06/E10/257.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S06/E10/257.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S06_E10_257.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S06_E10_257.wav",
     "text": "love the socks, by the way. so thoughtful.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E12/129.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E12/129.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E12_129.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E12_129.wav",
     "text": "no, no, no, it's called multi-level marketing.",
-    "label": "Oppose"
+    "label": " oppose"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E07/554.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E07/554.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E07_554.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E07_554.wav",
     "text": "this display's my masterpiece right here.",
-    "label": "Introduce"
+    "label": " introduce"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E14/169.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E14/169.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E14_169.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E14_169.wav",
     "text": "how am i supposed to find $27,000 worth of stuff to repair in one day? there's just not that much stuff that's broken!",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E14/109.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E14/109.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E14_109.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E14_109.wav",
     "text": "yeah, it just takes practice.",
-    "label": "Comfort"
+    "label": " comfort"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S04/E03/413.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S04/E03/413.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S04_E03_413.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S04_E03_413.wav",
     "text": "that was- good breakthrough.",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/80.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/80.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_80.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_80.wav",
     "text": "this is great!",
-    "label": "Praise"
+    "label": " praise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E13/213.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E13/213.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E13_213.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E13_213.wav",
     "text": "hey, you've got a thing coming up.",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E11/526.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E11/526.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E11_526.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E11_526.wav",
     "text": "amy, us men of the store are tired of taking orders from a woman.",
-    "label": "Complain"
+    "label": " complain"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E17/353.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E17/353.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E17_353.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E17_353.wav",
     "text": "sandra, you have to stop.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/366.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/366.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_366.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_366.wav",
     "text": "i mean, i do kind of have to go.",
-    "label": "Leave"
+    "label": " leave"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E18/395.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E18/395.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E18_395.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E18_395.wav",
     "text": "oh, okay, well, yeah. don't--do not give him that.",
-    "label": "Prevent"
+    "label": " prevent"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E19/389.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E19/389.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E19_389.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E19_389.wav",
     "text": "guys, i sent carol to lunch so that we could talk about",
-    "label": "Inform"
+    "label": " inform"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E08/90.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E08/90.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E08_90.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E08_90.wav",
     "text": "i'm sorry, garrett",
-    "label": "Apologise"
+    "label": " apologise"
   },
   {
-    "video_path": "/root/user/xyh/Datasets/MIntRec/video/S05/E09/540.mp4",
-    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/S05/E09/540.wav",
+    "video_path": "/root/user/xyh/Datasets/MIntRec/video/MIntRec_S05_E09_540.mp4",
+    "audio_path": "/root/user/xyh/Datasets/MIntRec/audio/MIntRec_S05_E09_540.wav",
     "text": "your fault because the two of you don't know",
-    "label": "Criticize"
+    "label": " criticize"
   }
 ]

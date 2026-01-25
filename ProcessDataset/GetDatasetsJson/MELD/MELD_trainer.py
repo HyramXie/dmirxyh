@@ -3,8 +3,8 @@ import json
 import os
 
 #修改部分
-csv_file = "/root/user/xyh/Datasets/MELD/test.tsv"
-json_file = "/root/user/xyh/Datasets/MELD/MELD_test.json"
+csv_file = "/root/user/xyh/Datasets/MELD/dev.tsv"
+json_file = "/root/user/xyh/Datasets/MELD/MELD_dev.json"
 
 df = pd.read_csv(csv_file, sep='\t')
 conversations = []
@@ -14,12 +14,14 @@ for i in range(len(df)):
 
     #修改部分
     video_path = os.path.join("/root/user/xyh/Datasets/MELD/video", "MELD-DA_" + str(data["id"]) + ".mp4")
+    audio_path = os.path.join("/root/user/xyh/Datasets/MELD/audio", "MELD-DA_" + str(data["id"]) + ".wav")
     
     text = data["text"]
     lable = data["label"].strip()
 
     conversations.append({
         "video_path": video_path,
+        "audio_path": audio_path,
         "text": text,
         "label": lable
     })

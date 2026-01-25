@@ -14,12 +14,14 @@ for i in range(len(df)):
 
     #修改部分
     video_path = os.path.join("/root/user/xyh/Datasets/MIntRec2/video", "MIntRec2.0_" + data["id"] + ".mp4")
+    audio_path = os.path.join("/root/user/xyh/Datasets/MIntRec2/audio", "MIntRec2.0_" + data["id"] + ".wav")
     
     text = data["text"]
     lable = data["label"].strip()
 
     conversations.append({
         "video_path": video_path,
+        "audio_path": audio_path,
         "text": text,
         "label": lable
     })
