@@ -39,10 +39,10 @@ class MultimodalTrainer(Trainer):
                 os.path.join(output_dir, "fusion_module.pt")
             )
 
-        moe = getattr(model, "moe", None)
+        moe = getattr(model, "vision_moe", None)
         if moe is not None:
             torch.save(
                 moe.state_dict(),
-                os.path.join(output_dir, "moe.pt")
+                os.path.join(output_dir, "vision_moe.pt")
             )
         torch.save(self.args, os.path.join(output_dir, "training_args.bin"))

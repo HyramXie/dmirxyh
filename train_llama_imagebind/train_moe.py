@@ -20,6 +20,7 @@ def train():
     parser.add_argument("--vision_path", type=str, default="/root/huggingface/google/siglip-so400m-patch14-384")
     parser.add_argument("--data_path", type=str, default="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json")
     parser.add_argument("--output_dir", type=str, default="./checkpoints/qwen_mintrec_base")
+    
     # --- 训练超参数 ---
     parser.add_argument("--batch_size", type=int, default=1, help="Per device train batch size")
     parser.add_argument("--grad_accum_steps", type=int, default=8, help="Gradient accumulation steps")
