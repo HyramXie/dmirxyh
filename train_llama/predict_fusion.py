@@ -21,9 +21,9 @@ from model.fusion import CrossAttentionFusion
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_fusion", 
-    "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_fusion.json",
+    "checkpoint_dir": "./checkpoints/llama_mintrec2_fusion/checkpoint-2313", 
+    "test_data_path": "/root/user/xyh/Datasets/MIntRec2/MIntRec2_test.json", 
+    "output_file": "./eval/mintrec2_predictions_fusion.json",
     "device": "cuda",
     "num_frames": 4
 }
@@ -157,6 +157,11 @@ class IntentPredictor:
         prompt = self.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         
         input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to(self.device)
+
+        terminators = [
+            self.tokenizer.eos_token_id,
+            self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+        ]
         
         with torch.no_grad():
             # 获取文本 Embedding
@@ -179,7 +184,7 @@ class IntentPredictor:
                 max_new_tokens=10,      # 意图标签通常很短
                 do_sample=False,
                 pad_token_id=self.tokenizer.eos_token_id,
-                eos_token_id=self.tokenizer.eos_token_id
+                eos_token_id=terminators
             )
 
         # 6. 解码

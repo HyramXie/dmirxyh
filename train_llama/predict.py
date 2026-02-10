@@ -20,9 +20,9 @@ from model.projector import MMInputProjector
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_base", 
-    "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_base.json",
+    "checkpoint_dir": "./checkpoints/llama_mintrec2_base/checkpoint-2313", 
+    "test_data_path": "/root/user/xyh/Datasets/MIntRec2/MIntRec2_test.json", 
+    "output_file": "./eval/mintrec2_predictions_base.json",
     "device": "cuda",
     "num_frames": 4
 }
@@ -140,6 +140,11 @@ class IntentPredictor:
         
         input_ids = self.tokenizer(prompt, return_tensors="pt").input_ids.to(self.device)
         
+        terminators = [
+            self.tokenizer.eos_token_id,
+            self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+        ]
+
         with torch.no_grad():
             # 获取文本 Embedding
             # 注意：llm 是 PeftModel，可以通过 get_input_embeddings 获取
@@ -158,7 +163,7 @@ class IntentPredictor:
                 max_new_tokens=10,      # 意图标签通常很短
                 do_sample=False,
                 pad_token_id=self.tokenizer.eos_token_id,
-                eos_token_id=self.tokenizer.eos_token_id
+                eos_token_id=terminators
             )
 
         # 6. 解码
