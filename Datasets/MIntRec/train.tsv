@@ -1,1335 +1,1335 @@
-id	text	label	dimension
-S05_E16_329	apparently, teens are drinking the slushie stuff inside of these for the alcohol.	 inform	intent
-S06_E06_589	we are the manager.	 introduce	intent
-S06_E02_25	that is not true, marcus.	 oppose	intent
-S05_E16_219	eh, if i did, i'd have to change it on my debit card too.	 leave	intent
-S05_E19_506	yeah, he has, like, no respect for the permit.	 complain	intent
-S05_E10_325	how are things going over there?	 care	intent
-S05_E08_428	what is this you're sprinkling?	 care	intent
-S05_E12_358	it's the business that we were gonna start.	 introduce	intent
-S06_E07_601	you were a great roommate.	 praise	intent
-S04_E17_434	i actually just bought some stock in a drone company.	 inform	intent
-S05_E11_27	heather, you're in housewares.	 arrange	intent
-S05_E14_54	oh, okay. no worries.	 comfort	intent
-S05_E06_206	hey!	 greet	intent
-S04_E10_375	there's, like, eight of us, that's more of a walk.	 complain	intent
-S04_E08_105	hey, denise, these are friends of mine	 introduce	intent
-S05_E08_418	yes, of course!	 agree	intent
-S05_E08_149	hi, i'm amy sosa, store manager.	 introduce	intent
-S04_E03_388	how am i supposed to work checkout?	 complain	intent
-S06_E04_542	okay, all right, new rule: no one can be mad about whatever was said in this room, okay?	 inform	intent
-S05_E12_32	hey, guys, myrtle's nephew just came in	 inform	intent
-S04_E09_486	again, i'm sorry about the typo.	 apologise	intent
-S05_E08_537	yeah.	 agree	intent
-S05_E21_201	oh, we could get, like, a red bull fountain.	 advise	intent
-S04_E16_494	sandra, code cottontail.	 inform	intent
-S04_E13_472	you were the one who said he should be telling her.	 criticize	intent
-S05_E08_337	mateo, give him the gift card.	 arrange	intent
-S04_E03_84	this one smells like peanut butter.	 introduce	intent
-S05_E16_27	also there's a product locator, an inventory map	 inform	intent
-S05_E15_258	kira moon from zephra will be  surprising  us	 inform	intent
-S06_E05_74	yeah, you know, this is actually exactly	 agree	intent
-S05_E06_229	thank you.	 thank	intent
-S05_E17_95	oh, hey, glenn.	 greet	intent
-S05_E08_489	glenn, take this down. sandra, keep going.	 arrange	intent
-S05_E11_487	jonah, i wasted my afternoon in that meeting just to go along with your new cause	 complain	intent
-S05_E07_189	anyone who ripped up their workbook has failed.	 inform	intent
-S04_E07_301	why didn't you just shout,  hey glenn	 complain	intent
-S05_E11_149	never forget how fun you are, jonah.	 taunt	intent
-S05_E13_15	um, and jonah and justine, you get to help out tomorrow when the rest of the shipment comes in.	 arrange	intent
-S05_E21_16	you're smart, hardworking	 praise	intent
-S05_E13_80	that's crazy. you can't do that.	 prevent	intent
-S04_E04_57	i'm doing very well.	 flaunt	intent
-S05_E07_34	great, thanks. also, did you know	 thank	intent
-S04_E09_398	and such a massive waste of time	 complain	intent
-S05_E07_603	so maybe marcus could join us?	 advise	intent
-S05_E08_126	you can donate to our toy drive.	 advise	intent
-S05_E18_328	and you've taken him to a doctor, and he's doing fine?	 care	intent
-S05_E10_491	sure, thanks.	 thank	intent
-S05_E11_256	but i could really use the help.	 ask for help	intent
-S05_E11_93	garrett, do you mind if i use your phone?	 ask for help	intent
-S04_E16_287	he's been spotted in the vicinity.	 inform	intent
-S06_E02_503	how's the search going?	 care	intent
-S05_E16_358	why don't you buy the dryer balls?	 advise	intent
-S05_E06_287	elias did a great job with the crepe paper, though.	 praise	intent
-S05_E09_182	don't worry about it.	 comfort	intent
-S04_E03_387	these customers are so handsome.	 praise	intent
-S05_E08_100	no, things are good.	 comfort	intent
-S05_E17_555	bye, jonah.	 leave	intent
-S04_E06_155	i've never been so tired.	 complain	intent
-S05_E08_17	hi, i'm mateo liwanag	 introduce	intent
-S06_E09_229	it's actually super distracting.	 complain	intent
-S05_E06_386	amazing. thank you, dina.	 thank	intent
-S05_E20_236	turn all the screens in electronics to mtv.	 arrange	intent
-S05_E13_216	okay, buddy, you're being weird.	 taunt	intent
-S05_E07_556	turt-turt, we're out of here.	 leave	intent
-S06_E06_26	no, it's that we no longer have to sanitize	 inform	intent
-S05_E09_440	yeah, yeah, you're good. you got this.	 praise	intent
-S06_E03_372	we can't trust him about anything.	 complain	intent
-S05_E09_428	i'm just checking to see if he and mateo are hitting it off.	 care	intent
-S04_E03_256	thank you for bringing that to my attention.	 thank	intent
-S06_E05_215	cool, let's all give credit to jonah for janet's idea.	 praise	intent
-S05_E14_493	i'm sorry.	 apologise	intent
-S05_E18_27	oh, my god, he's so cute. my ovaries are exploding.	 praise	intent
-S04_E08_91	the point is, sayid, you're home now.	 inform	intent
-S04_E12_459	'cause he eats a lot of sugar, so he'd be the sweetest.	 joke	intent
-S04_E17_151	we can see that, big guy. just get out of the way.	 prevent	intent
-S06_E01_210	so, employees must wipe down the register and credit card machine after each customer	 inform	intent
-S05_E19_341	hey, tommy, some guy with no pants just joined the protest.	 inform	intent
-S05_E07_291	why, so you can steal a quart of our pink soap?	 criticize	intent
-S05_E11_449	yeah, it feels kinda good.	 praise	intent
-S06_E10_420	because the ducklings were having a tea party	 introduce	intent
-S06_E01_260	oh, great, more reasons for the wet-lips to yell at me.	 taunt	intent
-S05_E20_274	go ahead. don't worry, i've--i've--	 comfort	intent
-S05_E06_16	uh, actually, i got tired of explaining	 complain	intent
-S04_E11_508	what, so they can slap the other cheek?	 taunt	intent
-S06_E07_328	kelly came over from fenton to cover a shift.	 inform	intent
-S04_E12_380	because he thinks he's better than everyone else here.	 taunt	intent
-S05_E07_264	i have zero control over my employees.	 complain	intent
-S04_E07_112	why would we even do it? what're we doing it for?	 complain	intent
-S04_E01_211	and for women, it's that i got taken advantage of?	 complain	intent
-S06_E05_536	our corona tests came back negative.	 introduce	intent
-S05_E10_406	and after all of that, we still can't afford rent	 complain	intent
-S04_E06_75	my name's kimmer with a k.	 introduce	intent
-S05_E08_217	you could tell 'em your story.	 advise	intent
-S05_E08_502	sorry, i should really get going.	 leave	intent
-S05_E06_12	you two are gonna be managing	 arrange	intent
-S05_E14_207	there is still a lot that needs to get done, and it is crunch time.	 inform	intent
-S06_E02_252	it wasn't- it wasn't that.	 oppose	intent
-S06_E07_455	and it's the best thing that's ever happened to me.	 flaunt	intent
-S04_E06_365	that's an interesting choice.	 praise	intent
-S04_E14_273	excuse me, folks, can everyone gather up?	 inform	intent
-S05_E20_265	glenn, you smell scared. what's up?	 care	intent
-S05_E16_477	dina, i am sorry that i said nobody likes you.	 apologise	intent
-S06_E01_87	but for now, they want everybody to know that,  we value our employees' dedication.	 inform	intent
-S04_E13_406	thank you.	 thank	intent
-S05_E09_522	test the shelves, make sure they, um	 arrange	intent
-S05_E08_525	jonah, why are you filming this?	 criticize	intent
-S05_E14_161	hey, dina. everything okay?	 care	intent
-S05_E07_297	yep.	 agree	intent
-S05_E06_94	you could eat yourself to death and no one would care.	 joke	intent
-S05_E14_261	here, take my card. there's a link to the web--	 introduce	intent
-S05_E16_212	maybe you should just mute her.	 advise	intent
-S05_E02_65	look, i know you like to be everyone's but that's not how i live my life.	 oppose	intent
-S04_E17_350	it's a traditional honduran food.	 introduce	intent
-S06_E01_21	so i'm still gonna be working with you guys.	 inform	intent
-S04_E06_441	i am dealing with a lot today.	 complain	intent
-S04_E13_300	can't you just cover it up?	 advise	intent
-S05_E11_505	oh, that's so sweet.	 praise	intent
-S04_E05_491	yeah. thank you.	 thank	intent
-S05_E10_327	she's out of commission for the rest of the day	 inform	intent
-S05_E12_327	thanks.	 thank	intent
-S05_E21_89	you have to have a party.	 advise	intent
-S05_E15_94	classy move, zephra.	 praise	intent
-S06_E01_438	this man is harassing me	 criticize	intent
-S06_E03_498	for instance, i think we should stagger our shift start times	 advise	intent
-S06_E03_67	i mean, dusty mint stinks.	 complain	intent
-S05_E16_538	sorry, that sounded really callous.	 apologise	intent
-S05_E17_554	sandra, could you bring home some magazines?	 ask for help	intent
-S06_E09_597	nice job.	 praise	intent
-S05_E11_503	what's wrong with your head?	 care	intent
-S05_E13_26	we haven't even gotten a chance to talk yet.	 complain	intent
-S05_E21_518	what's going on here?	 care	intent
-S05_E11_382	what if we call it  the octagon.	 advise	intent
-S06_E01_495	amy might have abandoned us a little, but we're fine!	 comfort	intent
-S05_E10_161	need any help with whatever this is?	 care	intent
-S04_E14_440	blaine is sexy, but he is not a good manager.	 criticize	intent
-S05_E13_369	well, i am gonna show her just how many items	 inform	intent
-S05_E21_98	sorry.	 apologise	intent
-S04_E08_358	that guy's always making up stuff about people.	 criticize	intent
-S06_E10_454	i have been nervously holding my pee for six hours	 complain	intent
-S06_E01_32	whoa! the nba just announced they're suspending the season.	 inform	intent
-S04_E16_366	also, what's with the weirdly intimate stares?	 complain	intent
-S05_E14_446	damn it, dina. you had one job.	 complain	intent
-S05_E07_153	attention employees. uh, listen up.	 inform	intent
-S06_E01_412	hey, amy, i dropped my mask...	 inform	intent
-S06_E02_320	well, i'm sure you'll figure something out.	 comfort	intent
-S05_E08_246	yeah, just traveling the world shirtless.	 joke	intent
-S04_E04_168	hey man, why did you have to point out this stupid halloween song?	 complain	intent
-S06_E08_118	why did this happen? am i a bad person?	 complain	intent
-S05_E17_542	hey, jerry.	 greet	intent
-S04_E11_166	no, no, no, no, no. don't help him.	 prevent	intent
-S05_E07_24	hey, guys, sorry to give you a scare there.	 apologise	intent
-S04_E04_333	my jewish bird joke is so good	 flaunt	intent
-S06_E02_113	thanks!	 thank	intent
-S04_E12_337	game of thrones  season one	 introduce	intent
-S05_E07_345	okay.	 agree	intent
-S05_E21_305	how about everybody's got roller skates	 advise	intent
-S05_E21_481	hey.	 greet	intent
-S05_E11_188	that's--that's a good thing.	 praise	intent
-S05_E14_200	you go. get ready.	 arrange	intent
-S05_E11_399	perhaps going forward,we could all focus on--on the issues that we have here at--at work.	 advise	intent
-S05_E13_530	oh, thank you.	 thank	intent
-S04_E14_411	hey, so i guess we're just out of green beans.	 inform	intent
-S06_E04_568	it's gonna be all about the moon before you know it.	 inform	intent
-S06_E03_220	so we're gonna let the people decide.	 inform	intent
-S05_E19_283	i'll get right on it. sorry, boss.	 leave	intent
-S06_E05_127	anyway, the point is i'm just so sorry.	 apologise	intent
-S06_E03_462	oh, and you're not allowed to shop here anymore.	 inform	intent
-S04_E04_85	i'll reach out to the manufacturer.	 inform	intent
-S05_E11_440	thank you.	 thank	intent
-S05_E10_44	while i waste my talents in the vision center.	 complain	intent
-S06_E08_475	then why were you yelling at him when it happened?	 criticize	intent
-S04_E04_220	this same song keeps playing over and over again, and it's starting to drive me crazy.	 complain	intent
-S05_E16_571	um, i'm gonna go make a call	 leave	intent
-S04_E16_261	you have got to stop watching this.	 prevent	intent
-S05_E08_7	i am in the middle of something, dummy.	 criticize	intent
-S05_E13_25	the time difference with ghana is so tricky.	 complain	intent
-S05_E14_48	and my liver is on high alert.	 inform	intent
-S05_E11_120	you just need to go up to her and go	 advise	intent
-S04_E05_77	i'm dr. sidian, i'm the attending on the floor.	 introduce	intent
-S05_E11_266	look, sandra, i think maybe she needs to hear it from you.	 advise	intent
-S05_E21_312	yo, don't write that down.	 prevent	intent
-S05_E09_259	and apologize to customers when these two can't hack it.	 arrange	intent
-S04_E10_171	but don't let it wear you out.	 inform	intent
-S04_E08_92	and on behalf of everyone in america, we welcome you.	 inform	intent
-S05_E08_61	this week, enjoy 20% off	 inform	intent
-S05_E14_522	everything okay?	 care	intent
-S06_E09_6	i'm sorry, guys.	 apologise	intent
-S05_E15_454	i think ellen degeneres dances too much!	 complain	intent
-S04_E13_262	oh, listen, you--you do not have to worry about that, okay?	 comfort	intent
-S04_E16_528	and i think it's pretty messed up	 complain	intent
-S04_E04_397	okay then, contest back on.	 inform	intent
-S05_E14_337	jonah, what are you doing?	 care	intent
-S05_E15_3	zephra has sent us a little break room upgrade	 inform	intent
-S05_E14_380	but you're going to be fine.	 comfort	intent
-S05_E13_388	who cares? who cares? don't worry about it.	 comfort	intent
-S05_E15_455	it's unprofessional!	 complain	intent
-S05_E12_181	and i just wanted to tell you that dina... passed away.	 inform	intent
-S05_E17_391	oh, that is awesome.	 praise	intent
-S05_E13_89	um, it's the display for the new zephra products.	 introduce	intent
-S04_E01_480	all right, guys, well, this is your last chance	 inform	intent
-S05_E08_520	well, technically, you can suck it!	 criticize	intent
-S04_E16_52	happy easter.	 inform	intent
-S05_E15_197	why is everybody being so cynical about this?	 complain	intent
-S05_E10_458	oh, that does sound nice.	 praise	intent
-S05_E15_289	that's embarrassing.	 complain	intent
-S05_E16_525	you would know if you didn't make me skip to the end of the story!	 criticize	intent
-S05_E12_217	it's best to just pretend you've passed out, okay?	 advise	intent
-S04_E08_137	okay, here are your lanyards and your room keys.	 inform	intent
-S06_E01_246	the ink's starting to turn our butts weird colors.	 complain	intent
-S05_E18_83	mm-hmm, and his proportions are a dream.	 praise	intent
-S05_E15_453	i think i voted wrong!	 complain	intent
-S06_E04_486	so i say turn every golf course into a solar farm.	 advise	intent
-S04_E03_13	sorry for accidentally texting you that nude.	 apologise	intent
-S05_E17_526	our people are struggling, amy.	 complain	intent
-S05_E07_384	i'm just a dumb, useless butt.	 complain	intent
-S05_E11_378	why don't we set some ground rules	 advise	intent
-S05_E08_32	yeah, i think so.	 agree	intent
-S05_E08_122	excuse me, where do you keep your transformers?	 ask for help	intent
-S06_E04_64	you're taking a trip to bruise town.	 arrange	intent
-S05_E11_3	zephra is just our new parent company.	 inform	intent
-S05_E13_79	okay, no, no. mateo, no.	 prevent	intent
-S04_E07_368	see? this is easy for me.	 flaunt	intent
-S05_E08_148	yep, they gotta go.	 leave	intent
-S05_E10_73	you doing okay with all this?	 care	intent
-S05_E15_74	he's a scam artist.	 inform	intent
-S05_E13_480	this whole interview process was a fake.	 complain	intent
-S04_E02_302	all right, well, i'll see y'all later.	 leave	intent
-S05_E12_294	i just hope that you don't go around	 advise	intent
-S05_E15_132	fine!	 agree	intent
-S05_E07_426	for a very special parade.	 inform	intent
-S04_E04_53	my feet are so swollen i can barely stand.	 complain	intent
-S05_E09_252	i haven't even been able to go on instagram.	 complain	intent
-S05_E13_166	i just found out that, um, i got a work permit.	 inform	intent
-S04_E07_429	you are grossly incompetent and unpleasant to be around	 criticize	intent
-S06_E05_12	effective immediately, cloud 9 will no longer keep black haircare products in locked cases.	 inform	intent
-S06_E03_613	and i do have an update on the breadsticks.	 inform	intent
-S06_E09_354	but you haven't because you're afraid	 taunt	intent
-S05_E16_248	i'm so fricking cold.	 complain	intent
-S06_E03_597	did you get hurt before?	 care	intent
-S05_E12_128	this is a pyramid scheme.	 complain	intent
-S05_E12_452	hey, dina, your dad's looking for you.	 inform	intent
-S06_E08_486	do you want us to give you a trophy?	 taunt	intent
-S06_E06_44	anyway, dina, don't worry about it.	 comfort	intent
-S04_E06_460	i am wearing frozen diapers	 complain	intent
-S05_E09_290	hey, sweetie. hey, garrett.	 greet	intent
-S05_E08_229	you stole my mark?	 criticize	intent
-S05_E21_110	oh, i don't think it's that.	 oppose	intent
-S05_E08_239	molly, hand these out, please.	 arrange	intent
-S06_E02_250	okay, cool, 'cause you seemed uncomfortable	 care	intent
-S05_E17_574	you should go find justine.	 advise	intent
-S04_E03_164	on behalf of store 1217, it is my privilege	 flaunt	intent
-S04_E09_139	god, you're a fast learner.	 praise	intent
-S05_E18_298	your faces look like butts.	 taunt	intent
-S04_E05_179	i--i like it here. that other hospital was snobby.	 complain	intent
-S04_E02_406	how about we keep this party train rolling	 advise	intent
-S05_E17_468	you're gorgeous really, for your cohort.	 praise	intent
-S05_E20_489	the margs are here.	 inform	intent
-S06_E02_291	i will see you, uh, in a little bit.	 leave	intent
-S05_E07_96	yeah, that sounds fun. i'm in.	 agree	intent
-S04_E11_450	i got clipped by a kia on the highway, amy!	 complain	intent
-S04_E03_239	you shoved me, amy! what is wrong with you?	 criticize	intent
-S05_E08_322	you win it in a raffle or something?	 taunt	intent
-S05_E16_352	hello?	 greet	intent
-S06_E04_68	can you please switch me anywhere?	 ask for help	intent
-S05_E15_41	yes!	 agree	intent
-S04_E17_284	thank you for those kind words, jonah.	 thank	intent
-S04_E03_119	oh! absolutely. without a doubt.	 agree	intent
-S06_E02_509	feels pretty bad.	 complain	intent
-S04_E16_8	spring frozen yogurt flavors, check.	 inform	intent
-S06_E05_515	oh, wow. yeah--thanks.	 thank	intent
-S04_E11_312	but i logged 8,000 steps.	 flaunt	intent
-S04_E06_37	i'm just exhausted and sore and hormonal	 complain	intent
-S05_E14_248	oh, thanks.	 thank	intent
-S06_E09_15	now, we've noticed some of your masks are getting dingy.	 inform	intent
-S06_E08_3	that this is made out of polyvinyl chloride	 introduce	intent
-S05_E02_112	i even went out and bought a camera phone.	 flaunt	intent
-S04_E04_73	i'm 'gerry mander'.these are all gerrymander.	 introduce	intent
-S05_E12_86	hey, glenn, how you holding up?	 care	intent
-S05_E17_464	i was definitely not flirting.	 oppose	intent
-S04_E03_401	i'm carol, i'm a jealous psycho stalker who can't take	 taunt	intent
-S05_E14_103	okay, i'm going to hit the little cowboys' room.	 leave	intent
-S05_E15_410	but don't worry, i have a solution.	 comfort	intent
-S05_E11_330	give them a voice, you know?	 advise	intent
-S04_E12_160	okay, we have no idea how long we're gonna be stuck here, so we need to ration our food.	 inform	intent
-S06_E04_400	what, so because i'm manager, i have to help people poop their emotions all over the place?	 complain	intent
-S05_E10_512	because corporate sucks and everybody always sucks.	 complain	intent
-S05_E07_134	good.	 praise	intent
-S06_E01_200	okay, um, some good news.	 inform	intent
-S06_E03_555	so starting tomorrow, you will do what i tell you to do	 arrange	intent
-S04_E14_148	glenn, it's--it's going to be okay.	 comfort	intent
-S04_E13_305	you've never been sarcastic with me before.	 criticize	intent
-S04_E01_77	these are all excellent ideas, thank you.	 praise	intent
-S04_E02_109	you could always return this one for a safer car seat.	 advise	intent
-S05_E20_88	filled up on bread  is gonna go on her gravestone.	 joke	intent
-S05_E09_273	what i need from the two of you is less of this	 taunt	intent
-S05_E21_240	really fresh perspective.	 praise	intent
-S05_E08_150	hi.	 greet	intent
-S05_E07_118	that will fit jerry's big ol' melon.	 joke	intent
-S05_E06_418	amy, you need to go change into leather sandy right now.	 arrange	intent
-S05_E07_550	hey, you guys. i'm sorry, bo.	 apologise	intent
-S05_E19_124	well, why don't you just hire somebody on busybee?	 advise	intent
-S04_E16_300	they're gross.	 complain	intent
-S05_E14_467	carol, you can't do that!	 prevent	intent
-S05_E13_377	sandra, block her with your body!	 arrange	intent
-S05_E07_267	you just need to find a way to show maya that you mean business.	 advise	intent
-S04_E03_169	yes. it's one of cloud 9's highest honors.	 inform	intent
-S05_E06_138	look, it's... it's almost done. you don't have to worry.	 comfort	intent
-S05_E16_333	we're a little delayed because amy was busy mean-girling me.	 criticize	intent
-S04_E08_534	so, i ran your social security.	 inform	intent
-S04_E01_433	what a stupid waste of a first question.	 complain	intent
-S05_E19_161	sayid doesn't want to work in housewares.	 inform	intent
-S06_E02_297	yeah--oh, hey, i apologize for jonah's murder joke.	 apologise	intent
-S04_E02_202	you're a good friend.	 praise	intent
-S04_E14_6	i am stepping down to spend more time with my family.	 inform	intent
-S06_E04_66	dina, you have justine and me at the same register	 inform	intent
-S06_E06_361	fine.	 agree	intent
-S05_E06_15	on whatever dumb metaphor his costume's supposed to be.	 taunt	intent
-S04_E09_278	we don't have room for that.	 complain	intent
-S06_E02_231	she seems...really nice.	 praise	intent
-S05_E17_431	how is stealing packages from poor people	 criticize	intent
-S04_E04_322	i was legitimately offended.	 complain	intent
-S05_E15_36	wait, wait.	 prevent	intent
-S05_E07_333	green beans are now the normal price.	 inform	intent
-S05_E10_164	ooh, amy, how's union stuff going?	 care	intent
-S06_E04_547	but i've never seen anyone worse at this job.	 praise	intent
-S05_E20_538	all right, garrett, give everyone their money back, and then all of you get back to work.	 arrange	intent
-S05_E16_222	hey, man.	 greet	intent
-S04_E07_135	this is who we're visiting.	 introduce	intent
-S04_E06_39	and i'm wearing pajamas, and i'm just a mess.	 complain	intent
-S05_E21_459	hey, mateo, can i ask you something	 ask for help	intent
-S05_E13_287	you know what? i'm tired of everybody thinking of me as just your boyfriend, okay? even garrett sees me like that.	 complain	intent
-S06_E01_114	just pick a conditioner and keep moving.	 arrange	intent
-S04_E02_247	hey.	 greet	intent
-S04_E10_168	yeah, no, i'm sorry.	 apologise	intent
-S05_E15_464	i'm going to the chesterfield store	 leave	intent
-S05_E17_347	your total is $26.17.	 inform	intent
-S06_E06_550	take a breath, man. you're not getting fired.	 comfort	intent
-S05_E18_423	stop saying that. all moms are full-time moms.	 prevent	intent
-S05_E20_77	i'm sorry for the jargon, jonah.	 apologise	intent
-S05_E12_51	it's the way of the world. the rich get richer.	 complain	intent
-S05_E13_529	so your new desk is gonna be here in three days.	 inform	intent
-S05_E10_24	relax. i honestly think this is all gonna work out.	 comfort	intent
-S05_E15_25	okay, mateo, on three. ready?	 arrange	intent
-S05_E15_306	the zephra corporate guidelines and look up what it says	 advise	intent
-S05_E10_464	it's a great color.	 praise	intent
-S05_E16_291	we have to put out red label warnings.	 inform	intent
-S05_E09_198	he seems super cool.	 praise	intent
-S04_E01_493	dina! it went great!	 praise	intent
-S04_E07_394	yes, thank you for all the help.	 thank	intent
-S06_E07_569	dina assigned me to hang out with you today	 inform	intent
-S04_E16_389	me amy. me prep for 5k.	 joke	intent
-S05_E13_53	so you're gonna have to find someone yourself to cover.	 advise	intent
-S04_E17_403	okay, okay, it's--it's--it's gonna be okay.	 comfort	intent
-S05_E10_386	it's not your fault that you don't get the ins and outs	 comfort	intent
-S05_E16_575	well, i'm gonna go do something else then.	 leave	intent
-S04_E08_114	relax, they vet these guys for years.	 comfort	intent
-S05_E16_102	you should really change that back, dina.	 advise	intent
-S05_E07_526	don't worry. i'm not gonna squirt anyone.	 comfort	intent
-S05_E16_293	dina, you can't just text me something like that.	 criticize	intent
-S05_E13_498	okay, well, how about weekends off?	 advise	intent
-S04_E08_506	and they get paid ten times as much as us.	 complain	intent
-S06_E02_478	well, it's still very cool.	 praise	intent
-S05_E09_287	you should meet him.	 advise	intent
-S04_E10_467	there's a blank spot where you can write in your name.	 inform	intent
-S05_E09_235	i don't consent to this conversation.	 oppose	intent
-S04_E02_187	oh, i don't see how that could possibly be true.	 complain	intent
-S05_E15_409	well, sounds like you got a lot going on	 care	intent
-S05_E07_262	it doesn't even matter.	 complain	intent
-S05_E10_223	or do your customers also prefer cashiers with tendinitis?	 taunt	intent
-S05_E17_314	why don't you read the note?	 advise	intent
-S06_E03_606	oh, i'm sorry.	 apologise	intent
-S05_E14_117	but then we just did a bunch of whip-its in the dj's van, and it was great.	 praise	intent
-S05_E09_378	yeah, i'm sorry, but there's no order here.	 apologise	intent
-S05_E18_96	the prizes are in the cereal!	 inform	intent
-S05_E10_216	yeah, thanks. i'm--i'm just browsing today.	 thank	intent
-S06_E10_525	don't feel guilty.	 comfort	intent
-S04_E01_500	and so i delegated, and i problem-solved	 flaunt	intent
-S04_E07_69	wait, what are you doing? don't--don't put it back.	 prevent	intent
-S06_E08_62	sure you're gonna be okay?	 care	intent
-S05_E07_342	it's got a secret ingredient.	 introduce	intent
-S05_E20_283	i left all my felt tips uncapped in the security office,and those are just gonna be drying out like crazy,so i just need to go.	 leave	intent
-S04_E10_464	all right, everybody, you did it	 inform	intent
-S05_E08_555	you look way too happy.	 taunt	intent
-S04_E06_304	okay, i'm sorry. proceed.	 apologise	intent
-S06_E09_580	thank you.	 thank	intent
-S05_E17_219	yeah, actually, it would be really helpful	 praise	intent
-S04_E13_201	it's called  you can do it.	 introduce	intent
-S04_E05_269	oh, it's so clean and comfortable.	 praise	intent
-S04_E16_467	you're the ones who have been sitting in here, talking about me behind my back.	 criticize	intent
-S04_E02_535	oh, finally. come get me down.	 ask for help	intent
-S05_E21_424	that's great.	 praise	intent
-S06_E06_212	i'm so sorry, sandra.	 apologise	intent
-S04_E10_6	uh, i'm amy sosa.	 introduce	intent
-S05_E10_92	thank you.	 thank	intent
-S05_E16_456	whoa, calm down.	 comfort	intent
-S05_E19_224	oh, my god. don't touch it.	 prevent	intent
-S05_E14_289	this place has line dancing at 10:00	 inform	intent
-S05_E08_562	um, well, i like when jerry cooks me my favorite meal.	 praise	intent
-S05_E02_24	absolutely not.	 oppose	intent
-S04_E10_31	we should--we'll just go.	 leave	intent
-S05_E10_123	don't worry.	 comfort	intent
-S05_E06_406	security office, now!	 inform	intent
-S05_E16_53	i just don't love handing giant corporations a way to get my address, my contacts, and all of my passwords.	 complain	intent
-S04_E16_521	see you at glenn's show.	 leave	intent
-S04_E07_201	oh, come on. give me some credit.	 complain	intent
-S05_E09_588	how's curbside going?	 care	intent
-S06_E02_36	okay, we're gonna be in this meeting forever	 inform	intent
-S05_E15_535	you lied about mental distress?	 criticize	intent
-S06_E10_509	okay. they left the break room.	 inform	intent
-S06_E10_4	now, cloud 9's lawyer will also be present.	 inform	intent
-S05_E08_321	how did you become manager?	 taunt	intent
-S05_E02_25	engagement party is not a maid of honor duty.	 oppose	intent
-S05_E13_320	sandra, no. you leave it up.	 arrange	intent
-S04_E16_180	but instead, he mocks me behind my back.	 complain	intent
-S06_E04_604	how do you feel, justine?	 care	intent
-S05_E10_3	here, to remind you.	 inform	intent
-S04_E08_272	anyway, i'm definitely the legal kind.	 flaunt	intent
-S05_E14_61	no, no, take your time.	 comfort	intent
-S04_E12_367	can you stop doing that?	 prevent	intent
-S05_E07_545	so how'd it go?	 care	intent
-S05_E17_221	yeah, sure.	 agree	intent
-S05_E20_386	listen, i'm-i'm really sorry.	 apologise	intent
-S04_E13_481	well, too bad!	 complain	intent
-S06_E06_45	they're towing it right now.	 inform	intent
-S06_E04_590	i'm sorry.	 apologise	intent
-S04_E08_463	i might have to go to the men's room first.	 leave	intent
-S05_E18_257	yes, like a parlor.	 agree	intent
-S05_E16_494	again, we are so, so sorry.	 apologise	intent
-S04_E06_390	unfortunately, the last spot has been filled.	 inform	intent
-S05_E18_37	okay, cheyenne, sandra, you're serving	 arrange	intent
-S05_E10_14	walk away so they know you're serious.	 advise	intent
-S05_E07_381	means you're fired.	 inform	intent
-S05_E08_250	you need to move on.	 advise	intent
-S05_E18_189	lifesaver.	 thank	intent
-S06_E05_280	oh, whoa! no, no, no! don't actually scoot in.	 prevent	intent
-S05_E17_444	why don't we just give them some cash?	 advise	intent
-S05_E11_367	it has recently come to my attention that there are some men in the store who have some issues	 inform	intent
-S05_E15_585	hey, thanks for taking a chance on me.	 thank	intent
-S06_E08_236	feels like i'm buying a gremlin.	 joke	intent
-S04_E06_236	why don't you use the lactation room?	 advise	intent
-S05_E20_93	glenn, this is dr. brian patterson, veterinarian and boyfriend.	 introduce	intent
-S06_E01_78	actually, the latest articles are saying actually, the latest articles are saying that washing your hands isn't enough.	 inform	intent
-S05_E08_340	thank you so much. ooh, $5 gift card.	 thank	intent
-S05_E14_212	oh, god, yeah, i totally forgot. sorry.	 apologise	intent
-S06_E08_564	i was giving you amazing advice and you mocked me	 complain	intent
-S04_E11_304	a part of me feels like you guys are taking this a little too far.	 criticize	intent
-S04_E12_49	i hit some ice and almost skidded into a pet cem--	 complain	intent
-S05_E08_369	it's a true thing.	 agree	intent
-S06_E10_247	he was gonna blab to the lawyers about our work arrangement.	 inform	intent
-S04_E10_78	'cause we were really bad.	 complain	intent
-S04_E10_72	but people were really judge-y.	 complain	intent
-S05_E07_144	take a bath with the dogs later.	 arrange	intent
-S05_E19_296	wait, no, no, no, you cannot go through people's--	 prevent	intent
-S05_E14_307	it's my ankle monitor.	 introduce	intent
-S04_E01_290	hey, man, this guy shreds ass!	 criticize	intent
-S05_E13_455	what the hell? you said you typed 100 words a minute.	 criticize	intent
-S05_E16_478	that's just not true.	 oppose	intent
-S05_E14_198	oh, god. sandra, stop, please.	 prevent	intent
-S06_E03_319	thank you.	 thank	intent
-S05_E15_268	it's just a friendly call, sandra, not an opportunity.	 oppose	intent
-S06_E04_528	garrett totally stole my look, and no one is talking about it.	 criticize	intent
-S05_E20_30	it was just sitting on her shoulder like a parrot--look.	 introduce	intent
-S06_E02_364	that's not fair? i'm blowing my life up for you.	 complain	intent
-S05_E06_336	this has been great. you have a really fun store.	 praise	intent
-S05_E10_48	i even got a plaque that said,  dad's number one sales boy.	 flaunt	intent
-S04_E03_51	you have a gift for logistics.	 praise	intent
-S06_E05_237	i'm sorry. your hair looks fun.	 apologise	intent
-S05_E11_398	thank you, so much, dan, for sharing, um, but--	 thank	intent
-S06_E06_23	like, super annoying for me.	 complain	intent
-S05_E13_171	i mean, you say you don't play favorites, but then you give the sweet assistant job to your brother-in-law.	 criticize	intent
-S05_E14_186	don't forget to sign the guestbook.	 inform	intent
-S05_E07_476	you don't have to keep pretending to be an employee.	 advise	intent
-S04_E06_395	well, here's my resume.	 inform	intent
-S04_E02_214	these pictures make me jealous	 praise	intent
-S05_E11_274	we get her to do something else that's better than your wedding.	 advise	intent
-S05_E06_415	the cowboy hat was itchy.	 complain	intent
-S06_E07_324	oh, sorry i'm a little late. where do you want me?	 apologise	intent
-S05_E10_221	at least give them anti-fatigue mats.	 advise	intent
-S04_E16_62	it's a lot of pressure.	 complain	intent
-S05_E14_7	for giving me my first chance	 thank	intent
-S05_E08_151	kyle sawyer, generosity manager.	 introduce	intent
-S06_E02_151	exhausting.	 complain	intent
-S05_E14_220	has she been acting weird?	 care	intent
-S05_E20_442	hey, sandra.	 greet	intent
-S06_E07_206	i'm sorry.	 apologise	intent
-S06_E01_237	oh, sorry.	 apologise	intent
-S06_E10_240	some fun socks!	 introduce	intent
-S05_E18_508	mateo, set up the obstacle course.	 arrange	intent
-S04_E11_206	damn it. i have to make up for lost time.	 complain	intent
-S05_E16_254	we should warm up by combining body heat.	 advise	intent
-S04_E02_402	now i'm gonna pass the mic around	 inform	intent
-S04_E10_225	i'm not gonna let you treat a baby this way.	 prevent	intent
-S05_E02_372	oh, jerry, no one's gonna notice if you're not there.	 taunt	intent
-S05_E19_547	this guy's driving away all my business, and you know how?	 criticize	intent
-S04_E13_290	this card has a frog and a bear kissing each other.	 introduce	intent
-S05_E02_40	amy, my baby's future is on the line.	 ask for help	intent
-S05_E11_516	back to work!	 arrange	intent
-S04_E03_232	you are a loud-mouthed, domineering, crazy little--	 taunt	intent
-S06_E09_570	dina, go get that letter.	 arrange	intent
-S06_E03_328	you know, it was actually really cute.	 praise	intent
-S06_E06_220	but i really appreciate all of your support.	 thank	intent
-S06_E08_39	is she still with brian? did something happen?	 care	intent
-S06_E02_108	hey, hey, matt- oh, wow!	 greet	intent
-S05_E07_488	i am not doing a latin accent to sell some queso.	 joke	intent
-S06_E08_575	but, uh, hey, at least you're getting yourself back out there	 comfort	intent
-S05_E20_226	oh, yes, she's marvelous.	 praise	intent
-S05_E07_81	hey, you busy?	 ask for help	intent
-S05_E09_144	we need to get junk in those trunks!	 arrange	intent
-S06_E04_14	they love money, and they don't care if we die.	 complain	intent
-S06_E05_509	you're just as bad as glenn.	 criticize	intent
-S04_E07_93	this is a stupid initiative anyway.	 complain	intent
-S04_E16_351	calm down, glenn. calm down.	 comfort	intent
-S06_E09_250	no, that's my nephew. he's my lock screen.	 introduce	intent
-S05_E07_22	maya!	 greet	intent
-S05_E21_348	need some glasses for your ears now too, old man?	 taunt	intent
-S05_E11_413	i mean, amy and dina run the frickin' store.	 complain	intent
-S06_E08_598	seriously, garrett, this is gonna be awesome.	 praise	intent
-S06_E01_341	i mean, i should probably get back to my office	 leave	intent
-S04_E01_368	kelly! you're in charge.	 arrange	intent
-S05_E06_116	oh, you've given this foot chopper a lot of thought.	 taunt	intent
-S05_E12_462	oh, come on. damn it.	 complain	intent
-S05_E16_227	looks good, man. you're talented.	 praise	intent
-S05_E09_15	hey, if any of you curbside folks want to trade places	 inform	intent
-S05_E09_518	took some doing, but these are solid.	 introduce	intent
-S04_E01_464	we'll be here as long as it takes.	 inform	intent
-S06_E02_405	hi amy, thanks for looking out for me all these years.	 thank	intent
-S05_E15_313	this is cheyenne, our head of security.	 introduce	intent
-S04_E08_498	yeah, but we're not gonna wrap it.	 oppose	intent
-S06_E04_490	awesome, yeah.	 praise	intent
-S06_E01_461	might i suggest you not look up at the ceiling tonight?	 advise	intent
-S06_E01_340	agh! sorry, guys.	 apologise	intent
-S04_E01_319	um, noam, don't cry.	 comfort	intent
-S04_E17_494	um, uh, i'm sorry.	 apologise	intent
-S05_E09_91	hey. nice lab coat.	 praise	intent
-S05_E10_449	yeah, it's too bad.	 complain	intent
-S05_E16_272	you know, the service around here is spotty.	 complain	intent
-S05_E19_348	i know. i figured. thank you.	 thank	intent
-S05_E06_203	um, could you excuse me for just a minute?	 leave	intent
-S04_E03_186	god, i hate that guy.	 complain	intent
-S04_E14_137	hey guys, you won't be hearing from me for the next five hours	 inform	intent
-S05_E07_26	ha. yeah, it was.	 agree	intent
-S04_E10_351	harrison, stop burping into the intercom.	 prevent	intent
-S05_E19_46	anyway, how's it going? have you raised the wage yet?	 care	intent
-S04_E01_198	oh. that's cool.	 praise	intent
-S06_E02_38	so sandra, you're cleaning carts.	 arrange	intent
-S05_E11_464	guys, she is not listening to us.	 criticize	intent
-S05_E18_260	hey, justine	 greet	intent
-S05_E17_378	why i've been able to earn my employees' respect.	 flaunt	intent
-S06_E02_333	i just wanted to say how very proud i, glenn, am of you.	 praise	intent
-S04_E16_510	i think i might be going crazy.	 complain	intent
-S05_E18_503	while poor, little rosie sits at home with an old schoolmarm.	 taunt	intent
-S05_E10_65	what's up with the tree?	 care	intent
-S05_E19_460	we were all really out of line.	 apologise	intent
-S05_E08_315	okay, sir, i'm sorry.	 apologise	intent
-S04_E03_98	wow. that's a good run.	 praise	intent
-S04_E09_528	glenn, thank you.	 thank	intent
-S06_E08_499	you did hit mateo for being undocumented.	 criticize	intent
-S05_E15_255	but no, i don't like criminals, okay?	 oppose	intent
-S05_E13_99	look, this is the most expensive merch in the store.	 introduce	intent
-S04_E01_87	thanks for checking in, though!	 thank	intent
-S04_E07_427	you're fired.	 inform	intent
-S06_E03_139	right, but we could just buy more walkies.	 advise	intent
-S05_E16_51	i got the super sharer badge.	 flaunt	intent
-S04_E14_544	yup, don't worry about me.	 comfort	intent
-S05_E09_325	hi.	 greet	intent
-S05_E09_63	pretty soon, people are gonna have to pee in bottles.	 complain	intent
-S04_E12_61	oh, now you just look like a sad clown.	 joke	intent
-S05_E14_229	okay, the seating cards are placed.	 arrange	intent
-S05_E19_210	i'll just have carol work with me for today.	 arrange	intent
-S04_E12_289	but did any of you listen to me?	 complain	intent
-S05_E07_332	fine, okay.	 agree	intent
-S05_E16_501	jonah was the ringleader.	 criticize	intent
-S05_E11_250	oh, oh, glenn, glenn, glenn!	 greet	intent
-S06_E09_527	havarti, great cheese on a sandwich	 introduce	intent
-S05_E07_265	oh, it'll be fine.	 comfort	intent
-S05_E18_314	it's really cute.	 praise	intent
-S05_E17_505	it was cheyenne. she took the care packages.	 introduce	intent
-S05_E06_14	aww, man, then i won't get to hear jonah lecture us	 taunt	intent
-S06_E03_33	we need someone to replace me as floor supervisor.	 inform	intent
-S04_E04_101	you're like one of those monks in tibet.	 joke	intent
-S06_E05_177	okay, guys, so this list is to come up with issues that are affecting black customers and employees.	 inform	intent
-S05_E11_495	but first, can you sneak me a burger?	 ask for help	intent
-S06_E10_242	thanks so much.	 thank	intent
-S05_E06_134	i mean, you help, obviously, and i so appreciate it	 thank	intent
-S04_E16_453	yeah, amy was just the one sitting watching us in the dark without our consent.	 criticize	intent
-S06_E01_366	anti-looting procedures.	 introduce	intent
-S05_E09_556	oh, nice, jer!	 praise	intent
-S05_E15_558	zephra just sent a mass email saying that cloud 9 employees now get 50% off	 inform	intent
-S06_E06_213	we all wish we could just rip that pain out of your body	 comfort	intent
-S05_E07_566	that this company was extorting these people	 complain	intent
-S05_E08_60	attention, cloud 9 shoppers	 inform	intent
-S05_E09_580	well, you're lucky. you pull it off.	 praise	intent
-S04_E17_294	fantastic. life of the party.	 praise	intent
-S04_E07_96	i do not like small talk, and i hate smiling all day like an idiot.	 complain	intent
-S04_E11_191	relax, i'm not going to pressure you.	 comfort	intent
-S05_E20_547	yeah, okay, real quick. i don't want you to panic	 comfort	intent
-S04_E04_307	you are a real hero, you know that?	 praise	intent
-S05_E15_343	sorry, you just said that. sorry, thank you.	 apologise	intent
-S06_E07_561	i'm so sorry.	 apologise	intent
-S05_E20_427	yes, same. me too.	 agree	intent
-S05_E07_326	uh, excuse me. attention, everybody.	 inform	intent
-S05_E07_246	jonah, get my back.	 ask for help	intent
-S04_E01_227	oh, yeah, we do. we all hate you.	 criticize	intent
-S05_E12_384	oh, wow, okay. nice to meet you.	 greet	intent
-S05_E12_297	what?  no, i meant, like, for the rest of, like, however long this is.	 oppose	intent
-S06_E03_542	oh, you don't need to count these.	 prevent	intent
-S05_E17_172	all right. thank you.	 thank	intent
-S05_E18_226	i'm trying to get a tribute band, and i need your opinion.	 ask for help	intent
-S05_E10_160	okay, i'm gonna go check on that.	 leave	intent
-S05_E07_592	no, no. you're obviously a great manager.	 praise	intent
-S06_E07_486	what am i gonna tell my parents?	 complain	intent
-S06_E09_16	cheyenne will be handing out new protective equipment.	 inform	intent
-S05_E16_321	oh, this is genius.	 praise	intent
-S05_E08_305	that's great, thank you.	 thank	intent
-S04_E05_206	you are really cooking up something good.	 praise	intent
-S05_E11_249	liar.	 criticize	intent
-S05_E17_187	don't you dream about someday having what jerry and i have?	 flaunt	intent
-S04_E16_331	the, uh, easter decorations all look really great.	 praise	intent
-S05_E09_362	yep, i'm just having eric install some shelves.	 arrange	intent
-S05_E12_336	she's hard-working and dedicated and, um, uh, very- very serious about security.	 praise	intent
-S06_E10_110	you fart face!	 criticize	intent
-S05_E07_483	grab a pair of gloves and head over.	 arrange	intent
-S05_E09_474	why don't you put on the headset	 advise	intent
-S05_E19_458	hey, carol.	 greet	intent
-S05_E15_300	what's going on?	 care	intent
-S05_E11_279	oh, hey, guys.	 greet	intent
-S05_E12_449	let me try this, all right?	 ask for help	intent
-S06_E06_422	oh, i'm sorry.	 apologise	intent
-S05_E17_446	glenn, don't worry about it.	 comfort	intent
-S05_E20_130	oh, no. it's not a game--	 oppose	intent
-S05_E14_106	oh! he's great! yeah, he's so nice.	 praise	intent
-S06_E07_581	carol, that is so savage.	 criticize	intent
-S05_E11_178	good job on the display.	 praise	intent
-S05_E17_202	thank you. that's very nice of you.	 thank	intent
-S06_E10_3	you're gonna be deposed by carol's lawyer today.	 inform	intent
-S05_E07_196	i'm emphasizing  regularly-scheduled	 inform	intent
-S05_E09_297	maybe you could help jerry set this up	 advise	intent
-S04_E12_401	that sounds like a real bad idea.	 complain	intent
-S05_E09_248	dina, some of these orders are insane.	 complain	intent
-S05_E15_119	thank you.	 thank	intent
-S05_E16_242	i didn't know people took their breaks out here.	 complain	intent
-S04_E03_181	oh, don't make this about sexism.	 prevent	intent
-S04_E08_165	thank you.	 thank	intent
-S05_E02_145	it's not on the list!	 oppose	intent
-S05_E07_256	it's not even your fault.	 comfort	intent
-S05_E12_199	hi, sandra?	 greet	intent
-S05_E13_396	hey, randy.	 greet	intent
-S05_E13_481	no--i mean, yes, but not for the reasons you think.	 oppose	intent
-S06_E04_434	your manager is listening.	 inform	intent
-S05_E14_156	get me a drink!	 ask for help	intent
-S04_E17_159	we're gonna take a break and clear the floor	 inform	intent
-S05_E15_527	i'm picking you up at 5:00 a.m. tomorrow	 inform	intent
-S05_E16_244	oh, i would do anything for some crack right now.	 complain	intent
-S06_E04_251	attention cloud 9 employees, this is your manager.	 inform	intent
-S05_E16_446	something crazy is happening.	 inform	intent
-S04_E13_222	marcus's tattoo. it's way harder than i thought.	 complain	intent
-S05_E08_282	thank you for your donation.	 thank	intent
-S05_E21_93	cheyenne, you're young and hot.	 praise	intent
-S04_E12_104	i don't know why you guys lock up the razor blades.	 complain	intent
-S04_E02_117	i hate the--the stupid games and the--the dumb decorations	 complain	intent
-S05_E08_341	can i have my gift card, please?	 ask for help	intent
-S06_E10_176	uh, no, glenn would never do anything like.	 oppose	intent
-S06_E04_1	okay, glenn texted that he's  rubbing a little latte	 inform	intent
-S04_E12_168	let's just help ourselves to whatever we need:	 inform	intent
-S05_E17_386	how's the interview going?	 care	intent
-S05_E07_442	okay, i can't do this anymore.	 complain	intent
-S05_E06_101	no, no, no, no, no, no, no! whoa!	 prevent	intent
-S05_E13_117	he's eugene! he's the best!	 praise	intent
-S05_E17_414	okay, don't be mad	 comfort	intent
-S05_E02_21	the old lady who spits at her on the bus?	 joke	intent
-S05_E07_200	laptops are for customers.	 inform	intent
-S05_E18_106	i just meant he looked like a really good dad.	 praise	intent
-S05_E13_319	oh, please. sandra, take it down.	 arrange	intent
-S05_E14_427	all right, i'll be back in a few.	 leave	intent
-S04_E04_129	man, cheyenne really stepped it up.	 praise	intent
-S04_E09_16	i'm sorry, are you okay?	 care	intent
-S04_E14_77	it's really nice.	 praise	intent
-S04_E01_344	attention, employees- make your way to the break room	 inform	intent
-S05_E10_278	okay, i can see that. sorry to waste your time.	 apologise	intent
-S05_E07_322	okay, back to work.	 arrange	intent
-S04_E06_219	i'll, uh, just get out of here	 leave	intent
-S04_E13_33	cute teddy bears are 15% off.	 inform	intent
-S05_E21_268	so, tony, sandra is from hawaii.	 introduce	intent
-S05_E10_175	cheyenne, let's go.	 leave	intent
-S05_E17_210	hey, folks.	 greet	intent
-S05_E15_297	i'm feeling a lot of mental distress.	 complain	intent
-S04_E01_29	thanks for the company.	 thank	intent
-S05_E19_235	i just needed some help with, uh, paperwork, you know	 ask for help	intent
-S05_E15_146	please have a seat.	 arrange	intent
-S05_E16_334	i really think you're blowing this out of proportion.	 criticize	intent
-S05_E11_491	but making men feel better is not my job!	 complain	intent
-S05_E13_103	and he's floor supervisor now	 introduce	intent
-S04_E01_90	okay. so, sara, i need you to keep cycling out the bins.	 arrange	intent
-S04_E14_299	i hate them!	 complain	intent
-S05_E07_105	thanks, i like 'em too.	 thank	intent
-S05_E15_73	i need you to act casual.	 arrange	intent
-S05_E09_398	'cause i'd like to apologize and offer you all	 apologise	intent
-S05_E21_273	hey, sorry to interrupt your surprise adoption.	 apologise	intent
-S06_E05_422	oh, hey, guys. sorry.	 apologise	intent
-S05_E17_263	i'm not dumb!	 oppose	intent
-S05_E11_338	yes! thank you so much.	 thank	intent
-S05_E08_182	i shouldn't have to leave because you're a bad manager.	 taunt	intent
-S04_E12_187	i can make it spin forever.	 flaunt	intent
-S04_E14_484	glenn, you're not going to go to prison, okay?	 comfort	intent
-S05_E02_217	you're showing your age a little.	 taunt	intent
-S04_E01_42	or you guys can just use your phones for all that stuff.	 inform	intent
-S05_E18_321	just--come on, jonah. please do the voice.	 ask for help	intent
-S05_E16_251	i'm also having a bad time.	 complain	intent
-S05_E06_281	are you crying blood?	 care	intent
-S05_E18_283	a little st. patrick's day humor there for you.	 joke	intent
-S04_E11_194	well, i'd like to think i've matured over the years.	 flaunt	intent
-S05_E19_275	i haven't worked in three months. my alimony is late. my ex-wife's lawyers are getting very threatening.	 complain	intent
-S05_E11_490	and i'm sorry about that	 apologise	intent
-S05_E09_46	collect everything on that order	 arrange	intent
-S04_E16_568	that's how filipinos celebrate easter.	 introduce	intent
-S04_E17_194	so stop staring at her.	 prevent	intent
-S06_E07_442	i have wood floors. it gets dusty.	 inform	intent
-S06_E08_61	okay, i'm gonna go. bye, tony.	 leave	intent
-S05_E07_61	okay, well, maya can't fire you	 comfort	intent
-S05_E21_217	or we could tape a fifth of fireball	 advise	intent
-S05_E15_120	probably gonna have to take that plant outside for sun	 advise	intent
-S05_E12_131	it's kind of shaped like a triangle.	 introduce	intent
-S06_E02_134	please stop. this is hurting me.	 prevent	intent
-S05_E10_169	but then people just keep asking me about it, which is making me worry about it, and...	 complain	intent
-S05_E14_176	my job is keeping the bride safe.	 inform	intent
-S05_E18_545	you could mix grapefruit with espresso.	 advise	intent
-S06_E04_443	thank you, marcus.	 thank	intent
-S04_E03_56	this is the most boring secret i've ever had to live with.	 complain	intent
-S04_E13_299	what do i do?	 ask for help	intent
-S05_E17_497	you haul us down here just to give us a bunch of junk?	 criticize	intent
-S05_E09_135	i gotta go.	 leave	intent
-S05_E09_258	no, you're gonna stand outside	 arrange	intent
-S04_E04_51	i thought you were a dirty pile of laundry.	 taunt	intent
-S04_E06_385	i find her extremely annoying	 complain	intent
-S05_E20_503	well, i am really proud of you.	 praise	intent
-S06_E03_212	okay, listen. ultimately, it is your call	 inform	intent
-S04_E04_484	thanks. i like yours, too.	 thank	intent
-S05_E13_7	we are switching over electronics from supercloud to the new zephra products.	 inform	intent
-S05_E17_356	'scuse me. 'scuse me. hi. jonah.	 greet	intent
-S06_E09_429	but really you were only using me to get to bo!	 criticize	intent
-S06_E04_423	sandra, what is going on in there?	 care	intent
-S05_E19_176	how's your first day going, girl?	 care	intent
-S05_E09_90	um, oh, uh, mateo, this is my brother eric.	 introduce	intent
-S04_E02_251	that sounds wonderful.	 praise	intent
-S04_E02_343	thank you so much for including me.	 thank	intent
-S04_E06_509	i just want to apologize.	 apologise	intent
-S05_E21_2	carol's doing pretty well.	 praise	intent
-S05_E20_544	oh, amy, there you are.	 greet	intent
-S05_E15_114	right? yeah.	 agree	intent
-S06_E05_568	you seemed pretty beefed.	 care	intent
-S05_E19_435	look, we don't need an h.r. rep hanging around here auditing us	 inform	intent
-S05_E17_447	i'll go figure out how to not send them away empty-handed.	 leave	intent
-S05_E14_379	okay, i'm sorry. i just--i panicked.	 apologise	intent
-S05_E09_379	well, i guess i'll go get my pumpkin spice salsa by myself, like it's 1950.	 complain	intent
-S05_E16_176	heads up, spill in produce	 inform	intent
-S06_E02_458	aww, that's pretty. thank you.	 thank	intent
-S05_E09_470	oh, what do you see now?	 care	intent
-S06_E05_173	how about some new options in our vending machines?	 care	intent
-S05_E15_337	it's--it's kira moon, zephra's ceo.	 introduce	intent
-S05_E20_416	hey.	 greet	intent
-S05_E17_264	i'm one of the smartest people in the store.	 flaunt	intent
-S06_E03_247	so be a gentleman. go with the lights out.	 advise	intent
-S04_E11_42	oh, she probably thinks she's so great	 taunt	intent
-S04_E17_444	it's now time for the father-daughter dance.	 inform	intent
-S05_E15_538	man, i'm tired.	 complain	intent
-S06_E07_184	it's gonna be okay, jonah.	 comfort	intent
-S04_E13_480	i can't live with that kind of guilt.	 complain	intent
-S05_E15_124	this is already too much work.	 complain	intent
-S05_E19_502	can you get me a salami sandwich?	 ask for help	intent
-S04_E03_354	now, kelly, i want you to tell jonah what you're feeling.	 arrange	intent
-S04_E08_205	you don't know how to wrap a gift.	 criticize	intent
-S05_E15_182	yeah.	 agree	intent
-S06_E01_426	yes, i'm so sorry.	 apologise	intent
-S04_E03_63	but i'm more perceptive than most.	 flaunt	intent
-S05_E14_179	no, no, no, no, no.	 prevent	intent
-S05_E11_144	what if we gave them all computers, you know?	 advise	intent
-S05_E13_74	this is so unfair.	 complain	intent
-S06_E03_308	thank you, marcus.	 thank	intent
-S06_E08_506	did i miss a meeting? sorry.	 apologise	intent
-S05_E11_550	i feel like we really moved the needle today, guys.	 praise	intent
-S06_E06_415	it really is gorgeous.	 praise	intent
-S05_E20_106	nice to meet you.	 leave	intent
-S05_E07_72	you are a great manager	 praise	intent
-S05_E19_123	celine dion tickets go on sale today.	 inform	intent
-S05_E19_278	i'm gonna stop you right there.	 prevent	intent
-S05_E10_10	maybe you should just leave without her.	 advise	intent
-S05_E11_468	hey, guys, i'm pretty sure there are some sections	 inform	intent
-S05_E17_207	he's her brother.	 introduce	intent
-S05_E19_354	hey, amy, uh, janet is gonna say that we invaded her privacy.	 inform	intent
-S05_E16_355	you made your point.	 inform	intent
-S06_E02_290	um, i'm gonna- i gotta get back to work.	 leave	intent
-S04_E04_55	yeah, my hair is silkier, my skin's glowing	 flaunt	intent
-S06_E10_280	oh, no, i hate to hear that.	 complain	intent
-S05_E17_241	yeah, and thank you	 thank	intent
-S05_E16_368	sorry.	 apologise	intent
-S05_E13_383	a chunk of my hair fell out, and i will not be bald for my wedding!	 complain	intent
-S06_E09_568	jonah, thank you for believing in me.	 thank	intent
-S05_E09_538	this is her fault.	 criticize	intent
-S05_E07_138	excuse me just one second.	 leave	intent
-S04_E03_317	oh, wow, jonah had a little comment, shocking.	 inform	intent
-S06_E07_195	wow, that makes so much sense.	 praise	intent
-S05_E15_85	oh, sure, no problem.	 agree	intent
-S06_E05_385	it's your boy, kenan bravo.	 introduce	intent
-S05_E16_455	man, why'd you do that stupid google search?!	 criticize	intent
-S05_E07_361	i'm so sorry you have to witness this, maya.	 apologise	intent
-S05_E08_146	they do great work. i'm a fan, really.	 praise	intent
-S05_E12_509	do what i did.	 arrange	intent
-S06_E03_455	he's been yelling at people all day like he runs the store.	 criticize	intent
-S06_E01_468	but they have me on these calls all day every day!	 complain	intent
-S05_E19_225	sandra, don't touch it.	 prevent	intent
-S05_E21_90	just ask your friends to chip in	 advise	intent
-S06_E01_88	you are essential, and the true heroes	 praise	intent
-S05_E20_445	so nice to meet you. i've heard so much about you.	 greet	intent
-S04_E13_111	that i'm the best in the class.	 flaunt	intent
-S05_E09_272	no! stop whining!	 prevent	intent
-S04_E02_400	that was just beautiful, jerusha.	 praise	intent
-S05_E13_397	randy, what are you doing here?	 care	intent
-S05_E20_475	and kelci dumped you because you're a jackass.	 criticize	intent
-S05_E12_197	what the hell can you do?	 criticize	intent
-S04_E01_511	i mean, it's got over 50 programmable greetings, plus you can change the background.	 introduce	intent
-S05_E08_371	wow, thank you so much.	 thank	intent
-S05_E15_299	well, i'm so sorry.	 apologise	intent
-S06_E03_502	and every zone captain should have a walkie-talkie.	 advise	intent
-S04_E17_325	poor garrett, pining after a woman	 taunt	intent
-S04_E14_423	uh, total, i'd say you're looking at $18,000 for repairs.	 inform	intent
-S06_E09_509	all the times that you hurt my feelings.	 criticize	intent
-S04_E07_256	no, i am mad. you're an idiot.	 taunt	intent
-S06_E03_501	we should have go-back carts for each department.	 advise	intent
-S06_E06_473	dang, they take this crap way serious.	 complain	intent
-S05_E14_310	sorry, sorry, i-i'm just going to--	 apologise	intent
-S05_E15_318	it'll be easier on yourself if you confess.	 advise	intent
-S06_E02_434	shh, guys, best part!	 praise	intent
-S05_E20_424	i didn't mean to upset you or kelci	 apologise	intent
-S05_E15_291	oh, no. come on, this is nothing.	 comfort	intent
-S06_E01_163	they sent over a very detailed, step-by-step--	 inform	intent
-S06_E07_503	i'm sorry, kelly. i--	 apologise	intent
-S06_E05_128	and i wish there was something i could do to make it up to the black employees.	 inform	intent
-S05_E08_157	huh, right, yeah.	 agree	intent
-S05_E14_70	oh, hey, glenn.	 greet	intent
-S05_E13_231	look, i'm not saying it like it's a bad thing.	 oppose	intent
-S05_E12_330	oh, dad, this is my boss, amy. show her your belt buckle.	 introduce	intent
-S05_E09_431	maybe you should give them some space.	 advise	intent
-S05_E13_87	okay, i'm gonna pee and come back.	 leave	intent
-S06_E08_136	oh, absolutely.	 agree	intent
-S05_E20_470	not your fault, son.	 comfort	intent
-S05_E20_110	okay, dina, relax. it's just a surprise date.	 comfort	intent
-S04_E16_48	easter is upon us.	 inform	intent
-S04_E11_14	you have to keep them on 24/7, they are not waterproof	 inform	intent
-S05_E19_160	what's going on? is everything okay?	 care	intent
-S04_E05_197	oh, boy. mr. hilarious at work.	 joke	intent
-S04_E03_201	you are the most petty, jealous, and bitter person	 criticize	intent
-S05_E12_441	i am really proud of the woman you've become.	 praise	intent
-S04_E04_247	thank you.	 thank	intent
-S04_E17_408	no, no, you can't tell my parents.	 prevent	intent
-S05_E12_221	it's sandra kaluiokalani.	 introduce	intent
-S05_E07_461	yeah.	 agree	intent
-S05_E08_312	this guy does not support our troops!	 criticize	intent
-S04_E12_51	i asked you for candy cane.	 criticize	intent
-S05_E09_246	jonah, your last order took 33 minutes.	 criticize	intent
-S06_E01_20	the whole job is being a liaison to cloud 9	 inform	intent
-S04_E04_336	ugh, it's so good.	 praise	intent
-S04_E08_392	we get all this free stuff	 flaunt	intent
-S06_E09_579	i-i saw that memo, too. good job, glenn.	 praise	intent
-S05_E21_10	i have my ways.	 flaunt	intent
-S04_E08_125	mateo, go take over for sayid.	 arrange	intent
-S04_E05_198	what are you writing?	 care	intent
-S05_E08_226	i just want you to know that if you donate inside, you get a $5 gift card instead of nothing.	 inform	intent
-S05_E17_52	garrett, you're only giving packages to people with wristbands.	 arrange	intent
-S05_E19_529	and again, carol, i am so sorry	 apologise	intent
-S05_E07_167	oh, i thought i saw a manatee on the side of the road.	 joke	intent
-S04_E08_461	to the back. i have work to do.	 leave	intent
-S04_E17_271	don't read into the word  yet,  no.	 prevent	intent
-S05_E07_336	i like this one	 praise	intent
-S05_E11_514	i got tired of all the guff.	 complain	intent
-S04_E03_118	well, she's not just anyone. i mean, kelly is wonderful.	 praise	intent
-S05_E13_126	the kid's good.	 praise	intent
-S06_E07_412	you're gorgeous like a vodka girl.	 joke	intent
-S05_E14_404	and now, i'm going to pass it on to the best man, jerry's best friend, garrett.	 introduce	intent
-S05_E20_12	thank you for the almost compliment.	 thank	intent
-S04_E10_58	i don't understand why they make it so hard to apply for asylum.	 complain	intent
-S05_E19_28	you are the one who should apologize.	 criticize	intent
-S05_E09_347	we liked his confidence. mm.	 praise	intent
-S04_E11_207	stop talking to me!	 leave	intent
-S05_E09_52	you'll have 30 minutes to get the order in the car.	 arrange	intent
-S05_E15_109	how are things over here?	 care	intent
-S04_E06_452	i am so tired!	 complain	intent
-S04_E05_106	oh, and honey, watch out for the bird.	 care	intent
-S04_E10_383	this is my jurisdiction.	 inform	intent
-S06_E01_535	yeah, wow! great, that's great!	 praise	intent
-S04_E02_418	this is getting boring, yo. sleep-sleep!	 complain	intent
-S04_E14_81	but one day, i got it to do 25.	 flaunt	intent
-S04_E05_13	but only call if it is a true emergency like a fire, or a big storm, or a robbery, okay?	 inform	intent
-S06_E07_3	but don't be intimidated.	 comfort	intent
-S06_E03_4	i'm taking over for amy, and--	 inform	intent
-S04_E06_530	thank you, thank you. my parents will be so proud.	 thank	intent
-S05_E10_514	you did it.	 praise	intent
-S05_E09_213	he has a cutie patootie. we're all good-looking.	 flaunt	intent
-S05_E16_484	i can't even remember the last time i had a boyfriend.	 complain	intent
-S04_E12_446	yeah, why don't you go stew in softlines?	 advise	intent
-S04_E04_374	how you doing?	 care	intent
-S04_E01_204	no! it's messed up.	 complain	intent
-S05_E17_406	this is a class c felony.	 criticize	intent
-S05_E07_192	that's the third time i've fell for this.	 complain	intent
-S05_E21_516	mom, stop.	 prevent	intent
-S04_E16_541	oh, great.	 praise	intent
-S05_E18_251	you are an amazing mom. parker is an awesome kid.	 praise	intent
-S05_E16_35	the new policy says that you can have your phones now.	 inform	intent
-S05_E09_305	but the morning rush was insane	 complain	intent
-S04_E01_181	no. no. no, no, no, i-i did not mean	 oppose	intent
-S04_E01_137	what brings you to the store...again?	 care	intent
-S05_E17_115	sucked up any change.	 leave	intent
-S05_E14_279	oh, shut up, eric.	 prevent	intent
-S04_E02_228	that sounds amazing.	 praise	intent
-S05_E02_191	give that vino to me-no.	 joke	intent
-S04_E06_190	i have a great sense of humor.	 flaunt	intent
-S05_E16_247	so, you know, we can just sit back and relax.	 advise	intent
-S04_E07_418	look, we just want what's going to make you happy	 comfort	intent
-S05_E20_299	i'm mateo, by the way. i'm sure you've heard of me.	 introduce	intent
-S05_E20_511	did you just take my photo, you pervert?	 criticize	intent
-S05_E13_144	what's--what's going on friday?	 care	intent
-S05_E12_222	yeah, sure it is.	 agree	intent
-S05_E17_243	just messing with you, spongebob.	 joke	intent
-S06_E03_548	i'm sorry.	 apologise	intent
-S05_E06_85	oh, my god, they're so cute when they bicker.	 praise	intent
-S04_E08_56	just lots and lots of bugs.	 complain	intent
-S06_E07_404	i'm not disinfecting everything for my health.	 complain	intent
-S05_E09_519	i think i'm gonna head out.	 leave	intent
-S05_E19_22	you rubbed your wedding in my face for months. and then you asked me to be your maid of honor. i mean, that was just cruel.	 criticize	intent
-S05_E07_400	oh, this news is so great	 praise	intent
-S04_E10_266	i just gotta grab a few things.	 leave	intent
-S05_E12_360	hey, buddy.	 greet	intent
-S06_E06_218	thanks.	 thank	intent
-S05_E15_296	things are just really hard right now.	 complain	intent
-S05_E14_206	all right, guys, listen up.	 inform	intent
-S05_E15_309	you stay right here. i'm gonna be right back.	 leave	intent
-S04_E11_461	well, thanks for having my back, dins.	 thank	intent
-S05_E10_13	oh, jonah, little negotiating tip--	 advise	intent
-S05_E12_476	okay, my bad.	 apologise	intent
-S05_E16_26	great debate, guys. it's very useful.	 praise	intent
-S06_E07_325	kelly, this is wonderful.	 praise	intent
-S04_E01_486	actually, the store closed, like, 15 minutes ago.	 inform	intent
-S05_E16_208	yeah, i'm sorry	 apologise	intent
-S05_E17_134	hey, hey!	 greet	intent
-S05_E07_329	you need to take this seriously.	 advise	intent
-S04_E01_416	but you're making it pretty tough.	 criticize	intent
-S05_E10_467	i blew it, didn't i?	 complain	intent
-S06_E08_14	oh, i'm sorry.	 apologise	intent
-S04_E03_180	oh, so anytime a woman tells you what to do, it's shrieking?	 criticize	intent
-S04_E14_334	you're the most qualified person here, so...	 praise	intent
-S04_E12_363	you look good.	 praise	intent
-S05_E15_82	thank you.	 thank	intent
-S05_E18_404	i am so sorry, jonah.	 apologise	intent
-S04_E01_232	i'm not even allowed to spend more than $12 on lunch	 complain	intent
-S04_E03_282	you think you're so great? your boyish good looks aren't gonna age well. you're hitting a wall, pretty boy	 taunt	intent
-S05_E11_439	listen up, ladies, father of a daughter talking.	 inform	intent
-S05_E12_112	all organic, and only $13.	 introduce	intent
-S04_E17_493	ow! what the hell, cheyenne?	 criticize	intent
-S05_E11_509	we can go now.	 leave	intent
-S05_E06_439	marcus knocked all my felt tips on the floor	 complain	intent
-S04_E10_523	i'm so sorry i'm late.	 apologise	intent
-S04_E10_170	anyway, it's called a warehouse	 introduce	intent
-S05_E19_195	oh, um, that didn't happen.	 oppose	intent
-S05_E17_590	it will, amy. i'm gorgeous.	 flaunt	intent
-S06_E02_464	oh, that's really sweet, actually.	 praise	intent
-S05_E11_320	it's a freaky time.	 complain	intent
-S05_E18_135	yeah, thanks a lot. i...	 thank	intent
-S05_E07_39	yeah, sure.	 agree	intent
-S04_E01_156	i am doing very well.	 flaunt	intent
-S04_E04_407	let's meet our first contestant, marcus white!	 inform	intent
-S05_E14_509	dina, where have you been? i've been looking for you.	 care	intent
-S05_E14_354	so embarrassing.	 complain	intent
-S04_E16_118	yeah, but i don't know how to play a villain.	 complain	intent
-S06_E06_340	i wouldn't even buy myself a diamond	 complain	intent
-S05_E15_310	thank you.	 thank	intent
-S05_E19_170	i'll move her into seasonals with justine.	 arrange	intent
-S05_E16_235	yeah, okay, thanks.	 thank	intent
-S04_E12_513	i got a secret stash in my office.	 inform	intent
-S05_E15_108	hey!	 greet	intent
-S04_E10_406	well, i only skip work because you're always telling racist jokes.	 complain	intent
-S05_E08_462	great, that's awesome.	 praise	intent
-S05_E09_370	i will leave you to it. good-bye.	 leave	intent
-S04_E17_110	hey, guys!	 greet	intent
-S05_E21_542	because there's so much to think about.	 complain	intent
-S04_E17_359	you're emma's hero, amy.	 praise	intent
-S05_E17_123	sorry.	 apologise	intent
-S05_E08_518	what the hell? you're stealing our toys?	 criticize	intent
-S06_E04_60	why are we walking so fast? i'm literally winded.	 complain	intent
-S05_E07_82	i'm sorry, i don't know what that was.	 apologise	intent
-S05_E19_90	what--what are you doing here?	 care	intent
-S04_E05_164	can we please not do all of that right now?	 prevent	intent
-S06_E10_285	look, all you guys have to do is go in there	 arrange	intent
-S04_E16_297	as of now, i don't know the bunny's preferences	 inform	intent
-S04_E07_170	my life is literally hell.	 complain	intent
-S05_E07_304	if you help me out and all goes well	 ask for help	intent
-S04_E05_102	would you be able to go to my apartment and get this camisole?	 ask for help	intent
-S04_E14_267	you're more qualified than glenn ever was.	 praise	intent
-S04_E08_263	why does everyone here start conversations like that?	 complain	intent
-S05_E16_1	for anyone who hasn't already downloaded the zephra employee app, you need to.	 inform	intent
-S06_E08_481	that's not what i meant.	 oppose	intent
-S05_E09_344	thank you.	 thank	intent
-S05_E12_497	i attended multiple father-daughter dances alone, and when i was 16, everyone made fun of me	 complain	intent
-S06_E10_392	hmm. damn. i really thought we were vibing.	 complain	intent
-S04_E12_164	that is an amazing offer	 praise	intent
-S05_E21_325	hi, brett.	 greet	intent
-S04_E10_341	'cause i'm starting to feel attacked right now.	 complain	intent
-S05_E19_416	i'm starting to reek.	 complain	intent
-S04_E12_87	and corporate would like us to stay until closing so...	 inform	intent
-S04_E03_177	you're spraying all-purpose cleaner on the fruit?	 criticize	intent
-S05_E21_506	i wish you could see this. you're really struggling.	 taunt	intent
-S05_E16_457	you calm down. you're always starting stuff!	 criticize	intent
-S06_E01_459	what happened here?	 care	intent
-S05_E12_442	thanks, dad.	 thank	intent
-S06_E09_163	she's got less brains--	 taunt	intent
-S04_E05_46	okay, uh, you seem to be all set, so i guess i'm gonna go?	 leave	intent
-S05_E10_417	we're gonna take a sidebar.	 leave	intent
-S06_E04_90	i'm gonna turn this place into the most efficient machine	 inform	intent
-S05_E15_290	i'm sorry you had to see that, glenn.	 apologise	intent
-S04_E01_93	you can just stick it in the... in the p-photo lab.	 arrange	intent
-S05_E09_264	i am so sorry.	 apologise	intent
-S05_E16_249	i can't feel my hands.	 complain	intent
-S05_E18_259	yes.	 agree	intent
-S05_E12_475	i mean, come on. the editing is so choppy.	 complain	intent
-S05_E06_9	first, we're gonna be handing out goodie bags to the kids.	 arrange	intent
-S06_E10_424	excuse me. you can't be in here.	 prevent	intent
-S04_E04_246	hey, glenn, i think you left that in the parking lot.	 inform	intent
-S05_E12_56	but now i have tons student loan and credit card debts.	 complain	intent
-S04_E04_200	funny little people.	 joke	intent
-S06_E01_67	hey, any update on when you two lovebirds are moving to cali?	 care	intent
-S05_E06_501	uh, i am so honored to receive this sprite	 flaunt	intent
-S05_E14_350	how's it going?	 care	intent
-S05_E10_263	oh, um, amy, i'm so sorry	 apologise	intent
-S05_E10_91	really, it's amazing work that you're doing.	 praise	intent
-S04_E05_251	women have been birthing for thousands of years in all kinds of disgusting places.	 complain	intent
-S04_E02_500	oh, thank you, sayid.	 thank	intent
-S05_E17_130	well thank you	 thank	intent
-S04_E04_464	oh, no, i'm not spider-man.	 oppose	intent
-S05_E12_547	yeah, don't worry.	 comfort	intent
-S05_E06_236	she's my... she's my lady.	 introduce	intent
-S05_E11_332	i gotta be honest, that sounds awful.	 complain	intent
-S04_E11_238	check them all! go!	 arrange	intent
-S05_E18_4	i can do this from muscle memory.	 flaunt	intent
-S05_E13_482	look, mateo never got a work permit.	 inform	intent
-S04_E06_485	i'm sorry if that doesn't make you feel any better.	 apologise	intent
-S05_E08_316	it's just one gift card per customer.	 inform	intent
-S05_E11_198	you should be very proud of yourself.	 praise	intent
-S05_E14_336	yeah, i got it. sorry.	 apologise	intent
-S04_E08_374	he wouldn't have either, so--oh, this is a pickle.	 complain	intent
-S05_E14_67	sorry.	 apologise	intent
-S05_E13_453	print it out, and then run it back here to me.	 arrange	intent
-S04_E01_31	thank you for always tipping 20 bucks	 thank	intent
-S05_E14_59	no rush. no rush at all.	 comfort	intent
-S05_E16_223	how's stuff been going with you lately?	 care	intent
-S05_E16_15	when you enter the store, so no need to swipe in	 inform	intent
-S05_E07_419	don't be ashamed.	 comfort	intent
-S05_E10_311	okay, yeah, you're looking good on the trunk side.	 praise	intent
-S05_E17_141	jeff, this is isabel. she works at zephra.	 introduce	intent
-S04_E04_87	dina! what do i do? should i jump the railing?	 ask for help	intent
-S05_E16_317	you're a locker-licker too?	 joke	intent
-S05_E14_102	aw, that's beautiful.	 praise	intent
-S05_E17_48	so glenn, you're gonna be running care packages from the warehouse, or doing that waddle thing you do, whatever works.	 arrange	intent
-S05_E15_35	come on, peeps. dig in.	 arrange	intent
-S05_E14_331	nothing happened, okay? everything's fine.	 comfort	intent
-S04_E06_521	thank you.	 thank	intent
-S04_E14_19	and guys, i say this a lot,but we really need to wet down those raccoon droppings before we sweep.	 inform	intent
-S06_E08_612	tony's a good kid. i like him.	 praise	intent
-S05_E07_119	are you sure you're okay?	 care	intent
-S05_E02_95	tay-tay and tine-tine: the slut squad.	 joke	intent
-S05_E13_365	okay, that doesn't even make sense.	 oppose	intent
-S05_E10_32	sorry i'm late.	 apologise	intent
-S04_E13_461	what is wrong with you?	 care	intent
-S04_E11_144	come on, don't take it personally.	 comfort	intent
-S05_E18_278	okay, this has gotta stop.	 prevent	intent
-S06_E01_172	everybody in single-file lines.	 arrange	intent
-S06_E01_117	ah, he's just putting on a show.	 taunt	intent
-S05_E07_208	yep, that's right.	 agree	intent
-S05_E10_2	that's important- and holiday pay.	 inform	intent
-S05_E15_346	your holiday numbers were outstanding	 praise	intent
-S04_E14_164	glenn, can i borrow $2,000 for sales tax?	 ask for help	intent
-S05_E18_332	you guys, don't clap for that.	 prevent	intent
-S06_E10_463	glenn, hey, look, i- i'm sorry.	 apologise	intent
-S05_E07_161	listen up, scrodes.	 inform	intent
-S05_E10_401	okay, just relax.	 comfort	intent
-S05_E17_413	i don't know why, but he has been trying to tear me down all day today.	 complain	intent
-S04_E01_99	okay.  sorry, that was a poor choice of words.	 apologise	intent
-S04_E01_155	god, get over yourself.	 taunt	intent
-S05_E15_283	oh, thank god.	 leave	intent
-S04_E12_312	i fell up an escalator when i was taking a selfie.	 complain	intent
-S05_E06_244	you guys, i am dying right now.	 joke	intent
-S05_E14_292	well, we're already 20 minutes behind.	 complain	intent
-S05_E11_182	ah, it's great. t-shirt activism.	 praise	intent
-S05_E14_367	because to me, this room sucks.	 complain	intent
-S04_E07_457	he's a good person. that is real.	 praise	intent
-S04_E02_470	thank you, everyone, for coming to the party.	 thank	intent
-S05_E07_470	can i have some of the house red?	 ask for help	intent
-S04_E16_184	i love it.  like totally lies.	 taunt	intent
-S05_E16_182	sorry.	 apologise	intent
-S05_E10_292	is there any way that i could get more information?	 ask for help	intent
-S04_E16_222	he's the disciple that betrayed jesus.	 criticize	intent
-S05_E15_404	everything is just making me wanna cry.	 complain	intent
-S05_E09_142	this isn't a library! come on, read and run!	 arrange	intent
-S05_E15_349	whatever you're doing, bottle that	 arrange	intent
-S06_E04_601	yeah.	 agree	intent
-S05_E16_346	wow, first you mute me, then you kill a child.	 criticize	intent
-S04_E09_282	no, okay, sir, you may not bring this in here.	 prevent	intent
-S04_E09_29	no, do not even think about paying me for this.	 prevent	intent
-S05_E13_274	well, uh, marcus, that is all very correct.	 agree	intent
-S04_E02_460	i just want to get out of here. how do we get out of here?	 leave	intent
-S04_E09_27	oh, um, that sounds like a lot work	 complain	intent
-S06_E03_617	i'm sorry jonah.	 apologise	intent
-S05_E17_539	jerry.	 greet	intent
-S05_E14_184	things have a way of working out for sandra.	 comfort	intent
-S05_E14_210	jonah, you set up the chairs. cheyenne, can you make sure that the sound system's working?	 arrange	intent
-S06_E03_160	just leave it with me. i'll find someone else.	 leave	intent
-S04_E07_512	and your dad abandoned you at a gas station?	 taunt	intent
-S05_E16_345	well, we can try. come on, dina.	 leave	intent
-S06_E04_15	ah, yeah, that makes sense.	 agree	intent
-S04_E04_435	it's a me, a mario!	 introduce	intent
-S06_E10_140	eugene? did you lock me out?	 criticize	intent
-S05_E19_189	okay, can we just stop talking about this?	 prevent	intent
-S05_E18_557	yeah, well thanks, buddy.	 thank	intent
-S05_E08_492	he just really knows where to kiss soft	 praise	intent
-S04_E04_23	that's like six weeks away.	 inform	intent
-S05_E08_564	well, that's nice.	 praise	intent
-S05_E10_86	oh, so good to meet you in person.	 greet	intent
-S04_E03_82	should we get a scented candle for our nightstand?	 advise	intent
-S04_E04_469	attention cloud 9 shoppers, i do not have an announcement	 inform	intent
-S05_E13_488	i--i totally get it.	 agree	intent
-S05_E11_548	now get back to work.	 arrange	intent
-S06_E01_564	it's pretty nice back here.	 praise	intent
-S04_E06_42	honestly, you're-- you're really beautiful.	 praise	intent
-S06_E04_503	oh, i'm sorry, jonah.	 apologise	intent
-S05_E13_253	hey.	 greet	intent
-S06_E08_54	mom, come on.	 prevent	intent
-S05_E17_234	that's helpful, jeff. thank you.	 thank	intent
-S06_E03_370	ah, too much clothing for this horndog.	 taunt	intent
-S06_E08_126	so i think i've just been really lonely.	 complain	intent
-S04_E07_536	now we're...announcing it.	 inform	intent
-S04_E02_300	no worries, i'm out of here.	 leave	intent
-S05_E17_513	it wasn't cheyenne!	 oppose	intent
-S04_E12_32	well, we're supposed to stay open till 11:00.	 inform	intent
-S05_E09_413	and if you were actually doing the work,  and if you were actually doing the work, you would see how hard it is.	 complain	intent
-S04_E12_462	i'm prediabetic.	 inform	intent
-S05_E13_200	okay, marcus, you next.	 arrange	intent
-S04_E09_24	oh, there is no way that i am sending you	 oppose	intent
-S05_E12_416	why don't we all chip in?	 advise	intent
-S06_E06_88	flooding in the attic and the basement.	 inform	intent
-S05_E09_465	uh, sorry. i just got another one.	 apologise	intent
-S05_E15_375	okay, and if you could just get me that number by the end of the day, that'd be great.	 arrange	intent
-S04_E08_43	i'm sorry, the tickets are non-transferable.	 inform	intent
-S04_E14_195	laurie neustadt, you are in violation of rule 17-b of cloud 9 hiring policy.	 inform	intent
-S05_E13_471	what? i crushed the interview.	 complain	intent
-S04_E07_223	thank you.	 thank	intent
-S04_E09_453	so let me know if any of these feel right to you.	 inform	intent
-S04_E16_216	they just make fun of me openly to my face.	 complain	intent
-S04_E17_473	you don't have to edit it. i'll take care of that.	 inform	intent
-S05_E12_81	aww. yeah, maybe you should reconnect before it's too late.	 advise	intent
-S05_E14_249	hey, man, sorry about earlier.	 apologise	intent
-S05_E15_20	i knew from before. i knew, like, two hours ago.	 flaunt	intent
-S05_E21_272	oh! radical.	 praise	intent
-S05_E16_394	maybe we should do another lap around the park?	 advise	intent
-S05_E11_334	come on. give me a chance.	 ask for help	intent
-S05_E15_501	i'm sandra kaluiokalani	 introduce	intent
-S04_E13_380	i was expecting you to side with me over dina.	 complain	intent
-S05_E15_589	look, i'm sorry, benny, but i had no choice.	 apologise	intent
-S04_E09_298	the freezer's full.	 inform	intent
-S06_E10_342	why do people think that i'm at fault	 complain	intent
-S06_E06_99	what kind of symptoms have you been having?	 care	intent
-S05_E19_206	how about carol works with you?	 advise	intent
-S05_E17_170	thank you so much.	 thank	intent
-S05_E08_508	you're gonna make a lot of kids very happy.	 praise	intent
-S05_E15_499	well, it was nice catching up. sandra, let's go.	 leave	intent
-S05_E18_209	no. what? it's a--it's a squirrel.	 oppose	intent
-S05_E13_408	not 'cause i don't think you deserve it, just 'cause you're doing so bad.	 criticize	intent
-S06_E07_191	it's really not. it's not hot juice.	 oppose	intent
-S05_E18_410	sure. thank you.	 thank	intent
-S05_E14_93	you know, nobody's going to hate you.	 comfort	intent
-S05_E11_18	calm down, it's- it's all gonna be fine.	 comfort	intent
-S05_E08_335	no, i'm not gonna admit that	 oppose	intent
-S04_E16_369	i felt so violated.	 complain	intent
-S05_E09_550	it makes me feel icky when you call me hot.	 complain	intent
-S06_E01_216	we're also required to wear masks.	 inform	intent
-S05_E17_143	oh, maybe i should call you mommy.	 joke	intent
-S05_E20_545	hey, glenn, so sorry.	 apologise	intent
-S05_E10_66	we doing a dystopian nightmare christmas this year?	 joke	intent
-S04_E07_68	it's all on clearance.	 inform	intent
-S04_E14_317	can you tell me where inventory is?	 ask for help	intent
-S06_E04_581	but hey, sales are up.	 inform	intent
-S06_E02_115	thanks for keeping this little assistant arrangement going.	 thank	intent
-S06_E07_483	it was you guys the whole time?	 criticize	intent
-S05_E07_429	here, you read these.	 arrange	intent
-S06_E04_62	cheyenne, you're still gonna have to stay on top of deliveries. produce comes at 11:00.	 arrange	intent
-S04_E10_59	applying to be a refugee was even worse.	 complain	intent
-S04_E10_410	sheila told me that you're always making her give you back rubs.	 criticize	intent
-S04_E16_71	yeah, scott bankroft broke his leg.	 inform	intent
-S05_E18_335	it's not a dog toy. i got it here in the store.	 oppose	intent
-S05_E11_19	look, corporate sent over a memo that says,  cloud 9 is excited about this exciting new chapter full of exciting possibilities.	 inform	intent
-S04_E06_416	i hate to complain, but that machine is so noisy.	 complain	intent
-S04_E09_236	you even found some i didn't notice.	 praise	intent
-S04_E11_343	my scanner's not working. we can't figure out why.	 ask for help	intent
-S05_E17_239	seems like people would rather die than eat that stuff.	 taunt	intent
-S05_E08_426	sorry! this is where we're storing	 apologise	intent
-S05_E11_273	or maybe there's a slightly less depressing solution, like	 advise	intent
-S05_E13_95	it's a digital picture frame.	 introduce	intent
-S05_E07_543	alex, could you--thank you.	 ask for help	intent
-S06_E02_372	can't we just get to california	 advise	intent
-S04_E10_145	and you got that from pants?	 joke	intent
-S05_E09_364	he put some shelves in our mother's bathroom and they looked... really cool.	 praise	intent
-S06_E09_315	effective immediately, there will be no more talk about conspiracy theories.	 inform	intent
-S06_E05_350	i'm sick of looking at it. it's going on the list.	 complain	intent
-S05_E14_188	you look beautiful! yeah!	 praise	intent
-S04_E08_456	look, sayid, sayid, don't worry about it.	 comfort	intent
-S06_E07_502	you're right.	 agree	intent
-S05_E10_104	well, glenn, i have found your item right here.	 inform	intent
-S05_E16_482	my birds flew away.	 complain	intent
-S05_E09_547	jeff, so how about the two of you just start talking	 advise	intent
-S05_E15_517	we're really sorry.	 apologise	intent
-S05_E11_180	this one's doing stem cell research.	 introduce	intent
-S05_E06_265	yep. she's my cowgirl.	 introduce	intent
-S06_E02_69	oh, we could have a double wedding.	 advise	intent
-S05_E12_42	there's 1,000 bucks in it. i already opened it.	 introduce	intent
-S05_E12_141	oh, all right.	 agree	intent
-S06_E01_509	amy sosa here.	 introduce	intent
-S05_E15_526	what are you doing- no, no, don't do that!	 prevent	intent
-S06_E09_532	we'll get into this later.	 leave	intent
-S05_E15_111	yeah, everyone feeling  grr-eat?	 care	intent
-S05_E06_408	if i run too fast, i become airborne.	 joke	intent
-S05_E13_499	oh, man, that's such a good start.	 praise	intent
-S06_E04_491	you know, i'm sorry.	 apologise	intent
-S04_E11_184	sandra! bathroom duty!	 arrange	intent
-S06_E01_195	so, first off, marcus tested positive for covid after attending a spring break party on the lake.	 inform	intent
-S05_E09_584	sure.	 agree	intent
-S05_E08_414	the point is that this guy is a jerk	 criticize	intent
-S05_E20_532	sorry, this guy tricked me into taking a photo of him and his stupid pig.	 apologise	intent
-S05_E09_223	he was cute, sure, but, okay	 praise	intent
-S05_E11_238	hey, carol, you're not invited to sandra's wedding!	 inform	intent
-S06_E10_310	jonah's...the most competent.	 praise	intent
-S06_E03_5	oh, jonah, i'm sorry.	 apologise	intent
-S05_E17_237	so i keep this cabinet full of healthy snacks for everyone.	 introduce	intent
-S06_E06_474	something you'd like to share with the class, turd melon?	 taunt	intent
-S06_E04_444	let's all come together for marcus.	 inform	intent
-S05_E15_370	i gotta hop on another call, but we'll do this again soon.	 leave	intent
-S05_E13_59	okay. here's the plan.	 introduce	intent
-S04_E03_495	i'm sorry. i tried as hard as i could.	 apologise	intent
-S05_E16_400	that was so important you needed to read it	 advise	intent
-S04_E06_211	the bathroom is disgusting.	 complain	intent
-S04_E01_265	i'm gonna go back to work now	 leave	intent
-S04_E06_487	hey, amy, it's about that time.	 inform	intent
-S05_E08_195	oh, sorry.	 apologise	intent
-S06_E09_169	i think it was gonna be racist.	 complain	intent
-S04_E05_185	i want to feel deeply uncomfortable	 complain	intent
-S04_E14_386	he's always doing stuff with his hair.	 complain	intent
-S05_E21_8	close the door.	 arrange	intent
-S05_E11_463	and you're on the phone.	 joke	intent
-S05_E21_1	hey. just got an email from hr.	 inform	intent
-S06_E03_218	we're having an election.	 inform	intent
-S05_E20_474	mom is crushed because you cheated on her.	 criticize	intent
-S06_E09_537	oh, glenn, should you be drinking that with your diabetes?	 care	intent
-S05_E13_450	you have diabetes. you aren't even in control	 criticize	intent
-S05_E07_289	it's been two hours of this.	 complain	intent
-S04_E04_169	now i can't tune it out. it doesn't even make sense.	 complain	intent
-S05_E17_99	oh, wait, is everything okay?	 care	intent
-S05_E06_96	i guess i'll just be here all day watching you eat that.	 joke	intent
-S04_E16_328	hey, guys, how's it going over here?	 care	intent
-S05_E10_323	hey.	 greet	intent
-S06_E03_106	oh, jonah, that's wonderful.	 praise	intent
-S04_E03_275	excuse me, i've got to go stop the love.	 leave	intent
-S05_E15_215	you know, we could bring up some of our issues.	 advise	intent
-S05_E07_5	it just made me uncomfortable.	 complain	intent
-S05_E09_17	it's a nice fall day out there.	 praise	intent
-S05_E08_463	stop it, i can tell you don't believe it.	 prevent	intent
-S05_E09_295	cool. i learn so much from you.	 praise	intent
-S05_E08_154	could you stop ringing the bell for just a second?	 prevent	intent
-S04_E02_326	oh, this party's gonna be sick!	 praise	intent
-S06_E07_355	guys, i'm gonna be a little busy around 2:00 p.m. don't even ask me what i'm doing. it's private.	 flaunt	intent
-S05_E10_116	how's jonah doing out there? crushing it?	 care	intent
-S05_E11_119	you're making too big a deal out of this.	 criticize	intent
-S04_E08_101	that's awesome.	 praise	intent
-S04_E11_365	elias, there is definitely a cart out there.	 inform	intent
-S05_E16_197	it's a meme of indiana jones cracking his whip.	 introduce	intent
-S05_E06_455	amy, wait!	 prevent	intent
-S06_E04_449	seems great, but maybe we should set some ground rules.	 advise	intent
-S04_E09_365	attention shoppers: it's 10 degrees fahrenheit outside,so why not take home a frosty case of ice pops?	 inform	intent
-S05_E15_83	hey.	 greet	intent
-S05_E10_549	dina busted out the cart-jousting stuff.	 inform	intent
-S04_E16_391	running hard, water bad.	 joke	intent
-S05_E16_216	i mean, i feel kinda bad, but it's too much.	 complain	intent
-S05_E17_15	to the nearest dollar for charity.	 arrange	intent
-S05_E18_149	oh, my god. that would be amazing.	 praise	intent
-S05_E19_570	you guys are a little bit being like dicks right now.	 criticize	intent
-S05_E13_248	so--so put it all back, and make it bigger.	 arrange	intent
-S06_E03_12	why don't we all lead the meeting together?	 advise	intent
-S05_E12_170	human equivalent of a band-aid in a salad--	 joke	intent
-S04_E17_59	yeah, you guys, you're both so--so beautiful.	 praise	intent
-S06_E05_486	please report to the break room for pizza because apparently, now everyone gets pizza.	 inform	intent
-S05_E14_504	yeah, the internet has gotten so bad.	 complain	intent
-S05_E13_199	no, thank you, justine, for answering the question.	 thank	intent
-S05_E13_193	oh, okay. well, um, i have worked here	 introduce	intent
-S05_E07_87	i need someone to help me run my shoplifter rehab course.	 ask for help	intent
-S05_E07_6	i already have enough trouble	 complain	intent
-S05_E14_402	remember to moisturize, okay?	 advise	intent
-S05_E08_296	oh, okay, well, thank you.	 thank	intent
-S05_E19_288	i'm gonna go get some takis.	 leave	intent
-S04_E13_93	elias, i'm gonna need you to clean up the vomit that's gonna be all over the ladies' bathroom in about three minutes.	 arrange	intent
-S05_E18_386	oh, don't do that.	 prevent	intent
-S05_E20_24	my advice--don't get lost in the siblings.	 advise	intent
-S05_E13_341	oh, i'm sorry, sir.	 apologise	intent
-S04_E03_103	what if we made her employee of the month this month?	 advise	intent
-S05_E20_491	i'm really sorry.	 apologise	intent
-S05_E09_141	all right.	 leave	intent
-S05_E15_508	i'm not on board with--i didn't even know the diaper part.	 oppose	intent
-S04_E09_277	who would need 12,000 boxes of ice pops?	 complain	intent
-S05_E12_493	it's too late. you missed everything.	 criticize	intent
-S05_E15_192	like, cool. that's exciting.	 praise	intent
-S04_E01_247	nope, just recap the markers when they're done.	 arrange	intent
-S05_E09_505	uh, okay.	 agree	intent
-S05_E09_47	and bring it out to the customer.	 arrange	intent
-S06_E07_426	zephra can eat our ass meat.	 joke	intent
-S05_E17_160	ah, that sounds amazing!	 praise	intent
-S04_E03_358	that's interesting.	 praise	intent
-S05_E16_109	well, i'm a  stockroom rockstar.	 flaunt	intent
-S06_E04_545	ugh, this whole day sucks.	 complain	intent
-S06_E03_471	oh, that's cool.	 praise	intent
-S05_E13_258	okay, thank you, cheyenne.	 thank	intent
-S05_E11_185	that's a cash register.	 introduce	intent
-S05_E21_378	look, sandra, i gotta say something here.	 inform	intent
-S05_E10_360	all right, well, um, we have a power outage.	 inform	intent
-S06_E02_492	ohh, cheyenne, that's really sweet, thank you.	 thank	intent
-S05_E06_74	ah, see? there's always a catch.	 taunt	intent
-S04_E06_299	oh, i'm sorry.	 apologise	intent
-S05_E15_113	speaking of cereal, you sound just like tony the tiger.	 joke	intent
-S06_E04_396	this job is hard enough.	 complain	intent
-S05_E11_151	and i need a floor supervisor	 ask for help	intent
-S06_E03_458	glenn gave me ultimate executive power.	 flaunt	intent
-S04_E11_85	it lowers your blood pressure and increases your lifespan.	 introduce	intent
+season	episode	clip	text	label
+S05	E16	329	apparently, teens are drinking the slushie stuff inside of these for the alcohol.	Inform
+S06	E06	589	we are the manager.	Introduce
+S06	E02	25	that is not true, marcus.	Oppose
+S05	E16	219	eh, if i did, i'd have to change it on my debit card too.	Leave
+S05	E19	506	yeah, he has, like, no respect for the permit.	Complain
+S05	E10	325	how are things going over there?	Care
+S05	E08	428	what is this you're sprinkling?	Care
+S05	E12	358	it's the business that we were gonna start.	Introduce
+S06	E07	601	you were a great roommate.	Praise
+S04	E17	434	i actually just bought some stock in a drone company.	Inform
+S05	E11	27	heather, you're in housewares.	Arrange
+S05	E14	54	oh, okay. no worries.	Comfort
+S05	E06	206	hey!	Greet
+S04	E10	375	there's, like, eight of us, that's more of a walk.	Complain
+S04	E08	105	hey, denise, these are friends of mine	Introduce
+S05	E08	418	yes, of course!	Agree
+S05	E08	149	hi, i'm amy sosa, store manager.	Introduce
+S04	E03	388	how am i supposed to work checkout?	Complain
+S06	E04	542	okay, all right, new rule: no one can be mad about whatever was said in this room, okay?	Inform
+S05	E12	32	hey, guys, myrtle's nephew just came in	Inform
+S04	E09	486	again, i'm sorry about the typo.	Apologise
+S05	E08	537	yeah.	Agree
+S05	E21	201	oh, we could get, like, a red bull fountain.	Advise
+S04	E16	494	sandra, code cottontail.	Inform
+S04	E13	472	you were the one who said he should be telling her.	Criticize
+S05	E08	337	mateo, give him the gift card.	Arrange
+S04	E03	84	this one smells like peanut butter.	Introduce
+S05	E16	27	also there's a product locator, an inventory map	Inform
+S05	E15	258	kira moon from zephra will be  surprising  us	Inform
+S06	E05	74	yeah, you know, this is actually exactly	Agree
+S05	E06	229	thank you.	Thank
+S05	E17	95	oh, hey, glenn.	Greet
+S05	E08	489	glenn, take this down. sandra, keep going.	Arrange
+S05	E11	487	jonah, i wasted my afternoon in that meeting just to go along with your new cause	Complain
+S05	E07	189	anyone who ripped up their workbook has failed.	Inform
+S04	E07	301	why didn't you just shout,  hey glenn	Complain
+S05	E11	149	never forget how fun you are, jonah.	Taunt
+S05	E13	15	um, and jonah and justine, you get to help out tomorrow when the rest of the shipment comes in.	Arrange
+S05	E21	16	you're smart, hardworking	Praise
+S05	E13	80	that's crazy. you can't do that.	Prevent
+S04	E04	57	i'm doing very well.	Flaunt
+S05	E07	34	great, thanks. also, did you know	Thank
+S04	E09	398	and such a massive waste of time	Complain
+S05	E07	603	so maybe marcus could join us?	Advise
+S05	E08	126	you can donate to our toy drive.	Advise
+S05	E18	328	and you've taken him to a doctor, and he's doing fine?	Care
+S05	E10	491	sure, thanks.	Thank
+S05	E11	256	but i could really use the help.	Ask for help
+S05	E11	93	garrett, do you mind if i use your phone?	Ask for help
+S04	E16	287	he's been spotted in the vicinity.	Inform
+S06	E02	503	how's the search going?	Care
+S05	E16	358	why don't you buy the dryer balls?	Advise
+S05	E06	287	elias did a great job with the crepe paper, though.	Praise
+S05	E09	182	don't worry about it.	Comfort
+S04	E03	387	these customers are so handsome.	Praise
+S05	E08	100	no, things are good.	Comfort
+S05	E17	555	bye, jonah.	Leave
+S04	E06	155	i've never been so tired.	Complain
+S05	E08	17	hi, i'm mateo liwanag	Introduce
+S06	E09	229	it's actually super distracting.	Complain
+S05	E06	386	amazing. thank you, dina.	Thank
+S05	E20	236	turn all the screens in electronics to mtv.	Arrange
+S05	E13	216	okay, buddy, you're being weird.	Taunt
+S05	E07	556	turt-turt, we're out of here.	Leave
+S06	E06	26	no, it's that we no longer have to sanitize	Inform
+S05	E09	440	yeah, yeah, you're good. you got this.	Praise
+S06	E03	372	we can't trust him about anything.	Complain
+S05	E09	428	i'm just checking to see if he and mateo are hitting it off.	Care
+S04	E03	256	thank you for bringing that to my attention.	Thank
+S06	E05	215	cool, let's all give credit to jonah for janet's idea.	Praise
+S05	E14	493	i'm sorry.	Apologise
+S05	E18	27	oh, my god, he's so cute. my ovaries are exploding.	Praise
+S04	E08	91	the point is, sayid, you're home now.	Inform
+S04	E12	459	'cause he eats a lot of sugar, so he'd be the sweetest.	Joke
+S04	E17	151	we can see that, big guy. just get out of the way.	Prevent
+S06	E01	210	so, employees must wipe down the register and credit card machine after each customer	Inform
+S05	E19	341	hey, tommy, some guy with no pants just joined the protest.	Inform
+S05	E07	291	why, so you can steal a quart of our pink soap?	Criticize
+S05	E11	449	yeah, it feels kinda good.	Praise
+S06	E10	420	because the ducklings were having a tea party	Introduce
+S06	E01	260	oh, great, more reasons for the wet-lips to yell at me.	Taunt
+S05	E20	274	go ahead. don't worry, i've--i've--	Comfort
+S05	E06	16	uh, actually, i got tired of explaining	Complain
+S04	E11	508	what, so they can slap the other cheek?	Taunt
+S06	E07	328	kelly came over from fenton to cover a shift.	Inform
+S04	E12	380	because he thinks he's better than everyone else here.	Taunt
+S05	E07	264	i have zero control over my employees.	Complain
+S04	E07	112	why would we even do it? what're we doing it for?	Complain
+S04	E01	211	and for women, it's that i got taken advantage of?	Complain
+S06	E05	536	our corona tests came back negative.	Introduce
+S05	E10	406	and after all of that, we still can't afford rent	Complain
+S04	E06	75	my name's kimmer with a k.	Introduce
+S05	E08	217	you could tell 'em your story.	Advise
+S05	E08	502	sorry, i should really get going.	Leave
+S05	E06	12	you two are gonna be managing	Arrange
+S05	E14	207	there is still a lot that needs to get done, and it is crunch time.	Inform
+S06	E02	252	it wasn't- it wasn't that.	Oppose
+S06	E07	455	and it's the best thing that's ever happened to me.	Flaunt
+S04	E06	365	that's an interesting choice.	Praise
+S04	E14	273	excuse me, folks, can everyone gather up?	Inform
+S05	E20	265	glenn, you smell scared. what's up?	Care
+S05	E16	477	dina, i am sorry that i said nobody likes you.	Apologise
+S06	E01	87	but for now, they want everybody to know that,  we value our employees' dedication.	Inform
+S04	E13	406	thank you.	Thank
+S05	E09	522	test the shelves, make sure they, um	Arrange
+S05	E08	525	jonah, why are you filming this?	Criticize
+S05	E14	161	hey, dina. everything okay?	Care
+S05	E07	297	yep.	Agree
+S05	E06	94	you could eat yourself to death and no one would care.	Joke
+S05	E14	261	here, take my card. there's a link to the web--	Introduce
+S05	E16	212	maybe you should just mute her.	Advise
+S05	E02	65	look, i know you like to be everyone's but that's not how i live my life.	Oppose
+S04	E17	350	it's a traditional honduran food.	Introduce
+S06	E01	21	so i'm still gonna be working with you guys.	Inform
+S04	E06	441	i am dealing with a lot today.	Complain
+S04	E13	300	can't you just cover it up?	Advise
+S05	E11	505	oh, that's so sweet.	Praise
+S04	E05	491	yeah. thank you.	Thank
+S05	E10	327	she's out of commission for the rest of the day	Inform
+S05	E12	327	thanks.	Thank
+S05	E21	89	you have to have a party.	Advise
+S05	E15	94	classy move, zephra.	Praise
+S06	E01	438	this man is harassing me	Criticize
+S06	E03	498	for instance, i think we should stagger our shift start times	Advise
+S06	E03	67	i mean, dusty mint stinks.	Complain
+S05	E16	538	sorry, that sounded really callous.	Apologise
+S05	E17	554	sandra, could you bring home some magazines?	Ask for help
+S06	E09	597	nice job.	Praise
+S05	E11	503	what's wrong with your head?	Care
+S05	E13	26	we haven't even gotten a chance to talk yet.	Complain
+S05	E21	518	what's going on here?	Care
+S05	E11	382	what if we call it  the octagon.	Advise
+S06	E01	495	amy might have abandoned us a little, but we're fine!	Comfort
+S05	E10	161	need any help with whatever this is?	Care
+S04	E14	440	blaine is sexy, but he is not a good manager.	Criticize
+S05	E13	369	well, i am gonna show her just how many items	Inform
+S05	E21	98	sorry.	Apologise
+S04	E08	358	that guy's always making up stuff about people.	Criticize
+S06	E10	454	i have been nervously holding my pee for six hours	Complain
+S06	E01	32	whoa! the nba just announced they're suspending the season.	Inform
+S04	E16	366	also, what's with the weirdly intimate stares?	Complain
+S05	E14	446	damn it, dina. you had one job.	Complain
+S05	E07	153	attention employees. uh, listen up.	Inform
+S06	E01	412	hey, amy, i dropped my mask...	Inform
+S06	E02	320	well, i'm sure you'll figure something out.	Comfort
+S05	E08	246	yeah, just traveling the world shirtless.	Joke
+S04	E04	168	hey man, why did you have to point out this stupid halloween song?	Complain
+S06	E08	118	why did this happen? am i a bad person?	Complain
+S05	E17	542	hey, jerry.	Greet
+S04	E11	166	no, no, no, no, no. don't help him.	Prevent
+S05	E07	24	hey, guys, sorry to give you a scare there.	Apologise
+S04	E04	333	my jewish bird joke is so good	Flaunt
+S06	E02	113	thanks!	Thank
+S04	E12	337	game of thrones  season one	Introduce
+S05	E07	345	okay.	Agree
+S05	E21	305	how about everybody's got roller skates	Advise
+S05	E21	481	hey.	Greet
+S05	E11	188	that's--that's a good thing.	Praise
+S05	E14	200	you go. get ready.	Arrange
+S05	E11	399	perhaps going forward,we could all focus on--on the issues that we have here at--at work.	Advise
+S05	E13	530	oh, thank you.	Thank
+S04	E14	411	hey, so i guess we're just out of green beans.	Inform
+S06	E04	568	it's gonna be all about the moon before you know it.	Inform
+S06	E03	220	so we're gonna let the people decide.	Inform
+S05	E19	283	i'll get right on it. sorry, boss.	Leave
+S06	E05	127	anyway, the point is i'm just so sorry.	Apologise
+S06	E03	462	oh, and you're not allowed to shop here anymore.	Inform
+S04	E04	85	i'll reach out to the manufacturer.	Inform
+S05	E11	440	thank you.	Thank
+S05	E10	44	while i waste my talents in the vision center.	Complain
+S06	E08	475	then why were you yelling at him when it happened?	Criticize
+S04	E04	220	this same song keeps playing over and over again, and it's starting to drive me crazy.	Complain
+S05	E16	571	um, i'm gonna go make a call	Leave
+S04	E16	261	you have got to stop watching this.	Prevent
+S05	E08	7	i am in the middle of something, dummy.	Criticize
+S05	E13	25	the time difference with ghana is so tricky.	Complain
+S05	E14	48	and my liver is on high alert.	Inform
+S05	E11	120	you just need to go up to her and go	Advise
+S04	E05	77	i'm dr. sidian, i'm the attending on the floor.	Introduce
+S05	E11	266	look, sandra, i think maybe she needs to hear it from you.	Advise
+S05	E21	312	yo, don't write that down.	Prevent
+S05	E09	259	and apologize to customers when these two can't hack it.	Arrange
+S04	E10	171	but don't let it wear you out.	Inform
+S04	E08	92	and on behalf of everyone in america, we welcome you.	Inform
+S05	E08	61	this week, enjoy 20% off	Inform
+S05	E14	522	everything okay?	Care
+S06	E09	6	i'm sorry, guys.	Apologise
+S05	E15	454	i think ellen degeneres dances too much!	Complain
+S04	E13	262	oh, listen, you--you do not have to worry about that, okay?	Comfort
+S04	E16	528	and i think it's pretty messed up	Complain
+S04	E04	397	okay then, contest back on.	Inform
+S05	E14	337	jonah, what are you doing?	Care
+S05	E15	3	zephra has sent us a little break room upgrade	Inform
+S05	E14	380	but you're going to be fine.	Comfort
+S05	E13	388	who cares? who cares? don't worry about it.	Comfort
+S05	E15	455	it's unprofessional!	Complain
+S05	E12	181	and i just wanted to tell you that dina... passed away.	Inform
+S05	E17	391	oh, that is awesome.	Praise
+S05	E13	89	um, it's the display for the new zephra products.	Introduce
+S04	E01	480	all right, guys, well, this is your last chance	Inform
+S05	E08	520	well, technically, you can suck it!	Criticize
+S04	E16	52	happy easter.	Inform
+S05	E15	197	why is everybody being so cynical about this?	Complain
+S05	E10	458	oh, that does sound nice.	Praise
+S05	E15	289	that's embarrassing.	Complain
+S05	E16	525	you would know if you didn't make me skip to the end of the story!	Criticize
+S05	E12	217	it's best to just pretend you've passed out, okay?	Advise
+S04	E08	137	okay, here are your lanyards and your room keys.	Inform
+S06	E01	246	the ink's starting to turn our butts weird colors.	Complain
+S05	E18	83	mm-hmm, and his proportions are a dream.	Praise
+S05	E15	453	i think i voted wrong!	Complain
+S06	E04	486	so i say turn every golf course into a solar farm.	Advise
+S04	E03	13	sorry for accidentally texting you that nude.	Apologise
+S05	E17	526	our people are struggling, amy.	Complain
+S05	E07	384	i'm just a dumb, useless butt.	Complain
+S05	E11	378	why don't we set some ground rules	Advise
+S05	E08	32	yeah, i think so.	Agree
+S05	E08	122	excuse me, where do you keep your transformers?	Ask for help
+S06	E04	64	you're taking a trip to bruise town.	Arrange
+S05	E11	3	zephra is just our new parent company.	Inform
+S05	E13	79	okay, no, no. mateo, no.	Prevent
+S04	E07	368	see? this is easy for me.	Flaunt
+S05	E08	148	yep, they gotta go.	Leave
+S05	E10	73	you doing okay with all this?	Care
+S05	E15	74	he's a scam artist.	Inform
+S05	E13	480	this whole interview process was a fake.	Complain
+S04	E02	302	all right, well, i'll see y'all later.	Leave
+S05	E12	294	i just hope that you don't go around	Advise
+S05	E15	132	fine!	Agree
+S05	E07	426	for a very special parade.	Inform
+S04	E04	53	my feet are so swollen i can barely stand.	Complain
+S05	E09	252	i haven't even been able to go on instagram.	Complain
+S05	E13	166	i just found out that, um, i got a work permit.	Inform
+S04	E07	429	you are grossly incompetent and unpleasant to be around	Criticize
+S06	E05	12	effective immediately, cloud 9 will no longer keep black haircare products in locked cases.	Inform
+S06	E03	613	and i do have an update on the breadsticks.	Inform
+S06	E09	354	but you haven't because you're afraid	Taunt
+S05	E16	248	i'm so fricking cold.	Complain
+S06	E03	597	did you get hurt before?	Care
+S05	E12	128	this is a pyramid scheme.	Complain
+S05	E12	452	hey, dina, your dad's looking for you.	Inform
+S06	E08	486	do you want us to give you a trophy?	Taunt
+S06	E06	44	anyway, dina, don't worry about it.	Comfort
+S04	E06	460	i am wearing frozen diapers	Complain
+S05	E09	290	hey, sweetie. hey, garrett.	Greet
+S05	E08	229	you stole my mark?	Criticize
+S05	E21	110	oh, i don't think it's that.	Oppose
+S05	E08	239	molly, hand these out, please.	Arrange
+S06	E02	250	okay, cool, 'cause you seemed uncomfortable	Care
+S05	E17	574	you should go find justine.	Advise
+S04	E03	164	on behalf of store 1217, it is my privilege	Flaunt
+S04	E09	139	god, you're a fast learner.	Praise
+S05	E18	298	your faces look like butts.	Taunt
+S04	E05	179	i--i like it here. that other hospital was snobby.	Complain
+S04	E02	406	how about we keep this party train rolling	Advise
+S05	E17	468	you're gorgeous really, for your cohort.	Praise
+S05	E20	489	the margs are here.	Inform
+S06	E02	291	i will see you, uh, in a little bit.	Leave
+S05	E07	96	yeah, that sounds fun. i'm in.	Agree
+S04	E11	450	i got clipped by a kia on the highway, amy!	Complain
+S04	E03	239	you shoved me, amy! what is wrong with you?	Criticize
+S05	E08	322	you win it in a raffle or something?	Taunt
+S05	E16	352	hello?	Greet
+S06	E04	68	can you please switch me anywhere?	Ask for help
+S05	E15	41	yes!	Agree
+S04	E17	284	thank you for those kind words, jonah.	Thank
+S04	E03	119	oh! absolutely. without a doubt.	Agree
+S06	E02	509	feels pretty bad.	Complain
+S04	E16	8	spring frozen yogurt flavors, check.	Inform
+S06	E05	515	oh, wow. yeah--thanks.	Thank
+S04	E11	312	but i logged 8,000 steps.	Flaunt
+S04	E06	37	i'm just exhausted and sore and hormonal	Complain
+S05	E14	248	oh, thanks.	Thank
+S06	E09	15	now, we've noticed some of your masks are getting dingy.	Inform
+S06	E08	3	that this is made out of polyvinyl chloride	Introduce
+S05	E02	112	i even went out and bought a camera phone.	Flaunt
+S04	E04	73	i'm 'gerry mander'.these are all gerrymander.	Introduce
+S05	E12	86	hey, glenn, how you holding up?	Care
+S05	E17	464	i was definitely not flirting.	Oppose
+S04	E03	401	i'm carol, i'm a jealous psycho stalker who can't take	Taunt
+S05	E14	103	okay, i'm going to hit the little cowboys' room.	Leave
+S05	E15	410	but don't worry, i have a solution.	Comfort
+S05	E11	330	give them a voice, you know?	Advise
+S04	E12	160	okay, we have no idea how long we're gonna be stuck here, so we need to ration our food.	Inform
+S06	E04	400	what, so because i'm manager, i have to help people poop their emotions all over the place?	Complain
+S05	E10	512	because corporate sucks and everybody always sucks.	Complain
+S05	E07	134	good.	Praise
+S06	E01	200	okay, um, some good news.	Inform
+S06	E03	555	so starting tomorrow, you will do what i tell you to do	Arrange
+S04	E14	148	glenn, it's--it's going to be okay.	Comfort
+S04	E13	305	you've never been sarcastic with me before.	Criticize
+S04	E01	77	these are all excellent ideas, thank you.	Praise
+S04	E02	109	you could always return this one for a safer car seat.	Advise
+S05	E20	88	filled up on bread  is gonna go on her gravestone.	Joke
+S05	E09	273	what i need from the two of you is less of this	Taunt
+S05	E21	240	really fresh perspective.	Praise
+S05	E08	150	hi.	Greet
+S05	E07	118	that will fit jerry's big ol' melon.	Joke
+S05	E06	418	amy, you need to go change into leather sandy right now.	Arrange
+S05	E07	550	hey, you guys. i'm sorry, bo.	Apologise
+S05	E19	124	well, why don't you just hire somebody on busybee?	Advise
+S04	E16	300	they're gross.	Complain
+S05	E14	467	carol, you can't do that!	Prevent
+S05	E13	377	sandra, block her with your body!	Arrange
+S05	E07	267	you just need to find a way to show maya that you mean business.	Advise
+S04	E03	169	yes. it's one of cloud 9's highest honors.	Inform
+S05	E06	138	look, it's... it's almost done. you don't have to worry.	Comfort
+S05	E16	333	we're a little delayed because amy was busy mean-girling me.	Criticize
+S04	E08	534	so, i ran your social security.	Inform
+S04	E01	433	what a stupid waste of a first question.	Complain
+S05	E19	161	sayid doesn't want to work in housewares.	Inform
+S06	E02	297	yeah--oh, hey, i apologize for jonah's murder joke.	Apologise
+S04	E02	202	you're a good friend.	Praise
+S04	E14	6	i am stepping down to spend more time with my family.	Inform
+S06	E04	66	dina, you have justine and me at the same register	Inform
+S06	E06	361	fine.	Agree
+S05	E06	15	on whatever dumb metaphor his costume's supposed to be.	Taunt
+S04	E09	278	we don't have room for that.	Complain
+S06	E02	231	she seems...really nice.	Praise
+S05	E17	431	how is stealing packages from poor people	Criticize
+S04	E04	322	i was legitimately offended.	Complain
+S05	E15	36	wait, wait.	Prevent
+S05	E07	333	green beans are now the normal price.	Inform
+S05	E10	164	ooh, amy, how's union stuff going?	Care
+S06	E04	547	but i've never seen anyone worse at this job.	Praise
+S05	E20	538	all right, garrett, give everyone their money back, and then all of you get back to work.	Arrange
+S05	E16	222	hey, man.	Greet
+S04	E07	135	this is who we're visiting.	Introduce
+S04	E06	39	and i'm wearing pajamas, and i'm just a mess.	Complain
+S05	E21	459	hey, mateo, can i ask you something	Ask for help
+S05	E13	287	you know what? i'm tired of everybody thinking of me as just your boyfriend, okay? even garrett sees me like that.	Complain
+S06	E01	114	just pick a conditioner and keep moving.	Arrange
+S04	E02	247	hey.	Greet
+S04	E10	168	yeah, no, i'm sorry.	Apologise
+S05	E15	464	i'm going to the chesterfield store	Leave
+S05	E17	347	your total is $26.17.	Inform
+S06	E06	550	take a breath, man. you're not getting fired.	Comfort
+S05	E18	423	stop saying that. all moms are full-time moms.	Prevent
+S05	E20	77	i'm sorry for the jargon, jonah.	Apologise
+S05	E12	51	it's the way of the world. the rich get richer.	Complain
+S05	E13	529	so your new desk is gonna be here in three days.	Inform
+S05	E10	24	relax. i honestly think this is all gonna work out.	Comfort
+S05	E15	25	okay, mateo, on three. ready?	Arrange
+S05	E15	306	the zephra corporate guidelines and look up what it says	Advise
+S05	E10	464	it's a great color.	Praise
+S05	E16	291	we have to put out red label warnings.	Inform
+S05	E09	198	he seems super cool.	Praise
+S04	E01	493	dina! it went great!	Praise
+S04	E07	394	yes, thank you for all the help.	Thank
+S06	E07	569	dina assigned me to hang out with you today	Inform
+S04	E16	389	me amy. me prep for 5k.	Joke
+S05	E13	53	so you're gonna have to find someone yourself to cover.	Advise
+S04	E17	403	okay, okay, it's--it's--it's gonna be okay.	Comfort
+S05	E10	386	it's not your fault that you don't get the ins and outs	Comfort
+S05	E16	575	well, i'm gonna go do something else then.	Leave
+S04	E08	114	relax, they vet these guys for years.	Comfort
+S05	E16	102	you should really change that back, dina.	Advise
+S05	E07	526	don't worry. i'm not gonna squirt anyone.	Comfort
+S05	E16	293	dina, you can't just text me something like that.	Criticize
+S05	E13	498	okay, well, how about weekends off?	Advise
+S04	E08	506	and they get paid ten times as much as us.	Complain
+S06	E02	478	well, it's still very cool.	Praise
+S05	E09	287	you should meet him.	Advise
+S04	E10	467	there's a blank spot where you can write in your name.	Inform
+S05	E09	235	i don't consent to this conversation.	Oppose
+S04	E02	187	oh, i don't see how that could possibly be true.	Complain
+S05	E15	409	well, sounds like you got a lot going on	Care
+S05	E07	262	it doesn't even matter.	Complain
+S05	E10	223	or do your customers also prefer cashiers with tendinitis?	Taunt
+S05	E17	314	why don't you read the note?	Advise
+S06	E03	606	oh, i'm sorry.	Apologise
+S05	E14	117	but then we just did a bunch of whip-its in the dj's van, and it was great.	Praise
+S05	E09	378	yeah, i'm sorry, but there's no order here.	Apologise
+S05	E18	96	the prizes are in the cereal!	Inform
+S05	E10	216	yeah, thanks. i'm--i'm just browsing today.	Thank
+S06	E10	525	don't feel guilty.	Comfort
+S04	E01	500	and so i delegated, and i problem-solved	Flaunt
+S04	E07	69	wait, what are you doing? don't--don't put it back.	Prevent
+S06	E08	62	sure you're gonna be okay?	Care
+S05	E07	342	it's got a secret ingredient.	Introduce
+S05	E20	283	i left all my felt tips uncapped in the security office,and those are just gonna be drying out like crazy,so i just need to go.	Leave
+S04	E10	464	all right, everybody, you did it	Inform
+S05	E08	555	you look way too happy.	Taunt
+S04	E06	304	okay, i'm sorry. proceed.	Apologise
+S06	E09	580	thank you.	Thank
+S05	E17	219	yeah, actually, it would be really helpful	Praise
+S04	E13	201	it's called  you can do it.	Introduce
+S04	E05	269	oh, it's so clean and comfortable.	Praise
+S04	E16	467	you're the ones who have been sitting in here, talking about me behind my back.	Criticize
+S04	E02	535	oh, finally. come get me down.	Ask for help
+S05	E21	424	that's great.	Praise
+S06	E06	212	i'm so sorry, sandra.	Apologise
+S04	E10	6	uh, i'm amy sosa.	Introduce
+S05	E10	92	thank you.	Thank
+S05	E16	456	whoa, calm down.	Comfort
+S05	E19	224	oh, my god. don't touch it.	Prevent
+S05	E14	289	this place has line dancing at 10:00	Inform
+S05	E08	562	um, well, i like when jerry cooks me my favorite meal.	Praise
+S05	E02	24	absolutely not.	Oppose
+S04	E10	31	we should--we'll just go.	Leave
+S05	E10	123	don't worry.	Comfort
+S05	E06	406	security office, now!	Inform
+S05	E16	53	i just don't love handing giant corporations a way to get my address, my contacts, and all of my passwords.	Complain
+S04	E16	521	see you at glenn's show.	Leave
+S04	E07	201	oh, come on. give me some credit.	Complain
+S05	E09	588	how's curbside going?	Care
+S06	E02	36	okay, we're gonna be in this meeting forever	Inform
+S05	E15	535	you lied about mental distress?	Criticize
+S06	E10	509	okay. they left the break room.	Inform
+S06	E10	4	now, cloud 9's lawyer will also be present.	Inform
+S05	E08	321	how did you become manager?	Taunt
+S05	E02	25	engagement party is not a maid of honor duty.	Oppose
+S05	E13	320	sandra, no. you leave it up.	Arrange
+S04	E16	180	but instead, he mocks me behind my back.	Complain
+S06	E04	604	how do you feel, justine?	Care
+S05	E10	3	here, to remind you.	Inform
+S04	E08	272	anyway, i'm definitely the legal kind.	Flaunt
+S05	E14	61	no, no, take your time.	Comfort
+S04	E12	367	can you stop doing that?	Prevent
+S05	E07	545	so how'd it go?	Care
+S05	E17	221	yeah, sure.	Agree
+S05	E20	386	listen, i'm-i'm really sorry.	Apologise
+S04	E13	481	well, too bad!	Complain
+S06	E06	45	they're towing it right now.	Inform
+S06	E04	590	i'm sorry.	Apologise
+S04	E08	463	i might have to go to the men's room first.	Leave
+S05	E18	257	yes, like a parlor.	Agree
+S05	E16	494	again, we are so, so sorry.	Apologise
+S04	E06	390	unfortunately, the last spot has been filled.	Inform
+S05	E18	37	okay, cheyenne, sandra, you're serving	Arrange
+S05	E10	14	walk away so they know you're serious.	Advise
+S05	E07	381	means you're fired.	Inform
+S05	E08	250	you need to move on.	Advise
+S05	E18	189	lifesaver.	Thank
+S06	E05	280	oh, whoa! no, no, no! don't actually scoot in.	Prevent
+S05	E17	444	why don't we just give them some cash?	Advise
+S05	E11	367	it has recently come to my attention that there are some men in the store who have some issues	Inform
+S05	E15	585	hey, thanks for taking a chance on me.	Thank
+S06	E08	236	feels like i'm buying a gremlin.	Joke
+S04	E06	236	why don't you use the lactation room?	Advise
+S05	E20	93	glenn, this is dr. brian patterson, veterinarian and boyfriend.	Introduce
+S06	E01	78	actually, the latest articles are saying actually, the latest articles are saying that washing your hands isn't enough.	Inform
+S05	E08	340	thank you so much. ooh, $5 gift card.	Thank
+S05	E14	212	oh, god, yeah, i totally forgot. sorry.	Apologise
+S06	E08	564	i was giving you amazing advice and you mocked me	Complain
+S04	E11	304	a part of me feels like you guys are taking this a little too far.	Criticize
+S04	E12	49	i hit some ice and almost skidded into a pet cem--	Complain
+S05	E08	369	it's a true thing.	Agree
+S06	E10	247	he was gonna blab to the lawyers about our work arrangement.	Inform
+S04	E10	78	'cause we were really bad.	Complain
+S04	E10	72	but people were really judge-y.	Complain
+S05	E07	144	take a bath with the dogs later.	Arrange
+S05	E19	296	wait, no, no, no, you cannot go through people's--	Prevent
+S05	E14	307	it's my ankle monitor.	Introduce
+S04	E01	290	hey, man, this guy shreds ass!	Criticize
+S05	E13	455	what the hell? you said you typed 100 words a minute.	Criticize
+S05	E16	478	that's just not true.	Oppose
+S05	E14	198	oh, god. sandra, stop, please.	Prevent
+S06	E03	319	thank you.	Thank
+S05	E15	268	it's just a friendly call, sandra, not an opportunity.	Oppose
+S06	E04	528	garrett totally stole my look, and no one is talking about it.	Criticize
+S05	E20	30	it was just sitting on her shoulder like a parrot--look.	Introduce
+S06	E02	364	that's not fair? i'm blowing my life up for you.	Complain
+S05	E06	336	this has been great. you have a really fun store.	Praise
+S05	E10	48	i even got a plaque that said,  dad's number one sales boy.	Flaunt
+S04	E03	51	you have a gift for logistics.	Praise
+S06	E05	237	i'm sorry. your hair looks fun.	Apologise
+S05	E11	398	thank you, so much, dan, for sharing, um, but--	Thank
+S06	E06	23	like, super annoying for me.	Complain
+S05	E13	171	i mean, you say you don't play favorites, but then you give the sweet assistant job to your brother-in-law.	Criticize
+S05	E14	186	don't forget to sign the guestbook.	Inform
+S05	E07	476	you don't have to keep pretending to be an employee.	Advise
+S04	E06	395	well, here's my resume.	Inform
+S04	E02	214	these pictures make me jealous	Praise
+S05	E11	274	we get her to do something else that's better than your wedding.	Advise
+S05	E06	415	the cowboy hat was itchy.	Complain
+S06	E07	324	oh, sorry i'm a little late. where do you want me?	Apologise
+S05	E10	221	at least give them anti-fatigue mats.	Advise
+S04	E16	62	it's a lot of pressure.	Complain
+S05	E14	7	for giving me my first chance	Thank
+S05	E08	151	kyle sawyer, generosity manager.	Introduce
+S06	E02	151	exhausting.	Complain
+S05	E14	220	has she been acting weird?	Care
+S05	E20	442	hey, sandra.	Greet
+S06	E07	206	i'm sorry.	Apologise
+S06	E01	237	oh, sorry.	Apologise
+S06	E10	240	some fun socks!	Introduce
+S05	E18	508	mateo, set up the obstacle course.	Arrange
+S04	E11	206	damn it. i have to make up for lost time.	Complain
+S05	E16	254	we should warm up by combining body heat.	Advise
+S04	E02	402	now i'm gonna pass the mic around	Inform
+S04	E10	225	i'm not gonna let you treat a baby this way.	Prevent
+S05	E02	372	oh, jerry, no one's gonna notice if you're not there.	Taunt
+S05	E19	547	this guy's driving away all my business, and you know how?	Criticize
+S04	E13	290	this card has a frog and a bear kissing each other.	Introduce
+S05	E02	40	amy, my baby's future is on the line.	Ask for help
+S05	E11	516	back to work!	Arrange
+S04	E03	232	you are a loud-mouthed, domineering, crazy little--	Taunt
+S06	E09	570	dina, go get that letter.	Arrange
+S06	E03	328	you know, it was actually really cute.	Praise
+S06	E06	220	but i really appreciate all of your support.	Thank
+S06	E08	39	is she still with brian? did something happen?	Care
+S06	E02	108	hey, hey, matt- oh, wow!	Greet
+S05	E07	488	i am not doing a latin accent to sell some queso.	Joke
+S06	E08	575	but, uh, hey, at least you're getting yourself back out there	Comfort
+S05	E20	226	oh, yes, she's marvelous.	Praise
+S05	E07	81	hey, you busy?	Ask for help
+S05	E09	144	we need to get junk in those trunks!	Arrange
+S06	E04	14	they love money, and they don't care if we die.	Complain
+S06	E05	509	you're just as bad as glenn.	Criticize
+S04	E07	93	this is a stupid initiative anyway.	Complain
+S04	E16	351	calm down, glenn. calm down.	Comfort
+S06	E09	250	no, that's my nephew. he's my lock screen.	Introduce
+S05	E07	22	maya!	Greet
+S05	E21	348	need some glasses for your ears now too, old man?	Taunt
+S05	E11	413	i mean, amy and dina run the frickin' store.	Complain
+S06	E08	598	seriously, garrett, this is gonna be awesome.	Praise
+S06	E01	341	i mean, i should probably get back to my office	Leave
+S04	E01	368	kelly! you're in charge.	Arrange
+S05	E06	116	oh, you've given this foot chopper a lot of thought.	Taunt
+S05	E12	462	oh, come on. damn it.	Complain
+S05	E16	227	looks good, man. you're talented.	Praise
+S05	E09	15	hey, if any of you curbside folks want to trade places	Inform
+S05	E09	518	took some doing, but these are solid.	Introduce
+S04	E01	464	we'll be here as long as it takes.	Inform
+S06	E02	405	hi amy, thanks for looking out for me all these years.	Thank
+S05	E15	313	this is cheyenne, our head of security.	Introduce
+S04	E08	498	yeah, but we're not gonna wrap it.	Oppose
+S06	E04	490	awesome, yeah.	Praise
+S06	E01	461	might i suggest you not look up at the ceiling tonight?	Advise
+S06	E01	340	agh! sorry, guys.	Apologise
+S04	E01	319	um, noam, don't cry.	Comfort
+S04	E17	494	um, uh, i'm sorry.	Apologise
+S05	E09	91	hey. nice lab coat.	Praise
+S05	E10	449	yeah, it's too bad.	Complain
+S05	E16	272	you know, the service around here is spotty.	Complain
+S05	E19	348	i know. i figured. thank you.	Thank
+S05	E06	203	um, could you excuse me for just a minute?	Leave
+S04	E03	186	god, i hate that guy.	Complain
+S04	E14	137	hey guys, you won't be hearing from me for the next five hours	Inform
+S05	E07	26	ha. yeah, it was.	Agree
+S04	E10	351	harrison, stop burping into the intercom.	Prevent
+S05	E19	46	anyway, how's it going? have you raised the wage yet?	Care
+S04	E01	198	oh. that's cool.	Praise
+S06	E02	38	so sandra, you're cleaning carts.	Arrange
+S05	E11	464	guys, she is not listening to us.	Criticize
+S05	E18	260	hey, justine	Greet
+S05	E17	378	why i've been able to earn my employees' respect.	Flaunt
+S06	E02	333	i just wanted to say how very proud i, glenn, am of you.	Praise
+S04	E16	510	i think i might be going crazy.	Complain
+S05	E18	503	while poor, little rosie sits at home with an old schoolmarm.	Taunt
+S05	E10	65	what's up with the tree?	Care
+S05	E19	460	we were all really out of line.	Apologise
+S05	E08	315	okay, sir, i'm sorry.	Apologise
+S04	E03	98	wow. that's a good run.	Praise
+S04	E09	528	glenn, thank you.	Thank
+S06	E08	499	you did hit mateo for being undocumented.	Criticize
+S05	E15	255	but no, i don't like criminals, okay?	Oppose
+S05	E13	99	look, this is the most expensive merch in the store.	Introduce
+S04	E01	87	thanks for checking in, though!	Thank
+S04	E07	427	you're fired.	Inform
+S06	E03	139	right, but we could just buy more walkies.	Advise
+S05	E16	51	i got the super sharer badge.	Flaunt
+S04	E14	544	yup, don't worry about me.	Comfort
+S05	E09	325	hi.	Greet
+S05	E09	63	pretty soon, people are gonna have to pee in bottles.	Complain
+S04	E12	61	oh, now you just look like a sad clown.	Joke
+S05	E14	229	okay, the seating cards are placed.	Arrange
+S05	E19	210	i'll just have carol work with me for today.	Arrange
+S04	E12	289	but did any of you listen to me?	Complain
+S05	E07	332	fine, okay.	Agree
+S05	E16	501	jonah was the ringleader.	Criticize
+S05	E11	250	oh, oh, glenn, glenn, glenn!	Greet
+S06	E09	527	havarti, great cheese on a sandwich	Introduce
+S05	E07	265	oh, it'll be fine.	Comfort
+S05	E18	314	it's really cute.	Praise
+S05	E17	505	it was cheyenne. she took the care packages.	Introduce
+S05	E06	14	aww, man, then i won't get to hear jonah lecture us	Taunt
+S06	E03	33	we need someone to replace me as floor supervisor.	Inform
+S04	E04	101	you're like one of those monks in tibet.	Joke
+S06	E05	177	okay, guys, so this list is to come up with issues that are affecting black customers and employees.	Inform
+S05	E11	495	but first, can you sneak me a burger?	Ask for help
+S06	E10	242	thanks so much.	Thank
+S05	E06	134	i mean, you help, obviously, and i so appreciate it	Thank
+S04	E16	453	yeah, amy was just the one sitting watching us in the dark without our consent.	Criticize
+S06	E01	366	anti-looting procedures.	Introduce
+S05	E09	556	oh, nice, jer!	Praise
+S05	E15	558	zephra just sent a mass email saying that cloud 9 employees now get 50% off	Inform
+S06	E06	213	we all wish we could just rip that pain out of your body	Comfort
+S05	E07	566	that this company was extorting these people	Complain
+S05	E08	60	attention, cloud 9 shoppers	Inform
+S05	E09	580	well, you're lucky. you pull it off.	Praise
+S04	E17	294	fantastic. life of the party.	Praise
+S04	E07	96	i do not like small talk, and i hate smiling all day like an idiot.	Complain
+S04	E11	191	relax, i'm not going to pressure you.	Comfort
+S05	E20	547	yeah, okay, real quick. i don't want you to panic	Comfort
+S04	E04	307	you are a real hero, you know that?	Praise
+S05	E15	343	sorry, you just said that. sorry, thank you.	Apologise
+S06	E07	561	i'm so sorry.	Apologise
+S05	E20	427	yes, same. me too.	Agree
+S05	E07	326	uh, excuse me. attention, everybody.	Inform
+S05	E07	246	jonah, get my back.	Ask for help
+S04	E01	227	oh, yeah, we do. we all hate you.	Criticize
+S05	E12	384	oh, wow, okay. nice to meet you.	Greet
+S05	E12	297	what?  no, i meant, like, for the rest of, like, however long this is.	Oppose
+S06	E03	542	oh, you don't need to count these.	Prevent
+S05	E17	172	all right. thank you.	Thank
+S05	E18	226	i'm trying to get a tribute band, and i need your opinion.	Ask for help
+S05	E10	160	okay, i'm gonna go check on that.	Leave
+S05	E07	592	no, no. you're obviously a great manager.	Praise
+S06	E07	486	what am i gonna tell my parents?	Complain
+S06	E09	16	cheyenne will be handing out new protective equipment.	Inform
+S05	E16	321	oh, this is genius.	Praise
+S05	E08	305	that's great, thank you.	Thank
+S04	E05	206	you are really cooking up something good.	Praise
+S05	E11	249	liar.	Criticize
+S05	E17	187	don't you dream about someday having what jerry and i have?	Flaunt
+S04	E16	331	the, uh, easter decorations all look really great.	Praise
+S05	E09	362	yep, i'm just having eric install some shelves.	Arrange
+S05	E12	336	she's hard-working and dedicated and, um, uh, very- very serious about security.	Praise
+S06	E10	110	you fart face!	Criticize
+S05	E07	483	grab a pair of gloves and head over.	Arrange
+S05	E09	474	why don't you put on the headset	Advise
+S05	E19	458	hey, carol.	Greet
+S05	E15	300	what's going on?	Care
+S05	E11	279	oh, hey, guys.	Greet
+S05	E12	449	let me try this, all right?	Ask for help
+S06	E06	422	oh, i'm sorry.	Apologise
+S05	E17	446	glenn, don't worry about it.	Comfort
+S05	E20	130	oh, no. it's not a game--	Oppose
+S05	E14	106	oh! he's great! yeah, he's so nice.	Praise
+S06	E07	581	carol, that is so savage.	Criticize
+S05	E11	178	good job on the display.	Praise
+S05	E17	202	thank you. that's very nice of you.	Thank
+S06	E10	3	you're gonna be deposed by carol's lawyer today.	Inform
+S05	E07	196	i'm emphasizing  regularly-scheduled	Inform
+S05	E09	297	maybe you could help jerry set this up	Advise
+S04	E12	401	that sounds like a real bad idea.	Complain
+S05	E09	248	dina, some of these orders are insane.	Complain
+S05	E15	119	thank you.	Thank
+S05	E16	242	i didn't know people took their breaks out here.	Complain
+S04	E03	181	oh, don't make this about sexism.	Prevent
+S04	E08	165	thank you.	Thank
+S05	E02	145	it's not on the list!	Oppose
+S05	E07	256	it's not even your fault.	Comfort
+S05	E12	199	hi, sandra?	Greet
+S05	E13	396	hey, randy.	Greet
+S05	E13	481	no--i mean, yes, but not for the reasons you think.	Oppose
+S06	E04	434	your manager is listening.	Inform
+S05	E14	156	get me a drink!	Ask for help
+S04	E17	159	we're gonna take a break and clear the floor	Inform
+S05	E15	527	i'm picking you up at 5:00 a.m. tomorrow	Inform
+S05	E16	244	oh, i would do anything for some crack right now.	Complain
+S06	E04	251	attention cloud 9 employees, this is your manager.	Inform
+S05	E16	446	something crazy is happening.	Inform
+S04	E13	222	marcus's tattoo. it's way harder than i thought.	Complain
+S05	E08	282	thank you for your donation.	Thank
+S05	E21	93	cheyenne, you're young and hot.	Praise
+S04	E12	104	i don't know why you guys lock up the razor blades.	Complain
+S04	E02	117	i hate the--the stupid games and the--the dumb decorations	Complain
+S05	E08	341	can i have my gift card, please?	Ask for help
+S06	E10	176	uh, no, glenn would never do anything like.	Oppose
+S06	E04	1	okay, glenn texted that he's  rubbing a little latte	Inform
+S04	E12	168	let's just help ourselves to whatever we need:	Inform
+S05	E17	386	how's the interview going?	Care
+S05	E07	442	okay, i can't do this anymore.	Complain
+S05	E06	101	no, no, no, no, no, no, no! whoa!	Prevent
+S05	E13	117	he's eugene! he's the best!	Praise
+S05	E17	414	okay, don't be mad	Comfort
+S05	E02	21	the old lady who spits at her on the bus?	Joke
+S05	E07	200	laptops are for customers.	Inform
+S05	E18	106	i just meant he looked like a really good dad.	Praise
+S05	E13	319	oh, please. sandra, take it down.	Arrange
+S05	E14	427	all right, i'll be back in a few.	Leave
+S04	E04	129	man, cheyenne really stepped it up.	Praise
+S04	E09	16	i'm sorry, are you okay?	Care
+S04	E14	77	it's really nice.	Praise
+S04	E01	344	attention, employees- make your way to the break room	Inform
+S05	E10	278	okay, i can see that. sorry to waste your time.	Apologise
+S05	E07	322	okay, back to work.	Arrange
+S04	E06	219	i'll, uh, just get out of here	Leave
+S04	E13	33	cute teddy bears are 15% off.	Inform
+S05	E21	268	so, tony, sandra is from hawaii.	Introduce
+S05	E10	175	cheyenne, let's go.	Leave
+S05	E17	210	hey, folks.	Greet
+S05	E15	297	i'm feeling a lot of mental distress.	Complain
+S04	E01	29	thanks for the company.	Thank
+S05	E19	235	i just needed some help with, uh, paperwork, you know	Ask for help
+S05	E15	146	please have a seat.	Arrange
+S05	E16	334	i really think you're blowing this out of proportion.	Criticize
+S05	E11	491	but making men feel better is not my job!	Complain
+S05	E13	103	and he's floor supervisor now	Introduce
+S04	E01	90	okay. so, sara, i need you to keep cycling out the bins.	Arrange
+S04	E14	299	i hate them!	Complain
+S05	E07	105	thanks, i like 'em too.	Thank
+S05	E15	73	i need you to act casual.	Arrange
+S05	E09	398	'cause i'd like to apologize and offer you all	Apologise
+S05	E21	273	hey, sorry to interrupt your surprise adoption.	Apologise
+S06	E05	422	oh, hey, guys. sorry.	Apologise
+S05	E17	263	i'm not dumb!	Oppose
+S05	E11	338	yes! thank you so much.	Thank
+S05	E08	182	i shouldn't have to leave because you're a bad manager.	Taunt
+S04	E12	187	i can make it spin forever.	Flaunt
+S04	E14	484	glenn, you're not going to go to prison, okay?	Comfort
+S05	E02	217	you're showing your age a little.	Taunt
+S04	E01	42	or you guys can just use your phones for all that stuff.	Inform
+S05	E18	321	just--come on, jonah. please do the voice.	Ask for help
+S05	E16	251	i'm also having a bad time.	Complain
+S05	E06	281	are you crying blood?	Care
+S05	E18	283	a little st. patrick's day humor there for you.	Joke
+S04	E11	194	well, i'd like to think i've matured over the years.	Flaunt
+S05	E19	275	i haven't worked in three months. my alimony is late. my ex-wife's lawyers are getting very threatening.	Complain
+S05	E11	490	and i'm sorry about that	Apologise
+S05	E09	46	collect everything on that order	Arrange
+S04	E16	568	that's how filipinos celebrate easter.	Introduce
+S04	E17	194	so stop staring at her.	Prevent
+S06	E07	442	i have wood floors. it gets dusty.	Inform
+S06	E08	61	okay, i'm gonna go. bye, tony.	Leave
+S05	E07	61	okay, well, maya can't fire you	Comfort
+S05	E21	217	or we could tape a fifth of fireball	Advise
+S05	E15	120	probably gonna have to take that plant outside for sun	Advise
+S05	E12	131	it's kind of shaped like a triangle.	Introduce
+S06	E02	134	please stop. this is hurting me.	Prevent
+S05	E10	169	but then people just keep asking me about it, which is making me worry about it, and...	Complain
+S05	E14	176	my job is keeping the bride safe.	Inform
+S05	E18	545	you could mix grapefruit with espresso.	Advise
+S06	E04	443	thank you, marcus.	Thank
+S04	E03	56	this is the most boring secret i've ever had to live with.	Complain
+S04	E13	299	what do i do?	Ask for help
+S05	E17	497	you haul us down here just to give us a bunch of junk?	Criticize
+S05	E09	135	i gotta go.	Leave
+S05	E09	258	no, you're gonna stand outside	Arrange
+S04	E04	51	i thought you were a dirty pile of laundry.	Taunt
+S04	E06	385	i find her extremely annoying	Complain
+S05	E20	503	well, i am really proud of you.	Praise
+S06	E03	212	okay, listen. ultimately, it is your call	Inform
+S04	E04	484	thanks. i like yours, too.	Thank
+S05	E13	7	we are switching over electronics from supercloud to the new zephra products.	Inform
+S05	E17	356	'scuse me. 'scuse me. hi. jonah.	Greet
+S06	E09	429	but really you were only using me to get to bo!	Criticize
+S06	E04	423	sandra, what is going on in there?	Care
+S05	E19	176	how's your first day going, girl?	Care
+S05	E09	90	um, oh, uh, mateo, this is my brother eric.	Introduce
+S04	E02	251	that sounds wonderful.	Praise
+S04	E02	343	thank you so much for including me.	Thank
+S04	E06	509	i just want to apologize.	Apologise
+S05	E21	2	carol's doing pretty well.	Praise
+S05	E20	544	oh, amy, there you are.	Greet
+S05	E15	114	right? yeah.	Agree
+S06	E05	568	you seemed pretty beefed.	Care
+S05	E19	435	look, we don't need an h.r. rep hanging around here auditing us	Inform
+S05	E17	447	i'll go figure out how to not send them away empty-handed.	Leave
+S05	E14	379	okay, i'm sorry. i just--i panicked.	Apologise
+S05	E09	379	well, i guess i'll go get my pumpkin spice salsa by myself, like it's 1950.	Complain
+S05	E16	176	heads up, spill in produce	Inform
+S06	E02	458	aww, that's pretty. thank you.	Thank
+S05	E09	470	oh, what do you see now?	Care
+S06	E05	173	how about some new options in our vending machines?	Care
+S05	E15	337	it's--it's kira moon, zephra's ceo.	Introduce
+S05	E20	416	hey.	Greet
+S05	E17	264	i'm one of the smartest people in the store.	Flaunt
+S06	E03	247	so be a gentleman. go with the lights out.	Advise
+S04	E11	42	oh, she probably thinks she's so great	Taunt
+S04	E17	444	it's now time for the father-daughter dance.	Inform
+S05	E15	538	man, i'm tired.	Complain
+S06	E07	184	it's gonna be okay, jonah.	Comfort
+S04	E13	480	i can't live with that kind of guilt.	Complain
+S05	E15	124	this is already too much work.	Complain
+S05	E19	502	can you get me a salami sandwich?	Ask for help
+S04	E03	354	now, kelly, i want you to tell jonah what you're feeling.	Arrange
+S04	E08	205	you don't know how to wrap a gift.	Criticize
+S05	E15	182	yeah.	Agree
+S06	E01	426	yes, i'm so sorry.	Apologise
+S04	E03	63	but i'm more perceptive than most.	Flaunt
+S05	E14	179	no, no, no, no, no.	Prevent
+S05	E11	144	what if we gave them all computers, you know?	Advise
+S05	E13	74	this is so unfair.	Complain
+S06	E03	308	thank you, marcus.	Thank
+S06	E08	506	did i miss a meeting? sorry.	Apologise
+S05	E11	550	i feel like we really moved the needle today, guys.	Praise
+S06	E06	415	it really is gorgeous.	Praise
+S05	E20	106	nice to meet you.	Leave
+S05	E07	72	you are a great manager	Praise
+S05	E19	123	celine dion tickets go on sale today.	Inform
+S05	E19	278	i'm gonna stop you right there.	Prevent
+S05	E10	10	maybe you should just leave without her.	Advise
+S05	E11	468	hey, guys, i'm pretty sure there are some sections	Inform
+S05	E17	207	he's her brother.	Introduce
+S05	E19	354	hey, amy, uh, janet is gonna say that we invaded her privacy.	Inform
+S05	E16	355	you made your point.	Inform
+S06	E02	290	um, i'm gonna- i gotta get back to work.	Leave
+S04	E04	55	yeah, my hair is silkier, my skin's glowing	Flaunt
+S06	E10	280	oh, no, i hate to hear that.	Complain
+S05	E17	241	yeah, and thank you	Thank
+S05	E16	368	sorry.	Apologise
+S05	E13	383	a chunk of my hair fell out, and i will not be bald for my wedding!	Complain
+S06	E09	568	jonah, thank you for believing in me.	Thank
+S05	E09	538	this is her fault.	Criticize
+S05	E07	138	excuse me just one second.	Leave
+S04	E03	317	oh, wow, jonah had a little comment, shocking.	Inform
+S06	E07	195	wow, that makes so much sense.	Praise
+S05	E15	85	oh, sure, no problem.	Agree
+S06	E05	385	it's your boy, kenan bravo.	Introduce
+S05	E16	455	man, why'd you do that stupid google search?!	Criticize
+S05	E07	361	i'm so sorry you have to witness this, maya.	Apologise
+S05	E08	146	they do great work. i'm a fan, really.	Praise
+S05	E12	509	do what i did.	Arrange
+S06	E03	455	he's been yelling at people all day like he runs the store.	Criticize
+S06	E01	468	but they have me on these calls all day every day!	Complain
+S05	E19	225	sandra, don't touch it.	Prevent
+S05	E21	90	just ask your friends to chip in	Advise
+S06	E01	88	you are essential, and the true heroes	Praise
+S05	E20	445	so nice to meet you. i've heard so much about you.	Greet
+S04	E13	111	that i'm the best in the class.	Flaunt
+S05	E09	272	no! stop whining!	Prevent
+S04	E02	400	that was just beautiful, jerusha.	Praise
+S05	E13	397	randy, what are you doing here?	Care
+S05	E20	475	and kelci dumped you because you're a jackass.	Criticize
+S05	E12	197	what the hell can you do?	Criticize
+S04	E01	511	i mean, it's got over 50 programmable greetings, plus you can change the background.	Introduce
+S05	E08	371	wow, thank you so much.	Thank
+S05	E15	299	well, i'm so sorry.	Apologise
+S06	E03	502	and every zone captain should have a walkie-talkie.	Advise
+S04	E17	325	poor garrett, pining after a woman	Taunt
+S04	E14	423	uh, total, i'd say you're looking at $18,000 for repairs.	Inform
+S06	E09	509	all the times that you hurt my feelings.	Criticize
+S04	E07	256	no, i am mad. you're an idiot.	Taunt
+S06	E03	501	we should have go-back carts for each department.	Advise
+S06	E06	473	dang, they take this crap way serious.	Complain
+S05	E14	310	sorry, sorry, i-i'm just going to--	Apologise
+S05	E15	318	it'll be easier on yourself if you confess.	Advise
+S06	E02	434	shh, guys, best part!	Praise
+S05	E20	424	i didn't mean to upset you or kelci	Apologise
+S05	E15	291	oh, no. come on, this is nothing.	Comfort
+S06	E01	163	they sent over a very detailed, step-by-step--	Inform
+S06	E07	503	i'm sorry, kelly. i--	Apologise
+S06	E05	128	and i wish there was something i could do to make it up to the black employees.	Inform
+S05	E08	157	huh, right, yeah.	Agree
+S05	E14	70	oh, hey, glenn.	Greet
+S05	E13	231	look, i'm not saying it like it's a bad thing.	Oppose
+S05	E12	330	oh, dad, this is my boss, amy. show her your belt buckle.	Introduce
+S05	E09	431	maybe you should give them some space.	Advise
+S05	E13	87	okay, i'm gonna pee and come back.	Leave
+S06	E08	136	oh, absolutely.	Agree
+S05	E20	470	not your fault, son.	Comfort
+S05	E20	110	okay, dina, relax. it's just a surprise date.	Comfort
+S04	E16	48	easter is upon us.	Inform
+S04	E11	14	you have to keep them on 24/7, they are not waterproof	Inform
+S05	E19	160	what's going on? is everything okay?	Care
+S04	E05	197	oh, boy. mr. hilarious at work.	Joke
+S04	E03	201	you are the most petty, jealous, and bitter person	Criticize
+S05	E12	441	i am really proud of the woman you've become.	Praise
+S04	E04	247	thank you.	Thank
+S04	E17	408	no, no, you can't tell my parents.	Prevent
+S05	E12	221	it's sandra kaluiokalani.	Introduce
+S05	E07	461	yeah.	Agree
+S05	E08	312	this guy does not support our troops!	Criticize
+S04	E12	51	i asked you for candy cane.	Criticize
+S05	E09	246	jonah, your last order took 33 minutes.	Criticize
+S06	E01	20	the whole job is being a liaison to cloud 9	Inform
+S04	E04	336	ugh, it's so good.	Praise
+S04	E08	392	we get all this free stuff	Flaunt
+S06	E09	579	i-i saw that memo, too. good job, glenn.	Praise
+S05	E21	10	i have my ways.	Flaunt
+S04	E08	125	mateo, go take over for sayid.	Arrange
+S04	E05	198	what are you writing?	Care
+S05	E08	226	i just want you to know that if you donate inside, you get a $5 gift card instead of nothing.	Inform
+S05	E17	52	garrett, you're only giving packages to people with wristbands.	Arrange
+S05	E19	529	and again, carol, i am so sorry	Apologise
+S05	E07	167	oh, i thought i saw a manatee on the side of the road.	Joke
+S04	E08	461	to the back. i have work to do.	Leave
+S04	E17	271	don't read into the word  yet,  no.	Prevent
+S05	E07	336	i like this one	Praise
+S05	E11	514	i got tired of all the guff.	Complain
+S04	E03	118	well, she's not just anyone. i mean, kelly is wonderful.	Praise
+S05	E13	126	the kid's good.	Praise
+S06	E07	412	you're gorgeous like a vodka girl.	Joke
+S05	E14	404	and now, i'm going to pass it on to the best man, jerry's best friend, garrett.	Introduce
+S05	E20	12	thank you for the almost compliment.	Thank
+S04	E10	58	i don't understand why they make it so hard to apply for asylum.	Complain
+S05	E19	28	you are the one who should apologize.	Criticize
+S05	E09	347	we liked his confidence. mm.	Praise
+S04	E11	207	stop talking to me!	Leave
+S05	E09	52	you'll have 30 minutes to get the order in the car.	Arrange
+S05	E15	109	how are things over here?	Care
+S04	E06	452	i am so tired!	Complain
+S04	E05	106	oh, and honey, watch out for the bird.	Care
+S04	E10	383	this is my jurisdiction.	Inform
+S06	E01	535	yeah, wow! great, that's great!	Praise
+S04	E02	418	this is getting boring, yo. sleep-sleep!	Complain
+S04	E14	81	but one day, i got it to do 25.	Flaunt
+S04	E05	13	but only call if it is a true emergency like a fire, or a big storm, or a robbery, okay?	Inform
+S06	E07	3	but don't be intimidated.	Comfort
+S06	E03	4	i'm taking over for amy, and--	Inform
+S04	E06	530	thank you, thank you. my parents will be so proud.	Thank
+S05	E10	514	you did it.	Praise
+S05	E09	213	he has a cutie patootie. we're all good-looking.	Flaunt
+S05	E16	484	i can't even remember the last time i had a boyfriend.	Complain
+S04	E12	446	yeah, why don't you go stew in softlines?	Advise
+S04	E04	374	how you doing?	Care
+S04	E01	204	no! it's messed up.	Complain
+S05	E17	406	this is a class c felony.	Criticize
+S05	E07	192	that's the third time i've fell for this.	Complain
+S05	E21	516	mom, stop.	Prevent
+S04	E16	541	oh, great.	Praise
+S05	E18	251	you are an amazing mom. parker is an awesome kid.	Praise
+S05	E16	35	the new policy says that you can have your phones now.	Inform
+S05	E09	305	but the morning rush was insane	Complain
+S04	E01	181	no. no. no, no, no, i-i did not mean	Oppose
+S04	E01	137	what brings you to the store...again?	Care
+S05	E17	115	sucked up any change.	Leave
+S05	E14	279	oh, shut up, eric.	Prevent
+S04	E02	228	that sounds amazing.	Praise
+S05	E02	191	give that vino to me-no.	Joke
+S04	E06	190	i have a great sense of humor.	Flaunt
+S05	E16	247	so, you know, we can just sit back and relax.	Advise
+S04	E07	418	look, we just want what's going to make you happy	Comfort
+S05	E20	299	i'm mateo, by the way. i'm sure you've heard of me.	Introduce
+S05	E20	511	did you just take my photo, you pervert?	Criticize
+S05	E13	144	what's--what's going on friday?	Care
+S05	E12	222	yeah, sure it is.	Agree
+S05	E17	243	just messing with you, spongebob.	Joke
+S06	E03	548	i'm sorry.	Apologise
+S05	E06	85	oh, my god, they're so cute when they bicker.	Praise
+S04	E08	56	just lots and lots of bugs.	Complain
+S06	E07	404	i'm not disinfecting everything for my health.	Complain
+S05	E09	519	i think i'm gonna head out.	Leave
+S05	E19	22	you rubbed your wedding in my face for months. and then you asked me to be your maid of honor. i mean, that was just cruel.	Criticize
+S05	E07	400	oh, this news is so great	Praise
+S04	E10	266	i just gotta grab a few things.	Leave
+S05	E12	360	hey, buddy.	Greet
+S06	E06	218	thanks.	Thank
+S05	E15	296	things are just really hard right now.	Complain
+S05	E14	206	all right, guys, listen up.	Inform
+S05	E15	309	you stay right here. i'm gonna be right back.	Leave
+S04	E11	461	well, thanks for having my back, dins.	Thank
+S05	E10	13	oh, jonah, little negotiating tip--	Advise
+S05	E12	476	okay, my bad.	Apologise
+S05	E16	26	great debate, guys. it's very useful.	Praise
+S06	E07	325	kelly, this is wonderful.	Praise
+S04	E01	486	actually, the store closed, like, 15 minutes ago.	Inform
+S05	E16	208	yeah, i'm sorry	Apologise
+S05	E17	134	hey, hey!	Greet
+S05	E07	329	you need to take this seriously.	Advise
+S04	E01	416	but you're making it pretty tough.	Criticize
+S05	E10	467	i blew it, didn't i?	Complain
+S06	E08	14	oh, i'm sorry.	Apologise
+S04	E03	180	oh, so anytime a woman tells you what to do, it's shrieking?	Criticize
+S04	E14	334	you're the most qualified person here, so...	Praise
+S04	E12	363	you look good.	Praise
+S05	E15	82	thank you.	Thank
+S05	E18	404	i am so sorry, jonah.	Apologise
+S04	E01	232	i'm not even allowed to spend more than $12 on lunch	Complain
+S04	E03	282	you think you're so great? your boyish good looks aren't gonna age well. you're hitting a wall, pretty boy	Taunt
+S05	E11	439	listen up, ladies, father of a daughter talking.	Inform
+S05	E12	112	all organic, and only $13.	Introduce
+S04	E17	493	ow! what the hell, cheyenne?	Criticize
+S05	E11	509	we can go now.	Leave
+S05	E06	439	marcus knocked all my felt tips on the floor	Complain
+S04	E10	523	i'm so sorry i'm late.	Apologise
+S04	E10	170	anyway, it's called a warehouse	Introduce
+S05	E19	195	oh, um, that didn't happen.	Oppose
+S05	E17	590	it will, amy. i'm gorgeous.	Flaunt
+S06	E02	464	oh, that's really sweet, actually.	Praise
+S05	E11	320	it's a freaky time.	Complain
+S05	E18	135	yeah, thanks a lot. i...	Thank
+S05	E07	39	yeah, sure.	Agree
+S04	E01	156	i am doing very well.	Flaunt
+S04	E04	407	let's meet our first contestant, marcus white!	Inform
+S05	E14	509	dina, where have you been? i've been looking for you.	Care
+S05	E14	354	so embarrassing.	Complain
+S04	E16	118	yeah, but i don't know how to play a villain.	Complain
+S06	E06	340	i wouldn't even buy myself a diamond	Complain
+S05	E15	310	thank you.	Thank
+S05	E19	170	i'll move her into seasonals with justine.	Arrange
+S05	E16	235	yeah, okay, thanks.	Thank
+S04	E12	513	i got a secret stash in my office.	Inform
+S05	E15	108	hey!	Greet
+S04	E10	406	well, i only skip work because you're always telling racist jokes.	Complain
+S05	E08	462	great, that's awesome.	Praise
+S05	E09	370	i will leave you to it. good-bye.	Leave
+S04	E17	110	hey, guys!	Greet
+S05	E21	542	because there's so much to think about.	Complain
+S04	E17	359	you're emma's hero, amy.	Praise
+S05	E17	123	sorry.	Apologise
+S05	E08	518	what the hell? you're stealing our toys?	Criticize
+S06	E04	60	why are we walking so fast? i'm literally winded.	Complain
+S05	E07	82	i'm sorry, i don't know what that was.	Apologise
+S05	E19	90	what--what are you doing here?	Care
+S04	E05	164	can we please not do all of that right now?	Prevent
+S06	E10	285	look, all you guys have to do is go in there	Arrange
+S04	E16	297	as of now, i don't know the bunny's preferences	Inform
+S04	E07	170	my life is literally hell.	Complain
+S05	E07	304	if you help me out and all goes well	Ask for help
+S04	E05	102	would you be able to go to my apartment and get this camisole?	Ask for help
+S04	E14	267	you're more qualified than glenn ever was.	Praise
+S04	E08	263	why does everyone here start conversations like that?	Complain
+S05	E16	1	for anyone who hasn't already downloaded the zephra employee app, you need to.	Inform
+S06	E08	481	that's not what i meant.	Oppose
+S05	E09	344	thank you.	Thank
+S05	E12	497	i attended multiple father-daughter dances alone, and when i was 16, everyone made fun of me	Complain
+S06	E10	392	hmm. damn. i really thought we were vibing.	Complain
+S04	E12	164	that is an amazing offer	Praise
+S05	E21	325	hi, brett.	Greet
+S04	E10	341	'cause i'm starting to feel attacked right now.	Complain
+S05	E19	416	i'm starting to reek.	Complain
+S04	E12	87	and corporate would like us to stay until closing so...	Inform
+S04	E03	177	you're spraying all-purpose cleaner on the fruit?	Criticize
+S05	E21	506	i wish you could see this. you're really struggling.	Taunt
+S05	E16	457	you calm down. you're always starting stuff!	Criticize
+S06	E01	459	what happened here?	Care
+S05	E12	442	thanks, dad.	Thank
+S06	E09	163	she's got less brains--	Taunt
+S04	E05	46	okay, uh, you seem to be all set, so i guess i'm gonna go?	Leave
+S05	E10	417	we're gonna take a sidebar.	Leave
+S06	E04	90	i'm gonna turn this place into the most efficient machine	Inform
+S05	E15	290	i'm sorry you had to see that, glenn.	Apologise
+S04	E01	93	you can just stick it in the... in the p-photo lab.	Arrange
+S05	E09	264	i am so sorry.	Apologise
+S05	E16	249	i can't feel my hands.	Complain
+S05	E18	259	yes.	Agree
+S05	E12	475	i mean, come on. the editing is so choppy.	Complain
+S05	E06	9	first, we're gonna be handing out goodie bags to the kids.	Arrange
+S06	E10	424	excuse me. you can't be in here.	Prevent
+S04	E04	246	hey, glenn, i think you left that in the parking lot.	Inform
+S05	E12	56	but now i have tons student loan and credit card debts.	Complain
+S04	E04	200	funny little people.	Joke
+S06	E01	67	hey, any update on when you two lovebirds are moving to cali?	Care
+S05	E06	501	uh, i am so honored to receive this sprite	Flaunt
+S05	E14	350	how's it going?	Care
+S05	E10	263	oh, um, amy, i'm so sorry	Apologise
+S05	E10	91	really, it's amazing work that you're doing.	Praise
+S04	E05	251	women have been birthing for thousands of years in all kinds of disgusting places.	Complain
+S04	E02	500	oh, thank you, sayid.	Thank
+S05	E17	130	well thank you	Thank
+S04	E04	464	oh, no, i'm not spider-man.	Oppose
+S05	E12	547	yeah, don't worry.	Comfort
+S05	E06	236	she's my... she's my lady.	Introduce
+S05	E11	332	i gotta be honest, that sounds awful.	Complain
+S04	E11	238	check them all! go!	Arrange
+S05	E18	4	i can do this from muscle memory.	Flaunt
+S05	E13	482	look, mateo never got a work permit.	Inform
+S04	E06	485	i'm sorry if that doesn't make you feel any better.	Apologise
+S05	E08	316	it's just one gift card per customer.	Inform
+S05	E11	198	you should be very proud of yourself.	Praise
+S05	E14	336	yeah, i got it. sorry.	Apologise
+S04	E08	374	he wouldn't have either, so--oh, this is a pickle.	Complain
+S05	E14	67	sorry.	Apologise
+S05	E13	453	print it out, and then run it back here to me.	Arrange
+S04	E01	31	thank you for always tipping 20 bucks	Thank
+S05	E14	59	no rush. no rush at all.	Comfort
+S05	E16	223	how's stuff been going with you lately?	Care
+S05	E16	15	when you enter the store, so no need to swipe in	Inform
+S05	E07	419	don't be ashamed.	Comfort
+S05	E10	311	okay, yeah, you're looking good on the trunk side.	Praise
+S05	E17	141	jeff, this is isabel. she works at zephra.	Introduce
+S04	E04	87	dina! what do i do? should i jump the railing?	Ask for help
+S05	E16	317	you're a locker-licker too?	Joke
+S05	E14	102	aw, that's beautiful.	Praise
+S05	E17	48	so glenn, you're gonna be running care packages from the warehouse, or doing that waddle thing you do, whatever works.	Arrange
+S05	E15	35	come on, peeps. dig in.	Arrange
+S05	E14	331	nothing happened, okay? everything's fine.	Comfort
+S04	E06	521	thank you.	Thank
+S04	E14	19	and guys, i say this a lot,but we really need to wet down those raccoon droppings before we sweep.	Inform
+S06	E08	612	tony's a good kid. i like him.	Praise
+S05	E07	119	are you sure you're okay?	Care
+S05	E02	95	tay-tay and tine-tine: the slut squad.	Joke
+S05	E13	365	okay, that doesn't even make sense.	Oppose
+S05	E10	32	sorry i'm late.	Apologise
+S04	E13	461	what is wrong with you?	Care
+S04	E11	144	come on, don't take it personally.	Comfort
+S05	E18	278	okay, this has gotta stop.	Prevent
+S06	E01	172	everybody in single-file lines.	Arrange
+S06	E01	117	ah, he's just putting on a show.	Taunt
+S05	E07	208	yep, that's right.	Agree
+S05	E10	2	that's important- and holiday pay.	Inform
+S05	E15	346	your holiday numbers were outstanding	Praise
+S04	E14	164	glenn, can i borrow $2,000 for sales tax?	Ask for help
+S05	E18	332	you guys, don't clap for that.	Prevent
+S06	E10	463	glenn, hey, look, i- i'm sorry.	Apologise
+S05	E07	161	listen up, scrodes.	Inform
+S05	E10	401	okay, just relax.	Comfort
+S05	E17	413	i don't know why, but he has been trying to tear me down all day today.	Complain
+S04	E01	99	okay.  sorry, that was a poor choice of words.	Apologise
+S04	E01	155	god, get over yourself.	Taunt
+S05	E15	283	oh, thank god.	Leave
+S04	E12	312	i fell up an escalator when i was taking a selfie.	Complain
+S05	E06	244	you guys, i am dying right now.	Joke
+S05	E14	292	well, we're already 20 minutes behind.	Complain
+S05	E11	182	ah, it's great. t-shirt activism.	Praise
+S05	E14	367	because to me, this room sucks.	Complain
+S04	E07	457	he's a good person. that is real.	Praise
+S04	E02	470	thank you, everyone, for coming to the party.	Thank
+S05	E07	470	can i have some of the house red?	Ask for help
+S04	E16	184	i love it.  like totally lies.	Taunt
+S05	E16	182	sorry.	Apologise
+S05	E10	292	is there any way that i could get more information?	Ask for help
+S04	E16	222	he's the disciple that betrayed jesus.	Criticize
+S05	E15	404	everything is just making me wanna cry.	Complain
+S05	E09	142	this isn't a library! come on, read and run!	Arrange
+S05	E15	349	whatever you're doing, bottle that	Arrange
+S06	E04	601	yeah.	Agree
+S05	E16	346	wow, first you mute me, then you kill a child.	Criticize
+S04	E09	282	no, okay, sir, you may not bring this in here.	Prevent
+S04	E09	29	no, do not even think about paying me for this.	Prevent
+S05	E13	274	well, uh, marcus, that is all very correct.	Agree
+S04	E02	460	i just want to get out of here. how do we get out of here?	Leave
+S04	E09	27	oh, um, that sounds like a lot work	Complain
+S06	E03	617	i'm sorry jonah.	Apologise
+S05	E17	539	jerry.	Greet
+S05	E14	184	things have a way of working out for sandra.	Comfort
+S05	E14	210	jonah, you set up the chairs. cheyenne, can you make sure that the sound system's working?	Arrange
+S06	E03	160	just leave it with me. i'll find someone else.	Leave
+S04	E07	512	and your dad abandoned you at a gas station?	Taunt
+S05	E16	345	well, we can try. come on, dina.	Leave
+S06	E04	15	ah, yeah, that makes sense.	Agree
+S04	E04	435	it's a me, a mario!	Introduce
+S06	E10	140	eugene? did you lock me out?	Criticize
+S05	E19	189	okay, can we just stop talking about this?	Prevent
+S05	E18	557	yeah, well thanks, buddy.	Thank
+S05	E08	492	he just really knows where to kiss soft	Praise
+S04	E04	23	that's like six weeks away.	Inform
+S05	E08	564	well, that's nice.	Praise
+S05	E10	86	oh, so good to meet you in person.	Greet
+S04	E03	82	should we get a scented candle for our nightstand?	Advise
+S04	E04	469	attention cloud 9 shoppers, i do not have an announcement	Inform
+S05	E13	488	i--i totally get it.	Agree
+S05	E11	548	now get back to work.	Arrange
+S06	E01	564	it's pretty nice back here.	Praise
+S04	E06	42	honestly, you're-- you're really beautiful.	Praise
+S06	E04	503	oh, i'm sorry, jonah.	Apologise
+S05	E13	253	hey.	Greet
+S06	E08	54	mom, come on.	Prevent
+S05	E17	234	that's helpful, jeff. thank you.	Thank
+S06	E03	370	ah, too much clothing for this horndog.	Taunt
+S06	E08	126	so i think i've just been really lonely.	Complain
+S04	E07	536	now we're...announcing it.	Inform
+S04	E02	300	no worries, i'm out of here.	Leave
+S05	E17	513	it wasn't cheyenne!	Oppose
+S04	E12	32	well, we're supposed to stay open till 11:00.	Inform
+S05	E09	413	and if you were actually doing the work,  and if you were actually doing the work, you would see how hard it is.	Complain
+S04	E12	462	i'm prediabetic.	Inform
+S05	E13	200	okay, marcus, you next.	Arrange
+S04	E09	24	oh, there is no way that i am sending you	Oppose
+S05	E12	416	why don't we all chip in?	Advise
+S06	E06	88	flooding in the attic and the basement.	Inform
+S05	E09	465	uh, sorry. i just got another one.	Apologise
+S05	E15	375	okay, and if you could just get me that number by the end of the day, that'd be great.	Arrange
+S04	E08	43	i'm sorry, the tickets are non-transferable.	Inform
+S04	E14	195	laurie neustadt, you are in violation of rule 17-b of cloud 9 hiring policy.	Inform
+S05	E13	471	what? i crushed the interview.	Complain
+S04	E07	223	thank you.	Thank
+S04	E09	453	so let me know if any of these feel right to you.	Inform
+S04	E16	216	they just make fun of me openly to my face.	Complain
+S04	E17	473	you don't have to edit it. i'll take care of that.	Inform
+S05	E12	81	aww. yeah, maybe you should reconnect before it's too late.	Advise
+S05	E14	249	hey, man, sorry about earlier.	Apologise
+S05	E15	20	i knew from before. i knew, like, two hours ago.	Flaunt
+S05	E21	272	oh! radical.	Praise
+S05	E16	394	maybe we should do another lap around the park?	Advise
+S05	E11	334	come on. give me a chance.	Ask for help
+S05	E15	501	i'm sandra kaluiokalani	Introduce
+S04	E13	380	i was expecting you to side with me over dina.	Complain
+S05	E15	589	look, i'm sorry, benny, but i had no choice.	Apologise
+S04	E09	298	the freezer's full.	Inform
+S06	E10	342	why do people think that i'm at fault	Complain
+S06	E06	99	what kind of symptoms have you been having?	Care
+S05	E19	206	how about carol works with you?	Advise
+S05	E17	170	thank you so much.	Thank
+S05	E08	508	you're gonna make a lot of kids very happy.	Praise
+S05	E15	499	well, it was nice catching up. sandra, let's go.	Leave
+S05	E18	209	no. what? it's a--it's a squirrel.	Oppose
+S05	E13	408	not 'cause i don't think you deserve it, just 'cause you're doing so bad.	Criticize
+S06	E07	191	it's really not. it's not hot juice.	Oppose
+S05	E18	410	sure. thank you.	Thank
+S05	E14	93	you know, nobody's going to hate you.	Comfort
+S05	E11	18	calm down, it's- it's all gonna be fine.	Comfort
+S05	E08	335	no, i'm not gonna admit that	Oppose
+S04	E16	369	i felt so violated.	Complain
+S05	E09	550	it makes me feel icky when you call me hot.	Complain
+S06	E01	216	we're also required to wear masks.	Inform
+S05	E17	143	oh, maybe i should call you mommy.	Joke
+S05	E20	545	hey, glenn, so sorry.	Apologise
+S05	E10	66	we doing a dystopian nightmare christmas this year?	Joke
+S04	E07	68	it's all on clearance.	Inform
+S04	E14	317	can you tell me where inventory is?	Ask for help
+S06	E04	581	but hey, sales are up.	Inform
+S06	E02	115	thanks for keeping this little assistant arrangement going.	Thank
+S06	E07	483	it was you guys the whole time?	Criticize
+S05	E07	429	here, you read these.	Arrange
+S06	E04	62	cheyenne, you're still gonna have to stay on top of deliveries. produce comes at 11:00.	Arrange
+S04	E10	59	applying to be a refugee was even worse.	Complain
+S04	E10	410	sheila told me that you're always making her give you back rubs.	Criticize
+S04	E16	71	yeah, scott bankroft broke his leg.	Inform
+S05	E18	335	it's not a dog toy. i got it here in the store.	Oppose
+S05	E11	19	look, corporate sent over a memo that says,  cloud 9 is excited about this exciting new chapter full of exciting possibilities.	Inform
+S04	E06	416	i hate to complain, but that machine is so noisy.	Complain
+S04	E09	236	you even found some i didn't notice.	Praise
+S04	E11	343	my scanner's not working. we can't figure out why.	Ask for help
+S05	E17	239	seems like people would rather die than eat that stuff.	Taunt
+S05	E08	426	sorry! this is where we're storing	Apologise
+S05	E11	273	or maybe there's a slightly less depressing solution, like	Advise
+S05	E13	95	it's a digital picture frame.	Introduce
+S05	E07	543	alex, could you--thank you.	Ask for help
+S06	E02	372	can't we just get to california	Advise
+S04	E10	145	and you got that from pants?	Joke
+S05	E09	364	he put some shelves in our mother's bathroom and they looked... really cool.	Praise
+S06	E09	315	effective immediately, there will be no more talk about conspiracy theories.	Inform
+S06	E05	350	i'm sick of looking at it. it's going on the list.	Complain
+S05	E14	188	you look beautiful! yeah!	Praise
+S04	E08	456	look, sayid, sayid, don't worry about it.	Comfort
+S06	E07	502	you're right.	Agree
+S05	E10	104	well, glenn, i have found your item right here.	Inform
+S05	E16	482	my birds flew away.	Complain
+S05	E09	547	jeff, so how about the two of you just start talking	Advise
+S05	E15	517	we're really sorry.	Apologise
+S05	E11	180	this one's doing stem cell research.	Introduce
+S05	E06	265	yep. she's my cowgirl.	Introduce
+S06	E02	69	oh, we could have a double wedding.	Advise
+S05	E12	42	there's 1,000 bucks in it. i already opened it.	Introduce
+S05	E12	141	oh, all right.	Agree
+S06	E01	509	amy sosa here.	Introduce
+S05	E15	526	what are you doing- no, no, don't do that!	Prevent
+S06	E09	532	we'll get into this later.	Leave
+S05	E15	111	yeah, everyone feeling  grr-eat?	Care
+S05	E06	408	if i run too fast, i become airborne.	Joke
+S05	E13	499	oh, man, that's such a good start.	Praise
+S06	E04	491	you know, i'm sorry.	Apologise
+S04	E11	184	sandra! bathroom duty!	Arrange
+S06	E01	195	so, first off, marcus tested positive for covid after attending a spring break party on the lake.	Inform
+S05	E09	584	sure.	Agree
+S05	E08	414	the point is that this guy is a jerk	Criticize
+S05	E20	532	sorry, this guy tricked me into taking a photo of him and his stupid pig.	Apologise
+S05	E09	223	he was cute, sure, but, okay	Praise
+S05	E11	238	hey, carol, you're not invited to sandra's wedding!	Inform
+S06	E10	310	jonah's...the most competent.	Praise
+S06	E03	5	oh, jonah, i'm sorry.	Apologise
+S05	E17	237	so i keep this cabinet full of healthy snacks for everyone.	Introduce
+S06	E06	474	something you'd like to share with the class, turd melon?	Taunt
+S06	E04	444	let's all come together for marcus.	Inform
+S05	E15	370	i gotta hop on another call, but we'll do this again soon.	Leave
+S05	E13	59	okay. here's the plan.	Introduce
+S04	E03	495	i'm sorry. i tried as hard as i could.	Apologise
+S05	E16	400	that was so important you needed to read it	Advise
+S04	E06	211	the bathroom is disgusting.	Complain
+S04	E01	265	i'm gonna go back to work now	Leave
+S04	E06	487	hey, amy, it's about that time.	Inform
+S05	E08	195	oh, sorry.	Apologise
+S06	E09	169	i think it was gonna be racist.	Complain
+S04	E05	185	i want to feel deeply uncomfortable	Complain
+S04	E14	386	he's always doing stuff with his hair.	Complain
+S05	E21	8	close the door.	Arrange
+S05	E11	463	and you're on the phone.	Joke
+S05	E21	1	hey. just got an email from hr.	Inform
+S06	E03	218	we're having an election.	Inform
+S05	E20	474	mom is crushed because you cheated on her.	Criticize
+S06	E09	537	oh, glenn, should you be drinking that with your diabetes?	Care
+S05	E13	450	you have diabetes. you aren't even in control	Criticize
+S05	E07	289	it's been two hours of this.	Complain
+S04	E04	169	now i can't tune it out. it doesn't even make sense.	Complain
+S05	E17	99	oh, wait, is everything okay?	Care
+S05	E06	96	i guess i'll just be here all day watching you eat that.	Joke
+S04	E16	328	hey, guys, how's it going over here?	Care
+S05	E10	323	hey.	Greet
+S06	E03	106	oh, jonah, that's wonderful.	Praise
+S04	E03	275	excuse me, i've got to go stop the love.	Leave
+S05	E15	215	you know, we could bring up some of our issues.	Advise
+S05	E07	5	it just made me uncomfortable.	Complain
+S05	E09	17	it's a nice fall day out there.	Praise
+S05	E08	463	stop it, i can tell you don't believe it.	Prevent
+S05	E09	295	cool. i learn so much from you.	Praise
+S05	E08	154	could you stop ringing the bell for just a second?	Prevent
+S04	E02	326	oh, this party's gonna be sick!	Praise
+S06	E07	355	guys, i'm gonna be a little busy around 2:00 p.m. don't even ask me what i'm doing. it's private.	Flaunt
+S05	E10	116	how's jonah doing out there? crushing it?	Care
+S05	E11	119	you're making too big a deal out of this.	Criticize
+S04	E08	101	that's awesome.	Praise
+S04	E11	365	elias, there is definitely a cart out there.	Inform
+S05	E16	197	it's a meme of indiana jones cracking his whip.	Introduce
+S05	E06	455	amy, wait!	Prevent
+S06	E04	449	seems great, but maybe we should set some ground rules.	Advise
+S04	E09	365	attention shoppers: it's 10 degrees fahrenheit outside,so why not take home a frosty case of ice pops?	Inform
+S05	E15	83	hey.	Greet
+S05	E10	549	dina busted out the cart-jousting stuff.	Inform
+S04	E16	391	running hard, water bad.	Joke
+S05	E16	216	i mean, i feel kinda bad, but it's too much.	Complain
+S05	E17	15	to the nearest dollar for charity.	Arrange
+S05	E18	149	oh, my god. that would be amazing.	Praise
+S05	E19	570	you guys are a little bit being like dicks right now.	Criticize
+S05	E13	248	so--so put it all back, and make it bigger.	Arrange
+S06	E03	12	why don't we all lead the meeting together?	Advise
+S05	E12	170	human equivalent of a band-aid in a salad--	Joke
+S04	E17	59	yeah, you guys, you're both so--so beautiful.	Praise
+S06	E05	486	please report to the break room for pizza because apparently, now everyone gets pizza.	Inform
+S05	E14	504	yeah, the internet has gotten so bad.	Complain
+S05	E13	199	no, thank you, justine, for answering the question.	Thank
+S05	E13	193	oh, okay. well, um, i have worked here	Introduce
+S05	E07	87	i need someone to help me run my shoplifter rehab course.	Ask for help
+S05	E07	6	i already have enough trouble	Complain
+S05	E14	402	remember to moisturize, okay?	Advise
+S05	E08	296	oh, okay, well, thank you.	Thank
+S05	E19	288	i'm gonna go get some takis.	Leave
+S04	E13	93	elias, i'm gonna need you to clean up the vomit that's gonna be all over the ladies' bathroom in about three minutes.	Arrange
+S05	E18	386	oh, don't do that.	Prevent
+S05	E20	24	my advice--don't get lost in the siblings.	Advise
+S05	E13	341	oh, i'm sorry, sir.	Apologise
+S04	E03	103	what if we made her employee of the month this month?	Advise
+S05	E20	491	i'm really sorry.	Apologise
+S05	E09	141	all right.	Leave
+S05	E15	508	i'm not on board with--i didn't even know the diaper part.	Oppose
+S04	E09	277	who would need 12,000 boxes of ice pops?	Complain
+S05	E12	493	it's too late. you missed everything.	Criticize
+S05	E15	192	like, cool. that's exciting.	Praise
+S04	E01	247	nope, just recap the markers when they're done.	Arrange
+S05	E09	505	uh, okay.	Agree
+S05	E09	47	and bring it out to the customer.	Arrange
+S06	E07	426	zephra can eat our ass meat.	Joke
+S05	E17	160	ah, that sounds amazing!	Praise
+S04	E03	358	that's interesting.	Praise
+S05	E16	109	well, i'm a  stockroom rockstar.	Flaunt
+S06	E04	545	ugh, this whole day sucks.	Complain
+S06	E03	471	oh, that's cool.	Praise
+S05	E13	258	okay, thank you, cheyenne.	Thank
+S05	E11	185	that's a cash register.	Introduce
+S05	E21	378	look, sandra, i gotta say something here.	Inform
+S05	E10	360	all right, well, um, we have a power outage.	Inform
+S06	E02	492	ohh, cheyenne, that's really sweet, thank you.	Thank
+S05	E06	74	ah, see? there's always a catch.	Taunt
+S04	E06	299	oh, i'm sorry.	Apologise
+S05	E15	113	speaking of cereal, you sound just like tony the tiger.	Joke
+S06	E04	396	this job is hard enough.	Complain
+S05	E11	151	and i need a floor supervisor	Ask for help
+S06	E03	458	glenn gave me ultimate executive power.	Flaunt
+S04	E11	85	it lowers your blood pressure and increases your lifespan.	Introduce
