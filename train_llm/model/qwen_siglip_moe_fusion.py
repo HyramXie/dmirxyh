@@ -5,6 +5,7 @@ from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
 from model.siglip_encoder import SiglipEncoder
 from model.projector import MMInputProjector
 from model.moe_vision_adapter import VisionMoEAdapter
+from model.fusion import CrossAttentionFusion
 
 class QwenWithSiglip(nn.Module):
     def __init__(self, llm_path="Qwen/Qwen2.5-7B-Instruct", vision_path="google/siglip-so400m-patch14-384", device="cuda"):
@@ -44,8 +45,16 @@ class QwenWithSiglip(nn.Module):
         vision_hidden_size = self.vision_encoder.model.config.hidden_size
         self.projector = MMInputProjector(input_dim=vision_hidden_size, output_dim=llm_hidden_size).to(device)
 
-        #moe
+        # 4. MoE
         self.vision_moe = VisionMoEAdapter(input_dim=llm_hidden_size, num_experts=4, top_k=2).to(self.llm.device).to(torch.bfloat16)
+
+        # 5. 融合模块
+        print("Initializing Cross-Attention Fusion...")
+        self.fusion_module = CrossAttentionFusion(
+            hidden_size=llm_hidden_size,
+            num_heads=32,  # 4096 / 128 = 32
+            dropout=0.1
+        ).to(self.llm.device).to(torch.bfloat16)
 
         # 4. 配置训练参数（冻结策略）
         self._set_trainable_params()
@@ -65,6 +74,10 @@ class QwenWithSiglip(nn.Module):
             
         # D. 激活 Vision MoE 参数
         for param in self.vision_moe.parameters():
+            param.requires_grad = True
+        
+        # D. 激活 融合模块 参数
+        for param in self.fusion_module.parameters():
             param.requires_grad = True
             
         # E. 应用 LoRA 到 LLM
@@ -112,6 +125,18 @@ class QwenWithSiglip(nn.Module):
         # 2. 投影到 LLM 空间 [B, ViT_Seq, LLM_Dim]
         image_embeds = self.projector(image_embeds)
 
+        # 3. 获取文本 Embeddings [B, Text_Seq, LLM_Dim]
+        # 注意：这里需要通过 llm.model.embed_tokens 获取，因为 llm 现在包裹了 LoRA
+        # Qwen2 的结构通常是 model.model.embed_tokens
+        text_embeds = self.llm.get_input_embeddings()(input_ids)
+
+        # 4. 融合模块
+        fusion_output = self.fusion_module(
+            text_embeds=text_embeds,
+            video_embeds=image_embeds
+            # 如果你有 video_padding_mask 可以在这里传入
+        )
+
         #2.1 插入moe
         batch_size, total_seq, hidden_dim = image_embeds.shape
         image_embeds_flat = image_embeds.view(-1, hidden_dim)
@@ -120,25 +145,22 @@ class QwenWithSiglip(nn.Module):
         # 恢复形状
         image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
         
-        # 3. 获取文本 Embeddings [B, Text_Seq, LLM_Dim]
-        # 注意：这里需要通过 llm.model.embed_tokens 获取，因为 llm 现在包裹了 LoRA
-        # Qwen2 的结构通常是 model.model.embed_tokens
-        text_embeds = self.llm.get_input_embeddings()(input_ids)
-        
         # 4. 拼接策略: [Image, Text]
         # 这里的实现方式是简单的拼接。更复杂的做法是使用特殊的 <image> token 占位并替换
-        inputs_embeds = torch.cat([image_embeds, text_embeds], dim=1)
+        inputs_embeds = torch.cat([image_embeds, fusion_output, text_embeds], dim=1)
         
         # 5. 调整 Attention Mask
         # 视觉部分的 mask 全是 1
         vision_mask = torch.ones((image_embeds.shape[0], image_embeds.shape[1]), device=self.device)
-        attention_mask = torch.cat([vision_mask, attention_mask], dim=1)
+        fusion_mask = attention_mask
+        attention_mask = torch.cat([vision_mask, fusion_mask, attention_mask], dim=1)
         
         # 6. 调整 Labels
         # 视觉部分的 label 设为 -100 (不计算 loss)
         if labels is not None:
             vision_labels = torch.full((image_embeds.shape[0], image_embeds.shape[1]), -100, device=self.device)
-            labels = torch.cat([vision_labels, labels], dim=1)
+            fusion_labels = torch.full((b, fusion_output.shape[1]), -100, device=self.device)
+            labels = torch.cat([vision_labels, fusion_labels, labels], dim=1)
         
         # 7. 前向传播
         outputs = self.llm(

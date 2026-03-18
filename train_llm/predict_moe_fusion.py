@@ -17,13 +17,14 @@ from transformers import set_seed
 
 from model.projector import MMInputProjector
 from model.moe_vision_adapter import VisionMoEAdapter
+from model.fusion import CrossAttentionFusion
 
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/llama-2-7b-chat-hf", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_moe", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec_moe_fusion", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_llama_moe.json",
+    "output_file": "./eval/mintrec_predictions_llama_moe_fusion.json",
     "device": "cuda",
     "num_frames": 4
 }
@@ -84,6 +85,23 @@ class IntentPredictor:
         else:
             raise FileNotFoundError(f"MoE Adapter weights not found at {moe_path}")
         self.vision_moe.eval()
+
+        # E. 【新增】加载 Fusion Module
+        print("Loading Cross-Attention Fusion weights...")
+        self.fusion_module = CrossAttentionFusion(
+            hidden_size=llm_dim,
+            num_heads=32, # 需与训练时一致
+            dropout=0.0   # 预测时 dropout 设为 0 也没关系，因为会 eval()
+        ).to(device)
+        
+        fusion_path = os.path.join(model_dir, "fusion_module.pt")
+        if os.path.exists(fusion_path):
+            self.fusion_module.load_state_dict(torch.load(fusion_path, map_location=device))
+        else:
+            # 如果没找到，如果是刚开始调试，可能需要检查路径；或者暂时注释掉报错
+            raise FileNotFoundError(f"Fusion weights not found at {fusion_path}")
+        self.fusion_module.eval()
+        self.fusion_module.to(dtype=torch.bfloat16)
         
         print("Model loaded successfully!")
 
@@ -138,13 +156,6 @@ class IntentPredictor:
             image_embeds = image_embeds.view(b, t * vis_seq_len, vis_dim)
 
             image_embeds = self.projector(image_embeds)
-        
-        #插入moe
-        batch_size, total_seq, hidden_dim = image_embeds.shape
-        image_embeds_flat = image_embeds.view(-1, hidden_dim)
-        with torch.no_grad():
-            image_embeds_flat = self.vision_moe(image_embeds_flat)
-            image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
 
         # 2. 准备文本 Prompt
         # 构造 prompt，注意这里没有 Answer，只有 User 的提问
@@ -157,9 +168,19 @@ class IntentPredictor:
             # 获取文本 Embedding
             # 注意：llm 是 PeftModel，可以通过 get_input_embeddings 获取
             text_embeds = self.llm.get_input_embeddings()(input_ids)
+
+            #fusion
+            fusion_output = self.fusion_module(text_embeds, image_embeds)
             
+        #插入moe
+        batch_size, total_seq, hidden_dim = image_embeds.shape
+        image_embeds_flat = image_embeds.view(-1, hidden_dim)
+        with torch.no_grad():
+            image_embeds_flat = self.vision_moe(image_embeds_flat)
+            image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
+
             # 3. 拼接 [Image, Text]
-            inputs_embeds = torch.cat([image_embeds, text_embeds], dim=1)
+            inputs_embeds = torch.cat([image_embeds, fusion_output, text_embeds], dim=1)
             
             # 4. 生成 Attention Mask
             attention_mask = torch.ones(inputs_embeds.shape[:2], dtype=torch.long, device=self.device)

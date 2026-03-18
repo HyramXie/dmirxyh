@@ -22,7 +22,7 @@ from model.moe_vision_adapter import VisionMoEAdapter
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/imagebind/imagebind_huge.pth", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_moe", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec_moe/checkpoint-501", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
     "output_file": "./eval/mintrec_predictions_moe.json",
     "device": "cuda"

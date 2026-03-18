@@ -3,10 +3,12 @@ import torch
 import argparse
 from transformers import (
     Trainer, 
-    TrainingArguments
+    TrainingArguments,
+    EarlyStoppingCallback
 )
 from transformers import set_seed
 from model.qwen_siglip_moe import QwenWithSiglip
+from utils.multimodal_trainer import MultimodalTrainer
 from data.mintrec_dataset import MIntRecDataset
 from data.data_collator import DataCollator  
 
@@ -18,7 +20,8 @@ def train():
     # --- 路径相关参数 ---
     parser.add_argument("--llm_path", type=str, default="/root/huggingface/qwen/Qwen2.5-7B-Instruct")
     parser.add_argument("--vision_path", type=str, default="/root/huggingface/google/siglip-so400m-patch14-384")
-    parser.add_argument("--data_path", type=str, default="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json")
+    parser.add_argument("--train_data_path", type=str, default="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json")
+    parser.add_argument("--eval_data_path", type=str, default="/root/user/xyh/Datasets/MIntRec/MIntRec_eval.json")
     parser.add_argument("--output_dir", type=str, default="./checkpoints/qwen_mintrec_base")
     parser.add_argument("--num_frames", type=int, default=4)
 
@@ -29,6 +32,7 @@ def train():
     
     # --- 日志与保存 ---
     parser.add_argument("--logging_steps", type=int, default=10)
+    parser.add_argument("--save_steps", type=int, default=500)
     
     # --- 硬件与性能 ---
     parser.add_argument("--num_workers", type=int, default=0, help="Dataloader num workers")
@@ -38,8 +42,14 @@ def train():
     model = QwenWithSiglip(llm_path=args.llm_path, vision_path=args.vision_path, device="cuda")
     
     # 2. 准备数据
-    dataset = MIntRecDataset(
-        data_json_path=args.data_path,
+    train_dataset = MIntRecDataset(
+        data_json_path=args.train_data_path,
+        tokenizer=model.tokenizer,
+        image_processor=model.vision_encoder.processor,
+        num_frames=args.num_frames # 显存不够可以设为 1 或 2，显存大可以设为 8
+    )
+    eval_dataset = MIntRecDataset(
+        data_json_path=args.eval_data_path,
         tokenizer=model.tokenizer,
         image_processor=model.vision_encoder.processor,
         num_frames=args.num_frames # 显存不够可以设为 1 或 2，显存大可以设为 8
@@ -49,11 +59,22 @@ def train():
     training_args = TrainingArguments(
         ### Output
         output_dir=args.output_dir,
+
+        ###save
         logging_steps=args.logging_steps,
         save_strategy="steps",
-        save_steps=500,
+        save_steps=args.save_steps,
+
+        ###early stop
+        eval_strategy="steps",
+        eval_steps=args.save_steps,
+        eval_accumulation_steps=1,
+        per_device_eval_batch_size=1,
+        metric_for_best_model="loss", # 根据哪个指标判断"最好" (建议用 accuracy 或 loss)
+        greater_is_better=True,
+
         overwrite_output_dir=True,
-        report_to="none",
+        report_to="swanlab",
 
         ### Train config
         per_device_train_batch_size=args.batch_size,
@@ -75,22 +96,29 @@ def train():
     data_collator = DataCollator(model.tokenizer)
 
     # 4. Trainer
-    trainer = Trainer(
+    trainer = MultimodalTrainer(
         model=model,
         args=training_args,
-        train_dataset=dataset,
-        data_collator=data_collator
+        tokenizer=model.tokenizer,
+        train_dataset=train_dataset,
+        eval_dataset=eval_dataset,
+        data_collator=data_collator,
+    #     callbacks=[
+    #     EarlyStoppingCallback(
+    #         early_stopping_patience=3,  # 容忍度：如果连续 3 次评估指标没有提升，就停止
+    #         early_stopping_threshold=0.0 # 阈值：提升多少才算提升 (通常 0.0 即可)
+    #     )
+    # ]
     )
     
     print("Starting training...")
     trainer.train()
     
-    # 5. 保存
-    model.llm.save_pretrained(args.output_dir)
-    model.tokenizer.save_pretrained(args.output_dir)
-    torch.save(model.projector.state_dict(), os.path.join(args.output_dir, "projector.pt"))
-    torch.save(model.vision_moe.state_dict(), os.path.join(args.output_dir, "vision_moe.pt"))
-    print(f"Model, vision_moe and projector saved to {args.output_dir}")
+    # 5. 打印最佳模型的路径
+    print("="*30)
+    print(f"🏆 Best model checkpoint: {trainer.state.best_model_checkpoint}")
+    print(f"📊 Best metric value: {trainer.state.best_metric}")
+    print("="*30)
 
 if __name__ == "__main__":
     train()

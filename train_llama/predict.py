@@ -20,9 +20,9 @@ from model.projector import MMInputProjector
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec2_base/checkpoint-2313", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec2_base_eos/checkpoint-2313", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec2/MIntRec2_test.json", 
-    "output_file": "./eval/mintrec2_predictions_base.json",
+    "output_file": "./eval/mintrec2_predictions_base_eos.json",
     "device": "cuda",
     "num_frames": 4
 }

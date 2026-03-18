@@ -1,11 +1,11 @@
 # --- 1. 环境变量设置 ---
-export CUDA_VISIBLE_DEVICES=2  # 指定使用哪张显卡，多卡用 "0,1"
+export CUDA_VISIBLE_DEVICES=1  # 指定使用哪张显卡，多卡用 "0,1"
 
 # --- 2. 路径配置 ---
 llm_path="/root/huggingface/llama/Meta-Llama-3-8B-Instruct"
 vision_path="/root/huggingface/google/siglip-so400m-patch14-384"
 data_path="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json"
-output_dir="/root/user/xyh/train_llm/checkpoints/llama_mintrec_moe"  # 每次实验可以改个名字
+output_dir="/root/user/xyh/train_llm/checkpoints/llama_mintrec_moe_fusion"  # 每次实验可以改个名字
 num_frames=4
 
 # --- 3. 训练超参数配置 ---
@@ -23,7 +23,7 @@ echo "Starting training..."
 echo "Model: $llm_path"
 echo "Output: $output_dir"
 
-python ../train_moe.py \
+python ../train_moe_fusion.py \
     --llm_path "$llm_path" \
     --vision_path "$vision_path" \
     --data_path "$data_path" \

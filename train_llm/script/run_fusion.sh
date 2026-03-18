@@ -2,10 +2,10 @@
 export CUDA_VISIBLE_DEVICES=2  # 指定使用哪张显卡，多卡用 "0,1"
 
 # --- 2. 路径配置 ---
-llm_path="/root/huggingface/qwen/Qwen2.5-7B-Instruct"
+llm_path="/root/huggingface/llama/llama-2-7b-chat-hf"
 vision_path="/root/huggingface/google/siglip-so400m-patch14-384"
 data_path="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json"
-output_dir="/root/user/xyh/train_llm/checkpoints/qwen_mintrec_fusion"  # 每次实验可以改个名字
+output_dir="/root/user/xyh/train_llm/checkpoints/llama_mintrec_fusion"  # 每次实验可以改个名字
 num_frames=4
 
 # --- 3. 训练超参数配置 ---

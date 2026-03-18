@@ -89,7 +89,7 @@
   },
   {
     "label": "Complain",
-    "predict": "Complainassistant\n\nComplain"
+    "predict": "Complain"
   },
   {
     "label": "Advise",
@@ -1065,7 +1065,7 @@
   },
   {
     "label": "Apologise",
-    "predict": "Apologiseassistant\n\nApolog"
+    "predict": "Apologise"
   },
   {
     "label": "Thank",
@@ -1389,7 +1389,7 @@
   },
   {
     "label": "Complain",
-    "predict": "Complainassistant\n\nComplain"
+    "predict": "Complain"
   },
   {
     "label": "Inform",

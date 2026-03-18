@@ -445,7 +445,7 @@
   },
   {
     "label": "Oppose",
-    "predict": "Inform"
+    "predict": "Oppose"
   },
   {
     "label": "Criticize",
@@ -969,7 +969,7 @@
   },
   {
     "label": "Leave",
-    "predict": "Leave"
+    "predict": "Inform"
   },
   {
     "label": "Introduce",
@@ -1365,7 +1365,7 @@
   },
   {
     "label": "Criticize",
-    "predict": "Criticize"
+    "predict": "Advise"
   },
   {
     "label": "Thank",

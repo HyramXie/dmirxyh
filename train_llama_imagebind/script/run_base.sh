@@ -1,5 +1,5 @@
 # --- 1. 环境变量设置 ---
-export CUDA_VISIBLE_DEVICES=2  # 指定使用哪张显卡，多卡用 "0,1"
+export CUDA_VISIBLE_DEVICES=0  # 指定使用哪张显卡，多卡用 "0,1"
 
 # --- 2. 路径配置 ---
 llm_path="/root/huggingface/llama/Meta-Llama-3-8B-Instruct"

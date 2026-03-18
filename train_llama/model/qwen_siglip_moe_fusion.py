@@ -28,11 +28,14 @@ class QwenWithSiglip(nn.Module):
             llm_path, 
             quantization_config=bnb_config, # <--- 关键：应用量化
             device_map="auto",              # <--- 关键：自动分配设备
-            trust_remote_code=True,
             torch_dtype=torch.bfloat16
         )
         self.llm = prepare_model_for_kbit_training(self.llm)
         self.tokenizer = AutoTokenizer.from_pretrained(llm_path)     
+        # Llama-3 必须手动设置 pad_token，通常使用 eos_token 作为 pad
+        if self.tokenizer.pad_token is None:
+            self.tokenizer.pad_token = self.tokenizer.eos_token
+            self.tokenizer.pad_token_id = self.tokenizer.eos_token_id     
 
         # 2. 加载 Vision Encoder
         print("Loading SIGLIP...")
@@ -125,6 +128,14 @@ class QwenWithSiglip(nn.Module):
         # 2. 投影到 LLM 空间 [B, ViT_Seq, LLM_Dim]
         image_embeds = self.projector(image_embeds)
 
+        #2.1 插入moe
+        batch_size, total_seq, hidden_dim = image_embeds.shape
+        image_embeds_flat = image_embeds.view(-1, hidden_dim)
+        # 过 MoE
+        image_embeds_flat = self.vision_moe(image_embeds_flat)
+        # 恢复形状
+        image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
+        
         # 3. 获取文本 Embeddings [B, Text_Seq, LLM_Dim]
         # 注意：这里需要通过 llm.model.embed_tokens 获取，因为 llm 现在包裹了 LoRA
         # Qwen2 的结构通常是 model.model.embed_tokens
@@ -137,14 +148,6 @@ class QwenWithSiglip(nn.Module):
             # 如果你有 video_padding_mask 可以在这里传入
         )
 
-        #2.1 插入moe
-        batch_size, total_seq, hidden_dim = image_embeds.shape
-        image_embeds_flat = image_embeds.view(-1, hidden_dim)
-        # 过 MoE
-        image_embeds_flat = self.vision_moe(image_embeds_flat)
-        # 恢复形状
-        image_embeds = image_embeds_flat.view(batch_size, total_seq, hidden_dim)
-        
         # 4. 拼接策略: [Image, Text]
         # 这里的实现方式是简单的拼接。更复杂的做法是使用特殊的 <image> token 占位并替换
         inputs_embeds = torch.cat([image_embeds, fusion_output, text_embeds], dim=1)

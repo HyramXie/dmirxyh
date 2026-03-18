@@ -22,9 +22,9 @@ from model.fusion import CrossAttentionFusion
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_moe_fusion", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec_fusion_moe/checkpoint-501", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_moe_fusion.json",
+    "output_file": "./eval/mintrec_predictions_fusion_moe.json",
     "device": "cuda",
     "num_frames": 4
 }

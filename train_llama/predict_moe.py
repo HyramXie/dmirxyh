@@ -21,7 +21,7 @@ from model.moe_vision_adapter import VisionMoEAdapter
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec2_moe", 
+    "checkpoint_dir": "./checkpoints/llama_mintrec2_moe/checkpoint-2313", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec2/MIntRec2_test.json", 
     "output_file": "./eval/mintrec2_predictions_moe.json",
     "device": "cuda",

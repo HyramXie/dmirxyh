@@ -21,9 +21,9 @@ from model.projector import MMInputProjector
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/imagebind/imagebind_huge.pth", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_base", 
-    "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    "output_file": "./eval/mintrec_predictions_base.json",
+    "checkpoint_dir": "./checkpoints/llama_mintrec2_base/checkpoint-2313", 
+    "test_data_path": "/root/user/xyh/Datasets/MIntRec2/MIntRec2_test.json", 
+    "output_file": "./eval/mintrec2_predictions_base.json",
     "device": "cuda"
 }
 
