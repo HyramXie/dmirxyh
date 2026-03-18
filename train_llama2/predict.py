@@ -22,12 +22,11 @@ from model.fusion import CrossAttentionFusion
 CONFIG = {
     "base_model_path": "/root/huggingface/llama/Meta-Llama-3-8B-Instruct", 
     "vision_model_path": "/root/huggingface/google/siglip-so400m-patch14-384", 
-    "checkpoint_dir": "./checkpoints/llama_mintrec_fusion_moe/checkpoint-501", 
+    "checkpoint_dir": "/root/user/xyh/train_llama2/checkpoints/llama_mintrec_moe_fusion_eot/checkpoint-501", 
     "test_data_path": "/root/user/xyh/Datasets/MIntRec/MIntRec_test.json", 
-    # --- 模块选择 ---
+    "output_file": "./eval/mintrec_predictions_moe_fusion_eot.json",
     "use_moe": True,       
     "use_fusion": True, 
-    "output_file": "./eval/mintrec_predictions_fusion_moe.json",
     "device": "cuda",
     "num_frames": 4    
 }
@@ -76,7 +75,7 @@ class IntentPredictor:
         # 2. 选择性加载 MoE
         if self.use_moe:
             print("Loading MoE Adapter weights...")
-            self.vision_moe = VisionMoEAdapter(input_dim=llm_dim, num_experts=4, top_k=2).to(device).to(torch.bfloat16)
+            self.vision_moe = VisionMoEAdapter(input_dim=llm_dim, num_experts=2, top_k=2).to(device).to(torch.bfloat16)
             moe_path = os.path.join(model_dir, "vision_moe.pt")
             if os.path.exists(moe_path):
                 self.vision_moe.load_state_dict(torch.load(moe_path, map_location=device))

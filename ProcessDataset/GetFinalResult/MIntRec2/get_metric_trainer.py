@@ -5,7 +5,7 @@ import sys
 
 # wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/case_study_vl.json"
 # logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec2/result_report_vl_moe.txt"
-json_file = "/root/user/xyh/train_llama/eval/mintrec2_predictions_moe.json"
+json_file = "/root/user/xyh/train_llama_imagebind/eval/mintrec2_predictions_fusion.json"
 
 # 写入文件夹
 # class Logger:

@@ -43,7 +43,7 @@ class LLaMAWithSiglip(nn.Module):
 
         # 3. 条件加载 MoE 模块
         if self.use_moe:
-            self.vision_moe = VisionMoEAdapter(input_dim=llm_hidden_size, num_experts=4, top_k=2).to(self.llm.device).to(torch.bfloat16)
+            self.vision_moe = VisionMoEAdapter(input_dim=llm_hidden_size, num_experts=2, top_k=2).to(self.llm.device).to(torch.bfloat16)
 
         # 4. 条件加载融合模块
         if self.use_fusion:

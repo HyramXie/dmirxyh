@@ -6,15 +6,15 @@ llm_path="/root/huggingface/llama/Meta-Llama-3-8B-Instruct"
 vision_path="/root/huggingface/google/siglip-so400m-patch14-384"
 train_data_path="/root/user/xyh/Datasets/MIntRec/MIntRec_train.json"
 eval_data_path="/root/user/xyh/Datasets/MIntRec/MIntRec_dev.json"
-output_dir="/root/user/xyh/train_llama/checkpoints/llama_mintrec_fusion_moe_eos"  # 每次实验可以改个名字
+output_dir="/root/user/xyh/train_llama2/checkpoints/llama_mintrec_moe_fusion_eot"  # 每次实验可以改个名字
 
 # --- 3. 模块选择 ---
-use_moe=True
-use_fusion=True
+use_moe=true
+use_fusion=true
 
 # --- 4. 日志与保存 ---
 logging_steps=10
-save_steps=600
+save_steps=200
 
 # --- 5. 训练超参数配置 ---
 batch_size=1          # 单卡 Batch Size (显存占用大建议为1)

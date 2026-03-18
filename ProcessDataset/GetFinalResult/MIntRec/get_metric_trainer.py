@@ -5,7 +5,7 @@ import sys
 
 # wrong_case_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/case_study_vl.json"
 # logger_file = "/root/user/xyh/ProcessDataset/GetFinalResult/MIntRec/result_report_vl_moe.txt"
-json_file = "/root/user/xyh/train_llama_imagebind/eval/mintrec_predictions_moe.json"
+json_file = "/root/user/xyh/train_llama2/eval/mintrec_predictions_moe_fusion_eot.json"
 
 # 写入文件夹
 # class Logger:
@@ -33,8 +33,8 @@ wrong_cases = []
 with open(json_file, 'r', encoding='utf-8') as f:
     datas = json.load(f)
     for data in datas:
-        true_label = data["label"]
-        pred_label = data["predict"]
+        true_label = data["label"].strip()
+        pred_label = data["predict"].strip()
         y_true.append(true_label)
         y_pred.append(pred_label)
 
