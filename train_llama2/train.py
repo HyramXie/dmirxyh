@@ -43,7 +43,7 @@ def train():
     args = parser.parse_args()
 
     # 1. 初始化模型
-    model = QwenWithSiglip(
+    model = LLaMAWithSiglip(
         llm_path=args.llm_path, 
         vision_path=args.vision_path, 
         device="cuda", 

@@ -50,7 +50,8 @@ class LLaMAWithSiglip(nn.Module):
             self.fusion_module = CrossAttentionFusion(
                 hidden_size=llm_hidden_size,
                 num_heads=32,
-                dropout=0.1
+                dropout=0.1,
+                max_frames=4
             ).to(self.llm.device).to(torch.bfloat16)
 
         self._set_trainable_params()

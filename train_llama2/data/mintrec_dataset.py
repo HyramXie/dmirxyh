@@ -97,15 +97,15 @@ class MIntRecDataset(Dataset):
         )
         prompt_ids = self.tokenizer(prompt_text, add_special_tokens=False).input_ids
 
-        # # 加上 eot
-        # eot_id = self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
-        # label_ids_only = self.tokenizer(label_text, add_special_tokens=False).input_ids
-        # target_ids = label_ids_only + [eot_id]
+        # 加上 eot
+        eot_id = self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+        label_ids_only = self.tokenizer(label_text, add_special_tokens=False).input_ids
+        target_ids = label_ids_only + [eot_id]
 
-        # B. 对 Label 进行编码 (关键：手动加上 EOS)
-        # 注意：这里 label 前面可能需要一个空格，取决于 tokenizer，但通常直接编码即可
-        target_text = label_text + self.tokenizer.eos_token
-        target_ids = self.tokenizer(target_text, add_special_tokens=False).input_ids
+        # # B. 对 Label 进行编码 (关键：手动加上 EOS)
+        # # 注意：这里 label 前面可能需要一个空格，取决于 tokenizer，但通常直接编码即可
+        # target_text = label_text + self.tokenizer.eos_token
+        # target_ids = self.tokenizer(target_text, add_special_tokens=False).input_ids
 
         # 4. 拼接
         input_ids = prompt_ids + target_ids
